@@ -1,0 +1,1394 @@
+codelist,code,name
+CL_ISORA_TAX,83920_28,Academic qualifications (No. of staff at the end of FY)-Bachelors degree
+CL_ISORA_TAX,83910_28,Academic qualifications (No. of staff at the end of FY)-Masters degree (or above)
+CL_ISORA_TAX,337_059,Active taxpayers on PIT register as percentage of Labor Force
+CL_ISORA_TAX,337_058,Active taxpayers on PIT register as percentage of Population
+CL_ISORA_TAX,337_175,Additional assessment raised through electronic compliance checks as percentage of tax collections
+CL_ISORA_TAX,337_158,Additional assessments raised through all audits and verification actions as percentage of tax collections
+CL_ISORA_TAX,337_174,Additional assessments raised through audit as percentage of tax collections
+CL_ISORA_TAX,97880,Administration assesses capability needs - data analysis used for evaluation
+CL_ISORA_TAX,97890,Administration assesses capability needs - evaluation reviewed regularly
+CL_ISORA_TAX,97910,Administration assesses capability needs - formal plan exists to address gaps in staff capability
+CL_ISORA_TAX,97900,Administration assesses capability needs - outcomes of evaluation reflected in HR strategy
+CL_ISORA_TAX,84440,Administration assesses current and future capability needs
+CL_ISORA_TAX,96910,Administration captures information on ‘other’ gender
+CL_ISORA_TAX,98500,Administration checks the quality of data reported by third parties on a systematic basis
+CL_ISORA_TAX,98510,Administration checks the quality of data reported by third parties on a systematic basis - outcomes routinely reported back to third parties
+CL_ISORA_TAX,93330,Administration conducts random audits
+CL_ISORA_TAX,97450,Administration enters into APAs
+CL_ISORA_TAX,98320,Administration evaluates taxpayer compliance burden
+CL_ISORA_TAX,98360,Administration evaluates taxpayer compliance burden - compliance burden monitored for different taxpayer segments
+CL_ISORA_TAX,98350,Administration evaluates taxpayer compliance burden - evaluation undertaken by an external party
+CL_ISORA_TAX,98370,Administration evaluates taxpayer compliance burden - formal strategy to reduce compliance burdens exists
+CL_ISORA_TAX,98380,Administration evaluates taxpayer compliance burden - formal strategy to reduce compliance burdens exists - strategy published
+CL_ISORA_TAX,98390,Administration evaluates taxpayer compliance burden - formal strategy to reduce compliance burdens exists - strategy published - link to strategy
+CL_ISORA_TAX,98680,Administration evaluates taxpayer compliance burden - Frequency
+CL_ISORA_TAX,98340,Administration evaluates taxpayer compliance burden - perceptions of compliance burdens measured
+CL_ISORA_TAX,97750,Administration has authority to - apply disciplinary sanctions
+CL_ISORA_TAX,84120,Administration has authority to - decide on promotion of existing staff
+CL_ISORA_TAX,84130,Administration has authority to - decide skills and qualifications required for appointment or promotion
+CL_ISORA_TAX,84140,Administration has authority to - determine whether work is carried out by permanent staff or contractually
+CL_ISORA_TAX,84100,Administration has authority to - determine work requirements
+CL_ISORA_TAX,84110,Administration has authority to - make appointments of new staff
+CL_ISORA_TAX,84150,Administration has authority to - place staff within a salary range
+CL_ISORA_TAX,84160,Administration has authority to - terminate employment
+CL_ISORA_TAX,87020,Administration has its own code of conduct
+CL_ISORA_TAX,97440,Administration has specialized audit staff for international tax issues
+CL_ISORA_TAX,99270,Administration has standards for auditor productivity
+CL_ISORA_TAX,98450,"Administration has systems for importing, storing and managing third-party data - Customs data"
+CL_ISORA_TAX,98480,"Administration has systems for importing, storing and managing third-party data - Data from online (internet-based) vendors"
+CL_ISORA_TAX,98460,"Administration has systems for importing, storing and managing third-party data - Data from stock exchanges"
+CL_ISORA_TAX,98470,"Administration has systems for importing, storing and managing third-party data - Data from the Social Security Agency"
+CL_ISORA_TAX,98490,"Administration has systems for importing, storing and managing third-party data - Data from Utilities"
+CL_ISORA_TAX,98730,"Administration has systems for importing, storing and managing third-party data - Data on property ownership and sales"
+CL_ISORA_TAX,98620,Administration has undertaken analysis of taxpayer satisfaction with services by gender
+CL_ISORA_TAX,98630,Administration has undertaken analysis of taxpayer satisfaction with services by gender - made changes to services based on analysis
+CL_ISORA_TAX,98610,Administration has undertaken analysis of taxpayer satisfaction with services by gender - made changes to services based on analysis - description of changes
+CL_ISORA_TAX,95360,Administration keeps track of incoming service contacts
+CL_ISORA_TAX,99130,Administration measures the effectiveness of any compliance interventions undertaken
+CL_ISORA_TAX,88360,Administration pre-fills PIT returns or assessments
+CL_ISORA_TAX,97060,Administration receives data from devices that register transactions
+CL_ISORA_TAX,97070_607,Administration receives data from devices that register transactions - Electronic fiscal devices / cash registers: Data is transferred automatically
+CL_ISORA_TAX,97070_608,Administration receives data from devices that register transactions - Electronic fiscal devices / cash registers: Data is transferred on request
+CL_ISORA_TAX,97070_609,Administration receives data from devices that register transactions - Other devices (e.g. taxi meters): data is transferred automatically
+CL_ISORA_TAX,97070_610,Administration receives data from devices that register transactions - Other devices (e.g. taxi meters): data is transferred on request
+CL_ISORA_TAX,98760,Administration undertakes fully automated compliance checks - compliance issues automatically communicated to taxpayer
+CL_ISORA_TAX,98750,Administration undertakes fully automated compliance checks based on data matching/analysis
+CL_ISORA_TAX,95420,Administration uses behavioral insight methodologies or techniques
+CL_ISORA_TAX,97080,Administration uses electronic compliance checks as part of returns filing process
+CL_ISORA_TAX,97100,Administration uses electronic compliance checks as part of returns filing process - during process of completing the return
+CL_ISORA_TAX,97110,Administration uses electronic compliance checks as part of returns filing process - on submitting the return
+CL_ISORA_TAX,97120,Administration uses electronic compliance checks as part of returns filing process - post submission of return
+CL_ISORA_TAX,98710,Administration uses service channel usage statistics to - Anticipate service demand to adjust staff allocation
+CL_ISORA_TAX,98040,Administration uses service channel usage statistics to - Create new/improved services
+CL_ISORA_TAX,98030,Administration uses service channel usage statistics to - Encourage service adoption
+CL_ISORA_TAX,98050,Administration uses service channel usage statistics to - Reduce Information and Communication Technology (ICT) service disruption
+CL_ISORA_TAX,97930,Administration utilizes specialist skills - Behavioral science
+CL_ISORA_TAX,98650,Administration utilizes specialist skills - Behavioral science - in house or contracted
+CL_ISORA_TAX,97990,Administration utilizes specialist skills - Data Science
+CL_ISORA_TAX,98670,Administration utilizes specialist skills - Data Science - in house or contracted
+CL_ISORA_TAX,97960,Administration utilizes specialist skills - User Interface design
+CL_ISORA_TAX,98660,Administration utilizes specialist skills - User Interface design - in house or contracted
+CL_ISORA_TAX,84710_233,Administrative sanctions for taxpayer non-disclosure - Administration is empowered to make public details of some / all taxpayers subject to administrative penalties imposed for non-disclosure
+CL_ISORA_TAX,84710_232,Administrative sanctions for taxpayer non-disclosure - Administration is empowered to remit / reduce penalties in appropriate circumstances
+CL_ISORA_TAX,84710_230,Administrative sanctions for taxpayer non-disclosure - Common administrative penalty framework for non-disclosure across the major tax types
+CL_ISORA_TAX,84710_231,Administrative sanctions for taxpayer non-disclosure - Penalties imposed generally take account of taxpayers' culpability (i.e. degree of blame)
+CL_ISORA_TAX,83950_28,Age distribution (No. of staff at the end of FY)-25-34 years
+CL_ISORA_TAX,83960_28,Age distribution (No. of staff at the end of FY)-35-44 years
+CL_ISORA_TAX,83970_28,Age distribution (No. of staff at the end of FY)-45-54 years
+CL_ISORA_TAX,83980_28,Age distribution (No. of staff at the end of FY)-55-64 years
+CL_ISORA_TAX,83990_28,Age distribution (No. of staff at the end of FY)-Over 64 years
+CL_ISORA_TAX,83940_28,Age distribution (No. of staff at the end of FY)-Under 25 years
+CL_ISORA_TAX,95430,Certain categories of taxpayers are required to use an electronic invoice mechanism that transfers data to the tax administration
+CL_ISORA_TAX,86840,Annual business/operational plan - produced
+CL_ISORA_TAX,86850,Annual business/operational plan - produced and published
+CL_ISORA_TAX,86890,Annual report - produced
+CL_ISORA_TAX,86900,Annual report - produced and published
+CL_ISORA_TAX,84700,Application of administrative sanctions for taxpayer non-disclosure
+CL_ISORA_TAX,337_029,Attrition rate
+CL_ISORA_TAX,337_173,Audit hit rate
+CL_ISORA_TAX,95160_28,Audits undertaken by the LTO / program (excluding electronic compliance checks)-Total number completed
+CL_ISORA_TAX,95160_29,Audits undertaken by the LTO / program (excluding electronic compliance checks)-Total value of additional assessments raised (including penalties and interest) (in thousands in local currency)
+CL_ISORA_TAX,86530,Authority of the administration - Design its own internal structure
+CL_ISORA_TAX,86550,Authority of the administration - Exercise discretion over capital budget
+CL_ISORA_TAX,86540,Authority of the administration - Exercise discretion over operating budget
+CL_ISORA_TAX,86560,Authority of the administration - Set performance standards
+CL_ISORA_TAX,92510,Availability of registration channels for taxpayers-Email
+CL_ISORA_TAX,92550,Availability of registration channels for taxpayers-In-person
+CL_ISORA_TAX,92530,Availability of registration channels for taxpayers-Mail / post
+CL_ISORA_TAX,92470,Availability of registration channels for taxpayers-Online
+CL_ISORA_TAX,92570,Availability of registration channels for taxpayers-Other
+CL_ISORA_TAX,92490,Availability of registration channels for taxpayers-Telephone
+CL_ISORA_TAX,80650,Availability of specific powers in legislation / regulation to assist in collecting tax arrears
+CL_ISORA_TAX,97260_594,Broad nature of structural reforms implemented - Changes in management structures/ lines of control
+CL_ISORA_TAX,97260_593,Broad nature of structural reforms implemented - Creation of new offices
+CL_ISORA_TAX,97260_596,Broad nature of structural reforms implemented - Disintegration
+CL_ISORA_TAX,97260_595,Broad nature of structural reforms implemented - Integration with other bodies
+CL_ISORA_TAX,97260_591,Broad nature of structural reforms implemented - Internal redesign
+CL_ISORA_TAX,97260_597,Broad nature of structural reforms implemented - Other
+CL_ISORA_TAX,97260_592,Broad nature of structural reforms implemented - Streamlining/ reconfiguring of the office network
+CL_ISORA_TAX,99900,Business taxpayers - Taxpayer satisfaction surveys conducted regularly
+CL_ISORA_TAX,99930,Business taxpayers - Taxpayer satisfaction surveys conducted regularly - External vendor used
+CL_ISORA_TAX,99960,Business taxpayers - Taxpayer satisfaction surveys conducted regularly - Results published
+CL_ISORA_TAX,337_179,Capital expenditure - Tax administration
+CL_ISORA_TAX,88370_586,Categories of third party information used to pre-fill PIT returns or assessments-Expense information: Certain insurance premiums
+CL_ISORA_TAX,88370_585,Categories of third party information used to pre-fill PIT returns or assessments-Expense information: Childcare expenses
+CL_ISORA_TAX,88370_583,Categories of third party information used to pre-fill PIT returns or assessments-Expense information: Donations
+CL_ISORA_TAX,88370_587,Categories of third party information used to pre-fill PIT returns or assessments-Expense information: Health and medical expenses (other than insurance premiums)
+CL_ISORA_TAX,88370_589,Categories of third party information used to pre-fill PIT returns or assessments-Expense information: Interest on loans and mortgages
+CL_ISORA_TAX,88370_590,Categories of third party information used to pre-fill PIT returns or assessments-Expense information: Other expenses
+CL_ISORA_TAX,88370_588,Categories of third party information used to pre-fill PIT returns or assessments-Expense information: Pension/retirement contributions and savings
+CL_ISORA_TAX,88370_584,Categories of third party information used to pre-fill PIT returns or assessments-Expense information: School and university fees
+CL_ISORA_TAX,88370_370,Categories of third party information used to pre-fill PIT returns or assessments-Income information: Capital gains/losses
+CL_ISORA_TAX,88370_369,Categories of third party information used to pre-fill PIT returns or assessments-Income information: Dividends
+CL_ISORA_TAX,88370_368,Categories of third party information used to pre-fill PIT returns or assessments-Income information: Interest
+CL_ISORA_TAX,88370_27,Categories of third party information used to pre-fill PIT returns or assessments-Income information: Other income
+CL_ISORA_TAX,88370_367,Categories of third party information used to pre-fill PIT returns or assessments-Income information: Pension
+CL_ISORA_TAX,88370_366,Categories of third party information used to pre-fill PIT returns or assessments-Income information: Wages and salaries
+CL_ISORA_TAX,88370_371,"Categories of third party information used to pre-fill PIT returns or assessments-Tax deductible expenses (e.g. school fees, donations)"
+CL_ISORA_TAX,88370_568,Categories of third party information used to pre-fill PIT returns or assessments-Taxpayer personal information
+CL_ISORA_TAX,95440,Certain taxpayers are required to use electronic fiscal devices / cash registers
+CL_ISORA_TAX,97420,Challenges related to international tax compliance risk -Developing an effective compliance improvement plan
+CL_ISORA_TAX,98840,Challenges related to international tax compliance risk -Developing an effective organizational structure to address international tax compliance risks
+CL_ISORA_TAX,98830,Challenges related to international tax compliance risk -Having the right legislative framework (including domestic laws and tax treaties) to address international tax compliance risks
+CL_ISORA_TAX,97400,"Challenges related to international tax compliance risk -Obtaining data for compliance risk identification, analysis and management"
+CL_ISORA_TAX,97380,"Challenges related to international tax compliance risk -Recruiting people with the right skills, experience and knowledge"
+CL_ISORA_TAX,97390,"Challenges related to international tax compliance risk -Retaining people with the right skills, experience and knowledge"
+CL_ISORA_TAX,97410,"Challenges related to international tax compliance risk -Using data for compliance risk identification, analysis and management"
+CL_ISORA_TAX,97350,Changes made based on analysis of gender-disaggregated compliance data
+CL_ISORA_TAX,337_094,CIT arrears as percentage of CIT collected
+CL_ISORA_TAX,337_121,CIT assessements as percentage of CIT collected
+CL_ISORA_TAX,337_085,CIT payments received on-time as a percent of payments due
+CL_ISORA_TAX,337_220,CIT payments received on-time as a percent of payments received
+CL_ISORA_TAX,337_230,Percentage of returns received on time - CIT
+CL_ISORA_TAX,337_006,CIT to total revenue collected
+CL_ISORA_TAX,80960_34,Closing stock of arrears at year-end (in thousands in local currency)-Arrears considered non-collectible
+CL_ISORA_TAX,95640_34,Closing stock of arrears at year-end (in thousands in local currency)-Arrears relating to state owned enterprises considered not collectible
+CL_ISORA_TAX,80930_34,Closing stock of arrears at year-end (in thousands in local currency)-Total arrears
+CL_ISORA_TAX,95630_34,Closing stock of arrears at year-end (in thousands in local currency)-Total arrears relating to state owned enterprises
+CL_ISORA_TAX,81080_37,Closing stock of arrears at year-end by tax type (in thousands in local currency) - CIT
+CL_ISORA_TAX,81080_38,Closing stock of arrears at year-end by tax type (in thousands in local currency) - PIT
+CL_ISORA_TAX,81080_40,Closing stock of arrears at year-end by tax type (in thousands in local currency) - PAYE
+CL_ISORA_TAX,81080_39,Closing stock of arrears at year-end by tax type (in thousands in local currency) - VAT
+CL_ISORA_TAX,337_092,Closing stock of arrears at year end as percentage of total revenue collected.
+CL_ISORA_TAX,337_171,Closing stock of arrears relating to state owned enterprises as percentage of closing stock of arrears
+CL_ISORA_TAX,95630_411,Closing stock of arrears relating to state owned enterprises at year end as percentage of arrears
+CL_ISORA_TAX,337_093,Closing stock of collectable arrears as percentage of closing stock of arrears
+CL_ISORA_TAX,337_172,Closing stock of collectable arrears relating to state owned enterprises as percentage of closing stock of arrears relating to state owned enterprises
+CL_ISORA_TAX,80960_411,Closing stock of non-collectible arrears at year-end as percentage of arrears
+CL_ISORA_TAX,95640_411,Closing stock of non-collectible arrears at year-end as percentage of non-collectible arrears
+CL_ISORA_TAX,80350,Comments - Form A
+CL_ISORA_TAX,95200,Comments - Form B
+CL_ISORA_TAX,87810,Comments - Form C
+CL_ISORA_TAX,98900,Comments - Form CP
+CL_ISORA_TAX,84550,Comments - Form D
+CL_ISORA_TAX,81610,Comments - Form E
+CL_ISORA_TAX,89063,Comments - Form F
+CL_ISORA_TAX,89060,Comments - Form G
+CL_ISORA_TAX,98870,"Compiance risk management strategy includes formal approach for identifying, assessing and prioritizing key compliance risks"
+CL_ISORA_TAX,COMPLETION_RATE,Completion Rate
+CL_ISORA_TAX,91320_5,Composition of VAT collected by the tax administration (in thousands in local currency) - VAT (gross domestic)
+CL_ISORA_TAX,91320_6,Composition of VAT collected by the tax administration (in thousands in local currency) - VAT (gross import) even where collected by customs
+CL_ISORA_TAX,91320_7,Composition of VAT collected by the tax administration (in thousands in local currency) - VAT refunds
+CL_ISORA_TAX,95470,Cooperative compliance approach exists for -HNWI taxpayers
+CL_ISORA_TAX,95460,Cooperative compliance approach exists for -Large taxpayers
+CL_ISORA_TAX,95480,Cooperative compliance approach exists for -Other taxpayers
+CL_ISORA_TAX,337_046,Corporate taxpayers managed through LTO/P as percentage of active corporate taxpayers
+CL_ISORA_TAX,337_047,Corporate taxpayers per FTE in LTO/P
+CL_ISORA_TAX,97360,Description of changes made based on analysis of gender-disaggregated compliance data
+CL_ISORA_TAX,92670,Description of tax deductible expenses that are prefilled in PIT tax returns and assessments
+CL_ISORA_TAX,95650_266,Details on all audits and verifiction actions undertaken (excluding electronic compliance checks)-No. of audits completed
+CL_ISORA_TAX,95650_267,Details on all audits and verifiction actions undertaken (excluding electronic compliance checks)-No. of audits where a tax adjustment was made
+CL_ISORA_TAX,82490,Document exists that formally sets out taxpayer rights
+CL_ISORA_TAX,82500,Document type that sets out taxpayer rights
+CL_ISORA_TAX,94060,E-filing mandatory - CIT
+CL_ISORA_TAX,94080,E-filing mandatory - Employer Withholdings
+CL_ISORA_TAX,94070,E-filing mandatory - PIT
+CL_ISORA_TAX,94090,E-filing mandatory - VAT
+CL_ISORA_TAX,94260,E-payment mandatory - CIT
+CL_ISORA_TAX,94280,E-payment mandatory - Employer Withholdings
+CL_ISORA_TAX,94270,E-payment mandatory - PIT
+CL_ISORA_TAX,94290,E-payment mandatory - VAT
+CL_ISORA_TAX,98550,"Educational or business support initiatives undertaken - Educational services to children, youth, and students"
+CL_ISORA_TAX,98560,Educational or business support initiatives undertaken - Educational services to new businesses
+CL_ISORA_TAX,98570,Educational or business support initiatives undertaken - Free tax services (including accounting and benefit information) for lower income individuals
+CL_ISORA_TAX,98580,Educational or business support initiatives undertaken - Free tax services for new businesses
+CL_ISORA_TAX,337_130,"Percentage of tax returns - Electronic, fully pre-filled confirmation required - CIT"
+CL_ISORA_TAX,337_136,"Percentage of tax returns - Electronic, fully pre-filled confirmation required - PIT"
+CL_ISORA_TAX,337_129,"Percentage of tax returns - Electronic, fully pre-filled deemed acceptance - CIT"
+CL_ISORA_TAX,337_135,"Percentage of tax returns - Electronic, fully pre-filled deemed acceptance - PIT"
+CL_ISORA_TAX,337_142,"Percentage of tax returns - Electronic, fully pre-filled confirmation required - VAT"
+CL_ISORA_TAX,337_141,"Percentage of tax returns - Electronic, fully pre-filled deemed acceptance - VAT"
+CL_ISORA_TAX,337_143,Electronic - not pre-filled or partially pre-filled: VAT_old
+CL_ISORA_TAX,337_131,Electronic -not pre-filled or partially pre-filled-CIT_old
+CL_ISORA_TAX,337_137_1,"Percentage of tax returns - Electronic, partially pre-filled with income and/or expense information - PIT"
+CL_ISORA_TAX,337_137,Electronic -not pre-filled or partially pre-filled-PIT_old
+CL_ISORA_TAX,337_202,"Electronic, not prefilled-CIT (2022)"
+CL_ISORA_TAX,337_132_1,"Electronic, not prefilled-CIT (2018-2021)"
+CL_ISORA_TAX,337_206,"Percentage of tax returns - Electronic, not prefilled - PAYE"
+CL_ISORA_TAX,337_204,"Electronic, not prefilled-PIT (2022-2023)"
+CL_ISORA_TAX,337_138_1,"Electronic, not prefilled-PIT (2018-2021)"
+CL_ISORA_TAX,337_208,"Electronic, not prefilled: VAT (2022-2023)"
+CL_ISORA_TAX,337_144_1,"Electronic, not prefilled: VAT (2018-2021)"
+CL_ISORA_TAX,337_131_1,"Percentage of tax returns - Electronic, partially pre-filled with income and/or expense information - CIT"
+CL_ISORA_TAX,337_143_1,"Percentage of tax returns - Electronic, partially pre-filled with income and/or expense information - VAT"
+CL_ISORA_TAX,337_211,"Percentage of tax returns - Electronic, prefilled, modified by taxpayer - CIT"
+CL_ISORA_TAX,337_215,"Percentage of tax returns - Electronic, prefilled, modified by taxpayer - PAYE"
+CL_ISORA_TAX,337_213,"Percentage of tax returns - Electronic, prefilled, modified by taxpayer - PIT"
+CL_ISORA_TAX,337_217,"Percentage of tax returns - Electronic, prefilled, modified by taxpayer - VAT"
+CL_ISORA_TAX,337_212,"Percentage of tax returns - Electronic, prefilled, not modified by taxpayer - CIT"
+CL_ISORA_TAX,337_216,"Percentage of tax returns - Electronic, prefilled not modified by taxpayer - PAYE"
+CL_ISORA_TAX,337_214,"Percentage of tax returns - Electronic, prefilled not modified by taxpayer - PIT"
+CL_ISORA_TAX,337_218,"Percentage of tax returns - Electronic, prefilled not modified by taxpayer - VAT"
+CL_ISORA_TAX,95020,Employers withholding taxes on behalf of salaried employees
+CL_ISORA_TAX,99200,Enforcement (audit) actions undertaken post return filing - Avoidance and evasion investigations
+CL_ISORA_TAX,99190,Enforcement (audit) actions undertaken post return filing - Comprehensive audits
+CL_ISORA_TAX,99160,Enforcement (audit) actions undertaken post return filing - Desk audits
+CL_ISORA_TAX,99180,Enforcement (audit) actions undertaken post return filing - Limited scope audits
+CL_ISORA_TAX,99170,Enforcement (audit) actions undertaken post return filing - Single issue audits
+CL_ISORA_TAX,98790,"Engagement with stakeholders: taxpayers, information providers and others Comments"
+CL_ISORA_TAX,96060_207,Estimated percentage of capital expenditures on tax administration
+CL_ISORA_TAX,96040_207,ICT expenditure for tax administration as proportion of total ICT expenditure
+CL_ISORA_TAX,92650_207,Estimated percentage of total personal income tax withheld by third parties and subsequently paid to the administration
+CL_ISORA_TAX,99140,Examples of measures of  effectiveness of any compliance interventions undertaken
+CL_ISORA_TAX,337_181,Excises (Domestic) to total revenue collected
+CL_ISORA_TAX,97820,Executives can work part-time
+CL_ISORA_TAX,99820,External review mechanisms for dealing with complaints exist
+CL_ISORA_TAX,82100,Features of the service approach - Material provided on the website in non-offical languages
+CL_ISORA_TAX,82080,Features of the service approach - Social media used interactively
+CL_ISORA_TAX,82070,Features of the service approach - Social media used to distribute information
+CL_ISORA_TAX,82060,Features of the service approach - Special provision for taxpayers with disabilities
+CL_ISORA_TAX,98060,Features of the service approach - Special services for digitally disadvantaged taxpayers
+CL_ISORA_TAX,82090,Features of the service approach - Telephone services provided in non-official languages
+CL_ISORA_TAX,97000,"Of total recruitments in FY, number that were female"
+CL_ISORA_TAX,86960_325,"Formal approach for identifying, assessing and prioritizing key compliance risks exists in relation to: Collection enforcement"
+CL_ISORA_TAX,86960_324,"Formal approach for identifying, assessing and prioritizing key compliance risks exists in relation to: Payment processing"
+CL_ISORA_TAX,86960_323,"Formal approach for identifying, assessing and prioritizing key compliance risks exists in relation to: Return filing"
+CL_ISORA_TAX,86960_327,"Formal approach for identifying, assessing and prioritizing key compliance risks exists in relation to: Taxpayer service"
+CL_ISORA_TAX,86960_326,"Formal approach for identifying, assessing and prioritizing key compliance risks exists in relation to: Verification or audit"
+CL_ISORA_TAX,86940,Formal compliance risk management strategy exists
+CL_ISORA_TAX,92250,Formal diversity policy exists
+CL_ISORA_TAX,98960,Formal framework for compliance interventions exists or is in development
+CL_ISORA_TAX,86920,Formal internal assurance mechanisms (internal audit) exists
+CL_ISORA_TAX,97810,Formal mentoring program for new staff exists
+CL_ISORA_TAX,97790,Formal program(s) to support new staff exists
+CL_ISORA_TAX,86860,Formal set of service delivery standards - not produced
+CL_ISORA_TAX,86870,Formal set of service delivery standards - produced
+CL_ISORA_TAX,86880,Formal set of service delivery standards - produced and published
+CL_ISORA_TAX,81630,Formal taxpayer service and assistance strategy present
+CL_ISORA_TAX,98230,Formal taxpayer service and assistance strategy published
+CL_ISORA_TAX,94020_206,"FTEs by function of the tax administration-Audit, investigation and other verification"
+CL_ISORA_TAX,94020_207,"FTEs by function of the tax administration-Audit, investigation and other verification - Percentage"
+CL_ISORA_TAX,96970_206,FTEs by function of the tax administration-Dispute management
+CL_ISORA_TAX,96970_207,FTEs by function of the tax administration-Dispute management - Percentage
+CL_ISORA_TAX,94030_206,FTEs by function of the tax administration-Enforced debt collection and related functions
+CL_ISORA_TAX,94030_207,FTEs by function of the tax administration-Enforced debt collection and related functions - Percentage
+CL_ISORA_TAX,96980_206,FTEs by function of the tax administration-Human resource management
+CL_ISORA_TAX,96980_207,FTEs by function of the tax administration-Human resource management - Percentage
+CL_ISORA_TAX,98810_206,FTEs by function of the tax administration-ICT support
+CL_ISORA_TAX,98810_207,FTEs by function of the tax administration-ICT support - Percentage
+CL_ISORA_TAX,95240_206,FTEs by function of the tax administration-Other functions
+CL_ISORA_TAX,95240_207,FTEs by function of the tax administration-Other functions - Percentage
+CL_ISORA_TAX,95230_206,"FTEs by function of the tax administration-Registration, taxpayer services, returns and payment processing"
+CL_ISORA_TAX,95230_207,"FTEs by function of the tax administration-Registration, taxpayer services, returns and payment processing - Percentage"
+CL_ISORA_TAX,337_045,FTEs in LTO/P as percentage of FTEs
+CL_ISORA_TAX,95940_206,FTEs involved exclusively with customs administration activities
+CL_ISORA_TAX,95930_206,FTEs involved exclusively with tax administration activities
+CL_ISORA_TAX,95950_206,FTEs involved with both tax and customs administration
+CL_ISORA_TAX,337_169,"FTEs on audit, investigation and other verification function in the LTO/P as percentage of total FTEs in LTO/P"
+CL_ISORA_TAX,81400_55,Functions carried out by HNWI unit - Audit
+CL_ISORA_TAX,81400_56,Functions carried out by HNWI unit - Collection enforcement and management of arrears
+CL_ISORA_TAX,81400_57,Functions carried out by HNWI unit - Dispute resolution
+CL_ISORA_TAX,81400_52,Functions carried out by HNWI unit - Registration
+CL_ISORA_TAX,81400_53,Functions carried out by HNWI unit - Return and payment processing
+CL_ISORA_TAX,81400_54,"Functions carried out by HNWI unit - Services (e.g. telephone calls, contacts and rulings)"
+CL_ISORA_TAX,GROSS_DOMESTIC,GDP
+CL_ISORA_TAX,97330,Gender-disaggregated data for individual taxpayers on tax compliance collected
+CL_ISORA_TAX,97340,Gender-disaggregated data on tax compliance analyzed
+CL_ISORA_TAX,84070_75,Gender distribution (No. of staff at the end of FY)-All staff-Female
+CL_ISORA_TAX,84060_75,Gender distribution (No. of staff at the end of FY)-All staff-Male
+CL_ISORA_TAX,95120_75,Gender distribution (No. of staff at the end of FY)-All staff-Other
+CL_ISORA_TAX,84070_215,Gender distribution (No. of staff at the end of FY)-Executives only-Female
+CL_ISORA_TAX,84060_215,Gender distribution (No. of staff at the end of FY)-Executives only-Male
+CL_ISORA_TAX,95120_215,Gender distribution (No. of staff at the end of FY)-Executives only-Other
+CL_ISORA_TAX,97540,Gender of individual taxpayers recorded in taxpayer registers
+CL_ISORA_TAX,98940,General approach to compliance includes - Ensuring taxpayers benefit if they make early disclosure of errors or omissions and if they fully co-operate with the administration
+CL_ISORA_TAX,98920,General approach to compliance includes - Providing a proportionate response to non-compliance
+CL_ISORA_TAX,98930,General approach to compliance includes - Providing opportunities for taxpayers to correct mistakes or omissions in tax returns voluntarily
+CL_ISORA_TAX,98950,General approach to compliance includes - Reminding and encouraging taxpayers to fulfil all tax obligations
+CL_ISORA_TAX,398_001,Gross Domestic Product (in thousands of local currency)
+CL_ISORA_TAX,337_028,Hiring rate
+CL_ISORA_TAX,81370,HNWI  program exists
+CL_ISORA_TAX,98700,HNWI program exists
+CL_ISORA_TAX,92290,HNWI program is part of the large taxpayer program
+CL_ISORA_TAX,92000,HR strategy - Job catalogue is in place
+CL_ISORA_TAX,91990,HR strategy - Job competency dictionary is in place
+CL_ISORA_TAX,92010,HR Strategy - Job descriptions exist
+CL_ISORA_TAX,91970,HR strategy exists
+CL_ISORA_TAX,91985,HR strategy is competency-based
+CL_ISORA_TAX,98890,Human Resource Management Comments
+CL_ISORA_TAX,337_014,ICT operating cost as percent of operating expenditure
+CL_ISORA_TAX,86200,If unified semi-autonomous body with board - number of board members from private sector
+CL_ISORA_TAX,86190,If unified semi-autonomous body with board - total number of board members
+CL_ISORA_TAX,86180,If unified semi-autonomous body with board - type of board
+CL_ISORA_TAX,95520,Implementation and use of innovative technologies-Application programming interfaces(APIs)
+CL_ISORA_TAX,91540,"Implementation and use of innovative technologies-Artificial intelligence (AI), including machine learning"
+CL_ISORA_TAX,95500,Implementation and use of innovative technologies-Cloud computing
+CL_ISORA_TAX,95510,Implementation and use of innovative technologies-Data science / analytics tools
+CL_ISORA_TAX,91570,"Implementation and use of innovative technologies-Digital identification technology (e.g. biometrics, voice identification)"
+CL_ISORA_TAX,91510,Implementation and use of innovative technologies-Distributed ledger technology / Blockchain
+CL_ISORA_TAX,91520,Implementation and use of innovative technologies-Robotics Process Automation (RPA)
+CL_ISORA_TAX,91550,Implementation and use of innovative technologies-Virtual assistants (e.g. chatbots)
+CL_ISORA_TAX,95530,Implementation and use of innovative technologies-Whole-of-government identification systems
+CL_ISORA_TAX,99220,Indicators used to measure effectiveness of enforcement (audit) actions - Audit coverage (percentage of taxpayers affected)
+CL_ISORA_TAX,99250,Indicators used to measure effectiveness of enforcement (audit) actions - Other
+CL_ISORA_TAX,99260,Indicators used to measure effectiveness of enforcement (audit) actions - Other - Description
+CL_ISORA_TAX,99240,Indicators used to measure effectiveness of enforcement (audit) actions - Percentage of audits that yield a positive result
+CL_ISORA_TAX,99230,Indicators used to measure effectiveness of enforcement (audit) actions - Value of additional assessments raised through audit
+CL_ISORA_TAX,99890,Individual taxpayers - Taxpayer satisfaction surveys conducted regularly
+CL_ISORA_TAX,99920,Individual taxpayers - Taxpayer satisfaction surveys conducted regularly - External vendor used
+CL_ISORA_TAX,99950,Individual taxpayers - Taxpayer satisfaction surveys conducted regularly - Results published
+CL_ISORA_TAX,337_178,ICT expenditure - Tax administration
+CL_ISORA_TAX,86170,Institutional framework
+CL_ISORA_TAX,91630,Integrity strategy - Includes agreements with stakeholders
+CL_ISORA_TAX,91650,Integrity strategy - Includes internal awareness campaign
+CL_ISORA_TAX,91600,Integrity strategy exists
+CL_ISORA_TAX,99780,Internal review mechanisms for dealing with complaints exist
+CL_ISORA_TAX,99110,Interventions undertaken after return filing but before audit - Description of other interventions after filing but before audit
+CL_ISORA_TAX,99070,Interventions undertaken after return filing but before audit - Identifying anomalies or outliers through data analytics in order to prompt taxpayer disclosure
+CL_ISORA_TAX,99060,Interventions undertaken after return filing but before audit - Identifying inconsistencies in returns through cross-matching of data from third party sources
+CL_ISORA_TAX,99100,Interventions undertaken after return filing but before audit - Other interventions after filing but before audit
+CL_ISORA_TAX,99090,Interventions undertaken after return filing but before audit - Requesting further information
+CL_ISORA_TAX,99080,Interventions undertaken after return filing but before audit - Risk reviews
+CL_ISORA_TAX,99040,Interventions undertaken before return filing - Description of other interventions
+CL_ISORA_TAX,98990,Interventions undertaken before return filing - Facilitating taxpayer access to 3rd party data already collected by the tax administration
+CL_ISORA_TAX,99030,Interventions undertaken before return filing - Other interventions prior to filing
+CL_ISORA_TAX,99020,Interventions undertaken before return filing - Providing information on predetermined compliance interventions
+CL_ISORA_TAX,99010,Interventions undertaken before return filing - Reminding taxpayers of filing deadlines
+CL_ISORA_TAX,99000,Interventions undertaken before return filing - Targeting campaigns to encourage compliance
+CL_ISORA_TAX,95910_1,Joint with Customs
+CL_ISORA_TAX,95910,Joint with Customs?
+CL_ISORA_TAX,86990,Key compliance risks made public regularly
+CL_ISORA_TAX,97870,Knowledge transfer is documented
+CL_ISORA_TAX,97860,Knowledge transfer is personalized
+CL_ISORA_TAX,398_004,Labor Force
+CL_ISORA_TAX,337_011,Labor force per FTE
+CL_ISORA_TAX,LABOR_FORCE,LaborForcePR
+CL_ISORA_TAX,LABOR_FORCE_TOTAL,LaborForceTotal
+CL_ISORA_TAX,81160,Large taxpayer office / program exists
+CL_ISORA_TAX,98690,Large taxpayer office program exists?
+CL_ISORA_TAX,84030_28,Length of service (No. of staff at the end of FY)-10-19 years
+CL_ISORA_TAX,84020_28,Length of service (No. of staff at the end of FY)-5-9 years
+CL_ISORA_TAX,84040_28,Length of service (No. of staff at the end of FY)-Over 19 years
+CL_ISORA_TAX,84010_28,Length of service (No. of staff at the end of FY)-Under 5 years
+CL_ISORA_TAX,97210,Link to Annual business/operational plan
+CL_ISORA_TAX,97220,Link to Annual report
+CL_ISORA_TAX,98640,Link to Formal set of service delivery standards
+CL_ISORA_TAX,97300,Link to organizational chart
+CL_ISORA_TAX,97310,Link to published compliance risks
+CL_ISORA_TAX,97510,Link to published tax gap reports
+CL_ISORA_TAX,97200,Link to strategic plan
+CL_ISORA_TAX,98600,Links to published satisfaction survey results
+CL_ISORA_TAX,92300_551,Main criteria for determining a HNWI taxpayer - Assets or wealth
+CL_ISORA_TAX,92300_553,Main criteria for determining a HNWI taxpayer - Director or shareholder of a business included in the large taxpayer program
+CL_ISORA_TAX,92300_545,Main criteria for determining a HNWI taxpayer - Income
+CL_ISORA_TAX,92300_552,Main criteria for determining a HNWI taxpayer - Prominent person
+CL_ISORA_TAX,92260_535,Main criteria for determining a large taxpayer -  Number of employees
+CL_ISORA_TAX,92260_549,Main criteria for determining a large taxpayer - Assets
+CL_ISORA_TAX,92260_550,Main criteria for determining a large taxpayer - Associated entities
+CL_ISORA_TAX,92260_547,Main criteria for determining a large taxpayer - Economic sector or activity
+CL_ISORA_TAX,92260_545,Main criteria for determining a large taxpayer - Income
+CL_ISORA_TAX,92260_548,Main criteria for determining a large taxpayer - Taxes (assessed or paid)
+CL_ISORA_TAX,92260_546,Main criteria for determining a large taxpayer - Turnover or revenue
+CL_ISORA_TAX,97270_600,Main drivers of structural reforms implemented - Changes in government policy
+CL_ISORA_TAX,97270_598,Main drivers of structural reforms implemented - Digitalization
+CL_ISORA_TAX,97270_599,Main drivers of structural reforms implemented - Efficiency gains
+CL_ISORA_TAX,97270_602,Main drivers of structural reforms implemented - National and/or international requirement
+CL_ISORA_TAX,97270_601,Main drivers of structural reforms implemented - New responsibilities of the tax administration
+CL_ISORA_TAX,97270_603,Main drivers of structural reforms implemented - Other
+CL_ISORA_TAX,97040,Mandatory to use an electronic invoice mechanism for tax purposes for all transactions
+CL_ISORA_TAX,97050,Mandatory to use an electronic invoice mechanism for tax purposes for certain transactions
+CL_ISORA_TAX,95750,Mechanisms available for taxpayers to challenge assessments-Independent review by a higher appellate court
+CL_ISORA_TAX,95740,Mechanisms available for taxpayers to challenge assessments-Independent review by external body
+CL_ISORA_TAX,95730,Mechanisms available for taxpayers to challenge assessments-Internal review by tax administration
+CL_ISORA_TAX,METADATA,Metadata
+CL_ISORA_TAX,96930,Most employees that have tax deducted through direct withholding required to file a return
+CL_ISORA_TAX,92650,Most employees that have tax deducted through direct withholding required to file a return OBSOLETE
+CL_ISORA_TAX,96920,Most employees that have tax deducted through withholding required to register for personal income tax
+CL_ISORA_TAX,80240_4,Net revenue collected by the tax administration  (as percentage of total net revenue)-Social security contributions
+CL_ISORA_TAX,95090_4,Net revenue collected by the tax administration (as percentage of total net revenue) -Excises (domestic)
+CL_ISORA_TAX,80090_4,Net revenue collected by the tax administration (as percentage of total net revenue) -Income tax - corporate and other entities
+CL_ISORA_TAX,80080_4,Net revenue collected by the tax administration (as percentage of total net revenue) -Income tax - individuals
+CL_ISORA_TAX,80250_4,Net revenue collected by the tax administration (as percentage of total net revenue) -Non-tax revenue
+CL_ISORA_TAX,95100_4,Net revenue collected by the tax administration (as percentage of total net revenue) -Other taxes
+CL_ISORA_TAX,91320_4,Net revenue collected by the tax administration (as percentage of total net revenue) -Value added tax
+CL_ISORA_TAX,95090_3,Net revenue collected by the tax administration (in thousands in local currency)-Excises (domestic)
+CL_ISORA_TAX,80090_3,Net revenue collected by the tax administration (in thousands in local currency) - CIT
+CL_ISORA_TAX,80080_3,Net revenue collected by the tax administration (in thousands in local currency) - PIT
+CL_ISORA_TAX,80250_3,Net revenue collected by the tax administration (in thousands in local currency)-Non-tax revenue
+CL_ISORA_TAX,95100_3,Net revenue collected by the tax administration (in thousands in local currency)-Other taxes
+CL_ISORA_TAX,80240_3,Net revenue collected by the tax administration (in thousands in local currency)-Social security contributions
+CL_ISORA_TAX,91320_3,Net revenue collected by the tax administration (in thousands in local currency) - VAT
+CL_ISORA_TAX,95150_28,"No. of FTEs in LTO / program-In the audit, investigation and other verification activities"
+CL_ISORA_TAX,92270_28,No. of FTEs in LTO / program-Total
+CL_ISORA_TAX,92890_28,"No. of incoming service contacts by channel-Digital assistance (e.g. chat, digital assistant)"
+CL_ISORA_TAX,81820_28,No. of incoming service contacts by channel-E-mail
+CL_ISORA_TAX,81840_28,No. of incoming service contacts by channel-In-person
+CL_ISORA_TAX,81830_28,No. of incoming service contacts by channel-Mail / post
+CL_ISORA_TAX,81800_28,No. of incoming service contacts by channel-Online via taxpayer account
+CL_ISORA_TAX,81810_28,No. of incoming service contacts by channel-Telephone call
+CL_ISORA_TAX,337_125,No. of internal cases initiated during the FY per 1 000 active taxpayers (PIT and CIT)
+CL_ISORA_TAX,97480,No. of staff - APAs
+CL_ISORA_TAX,97470,No. of staff - Audit of international tax issues
+CL_ISORA_TAX,97490,No. of staff - MAPs
+CL_ISORA_TAX,95710,No. of tax crime investigation cases referred for prosecution during the fiscal year (where the tax administration has responsibility)
+CL_ISORA_TAX,81230_28,No. of taxpayers included under the LTO / program-Corporate taxpayers
+CL_ISORA_TAX,81240_28,No. of taxpayers included under the LTO / program-Individual taxpayers
+CL_ISORA_TAX,337_004,Non tax revenue to total revenue collected
+CL_ISORA_TAX,NUMBER_OF_ANSWERS,Number of Answers
+CL_ISORA_TAX,337_127,Number of cases resolved by higher appellate court in favor of the administration as percentage of cases resolved
+CL_ISORA_TAX,81440_70,Number of FTEs in the HNWI program
+CL_ISORA_TAX,81420_70,Number of HNWIs managed under HNWI program (at year-end)
+CL_ISORA_TAX,NUMBER_OF_QUESTIONS,Number of Questions
+CL_ISORA_TAX,92690_37,"Number of Electronic returns, Fully pre-filled, confirmation required - CIT"
+CL_ISORA_TAX,92680_37,"Number of Electronic returns, Fully pre-filled, deemed acceptance - CIT"
+CL_ISORA_TAX,97160_37,"Number of Electronic returns, of prefilled returns, number not changed or complemented by taxpayer - CIT"
+CL_ISORA_TAX,95380_37,"Number of Electronic returns, Not prefilled - CIT"
+CL_ISORA_TAX,95370_37,"Number of Electronic returns, Partially pre-filled with income and/or expense information - CIT"
+CL_ISORA_TAX,97150_37,"Number of Electronic returns, Prefilled, with income and/or expense information - CIT"
+CL_ISORA_TAX,88550_37,Number of returns received by tax type and channel-Corporate income tax-Other
+CL_ISORA_TAX,88530_37,Number of Paper returns - CIT
+CL_ISORA_TAX,88530_40,Number of Paper returns - PAYE
+CL_ISORA_TAX,97160_40,"Number of Electronic returns, of prefilled returns, number not changed or complemented by taxpayer - PAYE"
+CL_ISORA_TAX,95380_40,"Number of Electronic returns, Not prefilled - PAYE"
+CL_ISORA_TAX,97150_40,"Number of Electronic returns, Partially pre-filled with income and/or expense information - PAYE"
+CL_ISORA_TAX,92690_38,"Number of Electronic returns, Fully pre-filled, confirmation required - PIT"
+CL_ISORA_TAX,92680_38,"Number of Electronic returns, Fully pre-filled, deemed acceptance - PIT"
+CL_ISORA_TAX,97160_38,"Number of Electronic returns, of prefilled returns, number not changed or complemented by taxpayer - PIT"
+CL_ISORA_TAX,95380_38,"Number of Electronic returns, Not prefilled - PIT"
+CL_ISORA_TAX,95370_38,"Number of Electronic returns, Partially pre-filled with income and/or expense information - PIT"
+CL_ISORA_TAX,97150_38,"Number of Electronic returns, Prefilled, with income and/or expense information - PIT"
+CL_ISORA_TAX,88550_38,Number of returns received by tax type and channel-Personal income tax-Other
+CL_ISORA_TAX,88530_38,Number of Paper returns - PIT
+CL_ISORA_TAX,92690_39,"Number of Electronic returns, Fully pre-filled, confirmation required - VAT"
+CL_ISORA_TAX,92680_39,"Number of Electronic returns, Fully pre-filled, deemed acceptance - VAT"
+CL_ISORA_TAX,97160_39,"Number of Electronic returns, of prefilled returns, number not changed or complemented by taxpayer - VAT"
+CL_ISORA_TAX,95380_39,"Number of Electronic returns, Not prefilled - VAT"
+CL_ISORA_TAX,95370_39,"Number of Electronic returns, Partially pre-filled with income and/or expense information - VAT"
+CL_ISORA_TAX,97150_39,"Number of Electronic returns, Prefilled, with income and/or expense information - VAT"
+CL_ISORA_TAX,88550_39,Number of returns received by tax type and channel-Value added tax-Other
+CL_ISORA_TAX,88530_39,Number of Paper returns - VAT
+CL_ISORA_TAX,95860_37,Number of taxpayers by tax type - Active taxpayers - CIT
+CL_ISORA_TAX,95850_37,Number of taxpayers by tax type - Registered taxpayers - CIT
+CL_ISORA_TAX,95860_40,Number of taxpayers by tax type - Active taxpayers - PAYE
+CL_ISORA_TAX,95850_40,Number of taxpayers by tax type - Registered taxpayers - PAYE
+CL_ISORA_TAX,95860_391,Number of taxpayers by tax type - Active taxpayers - Excise (domestic manufacturers / producers)
+CL_ISORA_TAX,95850_391,Number of taxpayers by tax type - Registered taxpayers - Excise (domestic manufacturers / producers)
+CL_ISORA_TAX,95860_38,Number of taxpayers by tax type - Active taxpayers - PIT
+CL_ISORA_TAX,95850_38,Number of taxpayers by tax type - Registered taxpayers - PIT
+CL_ISORA_TAX,95860_39,Number of taxpayers by tax type - Active taxpayers - VAT
+CL_ISORA_TAX,95850_39,Number of taxpayers by tax type - Registered taxpayers - VAT
+CL_ISORA_TAX,88140_37,On-time filing rate % - CIT
+CL_ISORA_TAX,88140_40,On-time filing rate % - PAYE
+CL_ISORA_TAX,88140_38,On-time filing rate % - PIT
+CL_ISORA_TAX,88140_39,On-time filing rate % - VAT
+CL_ISORA_TAX,96190_37,On-time payment rate % - Corporate income tax
+CL_ISORA_TAX,96190_38,On-time payment rate % - Personal income tax
+CL_ISORA_TAX,96190_40,On-time payment rate % - Tax withheld from employees by employers
+CL_ISORA_TAX,96190_39,On-time payment rate % - Value added tax
+CL_ISORA_TAX,88820_37,On-time payments - Value of payments expected by due date (in thousands in local currency) - CIT
+CL_ISORA_TAX,88830_37,On-time payments - Value of payments made on time (in thousands in local currency) - CIT
+CL_ISORA_TAX,97010_37,On-time payments - Value of payments received (in thousands in local currency) - CIT
+CL_ISORA_TAX,97010_40,On-time payments - Value of payments received (in thousands in local currency) - PAYE
+CL_ISORA_TAX,88820_40,On-time payments - Value of payments expected by due date (in thousands in local currency) - PAYE
+CL_ISORA_TAX,88830_40,On-time payments - Value of payments made on time (in thousands in local currency) - PAYE
+CL_ISORA_TAX,88820_38,On-time payments - Value of payments expected by due date (in thousands in local currency) - PIT
+CL_ISORA_TAX,88830_38,On-time payments - Value of payments made on time (in thousands in local currency) - PIT
+CL_ISORA_TAX,97010_38,On-time payments - Value of payments received (in thousands in local currency) - PIT
+CL_ISORA_TAX,88820_39,On-time payments - Value of payments expected by due date (in thousands in local currency) - VAT
+CL_ISORA_TAX,88830_39,On-time payments - Value of payments made on time (in thousands in local currency) - VAT
+CL_ISORA_TAX,97010_39,On-time payments - Value of payments received (in thousands in local currency) - VAT
+CL_ISORA_TAX,88110_37,On-time return filing - No. of returns expected - CIT
+CL_ISORA_TAX,88120_37,On-time return filing - No. of returns filed on time - CIT
+CL_ISORA_TAX,97130_37,On-time return filing-Corporate income tax-Total no. of returns received
+CL_ISORA_TAX,88110_40,On-time return filing - No. of returns expected - PAYE
+CL_ISORA_TAX,88120_40,On-time return filing - No. of returns filed on time - PAYE
+CL_ISORA_TAX,97130_40,Total number of returns received - PAYE
+CL_ISORA_TAX,88110_38,On-time return filing - No. of returns expected - PIT
+CL_ISORA_TAX,88120_38,On-time return filing - No. of returns filed on time - PIT
+CL_ISORA_TAX,97130_38,On-time return filing-Personal income tax-Total no. of returns received
+CL_ISORA_TAX,88110_39,On-time return filing - No. of returns expected - VAT
+CL_ISORA_TAX,88120_39,On-time return filing - No. of returns filed on time - VAT
+CL_ISORA_TAX,97130_39,On-time return filing-Value added tax-Total no. of returns received
+CL_ISORA_TAX,337_054,Percentage of inactive taxpayers on register - CIT
+CL_ISORA_TAX,337_057,Percentage of inactive taxpayers on register - Excise
+CL_ISORA_TAX,337_056,Percentage of inactive taxpayers on register - PAYE
+CL_ISORA_TAX,337_053,Percentage of inactive taxpayers on register - PIT
+CL_ISORA_TAX,337_055,Percentage of inactive taxpayers on register - VAT
+CL_ISORA_TAX,98210,Online services provided - A taxpayer portal that provides a ‘whole-of-taxpayer’ view across the major taxes
+CL_ISORA_TAX,98170,Online services provided - Asking for tax payment arrangements
+CL_ISORA_TAX,98190,Online services provided - Filing tax related objections
+CL_ISORA_TAX,98160,Online services provided - Requesting extensions of deadlines
+CL_ISORA_TAX,98180,Online services provided - Secure communication with taxpayers
+CL_ISORA_TAX,98220_621,Online services provided - Secure communication with taxpayers - channels used - Audio calls
+CL_ISORA_TAX,98220_620,Online services provided - Secure communication with taxpayers - channels used - Messaging
+CL_ISORA_TAX,98220_622,Online services provided - Secure communication with taxpayers - channels used - Video calls
+CL_ISORA_TAX,98150,Online services provided - Tax calculators
+CL_ISORA_TAX,98200,Online services provided - Uploading data files onto the tax administration’s system
+CL_ISORA_TAX,337_176,Operating expenditure - Tax administration
+CL_ISORA_TAX,95310,Operational ICT solutions of the administration are…-Custom built
+CL_ISORA_TAX,95320,Operational ICT solutions of the administration are…-On premises commercial off the shelf (COTS)
+CL_ISORA_TAX,95330,"Operational ICT solutions of the administration are…-Software-as-a-Service (SaaS, i.e. cloud based)"
+CL_ISORA_TAX,337_132,Other-CIT_old
+CL_ISORA_TAX,337_138,Other-PIT_old
+CL_ISORA_TAX,86290,Other roles - Child support
+CL_ISORA_TAX,86340,Other roles - Lotteries / gambling / gaming
+CL_ISORA_TAX,91410,Other roles - Maintaining government's property register
+CL_ISORA_TAX,91420,Other roles - Motor vehicle register
+CL_ISORA_TAX,86320,Other roles - Population register
+CL_ISORA_TAX,93770,Other roles - Property valuation as service to government
+CL_ISORA_TAX,86330,Other roles - Retirement savings
+CL_ISORA_TAX,86310,Other roles - Student loans
+CL_ISORA_TAX,86280,Other roles - Welfare benefits
+CL_ISORA_TAX,337_009,Other taxes to total revenue collected
+CL_ISORA_TAX,337_144,Other: VAT_old
+CL_ISORA_TAX,OVERALL_COMPLETION_RATE,Overall Completion Rate
+CL_ISORA_TAX,337_207,Paper retunrs: VAT - 2022
+CL_ISORA_TAX,337_128,Paper returns - CIT
+CL_ISORA_TAX,337_201,Paper returns-CIT - 2022
+CL_ISORA_TAX,337_205,Percentage of tax returns - Paper - PAYE
+CL_ISORA_TAX,337_134,Paper returns - PIT
+CL_ISORA_TAX,337_203,Paper returns-PIT - 2022
+CL_ISORA_TAX,337_140,Paper returns:VAT
+CL_ISORA_TAX,PARTICIPATION_RATE,Participation
+CL_ISORA_TAX,84170,Pay scale details
+CL_ISORA_TAX,337_096,PAYE arrears as percentage of PIT collected
+CL_ISORA_TAX,337_123,PAYE assessments as percentage of PIT collected
+CL_ISORA_TAX,337_086,PAYE payments received on-time as a percent of payments due
+CL_ISORA_TAX,337_223,PAYE payments received on-time as a percent of payments received
+CL_ISORA_TAX,337_232,Percentage of returns received on time - PAYE
+CL_ISORA_TAX,337_077,Percent CIT returns e - filed
+CL_ISORA_TAX,337_240,Percent CIT returns received electronically - 2022
+CL_ISORA_TAX,337_042,Percent executives who are female
+CL_ISORA_TAX,337_242,Percent PAYE returns received electronically
+CL_ISORA_TAX,337_078,Percent PIT returns e - filed
+CL_ISORA_TAX,337_241,Percent PIT returns received electronically - 2022
+CL_ISORA_TAX,337_032,Percent staff 25 to 34
+CL_ISORA_TAX,337_033,Percent staff 35 to 44
+CL_ISORA_TAX,337_034,Percent staff 45 to 54
+CL_ISORA_TAX,337_035,Percent staff 55 to 64
+CL_ISORA_TAX,337_036,Percent staff over 64
+CL_ISORA_TAX,337_041,Percent staff who are female
+CL_ISORA_TAX,337_039,Percent staff with 10 to 19 years of service
+CL_ISORA_TAX,337_040,Percent staff with 20 or more years of service
+CL_ISORA_TAX,337_038,Percent staff with 5 to 9 years of service
+CL_ISORA_TAX,337_043,Percent staff with bachelor's degree or equivalent
+CL_ISORA_TAX,337_037,Percent staff with less than 5 years of service
+CL_ISORA_TAX,337_044,Percent staff with master's degree or higher or equivalent
+CL_ISORA_TAX,337_031,Percent staff younger than 25
+CL_ISORA_TAX,337_079,Percent VAT returns e - filed
+CL_ISORA_TAX,337_243,Percent VAT returns received electronically - 2022
+CL_ISORA_TAX,337_090,Percentage electronic payments by number
+CL_ISORA_TAX,337_091,Percentage electronic payments by value
+CL_ISORA_TAX,337_133,Percentage of CIT returns prefilled with income information
+CL_ISORA_TAX,98820,Percentage of executives that work part-time
+CL_ISORA_TAX,92310,Percentage of net revenue administered under HNWI program in relation to total tax revenue collected by the tax administration
+CL_ISORA_TAX,92280_28,Percentage of net revenue administered under LTO/P in relation to total net revenue collected by the tax administration
+CL_ISORA_TAX,95400_526,Percentage of payments received electronically-By number of payments
+CL_ISORA_TAX,95400_527,Percentage of payments received electronically-By value of payments
+CL_ISORA_TAX,337_139,Percentage of PIT returns prefilled with income information
+CL_ISORA_TAX,97830,Percentage of staff that are equipped to work remotely
+CL_ISORA_TAX,97840,Percentage of staff that work remotely for at least one day per week
+CL_ISORA_TAX,95250_207,Percentage of staff working on headquarter functions
+CL_ISORA_TAX,337_145,Percentage of VAT returns prefilled with income information
+CL_ISORA_TAX,337_017,"Percentage staff allocated to audit, investigation and other verification"
+CL_ISORA_TAX,337_166,"Percentage staff allocated to registration, taxpayer services, returns and payment processing"
+CL_ISORA_TAX,337_167,Percentage staff in all other functions
+CL_ISORA_TAX,337_250,Percentage staff in dispute management
+CL_ISORA_TAX,337_018,Percentage staff in enforced debt collections and related functions
+CL_ISORA_TAX,337_022,Percentage staff in headquarters
+CL_ISORA_TAX,337_251,Percentage staff in human resource management
+CL_ISORA_TAX,337_252,Percentage staff in ICT support
+CL_ISORA_TAX,84260,Performance management system - includes individual development plans
+CL_ISORA_TAX,84280,Performance management system - staff performance formally evaluated at least on an annual basis
+CL_ISORA_TAX,84270,Performance management system  - includes specific objectives for staff
+CL_ISORA_TAX,84240,Performance management system present
+CL_ISORA_TAX,91670,Periodic surveys conducted to assess perceptions of administration's commitment to integrity
+CL_ISORA_TAX,337_095,PIT arrears as percentage of PIT collected
+CL_ISORA_TAX,337_122,PIT assessments as percentage of PIT collected
+CL_ISORA_TAX,337_084,PIT payments received on-time as a percent of payments due
+CL_ISORA_TAX,337_221,PIT payments received on-time as a percent of payments received
+CL_ISORA_TAX,337_231,Percentage of returns received on time - PIT
+CL_ISORA_TAX,337_005,PIT to total revenue collected
+CL_ISORA_TAX,92150,Policies for flexible working arrangements exist
+CL_ISORA_TAX,337_010,Population per FTE
+CL_ISORA_TAX,99720,Private rulings provided to taxpayers
+CL_ISORA_TAX,99750,Private rulings provided to taxpayers - private rulings required to be issued within a set time frame
+CL_ISORA_TAX,99730,Private rulings provided to taxpayers - rulings binding on the administration
+CL_ISORA_TAX,99740,Private rulings provided to taxpayers - taxpayers required to pay fees to obtain private rulings
+CL_ISORA_TAX,99810,Process allows for systemic issues to be raised - External
+CL_ISORA_TAX,93040_1,Process allows for systemic issues to be raised - Internal
+CL_ISORA_TAX,99800,Process is independent of the adminsitration - External
+CL_ISORA_TAX,93030_1,Process is independent of the adminsitration - Internal
+CL_ISORA_TAX,82210,Provision of e-services - Ability to view taxpayer information from third parties
+CL_ISORA_TAX,92920,Provision of e-services - Mobile applications
+CL_ISORA_TAX,82250,Public rulings provided to taxpayers
+CL_ISORA_TAX,99710,Public rulings provided to taxpayers - rulings binding on the administration
+CL_ISORA_TAX,87010,Public service-wide code of conduct exists and applies to administration staff
+CL_ISORA_TAX,337_126,Ratio of cases under independent review to internal review cases
+CL_ISORA_TAX,92100,Recruitment plan exists
+CL_ISORA_TAX,337_012,Recurrent cost of collection (in %)
+CL_ISORA_TAX,84310,Remuneration - increased remuneration for good performance
+CL_ISORA_TAX,84290,Remuneration - performance is linked to pay and reward
+CL_ISORA_TAX,84330,Remuneration - poor performance can result in denial of annual increment
+CL_ISORA_TAX,84320,Remuneration - poor performance can result in reduced salary
+CL_ISORA_TAX,87000,Reports of outcomes in addressing the compliance risks made public regularly
+CL_ISORA_TAX,337_001,Revenue collected to GDP
+CL_ISORA_TAX,337_168,Revenue collected to total government revenue
+CL_ISORA_TAX,91370_0,Revenue types or categories for which the tax administration has responsibility-Excises (domestic)
+CL_ISORA_TAX,80090_0,Revenue types or categories for which the tax administration has responsibility - CIT
+CL_ISORA_TAX,80080_0,Revenue types or categories for which the tax administration has responsibility - PIT
+CL_ISORA_TAX,80250_0,Revenue types or categories for which the tax administration has responsibility-Non-tax revenue
+CL_ISORA_TAX,80180_0,Revenue types or categories for which the tax administration has responsibility-Other taxes
+CL_ISORA_TAX,80220_0,"Revenue types or categories for which the tax administration has responsibility-Other taxes-Estate, inheritance, gift and other taxes"
+CL_ISORA_TAX,80190_0,Revenue types or categories for which the tax administration has responsibility-Other taxes-Motor vehicle taxes
+CL_ISORA_TAX,80230_0,Revenue types or categories for which the tax administration has responsibility-Other taxes-Other
+CL_ISORA_TAX,80170_0,Revenue types or categories for which the tax administration has responsibility-Other taxes-Other taxes on good and services
+CL_ISORA_TAX,80200_0,Revenue types or categories for which the tax administration has responsibility-Other taxes-Real property taxes
+CL_ISORA_TAX,80210_0,Revenue types or categories for which the tax administration has responsibility-Other taxes-Wealth taxes
+CL_ISORA_TAX,80240_0,Revenue types or categories for which the tax administration has responsibility-Social security contributions
+CL_ISORA_TAX,91320_0,Revenue types or categories for which the tax administration has responsibility - VAT
+CL_ISORA_TAX,95670,Role of the administration in tax crime investigations
+CL_ISORA_TAX,95670_581,"Role of the administration in tax crime investigations - Conducting investigations, under direction of other agency"
+CL_ISORA_TAX,95670_580,Role of the administration in tax crime investigations - Directing and conducting investigations
+CL_ISORA_TAX,95670_582,Role of the administration in tax crime investigations - Other agency conducts investigations
+CL_ISORA_TAX,337_013,Salary cost as percent of operating expenditure
+CL_ISORA_TAX,337_177,Salary expenditure - Tax administration
+CL_ISORA_TAX,98880,Segmentation and Compliance Risk Management Comments
+CL_ISORA_TAX,97240,Significant structural reforms implemented
+CL_ISORA_TAX,81570,Simplified income tax regime for small taxpayers exists
+CL_ISORA_TAX,84410,Specific leadership and talent management programs exist
+CL_ISORA_TAX,86010_291,Specific selection criteria - Information cross checking
+CL_ISORA_TAX,86010_280,Specific selection criteria - Risk profiling - business rules
+CL_ISORA_TAX,86010_281,Specific selection criteria - Risk profiling - predictive modelling
+CL_ISORA_TAX,86010_292,Specific selection criteria - Selected by auditors based on their judgement and experience
+CL_ISORA_TAX,86000,Specific selection processes / criteria used to formally initiate a verification / audit intervention
+CL_ISORA_TAX,81470,Specific service initiatives aimed at SMEs exist
+CL_ISORA_TAX,337_008,SSC to total revenue collected
+CL_ISORA_TAX,92170,Staff can work flexible working hours
+CL_ISORA_TAX,92180,Staff can work from home/elsewhere occassionally
+CL_ISORA_TAX,92190,Staff can work from home/elsewhere regularly
+CL_ISORA_TAX,83810_28,Staff strength levels -Departures in FY
+CL_ISORA_TAX,83835_28,Staff strength levels -No. at end of FY
+CL_ISORA_TAX,83800_28,Staff strength levels -No. at start of FY
+CL_ISORA_TAX,83820_28,Staff strength levels -Recruitments in FY
+CL_ISORA_TAX,84190,"Staff surveyed periodically on attitudes, perceptions and workplace satisfaction"
+CL_ISORA_TAX,97780,Staff surveyed periodically on diversity and inclusion
+CL_ISORA_TAX,84220,Staff surveys - results shared with staff
+CL_ISORA_TAX,84230,Staff surveys - staff engaged in developing and implementing action plans
+CL_ISORA_TAX,84210,Staff surveys - staff engagement assessed
+CL_ISORA_TAX,92070,Staffing plan exists
+CL_ISORA_TAX,86820,Strategic plan - produced
+CL_ISORA_TAX,86830,Strategic plan - produced and published
+CL_ISORA_TAX,398_002,Tax (all collections) to GDP Ratio for calendar/fiscal year
+CL_ISORA_TAX,81200_55,"Tax administration functions carried out by LTO or program-Audit, Investigation and other verifications"
+CL_ISORA_TAX,81200_57,Tax administration functions carried out by LTO or program-Dispute resolution
+CL_ISORA_TAX,81200_56,Tax administration functions carried out by LTO or program-Enforced debt collection and related functions
+CL_ISORA_TAX,81200_52,Tax administration functions carried out by LTO or program-Registration
+CL_ISORA_TAX,81200_53,Tax administration functions carried out by LTO or program-Return and payment procesisng
+CL_ISORA_TAX,81200_54,Tax administration functions carried out by LTO or program-Taxpayer services
+CL_ISORA_TAX,97290,Tax administration publishes organizational chart
+CL_ISORA_TAX,80820,Tax arrears collection powers and their usage - Collect any disputed tax while the dispute case is open and under administrative review
+CL_ISORA_TAX,80830,Tax arrears collection powers and their usage - Collect any disputed tax while the dispute case is open and under judicial review
+CL_ISORA_TAX,80860,Tax arrears collection powers and their usage - Collect tax arrears through agreements with other tax administrations
+CL_ISORA_TAX,80690,"Tax arrears collection powers and their usage - Collect taxes owed via third parties (e.g. banks, employers)"
+CL_ISORA_TAX,80770,Tax arrears collection powers and their usage - Deny delinquent taxpayers access to certain government services
+CL_ISORA_TAX,80720,Tax arrears collection powers and their usage - Effect a temporary closure of a business / withdrawal of a license
+CL_ISORA_TAX,80680,Tax arrears collection powers and their usage - Formulate payment arrangements
+CL_ISORA_TAX,80710,Tax arrears collection powers and their usage - Garnishee salaries / wages or other property
+CL_ISORA_TAX,80670,Tax arrears collection powers and their usage - Grant extensions of time to pay tax arrears
+CL_ISORA_TAX,80780,"Tax arrears collection powers and their usage - Impose liability on company directors for certain tax arrears (e.g. employee withholdings, VAT) arising from a company's operations"
+CL_ISORA_TAX,80700,Tax arrears collection powers and their usage - Impose restrictions on overseas travel
+CL_ISORA_TAX,80800,Tax arrears collection powers and their usage - Initiate bankruptcy or asset liquidation actions
+CL_ISORA_TAX,80740,Tax arrears collection powers and their usage - Obtain a lien over a taxpayer's assets
+CL_ISORA_TAX,80850,Tax arrears collection powers and their usage - Offer reduced interest payments to the general taxpaying population under existing tax law
+CL_ISORA_TAX,80840,Tax arrears collection powers and their usage - Offer reduced penalties to the general taxpaying population under existing tax law
+CL_ISORA_TAX,80730,Tax arrears collection powers and their usage - Offset tax arrears against excess / overpayments arising under other taxes
+CL_ISORA_TAX,80790,Tax arrears collection powers and their usage - Publicize the names of debtor taxpayers in the media or by some other manner
+CL_ISORA_TAX,80810,"Tax arrears collection powers and their usage - Remit, in prescribed circumstances, interest and penalties"
+CL_ISORA_TAX,80760,Tax arrears collection powers and their usage - Require businesses to obtain a tax clearance certificate when bidding for government contracts
+CL_ISORA_TAX,80750,Tax arrears collection powers and their usage - Withhold payments owing to a delinquent taxpayer by the government
+CL_ISORA_TAX,80580_28,Tax cases under independent review by a higher appellate court-No. of cases resolved
+CL_ISORA_TAX,80600_28,Tax cases under independent review by a higher appellate court-No. of cases resolved in favour of the administration in FY
+CL_ISORA_TAX,94470_28,Tax cases under independent review by external bodies-No. of cases initiated in FY
+CL_ISORA_TAX,94490_28,Tax cases under independent review by external bodies-No. of cases on hand at FY end
+CL_ISORA_TAX,80530_28,Tax cases under internal review procedures-No. of cases initiated in FY
+CL_ISORA_TAX,80550_28,Tax cases under internal review procedures-No. of cases on hand at FY end
+CL_ISORA_TAX,337_003,Tax collected excluding SSC to GDP
+CL_ISORA_TAX,337_002,Tax collected including SSC to GDP
+CL_ISORA_TAX,85240_1,Tax gap - CIT - Periodic estimates produced
+CL_ISORA_TAX,85260_1,Tax gap - Other - Periodic estimates produced
+CL_ISORA_TAX,85230_1,Tax gap - PIT - Periodic estimates produced
+CL_ISORA_TAX,85250_1,Tax gap - VAT - Periodic estimates produced
+CL_ISORA_TAX,97500,Tax gaps reports published
+CL_ISORA_TAX,99910,Tax intermediaries - Satisfaction surveys conducted regularly
+CL_ISORA_TAX,99940,Tax intermediaries - Satisfaction surveys conducted regularly - External vendor used
+CL_ISORA_TAX,99970,Tax intermediaries - Satisfaction surveys conducted regularly - Results published
+CL_ISORA_TAX,98800,Tax operations Comments
+CL_ISORA_TAX,98590,Taxpayer education or awareness campaigns targeting a particular gender implemented
+CL_ISORA_TAX,99790,Taxpayer has the right to review decision - External
+CL_ISORA_TAX,93020_1,Taxpayer has the right to review decision - Internal
+CL_ISORA_TAX,93590,Taxpayers must first pursue internal review where an internal review is permissible
+CL_ISORA_TAX,84420,Time reporting system exists
+CL_ISORA_TAX,96050_206,Total capital expenditures (in thousands in local currency)
+CL_ISORA_TAX,95960_207,Total estimated tax administration FTEs as a % of total organization FTEs
+CL_ISORA_TAX,398_005,Total Government Revenue (in thousands in local currency)
+CL_ISORA_TAX,96030_206,ICT expenditure - Tax and Customs administration
+CL_ISORA_TAX,96210_4,Total net revenue as percent of Gross Domestic Product
+CL_ISORA_TAX,80040_4,Total net revenue collected by the tax administration (as percentage of total net revenue)
+CL_ISORA_TAX,80040_3,Total net revenue collected by the tax administration (in thousands in local currency)
+CL_ISORA_TAX,92700_37,Total number of returns received by tax type-Corporate income tax
+CL_ISORA_TAX,92700_38,Total number of returns received by tax type-Personal income tax
+CL_ISORA_TAX,92700_39,Total number of returns received by tax type-Value added tax
+CL_ISORA_TAX,95990_206,Operating expenditure - Tax and Customs administration
+CL_ISORA_TAX,398_003,Total Population
+CL_ISORA_TAX,96010_206,Salary expenditure - Tax and Customs administration
+CL_ISORA_TAX,95900_206,Total tax administration capital expenditures (in thousands of local currency)
+CL_ISORA_TAX,95900_208,Total tax administration capital expenditures (in thousands of local currency) - Calculated estimate
+CL_ISORA_TAX,91710_206,Total tax administration FTEs
+CL_ISORA_TAX,91710_208,Total tax administration FTEs - Calculated estimate
+CL_ISORA_TAX,337_180,Total FTEs
+CL_ISORA_TAX,95890_206,Total tax administration ICT expenditures (in thousands of local currency)
+CL_ISORA_TAX,95890_208,Total tax administration ICT expenditures (in thousands of local currency) - Calculated estimate
+CL_ISORA_TAX,95880_206,Total tax administration salary expenditures (in thousands of local currency)
+CL_ISORA_TAX,95880_208,Total tax administration salary expenditures (in thousands of local currency) -Calculated estimate
+CL_ISORA_TAX,95780_206,Total tax administrations operating expenditures (in thousands of local currency)
+CL_ISORA_TAX,95780_208,Total tax administrations operating expenditures (in thousands of local currency) -Calculated estimate
+CL_ISORA_TAX,337_170,Total value of additional assessments raised through LTO/P as percentage of total value of additional assessments raised from audits
+CL_ISORA_TAX,337_102,Total year-end arrears / total previous year-end arrears  (excluding non-collectable arrears) (in %)
+CL_ISORA_TAX,337_103,Total year-end arrears / total previous year-end arrears  (including non-collectable arrears) (in %)
+CL_ISORA_TAX,92040,Training strategy - Formal training cycle process exists
+CL_ISORA_TAX,92060,Training strategy - Induction program exists
+CL_ISORA_TAX,92050,Training strategy - Specific training plan exists
+CL_ISORA_TAX,92020,Training strategy exists
+CL_ISORA_TAX,95570,Treatment of VAT refunds
+CL_ISORA_TAX,81580_58,Type of simplified income tax regime for small taxpayers - Flat Rate Turnover Regime
+CL_ISORA_TAX,81580_59,Type of simplified income tax regime for small taxpayers - Forfait (Agreed) Regime
+CL_ISORA_TAX,81580_60,Type of simplified income tax regime for small taxpayers - Indicator Based Regime
+CL_ISORA_TAX,81580_27,Type of simplified income tax regime for small taxpayers - Other regime
+CL_ISORA_TAX,81580_61,Type of simplified income tax regime for small taxpayers - Simple Patent
+CL_ISORA_TAX,81580_62,Type of simplified income tax regime for small taxpayers - Simplified Participation in Regular Regimes
+CL_ISORA_TAX,87690_2,Types of income generally subject to reporting of individual payment details – Dividends
+CL_ISORA_TAX,87700_2,Types of income generally subject to reporting of individual payment details – Interest
+CL_ISORA_TAX,87760_2,Types of income generally subject to reporting of individual payment details – Other income
+CL_ISORA_TAX,87740_2,Types of income generally subject to reporting of individual payment details – Proceeds of sales / purchase of shares
+CL_ISORA_TAX,87750_2,Types of income generally subject to reporting of individual payment details – Proceeds of sales / purchases of real estate
+CL_ISORA_TAX,87710_2,Types of income generally subject to reporting of individual payment details – Rents
+CL_ISORA_TAX,87730_2,"Types of income generally subject to reporting of individual payment details – Royalties, patents"
+CL_ISORA_TAX,87720_2,Types of income generally subject to reporting of individual payment details – Specified business income
+CL_ISORA_TAX,87680_2,Types of income generally subject to reporting of individual payment details – Wage and salary
+CL_ISORA_TAX,87690_1,Types of income generally subject to tax withholding at source – Dividends
+CL_ISORA_TAX,87700_1,Types of income generally subject to tax withholding at source – Interest
+CL_ISORA_TAX,87760_1,Types of income generally subject to tax withholding at source – Other income
+CL_ISORA_TAX,87740_1,Types of income generally subject to tax withholding at source – Proceeds of sales / purchase of shares
+CL_ISORA_TAX,87750_1,Types of income generally subject to tax withholding at source – Proceeds of sales / purchases of real estate
+CL_ISORA_TAX,87710_1,Types of income generally subject to tax withholding at source – Rents
+CL_ISORA_TAX,87730_1,"Types of income generally subject to tax withholding at source – Royalties, patents"
+CL_ISORA_TAX,87720_1,Types of income generally subject to tax withholding at source – Specified business income
+CL_ISORA_TAX,87680_1,Types of income generally subject to tax withholding at source – Wage and salary
+CL_ISORA_TAX,86910,Use of an external auditor
+CL_ISORA_TAX,93340_472,Use of random audits -  Produce tax gap estimates
+CL_ISORA_TAX,93340_471,Use of random audits - Enhance risk profiling  systems
+CL_ISORA_TAX,93340_473,Use of random audits - Measure behavioural effects of audits
+CL_ISORA_TAX,93340_248,Use of random audits - Other uses
+CL_ISORA_TAX,93340_474,Use of random audits - Solely for audit purposes as general deterrent
+CL_ISORA_TAX,93340_470,Use of random audits - Test compliance in targetted sectors
+CL_ISORA_TAX,95650_268,Value of additional assessments raised from audits and verification actions (including penalties and interest) (in thousands in local currency)-All audits (excluded electronic compliance checks)
+CL_ISORA_TAX,85710_268,Value of additional assessments raised from audits and verification actions (including penalties and interest) (in thousands in local currency)-Electronic compliance checks
+CL_ISORA_TAX,93280_268,Value of additional assessments raised from audits and verification actions (including penalties and interest) (in thousands in local currency)-Total
+CL_ISORA_TAX,85930_268,Value of additional assessments raised from audits and verification actions by tax type (including penalties and interest) (in thousands in local currency) - CIT
+CL_ISORA_TAX,85940_268,Value of additional assessments raised from audits and verification actions by tax type (including penalties and interest) (in thousands in local currency) - PIT
+CL_ISORA_TAX,85960_268,Value of additional assessments raised from audits and verification actions by tax type (including penalties and interest) (in thousands in local currency) - PAYE
+CL_ISORA_TAX,85950_268,Value of additional assessments raised from audits and verification actions by tax type (including penalties and interest) (in thousands in local currency) - VAT
+CL_ISORA_TAX,95580,Value of all VAT ‘credits’ at year end (in thousands in local currency)
+CL_ISORA_TAX,337_097,VAT arrears as percentage of VAT collected
+CL_ISORA_TAX,337_124,VAT assessments as percentage of VAT collected
+CL_ISORA_TAX,337_087,VAT payments received on-time as a percent of payments due
+CL_ISORA_TAX,337_222,VAT payments received on-time as a percent of payments received
+CL_ISORA_TAX,337_233,Percentage of returns received on time - VAT
+CL_ISORA_TAX,337_007,VAT to total revenue collected
+CL_ISORA_TAX,99590,Voluntary disclosures - Power exists for the administration to reduce penalties
+CL_ISORA_TAX,99600,Voluntary disclosures - Power exists for the administration to reduce the amount of interest
+CL_ISORA_TAX,POPULATION,WB_Pop
+CL_ISORA_TAX,A_DOT_43N,A.43N
+CL_ISORA_TAX,A26,A26
+CL_ISORA_TAX,A5,A5
+CL_ISORA_TAX,A8,A8
+CL_ISORA_TAX,C_FC,C-FC
+CL_ISORA_TAX,C_FD,C-FD
+CL_ISORA_TAX,C_FE,C-FE
+CL_ISORA_TAX,C_FF,C-FF
+CL_ISORA_TAX,C_FG,C-FG
+CL_ISORA_TAX,C_FG_Q3,C-FG-Q3
+CL_ISORA_TAX,C_DOT_C_P,C.C-P
+CL_ISORA_TAX,C_DOT_D_P,C.D-P
+CL_ISORA_TAX,C_DOT_E_P,C.E-P
+CL_ISORA_TAX,C_DOT_F_P,C.F-P
+CL_ISORA_TAX,C_DOT_G_P,C.G-P
+CL_ISORA_TAX,D_7,D_7
+CL_ISORA_TAX,D_8,D_8
+CL_ISORA_TAX,D,Derived
+CL_ISORA_TAX,DRO,Derived ordered
+CL_ISORA_TAX,E1,E1
+CL_ISORA_TAX,E2,E2
+CL_ISORA_TAX,LC_P1,L.C-P1
+CL_ISORA_TAX,LC_P2,L.C-P2
+CL_ISORA_TAX,LC_P3,L.C-P3
+CL_ISORA_TAX,LC_P4,L.C-P4
+CL_ISORA_TAX,LC_P5,L.C-P5
+CL_ISORA_TAX,L_DOT_E_P1,L.E-P1
+CL_ISORA_TAX,L_DOT_E_P2,L.E-P2
+CL_ISORA_TAX,L_DOT_G_P1,L.G-P1
+CL_ISORA_TAX,L_DOT_G_P2,L.G-P2
+CL_ISORA_TAX,P1,P1
+CL_ISORA_TAX,P10,P10
+CL_ISORA_TAX,P11,P11
+CL_ISORA_TAX,P12,P12
+CL_ISORA_TAX,P13,P13
+CL_ISORA_TAX,P14,P14
+CL_ISORA_TAX,P15,P15
+CL_ISORA_TAX,P16,P16
+CL_ISORA_TAX,P17,P17
+CL_ISORA_TAX,P18,P18
+CL_ISORA_TAX,P19,P19
+CL_ISORA_TAX,P2,P2
+CL_ISORA_TAX,P20,P20
+CL_ISORA_TAX,P21,P21
+CL_ISORA_TAX,P22,P22
+CL_ISORA_TAX,P23,P23
+CL_ISORA_TAX,P24,P24
+CL_ISORA_TAX,P25,P25
+CL_ISORA_TAX,P26,P26
+CL_ISORA_TAX,P27,P27
+CL_ISORA_TAX,P28,P28
+CL_ISORA_TAX,P29,P29
+CL_ISORA_TAX,P3,P3
+CL_ISORA_TAX,P30,P30
+CL_ISORA_TAX,P31,P31
+CL_ISORA_TAX,P32,P32
+CL_ISORA_TAX,P33,P33
+CL_ISORA_TAX,P34,P34
+CL_ISORA_TAX,P35,P35
+CL_ISORA_TAX,P36,P36
+CL_ISORA_TAX,P37,P37
+CL_ISORA_TAX,P38,P38
+CL_ISORA_TAX,P39,P39
+CL_ISORA_TAX,P4,P4
+CL_ISORA_TAX,P40,P40
+CL_ISORA_TAX,P41,P41
+CL_ISORA_TAX,P42,P42
+CL_ISORA_TAX,P43,P43
+CL_ISORA_TAX,P44,P44
+CL_ISORA_TAX,P45,P45
+CL_ISORA_TAX,P46,P46
+CL_ISORA_TAX,P47,P47
+CL_ISORA_TAX,P48,P48
+CL_ISORA_TAX,P49,P49
+CL_ISORA_TAX,P5,P5
+CL_ISORA_TAX,P50,P50
+CL_ISORA_TAX,P51,P51
+CL_ISORA_TAX,P52,P52
+CL_ISORA_TAX,P6,P6
+CL_ISORA_TAX,P7,P7
+CL_ISORA_TAX,P8,P8
+CL_ISORA_TAX,P9,P9
+CL_ISORA_TAX,PT_INDICATORS,Percentage Indicators
+CL_ISORA_TAX,A_DOT_1,R1
+CL_ISORA_TAX,A_DOT_10,R10
+CL_ISORA_TAX,R100,R100
+CL_ISORA_TAX,R101,R101
+CL_ISORA_TAX,R102,R102
+CL_ISORA_TAX,R103,R103
+CL_ISORA_TAX,R104,R104
+CL_ISORA_TAX,R105,R105
+CL_ISORA_TAX,R106,R106
+CL_ISORA_TAX,R107,R107
+CL_ISORA_TAX,R108,R108
+CL_ISORA_TAX,R109,R109
+CL_ISORA_TAX,A_DOT_11,R11
+CL_ISORA_TAX,R110,R110
+CL_ISORA_TAX,A_DOT_12,R12
+CL_ISORA_TAX,A_DOT_13,R13
+CL_ISORA_TAX,A_DOT_14,R14
+CL_ISORA_TAX,A_DOT_15,R15
+CL_ISORA_TAX,A_DOT_16,R16
+CL_ISORA_TAX,A_DOT_17,R17
+CL_ISORA_TAX,A_DOT_7,R17A
+CL_ISORA_TAX,A_DOT_7A,R17B
+CL_ISORA_TAX,A_DOT_18,R18
+CL_ISORA_TAX,A_DOT_19,R19
+CL_ISORA_TAX,A_DOT_2,R2
+CL_ISORA_TAX,A_DOT_20,R20
+CL_ISORA_TAX,A_DOT_21,R21
+CL_ISORA_TAX,A_DOT_22,R22
+CL_ISORA_TAX,A_DOT_23,R23
+CL_ISORA_TAX,A_DOT_24,R24
+CL_ISORA_TAX,A_DOT_25,R25
+CL_ISORA_TAX,A_DOT_26,R26
+CL_ISORA_TAX,A_DOT_27,R27
+CL_ISORA_TAX,A_DOT_28,R28
+CL_ISORA_TAX,A_DOT_29,R29
+CL_ISORA_TAX,A_DOT_3,R3
+CL_ISORA_TAX,A_DOT_30,R30
+CL_ISORA_TAX,A_DOT_31,R31
+CL_ISORA_TAX,A_DOT_32,R32
+CL_ISORA_TAX,A_DOT_33,R33
+CL_ISORA_TAX,A_DOT_34,R34
+CL_ISORA_TAX,A_DOT_35,R35
+CL_ISORA_TAX,A_DOT_36,R36
+CL_ISORA_TAX,A_DOT_37,R37
+CL_ISORA_TAX,A_DOT_38,R38
+CL_ISORA_TAX,A_DOT_39,R39
+CL_ISORA_TAX,A_DOT_4,R4
+CL_ISORA_TAX,A_DOT_40,R40
+CL_ISORA_TAX,A_DOT_41,R41
+CL_ISORA_TAX,A_DOT_42,R42
+CL_ISORA_TAX,A_DOT_43,R43
+CL_ISORA_TAX,A_DOT_44,R44
+CL_ISORA_TAX,A_DOT_45,R45
+CL_ISORA_TAX,A_DOT_46,R46
+CL_ISORA_TAX,A_DOT_47,R47
+CL_ISORA_TAX,A_DOT_48,R48
+CL_ISORA_TAX,A_DOT_49,R49
+CL_ISORA_TAX,A_DOT_5,R5
+CL_ISORA_TAX,A_DOT_50,R50
+CL_ISORA_TAX,A_DOT_51,R51
+CL_ISORA_TAX,R52,R52
+CL_ISORA_TAX,R53,R53
+CL_ISORA_TAX,R54,R54
+CL_ISORA_TAX,R55,R55
+CL_ISORA_TAX,R56,R56
+CL_ISORA_TAX,R57,R57
+CL_ISORA_TAX,R58,R58
+CL_ISORA_TAX,R59,R59
+CL_ISORA_TAX,A_DOT_6,R6
+CL_ISORA_TAX,R60,R60
+CL_ISORA_TAX,R61,R61
+CL_ISORA_TAX,R62,R62
+CL_ISORA_TAX,R63,R63
+CL_ISORA_TAX,R64,R64
+CL_ISORA_TAX,R65,R65
+CL_ISORA_TAX,R66,R66
+CL_ISORA_TAX,R67,R67
+CL_ISORA_TAX,R68,R68
+CL_ISORA_TAX,R69,R69
+CL_ISORA_TAX,A7,R7
+CL_ISORA_TAX,R70,R70
+CL_ISORA_TAX,R71,R71
+CL_ISORA_TAX,R72,R72
+CL_ISORA_TAX,R73,R73
+CL_ISORA_TAX,R74,R74
+CL_ISORA_TAX,R75,R75
+CL_ISORA_TAX,R76,R76
+CL_ISORA_TAX,R77,R77
+CL_ISORA_TAX,R78,R78
+CL_ISORA_TAX,R79,R79
+CL_ISORA_TAX,A_DOT_8,R8
+CL_ISORA_TAX,R80,R80
+CL_ISORA_TAX,R81,R81
+CL_ISORA_TAX,R82,R82
+CL_ISORA_TAX,R83,R83
+CL_ISORA_TAX,R84,R84
+CL_ISORA_TAX,R85,R85
+CL_ISORA_TAX,R86,R86
+CL_ISORA_TAX,R87,R87
+CL_ISORA_TAX,R88,R88
+CL_ISORA_TAX,R89,R89
+CL_ISORA_TAX,A_DOT_9,R9
+CL_ISORA_TAX,R90,R90
+CL_ISORA_TAX,R91,R91
+CL_ISORA_TAX,R92,R92
+CL_ISORA_TAX,R93,R93
+CL_ISORA_TAX,R94,R94
+CL_ISORA_TAX,R95,R95
+CL_ISORA_TAX,R96,R96
+CL_ISORA_TAX,R97,R97
+CL_ISORA_TAX,R98,R98
+CL_ISORA_TAX,R99,R99
+CL_ISORA_TAX,RECOMPUTEINDICATORS,RecomputeIndicators
+CL_ISORA_TAX,C_FA,RFA
+CL_ISORA_TAX,C_FB,RFB
+CL_ISORA_TAX,T_DOT_E_P1,T.E-P1
+CL_ISORA_TAX,T_DOT_E_P2,T.E-P2
+CL_ISORA_TAX,T_DOT_E_P3,T.E-P3
+CL_ISORA_TAX,T_DOT_E_P4,T.E-P4
+CL_ISORA_TAX,T_DOT_E_P5,T.E-P5
+CL_ISORA_TAX,T_DOT_G_P1,T.G-P1
+CL_ISORA_TAX,TWG,TWG Indicators
+CL_ISORA_TAX,D_DOT_1,V1
+CL_ISORA_TAX,D_DOT_10,V10
+CL_ISORA_TAX,D_DOT_11,V11
+CL_ISORA_TAX,D_DOT_12,V12
+CL_ISORA_TAX,D13,V13
+CL_ISORA_TAX,D_DOT_14,V14
+CL_ISORA_TAX,D_DOT_15,V15
+CL_ISORA_TAX,D_DOT_16,V16
+CL_ISORA_TAX,D_DOT_17,V17
+CL_ISORA_TAX,D_DOT_18,V18
+CL_ISORA_TAX,D_DOT_19,V19
+CL_ISORA_TAX,D_DOT_2,V2
+CL_ISORA_TAX,D20,V20
+CL_ISORA_TAX,D_DOT_21,V21
+CL_ISORA_TAX,D_DOT_22,V22
+CL_ISORA_TAX,D_DOT_23,V23
+CL_ISORA_TAX,D_DOT_24,V24
+CL_ISORA_TAX,V25,V25
+CL_ISORA_TAX,V26,V26
+CL_ISORA_TAX,V27,V27
+CL_ISORA_TAX,V28,V28
+CL_ISORA_TAX,V29,V29
+CL_ISORA_TAX,D_DOT_3,V3
+CL_ISORA_TAX,V30,V30
+CL_ISORA_TAX,V31,V31
+CL_ISORA_TAX,V32,V32
+CL_ISORA_TAX,V33,V33
+CL_ISORA_TAX,V34,V34
+CL_ISORA_TAX,V35,V35
+CL_ISORA_TAX,V36,V36
+CL_ISORA_TAX,V37,V37
+CL_ISORA_TAX,V38,V38
+CL_ISORA_TAX,V39,V39
+CL_ISORA_TAX,D_DOT_4,V4
+CL_ISORA_TAX,V40,V40
+CL_ISORA_TAX,V41,V41
+CL_ISORA_TAX,V42,V42
+CL_ISORA_TAX,V43,V43
+CL_ISORA_TAX,V44,V44
+CL_ISORA_TAX,V45,V45
+CL_ISORA_TAX,V46,V46
+CL_ISORA_TAX,V47,V47
+CL_ISORA_TAX,V48,V48
+CL_ISORA_TAX,V49,V49
+CL_ISORA_TAX,D_DOT_5,V5
+CL_ISORA_TAX,D_DOT_6,V6
+CL_ISORA_TAX,D_DOT_7,V7
+CL_ISORA_TAX,D_DOT_8,V8
+CL_ISORA_TAX,D_DOT_9,V9
+CL_ISORA_TAX,111_204,"Percentage of tax returns - Electronic, not prefilled - CIT"
+CL_ISORA_TAX,111_206,"Percentage of tax returns - Electronic, not prefilled - PIT"
+CL_ISORA_TAX,111_208,"Percentage of tax returns - Electronic, not prefilled - VAT"
+CL_ISORA_TAX,111_100,HNWI office / program exists
+CL_ISORA_TAX,111_104,Large taxpayer office program exists
+CL_ISORA_TAX,111_203,Percentage of tax returns - Paper - CIT
+CL_ISORA_TAX,111_205,Percentage of tax returns - Paper - PIT
+CL_ISORA_TAX,111_207,Percentage of tax returns - Paper - VAT
+CL_ISORA_TAX,111_200,Percent CIT returns e-filed
+CL_ISORA_TAX,111_201,Percent PIT returns e-filed
+CL_ISORA_TAX,111_202,Percent VAT returns e-filed
+CL_ISORA_TAX,111_101,Total number of returns received - CIT
+CL_ISORA_TAX,111_102,Total number of returns received - PIT
+CL_ISORA_TAX,111_103,Total number of returns received - VAT
+CL_ISORA_TAX,337_015,Capital expenditure  as percent of operating expenditure
+CL_ISORA_TAX,337_048,"Of total recruitments in FY, percentage that were female."
+CL_ISORA_TAX,97000_1,"Of total recruitments in FY, percentage that were female"
+CL_ISORA_TAX,97150_37_1,"Number of Electronic returns, Prefilled, but prefilled data modified by taxpayer - CIT"
+CL_ISORA_TAX,97160_37_1,"Number of Electronic returns, fully prefilled, prefilled data not modified by taxpayer - CIT"
+CL_ISORA_TAX,97150_38_1,"Number of Electronic returns, Prefilled, but prefilled data modified by taxpayer - PIT"
+CL_ISORA_TAX,97160_38_1,"Number of Electronic returns, fully prefilled, prefilled data not modified by taxpayer - PIT"
+CL_ISORA_TAX,97150_40_1,"Number of Electronic returns, Prefilled, but prefilled data modified by taxpayer - PAYE"
+CL_ISORA_TAX,97160_40_1,"Number of Electronic returns, fully prefilled, prefilled data not modified by taxpayer - PAYE"
+CL_ISORA_TAX,92650_207_1,Total value of PIT withheld by third parties and subsequently paid to the administration
+CL_ISORA_TAX,97150_39_1,"Number of Electronic returns, Prefilled, but prefilled data modified by taxpayer - VAT"
+CL_ISORA_TAX,97160_39_1,"Number of Electronic returns, fully prefilled, prefilled data not modified by taxpayer - VAT"
+CL_ISORA_TAX,337_224,"Percentage of tax returns - Electronic, prefilled Total - CIT"
+CL_ISORA_TAX,337_225,"Percentage of tax returns - Electronic, prefilled Total - PIT"
+CL_ISORA_TAX,337_226,"Percentage of tax returns - Electronic, prefilled Total - PAYE"
+CL_ISORA_TAX,337_227,"Percentage of tax returns - Electronic, prefilled Total - VAT"
+CL_ISORA_TAX,337_098,Estimated percentage of total personal income tax withheld by third parties and subsequently paid to the administration.
+CL_ISORA_TAX,92280_28_1,Percentage of net revenue administered under LTO/P in relation to total net revenue collected by the tax administration.
+CL_ISORA_TAX,95430_1,All or certain taxpayers are required to use an electronic invoice mechanism for tax purposes
+CL_ISORA_TAX,1_D3,Derived3
+CL_ISORA_TAX,1_D2,Derived2
+CL_ISORA_TAX,1_D1,Derived1
+CL_ISORA_TAX,TWG_INDICATORS_2023,TWG Indicators - 2023
+CL_ISORA_TAX,TWG_INDICATORS_2024,TWG Indicators - 2024
+CL_ISORA_TAX,92475,Pay direct from computer or mobile device
+CL_ISORA_TAX,92495,Pay using a direct debit arrangement via a financial institution
+CL_ISORA_TAX,92515,Pay in-person at a financial institution/other collection agency
+CL_ISORA_TAX,92535,Pay by mailing
+CL_ISORA_TAX,92555,Pay in-person at tax administration
+CL_JURISDICTION,512,"Afghanistan, Islamic Republic of"
+CL_JURISDICTION,799,Africa not specified
+CL_JURISDICTION,914,Albania
+CL_JURISDICTION,612,Algeria
+CL_JURISDICTION,859,American Samoa
+CL_JURISDICTION,171,Andorra
+CL_JURISDICTION,614,Angola
+CL_JURISDICTION,312,Anguilla
+CL_JURISDICTION,311,Antigua and Barbuda
+CL_JURISDICTION,213,Argentina
+CL_JURISDICTION,911,"Armenia, Republic of"
+CL_JURISDICTION,314,Aruba
+CL_JURISDICTION,193,Australia
+CL_JURISDICTION,122,Austria
+CL_JURISDICTION,912,"Azerbaijan, Republic of"
+CL_JURISDICTION,313,"Bahamas, The"
+CL_JURISDICTION,419,"Bahrain, Kingdom of"
+CL_JURISDICTION,513,Bangladesh
+CL_JURISDICTION,94,Bank of Central African States
+CL_JURISDICTION,751,Bank of West African States
+CL_JURISDICTION,316,Barbados
+CL_JURISDICTION,913,Belarus
+CL_JURISDICTION,124,Belgium
+CL_JURISDICTION,339,Belize
+CL_JURISDICTION,638,Benin
+CL_JURISDICTION,319,Bermuda
+CL_JURISDICTION,514,Bhutan
+CL_JURISDICTION,218,Bolivia
+CL_JURISDICTION,357,Bonaire St Eustatius and Saba
+CL_JURISDICTION,963,Bosnia and Herzegovina
+CL_JURISDICTION,616,Botswana
+CL_JURISDICTION,871,Bouvet Island (Norway)
+CL_JURISDICTION,223,Brazil
+CL_JURISDICTION,585,British Indian Ocean Territory
+CL_JURISDICTION,379,British West Indies
+CL_JURISDICTION,516,Brunei Darussalam
+CL_JURISDICTION,918,Bulgaria
+CL_JURISDICTION,748,Burkina Faso
+CL_JURISDICTION,618,Burundi
+CL_JURISDICTION,624,Cabo Verde
+CL_JURISDICTION,522,Cambodia
+CL_JURISDICTION,622,Cameroon
+CL_JURISDICTION,156,Canada
+CL_JURISDICTION,377,Cayman Islands
+CL_JURISDICTION,626,Central African Republic
+CL_JURISDICTION,628,Chad
+CL_JURISDICTION,228,Chile
+CL_JURISDICTION,532,"China, P.R.: Hong Kong"
+CL_JURISDICTION,546,"China, P.R.: Macao"
+CL_JURISDICTION,924,"China, P.R.: Mainland"
+CL_JURISDICTION,814,Christmas Island
+CL_JURISDICTION,865,Cocos (Keeling) Islands
+CL_JURISDICTION,233,Colombia
+CL_JURISDICTION,632,Comoros
+CL_JURISDICTION,636,"Congo, Democratic Republic of"
+CL_JURISDICTION,634,"Congo, Republic of"
+CL_JURISDICTION,815,Cook Islands
+CL_JURISDICTION,238,Costa Rica
+CL_JURISDICTION,662,Côte d'Ivoire
+CL_JURISDICTION,960,Croatia
+CL_JURISDICTION,928,Cuba
+CL_JURISDICTION,354,Curacao
+CL_JURISDICTION,355,Curacao & St Maarten
+CL_JURISDICTION,423,Cyprus
+CL_JURISDICTION,935,Czech Republic
+CL_JURISDICTION,128,Denmark
+CL_JURISDICTION,611,Djibouti
+CL_JURISDICTION,321,Dominica
+CL_JURISDICTION,243,Dominican Republic
+CL_JURISDICTION,308,Eastern Caribbean Central Bank
+CL_JURISDICTION,309,Eastern Caribbean Central Union
+CL_JURISDICTION,978,Eastern Europe not specified
+CL_JURISDICTION,248,Ecuador
+CL_JURISDICTION,469,Egypt
+CL_JURISDICTION,253,El Salvador
+CL_JURISDICTION,642,Equatorial Guinea
+CL_JURISDICTION,643,Eritrea
+CL_JURISDICTION,939,Estonia
+CL_JURISDICTION,734,Eswatini
+CL_JURISDICTION,644,Ethiopia
+CL_JURISDICTION,163,Euro Area
+CL_JURISDICTION,884,Europe not specified
+CL_JURISDICTION,323,Falkland Islands
+CL_JURISDICTION,816,Faroe Islands
+CL_JURISDICTION,819,Fiji
+CL_JURISDICTION,172,Finland
+CL_JURISDICTION,132,France
+CL_JURISDICTION,887,French Polynesia
+CL_JURISDICTION,876,French Southern Territories
+CL_JURISDICTION,646,Gabon
+CL_JURISDICTION,648,"Gambia, The"
+CL_JURISDICTION,915,Georgia
+CL_JURISDICTION,134,Germany
+CL_JURISDICTION,652,Ghana
+CL_JURISDICTION,823,Gibraltar
+CL_JURISDICTION,174,Greece
+CL_JURISDICTION,326,Greenland
+CL_JURISDICTION,328,Grenada
+CL_JURISDICTION,329,Guadeloupe
+CL_JURISDICTION,258,Guatemala
+CL_JURISDICTION,333,"Guiana, French"
+CL_JURISDICTION,656,Guinea
+CL_JURISDICTION,654,Guinea Bissau
+CL_JURISDICTION,336,Guyana
+CL_JURISDICTION,263,Haiti
+CL_JURISDICTION,872,Heard Island and McDonald Isl (Aus)
+CL_JURISDICTION,268,Honduras
+CL_JURISDICTION,944,Hungary
+CL_JURISDICTION,176,Iceland
+CL_JURISDICTION,932,IMF TEST COUNTRY
+CL_JURISDICTION,534,India
+CL_JURISDICTION,536,Indonesia
+CL_JURISDICTION,429,"Iran, Islamic Republic of"
+CL_JURISDICTION,433,Iraq
+CL_JURISDICTION,178,Ireland
+CL_JURISDICTION,436,Israel
+CL_JURISDICTION,136,Italy
+CL_JURISDICTION,343,Jamaica
+CL_JURISDICTION,158,Japan
+CL_JURISDICTION,439,Jordan
+CL_JURISDICTION,916,Kazakhstan
+CL_JURISDICTION,664,Kenya
+CL_JURISDICTION,826,Kiribati
+CL_JURISDICTION,542,"Korea, Republic of"
+CL_JURISDICTION,967,"Kosovo, Republic of"
+CL_JURISDICTION,443,Kuwait
+CL_JURISDICTION,917,Kyrgyz Republic
+CL_JURISDICTION,544,Lao People's Democratic Republic
+CL_JURISDICTION,941,Latvia
+CL_JURISDICTION,446,Lebanon
+CL_JURISDICTION,666,Lesotho
+CL_JURISDICTION,668,Liberia
+CL_JURISDICTION,672,Libya
+CL_JURISDICTION,147,Liechtenstein
+CL_JURISDICTION,946,Lithuania
+CL_JURISDICTION,137,Luxembourg
+CL_JURISDICTION,674,Madagascar
+CL_JURISDICTION,676,Malawi
+CL_JURISDICTION,548,Malaysia
+CL_JURISDICTION,556,Maldives
+CL_JURISDICTION,678,Mali
+CL_JURISDICTION,181,Malta
+CL_JURISDICTION,867,"Marshall Islands, Republic of"
+CL_JURISDICTION,349,Martinique
+CL_JURISDICTION,682,Mauritania
+CL_JURISDICTION,684,Mauritius
+CL_JURISDICTION,920,Mayotte
+CL_JURISDICTION,273,Mexico
+CL_JURISDICTION,868,"Micronesia, Federated States of"
+CL_JURISDICTION,921,Moldova
+CL_JURISDICTION,948,Mongolia
+CL_JURISDICTION,943,Montenegro
+CL_JURISDICTION,351,Montserrat
+CL_JURISDICTION,686,Morocco
+CL_JURISDICTION,688,Mozambique
+CL_JURISDICTION,518,Myanmar
+CL_JURISDICTION,728,Namibia
+CL_JURISDICTION,836,Nauru
+CL_JURISDICTION,558,Nepal
+CL_JURISDICTION,138,Netherlands
+CL_JURISDICTION,353,Netherlands Antilles
+CL_JURISDICTION,196,New Zealand
+CL_JURISDICTION,278,Nicaragua
+CL_JURISDICTION,692,Niger
+CL_JURISDICTION,694,Nigeria
+CL_JURISDICTION,851,Niue
+CL_JURISDICTION,142,Norway
+CL_JURISDICTION,892,Oceania not specified
+CL_JURISDICTION,449,Oman
+CL_JURISDICTION,564,Pakistan
+CL_JURISDICTION,565,Palau
+CL_JURISDICTION,283,Panama
+CL_JURISDICTION,853,Papua New Guinea
+CL_JURISDICTION,288,Paraguay
+CL_JURISDICTION,293,Peru
+CL_JURISDICTION,566,Philippines
+CL_JURISDICTION,964,Poland
+CL_JURISDICTION,182,Portugal
+CL_JURISDICTION,453,Qatar
+CL_JURISDICTION,962,Republic of North Macedonia
+CL_JURISDICTION,812,Republika Srpska
+CL_JURISDICTION,696,Réunion
+CL_JURISDICTION,968,Romania
+CL_JURISDICTION,922,Russian Federation
+CL_JURISDICTION,714,Rwanda
+CL_JURISDICTION,862,Samoa
+CL_JURISDICTION,135,San Marino
+CL_JURISDICTION,716,São Tomé and Príncipe
+CL_JURISDICTION,456,Saudi Arabia
+CL_JURISDICTION,722,Senegal
+CL_JURISDICTION,942,"Serbia, Republic of"
+CL_JURISDICTION,718,Seychelles
+CL_JURISDICTION,724,Sierra Leone
+CL_JURISDICTION,576,Singapore
+CL_JURISDICTION,352,Sint Maarten
+CL_JURISDICTION,936,Slovak Republic
+CL_JURISDICTION,961,Slovenia
+CL_JURISDICTION,813,Solomon Islands
+CL_JURISDICTION,726,Somalia
+CL_JURISDICTION,199,South Africa
+CL_JURISDICTION,733,South Sudan
+CL_JURISDICTION,184,Spain
+CL_JURISDICTION,524,Sri Lanka
+CL_JURISDICTION,361,St. Kitts and Nevis
+CL_JURISDICTION,362,St. Lucia
+CL_JURISDICTION,364,St. Vincent and the Grenadines
+CL_JURISDICTION,732,Sudan
+CL_JURISDICTION,366,Suriname
+CL_JURISDICTION,144,Sweden
+CL_JURISDICTION,146,Switzerland
+CL_JURISDICTION,463,Syrian Arab Republic
+CL_JURISDICTION,528,Taiwan
+CL_JURISDICTION,923,Tajikistan
+CL_JURISDICTION,738,Tanzania
+CL_JURISDICTION,578,Thailand
+CL_JURISDICTION,537,"Timor-Leste, Dem. Rep. of"
+CL_JURISDICTION,742,Togo
+CL_JURISDICTION,866,Tonga
+CL_JURISDICTION,369,Trinidad and Tobago
+CL_JURISDICTION,744,Tunisia
+CL_JURISDICTION,186,"Türkiye, Rep of"
+CL_JURISDICTION,925,Turkmenistan
+CL_JURISDICTION,381,Turks and Caicos Islands
+CL_JURISDICTION,869,Tuvalu
+CL_JURISDICTION,746,Uganda
+CL_JURISDICTION,926,Ukraine
+CL_JURISDICTION,466,United Arab Emirates
+CL_JURISDICTION,112,United Kingdom
+CL_JURISDICTION,111,United States
+CL_JURISDICTION,298,Uruguay
+CL_JURISDICTION,927,Uzbekistan
+CL_JURISDICTION,846,Vanuatu
+CL_JURISDICTION,299,"Venezuela, República Bolivariana de"
+CL_JURISDICTION,582,Vietnam
+CL_JURISDICTION,NA,Virgin Islands (U.S.)
+CL_JURISDICTION,371,"Virgin Islands, British"
+CL_JURISDICTION,487,West Bank and Gaza
+CL_JURISDICTION,399,Western Hem. not specified
+CL_JURISDICTION,474,"Yemen, Republic of"
+CL_JURISDICTION,754,Zambia
+CL_JURISDICTION,698,Zimbabwe
+CL_JURISDICTION,AFR,AFR
+CL_JURISDICTION,ALL_COUNTRIES,All Countries
+CL_JURISDICTION,APD,APD
+CL_JURISDICTION,CIAT_AGGREGATES,CIAT_Aggregates
+CL_JURISDICTION,TAX_AND_CUSTOMS_COUNTRIES,Countries reporting both TAX and CUSTOMS
+CL_JURISDICTION,CUSTOMS_COUNTRIES,Countries reporting CUSTOMS
+CL_JURISDICTION,TAX_COUNTRIES,Countries reporting TAX
+CL_JURISDICTION,EAST_ASIA__PACIFIC,East Asia & Pacific
+CL_JURISDICTION,EUR,EUR
+CL_JURISDICTION,EUROPE__CENTRAL_ASIA,Europe & Central Asia
+CL_JURISDICTION,HIC_FY15,HIC_FY15
+CL_JURISDICTION,AGGREGATE_IOTA,IOTA_Aggregates
+CL_JURISDICTION,IAC,IOTA_AllCountries
+CL_JURISDICTION,ISORA_2020_COUNTRIES,ISORA_2020_Countries
+CL_JURISDICTION,ISORA_2021_COUNTRIES,ISORA_2021_Countries
+CL_JURISDICTION,ISORA_2022_COUNTRIES,ISORA_2022_Countries
+CL_JURISDICTION,ISORA2020,ISORA2020
+CL_JURISDICTION,ISORA2021,ISORA2021
+CL_JURISDICTION,ISORA2022,ISORA2022
+CL_JURISDICTION,ISORA2023,ISORA2023
+CL_JURISDICTION,ISORA2024,ISORA2024
+CL_JURISDICTION,ISORA2025,ISORA2025
+CL_JURISDICTION,LATIN_AMERICA__CARIBBEAN,Latin America & Caribbean
+CL_JURISDICTION,LIC_FY15,LIC_FY15
+CL_JURISDICTION,LMIC_FY15,LMIC_FY15
+CL_JURISDICTION,MCD,MCD
+CL_JURISDICTION,MAB,Member_ADB
+CL_JURISDICTION,MEMBER_CIAT,Member_CIAT
+CL_JURISDICTION,MEMBER_FTA,Member_FTA
+CL_JURISDICTION,MEMBER_G20,Member_G20
+CL_JURISDICTION,MEMBER_G7,Member_G7
+CL_JURISDICTION,MEMBER_IMF,Member_IMF
+CL_JURISDICTION,MEMBER_IOTA,Member_IOTA
+CL_JURISDICTION,MEMBER_OECD,Member_OECD
+CL_JURISDICTION,MEMBER_WAEMU,Member_WAEMU
+CL_JURISDICTION,MEMBER_WCO,Member_WCO
+CL_JURISDICTION,MEMEBER_EU,Memeber_EU
+CL_JURISDICTION,MGC,Mgmt_CIAT
+CL_JURISDICTION,MGI,Mgmt_IMF
+CL_JURISDICTION,MGMT_IOTA,Mgmt_IOTA
+CL_JURISDICTION,MGO,Mgmt_OECD
+CL_JURISDICTION,MIDDLE_EAST__NORTH_AFRICA,Middle East & North Africa
+CL_JURISDICTION,NORTH_AMERICA,North America
+CL_JURISDICTION,R5,R5
+CL_JURISDICTION,R5_IMF,R5_IMF
+CL_JURISDICTION,R5_IOTA,R5_IOTA
+CL_JURISDICTION,R5_OECD,R5_OECD
+CL_JURISDICTION,REGIONS,Regions
+CL_JURISDICTION,SOUTH_ASIA,South Asia
+CL_JURISDICTION,SUB_SAHARAN_AFRICA,Sub-Saharan Africa
+CL_JURISDICTION,SC,Suppress Countries
+CL_JURISDICTION,TWGC,TWG_Countries
+CL_JURISDICTION,UMIC_FY15,UMIC_FY15
+CL_JURISDICTION,WHD,WHD
