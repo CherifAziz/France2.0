@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2026-07/ES%202026%20-%20Fiche%2007%20-%20Les%20%C3%A9volutions%20des%20effectifs%20salari%C3%A9s%20du%20secteur%20hospitalier.xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T00:35:08.383117+00:00",
+  "http_status": 200,
+  "final_url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2026-07/ES%202026%20-%20Fiche%2007%20-%20Les%20%C3%A9volutions%20des%20effectifs%20salari%C3%A9s%20du%20secteur%20hospitalier.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 08 Jul 2026 10:19:58 GMT",
+  "etag": null,
+  "encoding": null,
+  "raw_path": "data\\raw\\02\\drees_es2026_f07.xlsx",
+  "bytes": 331911,
+  "sha256": "484cbb8de7148dc50a5260506a76df829e7a3232bd46cb13972df474bf89f5a8",
+  "acces": "integral"
+}

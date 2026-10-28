@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2026-07/ES%202026%20-%20Fiche%2006%20-%20Les%20postes%20de%20personnel%20non%20m%C3%A9dical%20salari%C3%A9.xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T00:35:07.558683+00:00",
+  "http_status": 200,
+  "final_url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2026-07/ES%202026%20-%20Fiche%2006%20-%20Les%20postes%20de%20personnel%20non%20m%C3%A9dical%20salari%C3%A9.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 08 Jul 2026 10:19:50 GMT",
+  "etag": null,
+  "encoding": null,
+  "raw_path": "data\\raw\\02\\drees_es2026_f06.xlsx",
+  "bytes": 326820,
+  "sha256": "7a8b3476c5bb5a6ec76b126b8171f519341154afce707729a88dcf92624971ae",
+  "acces": "integral"
+}

@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2026-07/ES%202026%20-%20Fiche%2005%20-%20Les%20postes%20de%20personnel%20m%C3%A9dical%20ou%20pharmaceutique.xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T00:35:06.717010+00:00",
+  "http_status": 200,
+  "final_url": "https://www.drees.solidarites-sante.gouv.fr/sites/default/files/2026-07/ES%202026%20-%20Fiche%2005%20-%20Les%20postes%20de%20personnel%20m%C3%A9dical%20ou%20pharmaceutique.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 08 Jul 2026 10:19:41 GMT",
+  "etag": null,
+  "encoding": null,
+  "raw_path": "data\\raw\\02\\drees_es2026_f05.xlsx",
+  "bytes": 644504,
+  "sha256": "e898f89d24e39452ac6668adeeeddf461fa937595f771aaf10675db0d0be128e",
+  "acces": "integral"
+}

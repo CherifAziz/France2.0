@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.education.gouv.fr/sites/default/files/document/chapitre-1-les-personnels-de-l-enseignement-scolaire-520471.xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T00:34:16.303057+00:00",
+  "http_status": 200,
+  "final_url": "https://www.education.gouv.fr/sites/default/files/document/chapitre-1-les-personnels-de-l-enseignement-scolaire-520471.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Tue, 15 Sep 2026 14:20:24 GMT",
+  "etag": "\"6aa95428-48123\"",
+  "encoding": null,
+  "raw_path": "data\\raw\\02\\depp_ch1_2025_2026.xlsx",
+  "bytes": 295203,
+  "sha256": "0cd62633b8d00fa7170690ddcd6ed61d76e3aa38f77c618f6bc047f895c72eeb",
+  "acces": "integral"
+}

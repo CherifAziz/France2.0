@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.education.gouv.fr/sites/default/files/document/chapitre-12-les-accompagnants-d-eleves-en-situation-de-handicap-520495.xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T00:34:18.558989+00:00",
+  "http_status": 200,
+  "final_url": "https://www.education.gouv.fr/sites/default/files/document/chapitre-12-les-accompagnants-d-eleves-en-situation-de-handicap-520495.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Tue, 15 Sep 2026 14:30:00 GMT",
+  "etag": "\"6aa95668-39ed1\"",
+  "encoding": null,
+  "raw_path": "data\\raw\\02\\depp_ch12_2025_2026.xlsx",
+  "bytes": 237265,
+  "sha256": "d4d591ecafa32b13185969f125090a15739358a9511015b6bb83b8de5ab3a73f",
+  "acces": "integral"
+}

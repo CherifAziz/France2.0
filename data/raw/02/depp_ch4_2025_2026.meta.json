@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.education.gouv.fr/sites/default/files/document/chapitre-4-les-missions-et-lieux-d-exercices-520480.xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T00:38:01.764054+00:00",
+  "http_status": 200,
+  "final_url": "https://www.education.gouv.fr/sites/default/files/document/chapitre-4-les-missions-et-lieux-d-exercices-520480.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Tue, 15 Sep 2026 14:22:39 GMT",
+  "etag": "\"6aa954af-41ece\"",
+  "encoding": null,
+  "raw_path": "data\\raw\\02\\depp_ch4_2025_2026.xlsx",
+  "bytes": 270030,
+  "sha256": "37a3c19463a3ff812874647c051bd2beed725fe824e6c4940bdf7a2ee97d7fb2",
+  "acces": "integral"
+}

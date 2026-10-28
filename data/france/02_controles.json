@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-28",
+  "nombre_lignes_metiers": 221,
+  "enseignants_siasp_2024_pp": 972918,
+  "source_DGFiP": {
+    "pdf_disponible": true,
+    "lignes_DGFiP_produites": 2,
+    "statut": "FAIT",
+    "commande_restaurer": "python -I scripts/fetch.py 'https://www.economie.gouv.fr/files/files/directions_services/dgfip/Rapport/2025/ra_2025_cahierstat.pdf' dgfip_cahier_stat2025 --out-dir data/cache/02",
+    "autre_commande": "python -I scripts/02_metiers.py --download",
+    "note": "Le PDF est restauré automatiquement avec --download. Sans le PDF et sans cette option, deux lignes DGFiP sont omises et cette absence est explicitement signalée ici."
+  },
+  "militaires_enseignants_intersection_pp": 19,
+  "panier_professions_siasp_2024_pp": 2400090,
+  "panier_terrain_strict_etabli": false,
+  "part_admin_FPT": 0.224609605368143,
+  "part_admin_FPH_total": 0.09757318449356114,
+  "part_admin_FPH_nonmedical": 0.11035365452672903,
+  "part_admin_SAE_public_nonmedical": 0.12865749262278317,
+  "part_nonsoignants_SAE_public_nonmedical": 0.32583282204107866,
+  "part_assistance_educative_dans_nonenseignants": 0.6293211213951038,
+  "part_vie_scolaire_dans_nonenseignants": 0.7007472434292769,
+  "part_administrative_dans_nonenseignants": 0.16345209630306223,
+  "somme_chiffres_revendiques_recension": 2191000,
+  "conclusion_controles": "Partitions des filières, DEPP PP/ETP, doubles comptes AED/AESH et SAE soignant/non-soignant vérifiés. Aucune partition exhaustive des tâches A/B/C/D nationale n'est construite."
+}
