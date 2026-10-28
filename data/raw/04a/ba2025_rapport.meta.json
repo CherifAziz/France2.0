@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.arbeitsagentur.de/ueber-uns/geschaeftsbericht-2025",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:34:34.501770+00:00",
+  "http_status": 200,
+  "final_url": "https://www.arbeitsagentur.de/ueber-uns/geschaeftsbericht-2025",
+  "content_type": "text/html; charset=utf-8",
+  "last_modified": null,
+  "etag": "\"mg6888d2nm4xw0\"",
+  "encoding": "utf-8",
+  "raw_path": "data\\raw\\04a\\ba2025_rapport.html",
+  "bytes": 231158,
+  "sha256": "f466eca5b659c2cb6fd76382b045b74f9ad4d66783ba5e3f462fa2172d81a72b",
+  "acces": "integral",
+  "conversion": "html2text"
+}

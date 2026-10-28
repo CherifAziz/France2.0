@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.arbeitsagentur.de/ueber-uns/geschaeftsbericht-2024",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:34:33.254746+00:00",
+  "http_status": 200,
+  "final_url": "https://www.arbeitsagentur.de/ueber-uns/geschaeftsbericht-2024",
+  "content_type": "text/html; charset=utf-8",
+  "last_modified": null,
+  "etag": "\"ktcpt15qe84vjd\"",
+  "encoding": "utf-8",
+  "raw_path": "data\\raw\\04a\\ba2024_rapport.html",
+  "bytes": 228064,
+  "sha256": "47ac2f4365ca4f8edb2c081bf44968199c7e87b52acd8f27a005bf323f4abf0a",
+  "acces": "integral",
+  "conversion": "html2text"
+}

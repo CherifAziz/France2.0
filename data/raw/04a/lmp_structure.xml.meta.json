@@ -1,0 +1,14 @@
+{
+  "source_url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.ELS.JAI/DSD_LMP@DF_LMP/1.0?references=datastructure",
+  "final_url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.ELS.JAI/DSD_LMP@DF_LMP/1.0?references=datastructure",
+  "date_consultation": "2026-10-28",
+  "http_status": 200,
+  "content_type": "application/vnd.sdmx.structure+xml; version=2.1; charset=utf-8",
+  "raw_path": "data/raw/04a/lmp_structure.xml",
+  "compression": "aucune",
+  "bytes": 12628,
+  "original_bytes": 12628,
+  "sha256": "77bf8ebb6b1b5a2777b4e3568b3fff963bc907754c2530ec5c5e85f937469d75",
+  "sha256_http_body": "77bf8ebb6b1b5a2777b4e3568b3fff963bc907754c2530ec5c5e85f937469d75",
+  "acces": "integral"
+}

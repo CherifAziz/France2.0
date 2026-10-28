@@ -1,0 +1,14 @@
+{
+  "source_url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.ELS.JAI,DSD_LMP@DF_LMP,1.0/FRA+DEU+ITA+ESP+PRT+BEL+NLD+CHE+AUT+GBR+IRL+SWE+DNK+NOR+FIN+POL+EST+CAN+USA+AUS+NZL+JPN+KOR.EXP+STO.LMP_10+LMP_11+LMP_12+LMP_13+LMP_20T70+LMP_80_90+_T.PT_B1GQ+XDC+PS+PT_LF?startPeriod=2023&endPeriod=2024",
+  "final_url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.ELS.JAI,DSD_LMP@DF_LMP,1.0/FRA+DEU+ITA+ESP+PRT+BEL+NLD+CHE+AUT+GBR+IRL+SWE+DNK+NOR+FIN+POL+EST+CAN+USA+AUS+NZL+JPN+KOR.EXP+STO.LMP_10+LMP_11+LMP_12+LMP_13+LMP_20T70+LMP_80_90+_T.PT_B1GQ+XDC+PS+PT_LF?startPeriod=2023&endPeriod=2024",
+  "date_consultation": "2026-10-28",
+  "http_status": 200,
+  "content_type": "application/vnd.sdmx.data+csv; labels=both; charset=utf-8",
+  "raw_path": "data/raw/04a/lmp_selection_2023_2024.csv.gz",
+  "compression": "gzip sans perte, mtime=0",
+  "bytes": 6935,
+  "original_bytes": 165251,
+  "sha256": "63e2ab32f6695de2585a242382ab98813d77675203421a2f353e90e771eec39b",
+  "sha256_http_body": "5acc4831a1907309dee6764b0da73b418cfb52c70099c8dcacbe965d0db7409e",
+  "acces": "integral"
+}

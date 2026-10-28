@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/06/the-world-of-public-employment-services-2026_781934e6/4aebd080-en.pdf",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:26:52.967636+00:00",
+  "http_status": 200,
+  "final_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/06/the-world-of-public-employment-services-2026_781934e6/4aebd080-en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Sun, 07 Jun 2026 00:19:40 GMT",
+  "etag": "\"0x8DEC42A77A2DC8A\"",
+  "encoding": null,
+  "raw_path": "data\\cache\\04a\\world_public_employment_services_2026.pdf",
+  "bytes": 43127597,
+  "sha256": "28b1e2f9da5cf4b3411b45ae8a7d24670956e35537190d55343e562ba9824ea2",
+  "acces": "integral",
+  "pages": 517,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

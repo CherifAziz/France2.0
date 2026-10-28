@@ -1,0 +1,16 @@
+{
+  "source_url": "https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:34:33.251732+00:00",
+  "http_status": 200,
+  "final_url": "https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten",
+  "content_type": "text/html; charset=utf-8",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "utf-8",
+  "raw_path": "data\\raw\\04a\\uwv2024_comptes.html",
+  "bytes": 222955,
+  "sha256": "000d0bf757d05fc9895917b61ac28b8a762f15f8a515ef05dfe097200eb6d105",
+  "acces": "integral",
+  "conversion": "html2text"
+}

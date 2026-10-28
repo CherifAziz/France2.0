@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.francetravail.org/files/live/sites/peorg/files/documents/Publications/Rapport%20annuel/rapport_annuel_2024",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:34:35.715236+00:00",
+  "http_status": 200,
+  "final_url": "https://www.francetravail.org/files/live/sites/peorg/files/documents/Publications/Rapport%20annuel/rapport_annuel_2024",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 15 Sep 2025 13:08:40 GMT",
+  "etag": "\"1441e917-f892-4301-a84b-1900da4b534c-1757941721871:dtagent10345260810170330ARD3\"",
+  "encoding": null,
+  "raw_path": "data\\cache\\04a\\france_travail_2024.pdf",
+  "bytes": 11185116,
+  "sha256": "cefe91a5b05d1d15a7a31344e6dbb858151ea0b7e26dd6b830ce3c3ab8dc23ec",
+  "acces": "integral",
+  "pages": 64,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

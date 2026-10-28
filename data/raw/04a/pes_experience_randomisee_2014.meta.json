@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.povertyactionlab.org/sites/default/files/research-paper/87%20Private%20and%20Public%20Provision%20of%20Counseling%20to%20Job%20Seekers.pdf",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:39:21.174792+00:00",
+  "http_status": 200,
+  "final_url": "https://www.povertyactionlab.org/sites/default/files/research-paper/87%20Private%20and%20Public%20Provision%20of%20Counseling%20to%20Job%20Seekers.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 10 Jun 2020 03:30:01 GMT",
+  "etag": "\"5ee053b9-a6346\"",
+  "encoding": null,
+  "raw_path": "data\\cache\\04a\\pes_experience_randomisee_2014.pdf",
+  "bytes": 680774,
+  "sha256": "5b426bf2f9ab9c7ab9a9f188b7ab87ab1f173777d5cf25cf52832c9e55ccbac4",
+  "acces": "integral",
+  "pages": 33,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

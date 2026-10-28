@@ -1,0 +1,637 @@
+[Ga naar website navigation](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#page-nav) [Ga naar artikel navigatie](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#page-aside) [Ga naar inhoud](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#page-content)
+
+[ UWV - UWV jaarverslag 2024 ![](/Assets/dist/svg/uwv-logo.svg) ](/ "Terug naar homepage")
+
+[ UWV - UWV jaarverslag 2024 ![](/Assets/dist/svg/uwv-logo.svg) ](/ "Terug naar homepage")
+
+  * [Update 2](/actuele-update-2//voorwoord/)
+  * [Update 1](/actuele-update-1//voorwoord/)
+  * [Jaarverslag 2024](/jaarverslag-2024//voorwoord/)
+  * [Jaarverslag 2024 op hoofdlijnen](/jaarverslag-2024-op-hoofdlijnen//voorwoord/)
+  * [UWV in cijfers](/uwv-in-cijfers/financieel/fondsvermogen-baten-en-lasten/)
+  * [Downloads](/downloads)
+  * [ Mijn verslag ](/mijnverslag/)
+  * [ Search ](/zoeken/ "Ga naar de zoekpagina")
+
+
+
+menu   __
+
+Contentnavigatie
+
+De pagina ververst bij het selecteren van een onderwerp.
+
+[Sla artikel navigatie over.](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#page-content)
+
+  * [ ](/jaarverslag-2024)
+    * [ Voorwoord ](/jaarverslag-2024//voorwoord)
+    * [ Infographic ](/jaarverslag-2024//infographic)
+    * [ Prestatie-indicatoren ](/jaarverslag-2024//prestatieindicatoren)
+      * [ Kwantitatieve prestatie‑indicatoren ](/jaarverslag-2024//prestatieindicatoren/kwantitatieve-prestatieindicatoren)
+      * [ Kwalitatieve prestatie‑indicatoren ](/jaarverslag-2024//prestatieindicatoren/kwalitatieve-prestatieindicatoren)
+    * [ Werken aan dienstverlening ](/jaarverslag-2024//werken-aan-dienstverlening)
+      * [ Arbeidsbemiddeling en uitstroom naar werk ](/jaarverslag-2024//werken-aan-dienstverlening/arbeidsbemiddeling-en-uitstroom-naar-werk)
+      * [ Voorzieningen en re-integratiediensten ](/jaarverslag-2024//werken-aan-dienstverlening/voorzieningen-en-reintegratiediensten)
+      * [ Inkomenszekerheid bieden ](/jaarverslag-2024//werken-aan-dienstverlening/inkomenszekerheid-bieden)
+      * [ Sociaal‑medische dienstverlening ](/jaarverslag-2024//werken-aan-dienstverlening/sociaalmedische-dienstverlening)
+      * [ Verbeteringen in onze dienstverlening ](/jaarverslag-2024//werken-aan-dienstverlening/verbeteringen-in-onze-dienstverlening)
+      * [ Meer menselijke maat en maatwerk ](/jaarverslag-2024//werken-aan-dienstverlening/meer-menselijke-maat-en-maatwerk)
+      * [ Handhavingsinzet ](/jaarverslag-2024//werken-aan-dienstverlening/handhavingsinzet)
+      * [ Gegevensdienstverlening ](/jaarverslag-2024//werken-aan-dienstverlening/gegevensdienstverlening)
+      * [ We kunnen het niet alleen ](/jaarverslag-2024//werken-aan-dienstverlening/we-kunnen-het-niet-alleen)
+    * [ Werken aan een sterk en flexibel fundament ](/jaarverslag-2024//werken-aan-een-sterk-en-flexibel-fundament)
+      * [ Fouten voorkomen ](/jaarverslag-2024//werken-aan-een-sterk-en-flexibel-fundament/fouten-voorkomen)
+      * [ Personeel ](/jaarverslag-2024//werken-aan-een-sterk-en-flexibel-fundament/personeel)
+      * [ Waarden en omgangsvormen ](/jaarverslag-2024//werken-aan-een-sterk-en-flexibel-fundament/waarden-en-omgangsvormen)
+      * [ IT, informatiebeveiliging en privacy, bedrijfscontinuiteitsmanagement en gegevensverwerking ](/jaarverslag-2024//werken-aan-een-sterk-en-flexibel-fundament/it-informatiebeveiliging-en-privacy-bedrijfscontinuiteitsmanagement-en-gegevensverwerking)
+      * [ Kennisprojecten sociale zekerheid, arbeidsmarkt en dienstverlening ](/jaarverslag-2024//werken-aan-een-sterk-en-flexibel-fundament/kennisprojecten-sociale-zekerheid-arbeidsmarkt-en-dienstverlening)
+    * [ Beheersing van kosten en risico’s ](/jaarverslag-2024//beheersing-van-kosten-en-risicos)
+      * [ Doelmatigheid ](/jaarverslag-2024//beheersing-van-kosten-en-risicos/doelmatigheid)
+      * [ Huisvesting ](/jaarverslag-2024//beheersing-van-kosten-en-risicos/huisvesting)
+      * [ Risicobeheersing ](/jaarverslag-2024//beheersing-van-kosten-en-risicos/risicobeheersing)
+      * [ Voorkomen van fraude binnen UWV ](/jaarverslag-2024//beheersing-van-kosten-en-risicos/voorkomen-van-fraude-binnen-uwv)
+      * [ Beleid misbruik en oneigenlijk gebruik ](/jaarverslag-2024//beheersing-van-kosten-en-risicos/beleid-misbruik-en-oneigenlijk-gebruik)
+      * [ Resultaten beheersmaatregelen NOW ](/jaarverslag-2024//beheersing-van-kosten-en-risicos/resultaten-beheersmaatregelen-now)
+      * [ Toekomstparagraaf ](/jaarverslag-2024//beheersing-van-kosten-en-risicos/toekomstparagraaf)
+    * [ Rechtmatigheid ](/jaarverslag-2024//rechtmatigheid)
+      * [ UWV en de algemene beginselen van behoorlijk bestuur ](/jaarverslag-2024//rechtmatigheid/uwv-en-de-algemene-beginselen-van-behoorlijk-bestuur)
+      * [ Het financiele rechtmatigheidsonderzoek ](/jaarverslag-2024//rechtmatigheid/het-financiele-rechtmatigheidsonderzoek)
+      * [ Financiele rechtmatigheid uitkeringsverstrekking ](/jaarverslag-2024//rechtmatigheid/financiele-rechtmatigheid-uitkeringsverstrekking)
+    * [ Governance ](/jaarverslag-2024//governance)
+      * [ Raad van bestuur ](/jaarverslag-2024//governance/raad-van-bestuur)
+      * [ Advies- en controleorganen UWV ](/jaarverslag-2024//governance/advies-en-controleorganen-uwv)
+      * [ Relatie met het ministerie van SZW ](/jaarverslag-2024//governance/relatie-met-het-ministerie-van-szw)
+    * [ Jaarrekening ](/jaarverslag-2024//jaarrekening)
+      * [ Balans per 31 december 2024 ](/jaarverslag-2024//jaarrekening/balans-per-31-december-2024)
+      * [ Staat van baten en lasten over 2024 ](/jaarverslag-2024//jaarrekening/staat-van-baten-en-lasten-over-2024)
+      * [ Kasstroomoverzicht over 2024 ](/jaarverslag-2024//jaarrekening/kasstroomoverzicht-over-2024)
+      * [ Algemene toelichting ](/jaarverslag-2024//jaarrekening/algemene-toelichting)
+      * [ Grondslagen voor waardering en resultaatbepaling ](/jaarverslag-2024//jaarrekening/grondslagen-voor-waardering-en-resultaatbepaling)
+      * [ Toelichting op de balans ](/jaarverslag-2024//jaarrekening/toelichting-op-de-balans)
+      * [ Toelichting op de staat van baten en lasten ](/jaarverslag-2024//jaarrekening/toelichting-op-de-staat-van-baten-en-lasten)
+  * [ Overige gegevens ](/jaarverslag-2024/overige-gegevens)
+    * [ Controleverklaring van de onafhankelijke accountant ](/jaarverslag-2024/overige-gegevens/controleverklaring-van-de-onafhankelijke-accountant)
+    * [ Regeling omtrent verwerking saldo baten en lasten ](/jaarverslag-2024/overige-gegevens/regeling-omtrent-verwerking-saldo-baten-en-lasten)
+    * [ Statutaire zeggenschap raad van bestuur ](/jaarverslag-2024/overige-gegevens/statutaire-zeggenschap-raad-van-bestuur)
+  * [ Lijst van afkortingen ](/jaarverslag-2024/lijst-van-afkortingen)
+
+
+
+[ Home ](/) [ Jaarverslag 2024 ](/jaarverslag-2024) [ Jaarrekening ](/jaarverslag-2024//jaarrekening) Toelichting op de staat van baten en lasten
+
+# Toelichting op de staat van baten en lasten
+
+##  Baten wettelijke taken sociale verzekeringen 
+
+###  Premiebaten (11) 
+
+De premiebaten bestaan nagenoeg geheel uit premiebaten over het premiejaar 2024 en voor een klein deel uit gerealiseerde premiebaten over oudere premiejaren. De hoogte van de premiebaten wordt beinvloed door de hoogte van de premieloonsommen, de vastgestelde premiepercentages en de overgang van werkgevers van en naar het eigenrisicodragerschap. De premiebaten kunnen als volgt worden gespecificeerd:
+
+####  Tabel Premiebaten 
+
+Bedragen x € 1 miljoen| 2024| 2023  
+---|---|---  
+Basispremie WAO/WIA (Aof)| 24.970| 21.940  
+Gedifferentieerde premie Whk| 2.323| 2.516  
+Premie WW-AWf| 10.073| 9.549  
+Ufo-premie| 501| 455  
+ |  |    
+Totaal| 37.867| 34.460  
+  
+In de volgende tabel zijn de ontwikkelingen in de vastgestelde premiepercentages per wet ten opzichte van 2023 weergegeven.
+
+####  Tabel Premiepercentages 
+
+ | 2024| 2023  
+---|---|---  
+Premie WAO/WIA (Aof) hoog| 7,54%| 7,11%  
+Premie WAO/WIA (Aof) laag| 6,18%| 5,82%  
+Gedifferentieerde premie Whk| 1,22%| 1,53%  
+Premie WW-AWf hoog| 7,64%| 7,64%  
+Premie WW-AWf laag| 2,64%| 2,64%  
+Ufo-premie| 0,68%| 0,68%  
+  
+Het ministerie van Sociale Zaken en Werkgelegenheid (SZW) stelt de basispremie WAO/WIA, de premie WW‑AWf en de Ufo‑premie vast. Daarbij wordt geen rekening gehouden met de door UWV verwachte fondsvermogens. De gedifferentieerde premies Whk stelt UWV vast.
+
+Het Whk-premiepercentage is het rekenpercentage voor de WGA en Ziektewet‑flex. De premiedelen WGA en Ziektewet‑flex worden betaald door werkgevers die bij UWV verzekerd zijn. Voor deze premiedelen kunnen werkgevers ook kiezen voor het eigenrisicodragerschap.
+
+Voor meer informatie verwijzen we naar onze [Januarinota 2025\. Ontwikkeling wetten en fondsen UWV 2024–2025](https://www.uwv.nl/nl/publicaties/financiele-nota/2025/januarinota-2025).
+
+###  Rijksbijdragen (12) 
+
+De rijksbijdragen per fonds zijn als volgt:
+
+####  Tabel Rijksbijdragen 
+
+_Bedragen x € 1 miljoen_|  Programmakosten| Uitvoeringskosten| Totaal  
+---|---|---|---  
+ | 2024| 2023| 2024| 2023| 2024| 2023  
+Afj| 4.410| 4.104| 363| 320| 4.773| 4.424  
+Toeslagenfonds| 850| 791| 3| 4| 853| 795  
+Aof| 109| 101| 3| 2| 112| 103  
+AWf inzake NOW| 134| 1.156| 18| 25| 152| 1.181  
+AWf overig| 3| 110| 90| 98| 93| 208  
+ |  |  |  |  |  |    
+Totaal| 5.506| 6.262| 477| 449| 5.983| 6.711  
+  
+##  Programmakosten 
+
+Wij rubriceren de lasten onder de wet waarin ze zijn geregeld.
+
+####  Tabel Lasten naar wet 
+
+Bedragen x € 1 miljoen| Uitkeringen| Sociale lasten| Overige baten en lasten*****|  Uitvoerings-kosten******|  Totaal  
+---|---|---|---|---|---  
+ | 2024| 2023| 2024| 2023| 2024| 2023| 2024| 2023| 2024| 2023  
+Arbeidsongeschiktheid|  |  |  |  |  |  |  |  |  |    
+WAO| 3.228| 3.314| 552| 568| -243| -251| 75| 68| 3.612| 3.699  
+WIA/IVA| 5.508| 4.781| 980| 838| -395| -388| 158| 112| 6.251| 5.343  
+WIA/WGA| 5.208| 4.246| 925| 752| -179| -183| 816| 713| 6.770| 5.528  
+WAZ| 74| 79| 4| 5| -5| 0| 3| 3| 76| 87  
+Wajong| 4.127| 3.828| 266| 250| 50| 54| 359| 316| 4.802| 4.448  
+ |  |  |  |  |  |  |  |  |  |    
+Werkloosheid|  |  |  |  |  |  |  |  |  |    
+WW| 3.418| 2.906| 630| 529| -35| 66| 761| 740| 4.774| 4.241  
+IOW| 104| 104| 7| 6| 0| 0| 2| 2| 113| 112  
+ |  |  |  |  |  |  |  |  |  |    
+Ziekte en zorg|  |  |  |  |  |  |  |  |  |    
+Ziektewet| 2.470| 2.205| 448| 397| -156| 28| 396| 436| 3.158| 3.066  
+Wazo| 2.477| 2.769| 439| 491| -164| 1| 9| 9| 2.761| 3.270  
+Wazo/ZEZ| 103| 94| 7| 6| 0| 0| 2| 2| 112| 102  
+ |  |  |  |  |  |  |  |  |  |    
+Overig|  |  |  |  |  |  |  |  |  |    
+Compensatie  
+transitievergoeding| 2| -| -| -| 593| 545| 0| 0| 595| 545  
+Toeslagenwet| 385| 369| 72| 63| 0| 0| 0| 0| 457| 432  
+Leefdomein Wmo| -| -| -| -| 17| 15| 1| 1| 18| 16  
+WOOS| -| -| -| -| 32| 30| 3| 3| 35| 33  
+Subsidieregeling  
+STAP-budget| -| -| -| -| -3| 106| 3| 12| 0| 118  
+Kaderwet  
+SZW-subsidies:|  |  |  |  |  |  |  |  |  |    
+NOW 1| -| -| -| -| 1| 47| 0| 1| 1| 48  
+NOW 2| -| -| -| -| 16| 162| 1| 4| 17| 166  
+NOW 3.1| -| -| -| -| 21| 102| 3| 2| 24| 104  
+NOW 3.2| -| -| -| -| 39| 188| 2| 8| 41| 196  
+NOW 3.3| -| -| -| -| 19| 184| 1| 7| 20| 191  
+NOW 4| -| -| -| -| 7| 72| 3| 2| 10| 74  
+NOW 5| -| -| -| -| 7| 48| 4| 0| 11| 48  
+NOW 6| -| -| -| -| 24| 353| 5| 1| 29| 354  
+Overig***| -| -| -| -| 4| 1| 4| 3| 8| 4  
+Wet_BO| -| -| -| -| 19| 18| -| -| 19| 18  
+ |  |  |  |  |  |  |  |  |  |    
+Totaal| 27.104| 24.695| 4.330| 3.905| -331| 1.198| 2.611| 2.445| 33.714| 32.243  
+  
+  * *Inclusief rentebaten en ‑lasten.
+  * **Inclusief netto‑omzet uitvoeringskosten.
+  * ***Betreft het scholingsbudget WW en de aanvullende dienstverlening.
+
+
+
+###  Uitkeringen (13) 
+
+De uitkeringen zijn inclusief vakantiegelden; ze zijn per 1 januari 2024 met 3,73% en per 1 juli 2024 met 3,10% geindexeerd.
+
+De vorming dan wel vrijval van de voorzieningen voor uitkeringsdebiteuren en oninbare faillissementsvorderingen uit hoofde van loondoorbetaling is opgenomen onder de uitkeringen respectievelijk de sociale lasten.
+
+De op overheidswerkgevers verhaalde WW‑uitkeringen en sociale lasten zijn in mindering gebracht op respectievelijk de uitkeringen en de sociale lasten. Deze uitkeringen worden verantwoord in het Ufo. Voor 2024 bedroeg het verhaal op overheidswerkgevers inzake uitkeringen € 211 miljoen (2023: € 179 miljoen) en inzake sociale lasten € 33 miljoen (2023: € 28 miljoen).
+
+De op eigenrisicodragende werkgevers verhaalde WGA‑uitkeringen en sociale lasten zijn ook in mindering gebracht op respectievelijk de uitkeringen en de sociale lasten. Die uitkeringen worden verantwoord in de Whk. Voor 2024 bedroeg het verhaal inzake uitkeringen € 528 miljoen (2023: € 448 miljoen) en inzake sociale lasten € 87 miljoen (2023: € 72 miljoen).
+
+De WAO is in 2005 beeindigd. Voor de WAO is de WIA in de plaats gekomen. Het aantal WAO‑uitkeringen neemt sindsdien af doordat er geen nieuwe uitkeringen meer bij komen.
+
+De WIA-uitkeringen (IVA en WGA samen) zijn gestegen van € 9.027 miljoen in 2023 naar € 10.716 miljoen in 2024 (18,7%). Hiervan is een groot deel toe te rekenen aan indexeringen. Daarnaast neemt de instroom in de WIA geleidelijk toe, mede als gevolg van de stijging van de pensioenleeftijd. Oudere werknemers hebben immers een hogere instroomkans in de WIA. Ten slotte zijn in de WIA‑uitkeringen in 2024 dotaties aan de voorzieningen Verbeteraanpak WIA 2020–2024 (programmakosten) en loonloze tijdvakken verantwoord van in totaal € 226 miljoen.
+
+De WAZ is in 2004 beeindigd. Het aantal WAZ‑uitkeringen neemt sindsdien af doordat er geen nieuwe uitkeringen meer bij komen.
+
+De stijging van de WW‑uitkeringen van € 2.906 miljoen in 2023 naar € 3.418 miljoen in 2024 (17,6%) wordt veroorzaakt door de conjuncturele ontwikkelingen op de arbeidsmarkt en indexeringen.
+
+De afname van de lasten bij de Wazo van € 2.769 miljoen in 2023 naar € 2.477 miljoen in 2024 (10,6%) wordt vooral veroorzaakt door een vrijval van de voorziening Wazo/Wbo van € 168 miljoen in 2024\. Daarnaast is de dotatie aan deze voorziening in 2024 € 158 miljoen lager dan in 2023\. Voor een verdere toelichting verwijzen wij naar paragraaf Toelichting op de balans onder het kopje [Voorzieningen programmakosten (8)](/jaarverslag-2024//jaarrekening/toelichting-op-de-balans#voorz_programmakst).
+
+De stijging bij de Toeslagenwet met € 16 miljoen (4,3%) is voornamelijk het gevolg van de volumeontwikkelingen van de wetten waar de toeslag op verstrekt wordt en van indexeringen.
+
+###  Sociale lasten (14) 
+
+De sociale werkgeverslasten volgen de uitkeringen naar wet‑ en fondsindeling.
+
+###  NOW-subsidies (15) 
+
+De NOW bestaat uit zes regelingen, waarbij de NOW 3 uit drie aanvraagperiodes bestaat. De opbouw van de NOW‑lasten per regeling en per component is opgenomen in de onderstaande tabel NOW‑subsidies. Naast de NOW‑subsidies is onder de Overige baten en lasten een bedrag van € 94 miljoen (2023: € 68 miljoen) aan rentebaten opgenomen in verband met de amortisatie van de NOW‑vorderingen met een betalingsregeling.
+
+####  Tabel NOW-subsidies 
+
+Bedragen x € 1 miljoen| NOW 1| NOW 2| NOW 3.1| NOW 3.2| NOW 3.3| NOW 4| NOW 5| NOW 6| Totaal  
+---|---|---|---|---|---|---|---|---|---  
+Ramingsverschillen en correcties op vastgestelde en nog vast te stellen vorderingen| -9| -6| -12| -13| -14| -12| -10| -12| -87  
+Ramingsverschillen en correcties op vastgestelde en nog vast te stellen nabetalingen| 1| 0| 4| 11| 3| 3| -2| 2| 20  
+Dotatie aan voorziening wegens oninbare vorderingen| 23| 22| 24| 26| 21| 13| 15| 24| 169  
+Lasten bij bezwaar of beroep als gevolg van definitieve vaststelling| 3| 20| 19| 33| 20| 8| 6| 11| 121  
+Initiele waardering vorderingen met een betalingsregeling| -2| -1| -1| -1| 1| 1| 2| 4| 4  
+ |  |  |  |  |  |  |  |  |    
+Totaal| 16| 35| 34| 57| 33| 14| 11| 29| 228  
+  
+De ramingsverschillen en correcties op vastgestelde en nog vast te stellen vorderingen en nabetalingen bestaan uit de verschillen tussen de geraamde subsidies die in de jaarrekening 2023 zijn verantwoord en de vaststellingen in het verslagjaar 2024 respectievelijk de herberekening van de reguliere werkvoorraad per ultimo 2024\. Ultimo 2024 moeten er nog 1.598 ontvangen aanvragen definitief vastgesteld worden. De aanvragen die al zijn vastgesteld op balansdatum worden verantwoord op basis van de realisaties. De nog niet definitief vastgestelde subsidies zijn berekend op basis van de bij UWV bekende relevante loonsommen en het door de werkgever opgegeven omzetverliespercentage op de ingediende vaststellingsaanvraag.
+
+De dotatie aan de voorziening wegens oninbare vorderingen heeft betrekking op de vorderingen zonder betalingsregeling. De lasten bij bezwaar of beroep betreffen correcties op vaststellingen als gevolg van bezwaar‑ en/of beroepszaken. De initiele waardering van vorderingen met een betalingsregeling zijn lasten die voortvloeien uit de initiele waardering van de terug te vorderen subsidies waarbij sprake is van een overeengekomen betalingsregeling tussen UWV en de werkgever. Zie ook paragraaf Toelichting op de balans onder het kopje [Financiele vaste activa (2)](/jaarverslag-2024//jaarrekening/toelichting-op-de-balans#financiele_vaste_activa).
+
+Bedrijven die geen vaststellingsaanvraag indienen krijgen een ambtshalve nihilstelling. Bij een ambtshalve nihilstelling wordt het gehele bedrag aan subsidievoorschot teruggevorderd, ook bij voorschotten kleiner dan € 500\. De ongeveer 32.500 ambtshalve nihilstellingen hebben (na aanpassingen van de subsidie als gevolg van bezwaar en beroep) geleid tot terugvorderingen voor een totaalbedrag van € 982 miljoen. Hiervan was eind 2024 € 496 miljoen afgewikkeld. Bij de ambtshalve nihilstelllingen worden relatief veel meer vorderingen overgedragen aan faillissementsvorderingen en vinden er relatief hogere afboekingen plaats als gevolg van oninbaarheid. Voor een verdere toelichting verwijzen we naar paragraaf [Resultaten beheersmaatregelen NOW](/jaarverslag-2024//beheersing-van-kosten-en-risicos/resultaten-beheersmaatregelen-now).
+
+Nadat in oktober 2023 voor de laatste twee NOW‑regelingen de ambtshalve nihilstellingen waren uitgevoerd, bleef er ultimo 2023 een restgroep over van 1.894 gevallen waarbij geen vaststellingsaanvraag is ingediend en ook nog geen ambtshalve nihilstelling kon worden gedaan. Het betreft gevallen waarin onduidelijk was of de werkgever nog bestaat/actief is, of waarin het bedrijf beeindigd is en er (nog) geen rechtsopvolger is die kan worden aangesproken. Hiermee is een oorspronkelijk bedrag aan subsidievoorschot gemoeid van circa € 66 miljoen. In 2024 zijn deze dossiers voor zover mogelijk afgehandeld. Van alle werkgevers wordt met informatie van de Kamer van Koophandel individueel gecontroleerd of er een rechtsopvolger bekend is. Een dergelijke controle doen we minimaal vier keer per dossier voordat we tot definitieve afboeking overgaan. We stellen de subsidie alsnog ambtshalve op nihil in situaties waarin wordt geconcludeerd dat de werkgever nog bestaat/actief is of waarin er een rechtsopvolger blijkt te zijn. In 2024 hebben we van deze restgroep inmiddels 783 gevallen afgehandeld:
+
+  * In 426 gevallen hebben we het subsidievoorschot afgeboekt zonder tussenkomst van de werkgever; hiermee is een bedrag gemoeid van circa € 12,3 miljoen. Dit doen we bijvoorbeeld in gevallen waarin er al sprake is van een volledig afgehandeld faillissement.
+
+  * In 357 gevallen is alsnog een vordering ingesteld, waarmee een subsidievoorschot gemoeid is van € 25,2 miljoen. Het grootste deel daarvan, voor een bedrag van € 22,3 miljoen, betreft nihilstellingen. Hierop is in 2024 circa € 5,3 miljoen ontvangen en circa € 3,1 miljoen is alsnog afgeboekt in verband met faillissementen. Het openstaand saldo op deze vorderingen bedraagt ultimo 2024 € 13,9 miljoen.
+
+
+
+
+De restgroep bestaat ultimo 2024 uit 1.111 dossiers, waarmee een oorspronkelijk bedrag aan subsidievoorschot is gemoeid van circa € 29 miljoen. Hiervan wordt nogmaals gecontroleerd of er een rechtsopvolger gevonden kan worden voordat die subsidievoorschotten definitief worden afgeboekt. Indien er vermoedens zijn van onjuist handelen of fraude, dan informeren we onze ketenpartners.
+
+_Vaststellingspercentages_
+
+Het vaststellingspercentage geeft de verhouding weer tussen de definitieve vastgestelde NOW‑subsidie ten opzichte van het maximum dat bij de aanvraag van de subsidie is verleend. In onderstaande tabel zijn de vaststellingspercentages weergegeven van de subsidies die tot en met december 2024 zijn vastgesteld.
+
+####  Tabel NOW-vaststellingspercentages 
+
+Bedragen x € 1 miljoen|  | NOW 1| NOW 2| NOW 3.1| NOW 3.2| NOW 3.3| NOW 4| NOW 5| NOW 6| Totaal  
+---|---|---|---|---|---|---|---|---|---|---  
+Toegekend|  |  |  |  |  |  |  |  |  |    
+Subsidie 100%|  | 9.106| 5.118| 3.510| 4.064| 2.514| 1.335| 1.146| 1.498| 28.292  
+Uitbetaald voorschot 80% (onder aftrek van intrekkingen)|  | 7.285| 4.094| 2.808| 3.252| 2.011| 1.068| 919| 1.198| 22.636  
+ |  |  |  |  |  |  |  |  |  |    
+Gedeelte toekenningen waarop inmiddels is vastgesteld|  |  |  |  |  |  |  |  |  |    
+Subsidie 100%| A| 9.067| 5.075| 3.469| 4.026| 2.477| 1.295| 1.126| 1.469| 28.003  
+Bijbehorend voorschot 80%|  | 7.254| 4.060| 2.775| 3.221| 1.982| 1.036| 900| 1.175| 22.403  
+ |  |  |  |  |  |  |  |  |  |    
+Nog vast te stellen*|  |  |  |  |  |  |  |  |  |    
+Subsidie 100%|  | 39| 42| 41| 39| 37| 41| 21| 29| 289  
+Bijbehorend voorschot 80%|  | 31| 34| 33| 31| 29| 33| 19| 23| 233  
+ |  |  |  |  |  |  |  |  |  |    
+Definitief vastgestelde subsidie|  |  |  |  |  |  |  |  |  |    
+Voorschot m.b.t. vastgestelde subsidie|  | 7.254| 4.060| 2.775| 3.221| 1.982| 1.036| 900| 1.175| 22.403  
+Teruggevorderd tot en met december 2024|  | -2.612| -1.675| -623| -798| -555| -271| -164| -228| -6.925  
+Nabetaald tot en met december 2024|  | 514| 395| 600| 538| 274| 211| 202| 271| 3.005  
+ |  |  |  |  |  |  |  |  |  |    
+Definitief vastgestelde subsidie| B| 5.156| 2.781| 2.753| 2.961| 1.700| 975| 939| 1.218| 18.483  
+ |  |  |  |  |  |  |  |  |  |    
+Vaststellingspercentage| = B/A| 57%| 55%| 79%| 74%| 69%| 75%| 83%| 83%| 66%  
+  
+  * *_Dit betreft voornamelijk de reguliere werkvoorraad van circa 1.600 ontvangen aanvragen die nog definitief vastgesteld moeten worden_.
+
+
+
+###  Overige baten en lasten (16) 
+
+De overige baten en lasten kunnen als volgt worden gespecificeerd:
+
+####  Tabel Overige baten en lasten 
+
+Bedragen x € 1 miljoen| 2024| 2023  
+---|---|---  
+Overige baten|  |  |  |    
+Ontvangsten uit regreszaken| 55|  | 74|    
+Rentebaten niet voortvloeiend uit rekening-courant Financien| 117|  | 78|    
+Boetes| 5|  | 6|    
+Subsidies aanvullende dienstverlening| 3|  | 3|    
+Baten ESF inzake re-integratie| 20|  | 10|    
+Diverse overige baten| 0|  | 0|    
+ |  | 200|  | 171  
+Overige lasten|  |  |  |    
+Inkoop arbeidsbemiddeling voor arbeidsbeperkten| 113|  | 98|    
+Werkvoorzieningen| 85|  | 81|    
+Onderwijsvoorzieningen| 32|  | 30|    
+Subsidie aan instellingen| 17|  | 13|    
+Wmo 2015| 17|  | 15|    
+Scholingsbudget 2018-2020| 16|  | 13|    
+Ziektewet-arbo-interventies| 3|  | 3|    
+Aanvullende dienstverlening| 3|  | 3|    
+IPS voor gemeenten| 6|  | 4|    
+Regeling scholing kansberoep| 0|  | 0|    
+Totaal re-integratielasten|  | 292|  | 260  
+ |  |  |  |    
+Compensatie transitievergoeding| 592|  | 545|    
+Subsidieregeling STAP-budget| -3|  | 106|    
+Bijdrage aan SER| 19|  | 18|    
+Proceskosten en vergoeding rechtsbijstand| 12|  | 12|    
+Reiskosten clienten| 2|  | 1|    
+Rentelasten niet voortvloeiend uit rekening-courant Financien| 29|  | 6|    
+Diverse overige lasten| -12|  | 19|    
+Totaal resterende overige lasten|  | 639|  | 707  
+ |  | 931|  | 967  
+ |  |  |  |    
+Totaal|  | 731|  | 796  
+  
+In de component ‘Rentebaten niet voortvloeiend uit rekening‑courant Financien’ is een bedrag van € 94 miljoen opgenomen in verband met de amortisatie van de NOW‑vorderingen met een betalingsregeling, zoals hierboven uiteengezet onder het kopje NOW‑subsidies (15).
+
+De lasten voor de Compensatie transitievergoeding zijn in 2024 met € 47 miljoen (8,6%) toegenomen door een hoger aantal aanvragen, wat te maken heeft met een hogere WIA‑instroom in 2024 in vergelijking met 2023\. Verder verwijzen wij naar de toelichting op de voorziening Compensatie transitievergoeding (zie paragraaf Toelichting op de balans onder het kopje [Voorzieningen programmakosten (8)](/jaarverslag-2024//jaarrekening/toelichting-op-de-balans#voorz_programmakst)).
+
+##  Uitvoeringskosten 
+
+De uitvoeringskosten worden toegerekend naar wet en fonds op basis van operationele producten. Er wordt per deelproduct bepaald naar welke wet de kosten worden toegerekend; deze verdeling komt uit het costaccountingmodel. Vervolgens wordt de verdeling naar fonds berekend op basis van de uitkeringsjaren uit de financiele nota’s. De toedeling van de uitvoeringskosten naar wet en fonds is vastgelegd in de notitie Toerekening uitvoeringskosten UWV 2024\. Over de notitie is overeenstemming bereikt met het ministerie van SZW. Op grond van deze notitie krijgen de Toeslagenwet en de Wet op de bedrijfsorganisatie (Wet_BO) geen uitvoeringskosten toegerekend.
+
+In 2024 zijn de gerealiseerde uitvoeringskosten met € 166 miljoen toegenomen ten opzichte van 2023\. De toename is voornamelijk het gevolg van hogere personeelskosten en de vorming van een voorziening van € 58 miljoen voor de uitvoeringskosten van de Verbeteraanpak WIA 2020–2024.
+
+Hierna geven we een korte toelichting op de uitvoeringskosten per kostensoort inclusief projectkosten, zoals opgenomen in de staat van baten en lasten.
+
+###  Personeelskosten (17) 
+
+####  Tabel Personeelskosten 
+
+Bedragen x € 1 miljoen| 2024| 2023  
+---|---|---  
+Lonen en salarissen| 1.368| 1.255  
+Sociale lasten| 220| 202  
+Pensioenen| 209| 193  
+Externe inleen| 229| 285  
+Dotatie aan voorziening Verbeteraanpak WIA 2020–2024, aandeel personele kosten| 54| -  
+Frictiekosten personeel| 2| 0  
+Overige personeelskosten| 82| 74  
+ |  |    
+Totaal| 2.164| 2.009  
+  
+_Lonen en salarissen_ – De lonen en salarissen zijn € 113 miljoen (9,0%) hoger dan in 2023\. De salarissen zijn per 1 mei 2024 conform de cao verhoogd met 5,6%. Daarnaast is er sprake van een toename van de personele bezetting met gemiddeld circa 2,5%.
+
+_Pensioenen_ – De pensioenlasten bedragen € 209 miljoen (2023: € 193 miljoen). De belangrijkste kenmerken van de pensioenregeling zijn:
+
+  * De regeling kan worden getypeerd als een toegezegde bijdrageregeling.
+
+  * Het pensioengevend salaris wordt bepaald op basis van middelloon.
+
+  * Indexatie vindt plaats voor zover de middelen van het fonds dat toelaten. Voor actieve deelnemers vindt indexatie plaats op grond van cao‑loonsverhogingen, voor gepensioneerden op grond van de prijsindex.
+
+
+
+
+Tussen UWV en de Stichting Pensioenfonds UWV (hierna: het Pensioenfonds) wordt jaarlijks een financieringsovereenkomst afgesloten. In de financieringsovereenkomst is onder meer vastgelegd dat de door werkgever en deelnemers gezamenlijk verschuldigde jaarlijkse premie niet meer bedraagt dan de door cao‑partijen vastgestelde maximale premie, evenals de premiegrondslag. De premie voor 2024 bedraagt 22,7% (2023: 22,9%) van de brutoloonsom met een (maximaal) opbouwpercentage van 1,738%.
+
+De dekkingsgraad geeft de verhouding weer tussen de bezittingen (zoals aandelen, obligaties, vastgoed) en de verplichtingen (de waarde van alle nu en in de toekomst uit te keren pensioenen) van het fonds. De beleidsdekkingsgraad is de gemiddelde dekkingsgraad over de afgelopen twaalf maanden. Dit is de basis waarop pensioenfondsen hun beleid moeten afstemmen. Per 31 december 2024 bedroeg de beleidsdekkingsgraad 119,5% (121,3% per 31 december 2023).
+
+Het belegd vermogen van het Pensioenfonds bedroeg ultimo 2024 ongeveer € 9,2 miljard (2023: € 8,5 miljard).
+
+De pensioenen van de UWV-werknemers zijn per 1 januari 2024 met 6,5% verhoogd. De pensioenen van de gepensioneerden en ex‑werknemers zijn niet verhoogd.
+
+_Externe inleen_ – De kosten van externe inleen bedragen € 229 miljoen (2023: € 285 miljoen). De kosten hebben voornamelijk betrekking op uitzendkrachten en externe inleen van IT’ers, verzekeringsartsen en arbeidsdeskundigen. In 2024 zijn er minder medewerkers ingehuurd en zijn externe medewerkers deels vervangen door interne medewerkers.
+
+_Dotatie aan voorziening Verbeteraanpak_ _WIA_ _2020–2024, aandeel personele kosten –_ De kosten in 2024 van € 54 miljoen hebben betrekking op de vorming van een voorziening voor de uitvoeringskosten van de Verbeteraanpak WIA 2020–2024. Voor een verdere toelichting verwijzen wij naar paragraaf Toelichting op de balans onder het kopje [Voorzieningen uitvoeringskosten (9)](/jaarverslag-2024//jaarrekening/toelichting-op-de-balans#voorz_uitv.kst).
+
+_Overige personeelskosten_ – Deze kosten betreffen onder meer opleidingskosten, reiskosten en cateringkosten.
+
+###  Huisvestingskosten (18) 
+
+####  Tabel Huisvestingskosten 
+
+Bedragen x € 1 miljoen| 2024| 2023  
+---|---|---  
+Huren| 52| 54  
+Afschrijvingen| 13| 13  
+Beveiliging| 17| 15  
+Schoonmaak| 11| 10  
+Dotatie/vrijval voorzieningen huurafkoop en leegstand| -1| 2  
+Overige huisvestingskosten| 31| 34  
+ |  |    
+Totaal| 123| 128  
+  
+De inkomsten uit onderverhuur van € 0,6 miljoen (2023: ook € 0,6 miljoen) zijn in mindering gebracht op de huurlasten.
+
+###  Automatiseringskosten (19) 
+
+De automatiseringskosten van € 262 miljoen betreffen zowel de reguliere als de projectkosten. De personeelskosten van medewerkers werkzaam in de IT‑keten zijn hierbij niet inbegrepen. Bij de automatiseringskosten is een bedrag van € 16 miljoen (2023: ook € 16 miljoen) aan afschrijvingslasten inbegrepen. Er worden geen automatiseringsmiddelen geleased.
+
+###  Kantoorkosten (20) 
+
+In de kantoorkosten van € 29 miljoen is een bedrag van € 4 miljoen (2023: ook € 4 miljoen) aan afschrijvingslasten inbegrepen.
+
+###  Vervoers‑ en overige kosten (21) 
+
+De vervoers‑ en overige kosten bedragen € 59 miljoen. De vervoerskosten betreffen met name de kosten van dienstreizen en leaseauto’s. De kosten voor de autoleasecontracten bedragen in 2024 € 4 miljoen (2023: ook € 4 miljoen). De overige kosten hebben onder meer betrekking op medische informatie en communicatie.
+
+##  Financiele baten en lasten (22) 
+
+Volgens de regelgeving wordt over de dagelijkse saldi van de rekeningen‑courant bij de minister van Financien rente berekend. Over de creditsaldi van elk van de rekeningen‑courant wordt een rente vergoed die gelijk is aan de daggeldrente. Over de debetsaldi van elk van de rekeningen‑courant wordt een rente betaald die gelijk is aan de daggeldrente. Wanneer de rente negatief is, wordt die rente gelijkgesteld aan nul. In 2024 bedroeg de rente gemiddeld 3,6% (2023: 3,2%).
+
+##  Accountantshonorarium 
+
+De Auditdienst UWV controleert de wettelijke jaarrekening van UWV en geeft hierbij een controleverklaring af. Ook geeft de Auditdienst een controleverklaring af bij de verantwoording over de gegevensverwerking en de gegevensuitwisseling via de gemeenschappelijke elektronische voorzieningen SUWI.
+
+PricewaterhouseCoopers Accountants N.V. (PwC) controleert de publieksversie van de jaarrekening. Hierbij maakt PwC, voor zover vaktechnisch mogelijk, gebruik van de werkzaamheden van de Auditdienst UWV en geeft op basis van deze en de overige door de externe accountant verrichte werkzaamheden als onafhankelijk accountant van UWV een verklaring inzake de getrouwheid af bij de publieksversie van de jaarrekening. In onderstaande tabel worden alle vergoedingen aan PwC verantwoord.
+
+####  Tabel Accountantshonorarium 
+
+Bedragen x € 1.000| 2024| 2023  
+---|---|---  
+Onderzoek van de jaarrekening| 892| 983  
+Andere controleopdrachten| -| -  
+Adviesopdrachten op fiscaal terrein| -| 14  
+Andere niet-controlediensten| 69| 7  
+ |  |    
+Totaal| 961| 1.004  
+  
+Bovenstaande honoraria betreffen de werkzaamheden die bij de rechtspersoon zijn uitgevoerd door de accountantsorganisatie zoals bedoeld in artikel 1 lid 1 Wet toezicht accountantsorganisaties (Wta) en de in rekening gebrachte honoraria van het gehele netwerk waartoe de accountantsorganisatie behoort. Deze honoraria hebben betrekking op de diensten die door de accountantsorganisatie zijn geleverd in 2024, ongeacht of de werkzaamheden betrekking hebben op de jaarrekening 2024\. Deze bedragen zijn inclusief btw.
+
+Verder vermelden we de kosten van de Auditdienst UWV zoals deze als last in het boekjaar zijn verantwoord: deze bedroegen in 2024 € 7,7 miljoen (2023: € 7,1 miljoen). De werkzaamheden waarop deze kosten betrekking hebben zijn toegelicht in paragraaf Advies- en controleorganen onder het kopje [Intern en openbaar accountant](/jaarverslag-2024//governance/advies-en-controleorganen-uwv#intern_openbaar_acc). In 2024 betrof circa 60% (in 2023 ook circa 60%) van deze werkzaamheden verantwoordingsonderzoeken, vooral naar jaarrekening en jaarverslag van UWV.
+
+##  WNT‑verantwoording 2024 
+
+De Wet normering topinkomens (WNT) is van toepassing op UWV. Het voor UWV toepasselijke bezoldigingsmaximum is in 2024 € 233.000. Dit is het algemeen bezoldigingsmaximum.
+
+####  Tabel Bezoldiging topfunctionarissen 
+
+_Bedragen x € 1_|  Maarten Camps| Nathalie van Berkel| Johanna Hirscher| Rene Steen-voorden| Guus van Weelden| Janet Helder  
+---|---|---|---|---|---|---  
+Gegevens 2024|  |  |  |  |  |    
+Functiegegevens| Voorzitter RvB| Lid RvB| Lid RvB| Lid RvB| *| **  
+Aanvang en einde functievervulling in 2024| 1/1-31/12| 1/1-31/12| 1/1-31/12| 1/1-31/12| 1/1-31/12| 1/1-31/03  
+Omvang dienstverband (als deeltijdfactor in fte)| 1,0| 1,0| 1,0| 1,0| 0,775| 1,0  
+Dienstbetrekking?| Ja| Ja| Ja| Ja| Ja| Ja  
+ |  |  |  |  |  |    
+Bezoldiging|  |  |  |  |  |    
+Beloning plus belastbare onkostenvergoedingen| 212.884| 212.884| 212.884| 212.884| 164.985| 47.783  
+Beloningen betaalbaar op termijn| 19.604| 19.604| 19.604| 19.604| 15.195| 4.901  
+Subtotaal| 232.488| 232.488| 232.488| 232.488| 180.180| 52.684  
+ |  |  |  |  |  |    
+-/- onverschuldigd betaald en nog niet terugontvangen bedrag| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.  
+ |  |  |  |  |  |    
+Totaal bezoldiging 2024| 232.488| 232.488| 232.488| 232.488| 180.180| 52.684  
+ |  |  |  |  |  |    
+Individueel toepasselijk bezoldigingsmaximum| 233.000| 233.000| 233.000| 233.000| 180.575| 57.932  
+ |  |  |  |  |  |    
+Het bedrag van de overschrijding en de reden waarom de overschrijding al dan niet is toegestaan| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.  
+Toelichting op de vordering wegens onverschuldigde betaling| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.  
+ |  |  |  |  |  |    
+Gegevens 2023|  |  |  |  |  |    
+Functiegegevens| Voorzitter RvB| Lid RvB| Lid RvB| Lid RvB| Lid RvB*| **  
+Aanvang en einde functievervulling in 2023| 1/1-31/12| 1/1-31/12| 1/1-31/12| 1/10-31/12| 1/1-31/12| 1/1-31/12  
+Omvang dienstverband (als deeltijdfactor in fte)| 1,0| 1,0| 1,0| 1,0| 1,0| 1,0  
+Dienstbetrekking?| Ja| Ja| Ja| Ja| Ja| Ja  
+ |  |  |  |  |  |    
+Bezoldiging|  |  |  |  |  |    
+Beloning plus belastbare onkostenvergoedingen| 204.019| 204.019| 204.019| 51.005| 204.019| 186.174  
+Beloningen betaalbaar op termijn| 18.474| 18.474| 18.474| 4.618| 18.474| 18.474  
+ |  |  |  |  |  |    
+Totaal bezoldiging 2023| 222.493| 222.493| 222.493| 55.623| 222.493| 204.648  
+ |  |  |  |  |  |    
+Individueel toepasselijk bezoldigingsmaximum| 223.000| 223.000| 223.000| 56.208| 223.000| 223.000  
+  
+  * *Lid raad van bestuur tot en met 31 augustus 2023, vanaf 1 september 2023 gedetacheerd bij het ministerie van SZW en oefent dus feitelijk geen functie meer uit bij UWV.
+  * **Voormalig lid raad van bestuur, is tot en met maart 2023 gedetacheerd bij de Belastingdienst en met ingang van 1 april 2023 bij het ministerie van SZW en oefent dus feitelijk geen functie meer uit bij UWV. Per 1 april 2024 uit dienst getreden bij UWV.
+
+
+
+UWV kende geen leidinggevende topfunctionarissen zonder dienstbetrekking in het verslagjaar 2024\. In 2024 waren er bij UWV geen niet‑topfunctionarissen met een bezoldiging boven het maximum voor de WNT.
+
+UWV heeft een Audit Advies Commissie met een toezichthoudende functie.
+
+####  Tabel Bezoldiging toezichthoudende topfunctionarissen 
+
+_Bedragen x € 1_|  Hans van der Vlist| Hans Ouwehand| Lineke Sneller| Frans van der Ent| Marga Bekker| Adrie Kerkvliet| Jeroen van der Vlugt  
+---|---|---|---|---|---|---|---  
+Gegevens 2024|  |  |  |  |  |  |    
+Functiegegevens| Voorzitter| Lid| Lid| Lid| Lid| Lid| Lid  
+Aanvang en einde functievervulling in 2024| 1/1-31/12| 1/1-31/3| 1/1-31/3| 1/1-31/12| 1/1-31/12| 1/4-31/12| 1/4-31/12  
+ |  |  |  |  |  |  |    
+Bezoldiging|  |  |  |  |  |  |    
+Bezoldiging uitbetaald| 18.216| 3.131| 3.131| 12.523| 12.523| 9.392| 9.392  
+ |  |  |  |  |  |  |    
+-/- onverschuldigd betaald en nog niet terugontvangen bedrag| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.  
+ |  |  |  |  |  |  |    
+Bezoldiging 2024| 18.216| 3.131| 3.131| 12.523| 12.523| 9.392| 9.392  
+ |  |  |  |  |  |  |    
+Individueel toepasselijk bezoldigingsmaximum| 34.950| 5.793| 5.793| 23.300| 23.300| 17.507| 17.507  
+ |  |  |  |  |  |  |    
+Het bedrag van de overschrijding en de reden waarom de overschrijding al dan niet is toegestaan| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.  
+Toelichting op de vordering wegens onverschuldigde betaling| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.| N.v.t.  
+ |  |  |  |  |  |  |    
+Gegevens 2023|  |  |  |  |  |  |    
+Functiegegevens| Voorzitter| Lid| Lid| Lid| Lid| N.v.t.| N.v.t.  
+Aanvang en einde functievervulling in 2023| 1/1-31/12| 1/1-31/12| 1/1-31/12| 1/1-31/12| 1/1-31/12| N.v.t.| N.v.t.  
+ |  |  |  |  |  | N.v.t.| N.v.t.  
+Bezoldiging 2023| 16.711| 11.489| 11.489| 11.489| 11.489| N.v.t.| N.v.t.  
+ |  |  |  |  |  |  |    
+Individueel toepasselijk bezoldigingsmaximum| 33.450| 22.300| 22.300| 22.300| 22.300| N.v.t.| N.v.t.  
+  
+##  Gemiddeld aantal medewerkers 
+
+Gedurende het jaar 2024 waren, omgerekend naar een volledig dienstverband (fte), gemiddeld 19.612 medewerkers in dienst (2023: 19.125). Alle medewerkers werkten in Nederland. Het gemiddeld aantal fte’s per bedrijfsonderdeel was in 2024 respectievelijk 2023 als volgt:
+
+####  Tabel Gemiddeld aantal fte’s 
+
+ | Werk-bedrijf| Sociaal-medische zaken| Uitkeren| Klant & Service| Gegevens-diensten| Bezwaar & Beroep| Hand-having| Centrale staven| Boven-tallig| Totaal  
+---|---|---|---|---|---|---|---|---|---|---  
+2024| 5.207| 4.418| 4.566| 1.375| 430| 961| 530| 2.120| 5| 19.612  
+2023| 5.425| 4.270| 4.282| 1.213| 412| 972| 537| 2.014| 0| 19.125  
+  
+##  Gebeurtenissen na balansdatum 
+
+Voor zover relevant zijn de feiten en gebeurtenissen die zich hebben voorgedaan na balansdatum vermeld in dit jaarverslag.
+
+Amsterdam, 12 maart 2025
+
+Raad van bestuur UWV
+
+Maarten Camps, voorzitter Nathalie van Berkel Johanna Hirscher Rene Steenvoorden
+
+## Ga direct naar
+
+  * [ Baten wettelijke taken sociale verzekeringen ](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#A0)
+  * [ Programmakosten ](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#A1)
+  * [ Uitvoeringskosten ](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#A2)
+  * [ Financiele baten en lasten (22) ](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#A3)
+  * [ Accountantshonorarium ](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#A4)
+  * [ WNT‑verantwoording 2024 ](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#A5)
+  * [ Gemiddeld aantal medewerkers ](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#A6)
+  * [ Gebeurtenissen na balansdatum ](https://2024.uwvjaarverslag.nl/jaarverslag-2024/jaarrekening/toelichting-op-de-staat-van-baten-en-lasten#A7)
+
+
+
+[ Toevoegen aan verslag ](javascript:document.getElementById\('myReportForm'\).submit\(\))
+
+Toon begrippen Verberg begrippen
+
+Deel deze pagina:
+
+  * [ Facebook ](https://www.facebook.com/sharer/sharer.php?u=https://2024.uwvjaarverslag.nl//jaarverslag-2024//jaarrekening/toelichting-op-de-staat-van-baten-en-lasten)
+  * [ Linkedin ](https://www.linkedin.com/cws/share?url=https://2024.uwvjaarverslag.nl//jaarverslag-2024//jaarrekening/toelichting-op-de-staat-van-baten-en-lasten)
+  * [ X ](http://x.com/share?text=Toelichting%20op%20de%20staat%20van%20baten%20en%20lasten&url=https://2024.uwvjaarverslag.nl//jaarverslag-2024//jaarrekening/toelichting-op-de-staat-van-baten-en-lasten)
+
+
+
+[ Vorige artikel:  Toelichting op de balans ](/jaarverslag-2024//jaarrekening/toelichting-op-de-balans) [ Volgende artikel:  Overige gegevens ](/jaarverslag-2024/overige-gegevens/overige-gegevens)
+
+Terug naar boven, focus springt naar site navigatie.
+
+##  Downloads 
+
+  * [Achtmaandenverslag 2025](https://2024.uwvjaarverslag.nl/FbContent.ashx/pub_1005/downloads/v251113133500/Achtmaandenverslag-UWV-2025.pdf)
+
+  * [Kwantitatieve informatie eerste acht maanden 2025](https://2024.uwvjaarverslag.nl/FbContent.ashx/pub_1005/downloads/v251112174337/uwv-kwantitatieve-informatie-achtmaanden-2025.pdf)
+
+  * [Viermaandenverslag 2025](https://2024.uwvjaarverslag.nl/FbContent.ashx/pub_1005/downloads/v251008174545/@Vmllcm1hYW5kZW52ZXJzbGFnIFVXViAyMDI1LnBkZg==)
+
+  * [Kwantitatieve informatie eerste vier maanden 2025](https://2024.uwvjaarverslag.nl/FbContent.ashx/pub_1005/downloads/v251021121823/uwv-kwantitatieve-informatie-2025.pdf)
+
+  * [Jaarverslag 2024](https://2024.uwvjaarverslag.nl/FbContent.ashx/pub_1005/downloads/v251008174541/uwv-jaarverslag-2024.pdf)
+
+  * [Jaarverslag 2024 op hoofdlijnen](https://2024.uwvjaarverslag.nl/FbContent.ashx/pub_1005/downloads/v251008174541/uwv-jaarverslag-2024-hoofdlijnen.pdf)
+
+  * [Kwantitatieve informatie 2024](https://2024.uwvjaarverslag.nl/FbContent.ashx/pub_1005/downloads/v251008174540/uwv-kwantitatieve-Informatie-2024.pdf)
+
+  * [Jaarrapportage integriteit 2024](https://2024.uwvjaarverslag.nl/FbContent.ashx/pub_1005/downloads/v251008174542/UWV-Jaarrapportage-Integriteit-2024.pdf)
+
+  * [Duurzaamheidsverslag 2024](https://2024.uwvjaarverslag.nl/FbContent.ashx/pub_1005/downloads/v251008174546/@VVdWX01WT19EdXVyemFhbWhlaWRzdmVyc2xhZyAyMDI1LnBkZg==)
+
+
+
+
+##  Archief 
+
+  * [UWV jaarverslag 2023](https://2023.uwvjaarverslag.nl/)
+
+  * [UWV jaarverslag 2022](https://2022.uwvjaarverslag.nl/)
+
+  * [UWV jaarverslag 2021](https://2021.uwvjaarverslag.nl/)
+
+  * [UWV jaarverslag 2020](https://2020.uwvjaarverslag.nl/)
+
+  * [UWV jaarverslag 2019](https://2019.uwvjaarverslag.nl/)
+
+  * [UWV jaarverslag 2018](https://2018.uwvjaarverslag.nl/)
+
+  * [UWV jaarverslag 2017](https://2017.uwvjaarverslag.nl/)
+
+
+
+
+##  UWV-links 
+
+  * [uwv.nl](https://www.uwv.nl/nl/over-uwv)
+
+  * [Contact](https://www.uwv.nl/nl/contact)
+
+
+
+  *[WAO]: Wet op de arbeidsongeschiktheidsverzekering
+  *[WIA]: Wet werk en inkomen naar arbeidsvermogen
+  *[Aof]: Arbeidsongeschiktheidsfonds
+  *[Whk]: Werkhervattingskas
+  *[WW]: Werkloosheidswet
+  *[AWf]: Algemeen Werkloosheidsfonds
+  *[Ufo]: Uitvoeringsfonds voor de overheid
+  *[SZW]: (ministerie van) Sociale Zaken en Werkgelegenheid
+  *[UWV]: Uitvoeringsinstituut Werknemersverzekeringen
+  *[WGA]: Werkhervatting gedeeltelijk arbeidsgeschikten
+  *[Afj]: Arbeidsondersteuningsfonds jonggehandicapten
+  *[NOW]: tijdelijke Noodmaatregel Overbrugging Werkgelegenheid
+  *[IVA]: Inkomensvoorziening volledig arbeidsongeschikten
+  *[WAZ]: Wet arbeidsongeschiktheidsverzekering zelfstandigen
+  *[Wajong]: Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
+  *[IOW]: Wet inkomensvoorziening oudere werklozen
+  *[Wazo]: Wet arbeid en zorg
+  *[ZEZ]: Zelfstandig en Zwanger-regeling
+  *[WOOS]: Wet overige subsidies ministerie van Onderwijs, Cultuur en Wetenschappen
+  *[Wbo]: Wet betaald ouderschapsverlof
+  *[ESF]: Europees Sociaal Fonds
+  *[IPS]: Individuele plaatsing en steun
+  *[IT]: informatietechnologie
+  *[ _WIA_]: Wet werk en inkomen naar arbeidsvermogen
+  *[SUWI]: Wet structuur uitvoeringsorganisatie werk en inkomen
+  *[fte]: fulltime‑equivalent

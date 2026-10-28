@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/01/paying-for-results_e21263a2/c6392a59-en.pdf",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:39:21.182163+00:00",
+  "http_status": 200,
+  "final_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/01/paying-for-results_e21263a2/c6392a59-en.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 14 May 2025 13:03:17 GMT",
+  "etag": "\"0x8DD92E7B19877A1\"",
+  "encoding": null,
+  "raw_path": "data\\cache\\04a\\pes_contractualisation_ocde_2022.pdf",
+  "bytes": 1534804,
+  "sha256": "0558f9be317dc620a3265d0809817c781a5a422fa031d24c441b5809b32c5827",
+  "acces": "integral",
+  "pages": 54,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

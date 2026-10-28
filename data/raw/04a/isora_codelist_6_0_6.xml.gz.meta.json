@@ -1,0 +1,14 @@
+{
+  "source_url": "https://api.imf.org/external/sdmx/2.1/codelist/ISORA/CL_ISORA_TAX/6.0.6",
+  "final_url": "https://api.imf.org/external/sdmx/2.1/codelist/ISORA/CL_ISORA_TAX/6.0.6",
+  "date_consultation": "2026-10-28",
+  "http_status": 200,
+  "content_type": "application/vnd.sdmx.structure+xml;version=2.1",
+  "raw_path": "data/raw/04a/isora_codelist_6_0_6.xml.gz",
+  "compression": "gzip sans perte, mtime=0",
+  "bytes": 135378,
+  "original_bytes": 6121575,
+  "sha256": "4d46d6bed1e3c052e124897248fd47802b98398300a10e9d7539b5e9dadb6f10",
+  "sha256_http_body": "393f978356f40edd9bdee6fd5ad47049dc76272c4201eddf29014a4c514be3bc",
+  "acces": "integral"
+}

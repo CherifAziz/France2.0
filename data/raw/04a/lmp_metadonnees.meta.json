@@ -1,0 +1,16 @@
+{
+  "source_url": "https://ec.europa.eu/employment_social/employment_analysis/lmp/lmp_esms.htm",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:39:21.176802+00:00",
+  "http_status": 200,
+  "final_url": "https://ec.europa.eu/employment_social/employment_analysis/lmp/lmp_esms.htm",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Fri, 21 Aug 2026 12:20:45 GMT",
+  "etag": "\"d396-6598daa7a2517\"",
+  "encoding": "UTF-8",
+  "raw_path": "data\\raw\\04a\\lmp_metadonnees.html",
+  "bytes": 54166,
+  "sha256": "b7ec321f34417f66cc4e7a93c5e078baaaa8e2e45f6d498a8b819e02ab2a3525",
+  "acces": "integral",
+  "conversion": "html2text"
+}
