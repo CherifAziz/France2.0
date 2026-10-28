@@ -4,3 +4,4 @@ html2text>=2024.2.26
 pypdf>=4,<7
 fonttools>=4.60,<5
 matplotlib>=3.9,<4
+Markdown>=3.7,<4

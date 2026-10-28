@@ -1,0 +1,48 @@
+{
+  "date_extraction": "2026-10-28",
+  "sorties_civiles_2024_pp": 481598,
+  "sorties_fonctionnaires_2024_pp": 174655,
+  "sorties_contractuels_2024_pp": 261179,
+  "part_contractuels_sorties_2024": 0.5423174514844331,
+  "cumul_historique_sorties_civiles_2020_2024_occurrences": 2339789,
+  "pensions_2025": 144033,
+  "pensions_civiles_2025": 133342,
+  "pensions_civiles_fonctionnaires_2025": 108796,
+  "pensions_contractuels_2025": 19187,
+  "ecart_stock_flux_pp_par_versant": {
+    "FPE": -257,
+    "FPT": -885,
+    "FPH": 740
+  },
+  "ecart_contrats_courts_2024_figure5_moins_figure4_pp": 65,
+  "projections_parametres": {
+    "FPE": {
+      "base": 2269016,
+      "flux": 169983,
+      "taux_rapport_stock_fin": 0.07491485295828676,
+      "sorties_5ans_sans_recrutement": 731760.3471603522
+    },
+    "FPT": {
+      "base": 2017830,
+      "flux": 201530,
+      "taux_rapport_stock_fin": 0.09987461778246928,
+      "sorties_5ans_sans_recrutement": 825491.3655165808
+    },
+    "FPH": {
+      "base": 1248591,
+      "flux": 110085,
+      "taux_rapport_stock_fin": 0.08816738227329846,
+      "sorties_5ans_sans_recrutement": 461552.78913731856
+    }
+  },
+  "controles": "Agrégats flux, total pensions, cinq croisements pensions vue/compléments, entrées/sorties interversants : conformes.",
+  "limite": "Publication primaire distincte SRE vérifiée ; les données administratives SRE/CNRACL sont communes à DGAFP : pas indépendance complète des erreurs.",
+  "controle_publication_primaire_SRE": {
+    "SRE_FPE_civils_2025_y_compris_Poste_Orange": 47104,
+    "SRE_La_Poste_2025": 5623,
+    "SRE_Orange_2025": 2335,
+    "SRE_FPT_2025": 46897,
+    "SRE_FPH_2025": 22753,
+    "SRE_militaires_2025": 10691
+  }
+}

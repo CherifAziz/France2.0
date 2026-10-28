@@ -15,6 +15,7 @@ import re
 import shutil
 import subprocess
 import sys
+import uuid
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
@@ -85,6 +86,8 @@ def guess_extension(content, content_type, url):
         return ".csv"
     if "xml" in content_type:
         return ".xml"
+    if "text/plain" in content_type:
+        return ".txt"
     suffix = Path(urlsplit(url).path).suffix.lower()
     return suffix if suffix in (".txt", ".csv", ".json", ".xml", ".xlsx", ".ods", ".zip") else ".bin"
 
@@ -120,6 +123,8 @@ def fetch(url, name, out_dir, timeout=45, max_mb=100):
         raw.write_bytes(content)
         meta.update(raw_path=str(raw), bytes=len(content), sha256=hashlib.sha256(content).hexdigest())
         meta["acces"] = "integral" if 200 <= meta["http_status"] < 300 else "inaccessible"
+        if ext == ".html" and len(content) < 4096 and b"_Incapsula_Resource" in content:
+            meta.update(acces="inaccessible", erreur="Défi Incapsula : HTTP 200 ne donne pas accès au document demandé")
         if ext == ".pdf" and meta["acces"] == "integral":
             from pypdf import PdfReader
             reader = PdfReader(raw)
@@ -147,7 +152,11 @@ def fetch(url, name, out_dir, timeout=45, max_mb=100):
             raw.with_suffix(".txt").write_text(plain, encoding="utf-8")
     except Exception as exc:
         meta.update(acces="inaccessible", erreur=f"{type(exc).__name__}: {exc}")
-    (directory / f"{name}.meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    target = directory / f"{name}.meta.json"
+    if target.exists() and meta["acces"] == "inaccessible":
+        # Garder la preuve de la précédente lecture réussie lors d'un échec de réaccès.
+        target = directory / f"{name}.attempt-{uuid.uuid4().hex[:12]}.meta.json"
+    target.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return meta
 
 

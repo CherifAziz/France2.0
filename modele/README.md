@@ -91,10 +91,18 @@ empirique** : le calendrier national doit la justifier.
 `eco_brute_meur` = paie évitée à l'origine + fonctionnement évité, avant coûts de
 transformation. Les transferts sont affichés séparément, et non déduits du brut.
 
-`eco_nette_meur` représente le budget de l'employeur à l'origine, après la part des
+`eco_nette_meur` représente le budget **normalisé hors pensions** de l'employeur à l'origine, après la part des
 coûts de reprise qu'il finance, investissements, indemnités, charges récurrentes
 et effet signé des recettes. Les redéploiements sont conservés dans le périmètre
 de cet employeur pour cette convention budgétaire.
+
+Ce résultat n'est pas l'intégralité des décaissements évités dans le budget propre
+de l'employeur à taux de cotisation fixés. Une contribution CNRACL évitée est une
+économie locale et une perte de recette de la caisse ; ces deux écritures doivent
+être suivies séparément pour le solde APU. Le CAS relève d'un autre mécanisme
+institutionnel, interne à l'État. Enfin, les coûts **HCAS** des PAP ne sont pas
+nécessairement hors toutes retraites (CNAV, Ircantec, RAFP) et ne doivent pas être
+importés sans rapprochement. Voir `recherche/01c_couts_entree_pensions.md`.
 
 `eco_consolidee_apu_meur` est une **approximation statique hors pension** : la paie
 évitée est multipliée par `taux_conservation_consolide`, qui retranche les recettes

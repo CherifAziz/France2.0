@@ -1,0 +1,11 @@
+controle,observe,attendu,ecart,tolerance,resultat
+DGAFP somme des versants,5848.291,5848.291,-0.0,0.01,OK
+Statuts FPE,2581.87,2581.87,0.0,0.01,OK
+Statuts FPT,2017.83,2017.83,0.0,0.01,OK
+Statuts FPH,1248.591,1248.591,0.0,0.01,OK
+Statuts FP,5848.291,5848.291,0.0,0.01,OK
+FPE somme rattachements ministériels,2581.87,2581.87,0.0,0.01,OK
+FPT somme groupes employeurs,2017.83,2017.83,0.0,0.01,OK
+FPH somme groupes employeurs,1248.591,1248.591,0.0,0.01,OK
+D1 2025 somme APUC APUL ASSO,370.012,370.012,0.0,0.01,OK
+D1 2025 Insee vs DGAFP,370.012,370.012,0.0,0.01,OK
