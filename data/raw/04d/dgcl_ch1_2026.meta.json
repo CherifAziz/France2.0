@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/DESL/2026/CLC/Chapitre%201%20-%20Les%20chiffres%20cl%C3%A9s%20des%20collectivit%C3%A9s-2026.xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:30:37.090727+00:00",
+  "http_status": 200,
+  "final_url": "https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/DESL/2026/CLC/Chapitre%201%20-%20Les%20chiffres%20cl%C3%A9s%20des%20collectivit%C3%A9s-2026.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Thu, 03 Sep 2026 07:47:49 GMT",
+  "etag": "\"14e16-65a8f5e51e6a0\"",
+  "encoding": null,
+  "raw_path": "data\\raw\\04d\\dgcl_ch1_2026.xlsx",
+  "bytes": 85526,
+  "sha256": "0e7fceb5ae99124ea2942f727e0f2370f36335c381b6ec5e26fb092158a44772",
+  "acces": "integral"
+}

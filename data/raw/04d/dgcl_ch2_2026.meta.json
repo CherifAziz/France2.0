@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/DESL/2026/CLC/Chapitre%202%20-%20Les%20collectivit%C3%A9s%20locales%20et%20leur%20population-2026.xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:30:36.233806+00:00",
+  "http_status": 200,
+  "final_url": "https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/DESL/2026/CLC/Chapitre%202%20-%20Les%20collectivit%C3%A9s%20locales%20et%20leur%20population-2026.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Tue, 25 Aug 2026 14:39:25 GMT",
+  "etag": "\"487be9-659e011c4e1e4\"",
+  "encoding": null,
+  "raw_path": "data\\raw\\04d\\dgcl_ch2_2026.xlsx",
+  "bytes": 4750313,
+  "sha256": "9eac4e0b5bd04429364ba004c48392fe70510dde407530906bc7822a658567b3",
+  "acces": "integral"
+}
