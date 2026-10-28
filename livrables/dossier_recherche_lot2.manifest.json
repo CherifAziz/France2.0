@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-28",
+  "lot": 2,
+  "notes": [
+    {
+      "fichier": "recherche/04_synthese_fonctions.md",
+      "sha256": "f57e7d02c49aefc102bc50e5fbe4d94bbb76f741d608c774451dbd27654d990f"
+    },
+    {
+      "fichier": "recherche/04a_fiscalite_emploi.md",
+      "sha256": "751b38ca3097e82a863541e0a2260f23022d0d9a9a438a158bae29f1a63d3edf"
+    },
+    {
+      "fichier": "recherche/04b_education_securite_justice.md",
+      "sha256": "d0a211c7600449c75ae951ed9e9d9ac9b6197448747ef9c8f320d01830474a04"
+    },
+    {
+      "fichier": "recherche/04c_sante_protection_sociale.md",
+      "sha256": "ea7670d9c721286c2081564b54fb72a09815c937aa3a0fc9acf118f55b9eb2d4"
+    },
+    {
+      "fichier": "recherche/04d_territoires_fonctions_support.md",
+      "sha256": "0f492b6549994ffab9339e0415bead19d37cbb9b969f4e4217bfab6b93f1cf6e"
+    },
+    {
+      "fichier": "recherche/00_verification_lot2.md",
+      "sha256": "1cad8618f8c6977e6b3ee78b0d7ed185396f6143009c26ea990bebe2709f2219"
+    }
+  ],
+  "sha256_html": "903c823a6b8341608045ab2fb2761adcdc366219762195a7781583e29a7917ea",
+  "donnees_liees": [
+    {
+      "fichier": "data/international/04a_controles_isora.csv",
+      "sha256": "deb700a99cb54e30ee598740a7775c64dbd14dbf898914a09317d42275fb4424"
+    },
+    {
+      "fichier": "data/international/04a_dictionnaire_isora.csv",
+      "sha256": "a734b667ba3bf5637aa424f48826c1b2d5c23cee5ce3b339df688c4b736a7585"
+    },
+    {
+      "fichier": "data/international/04a_isora_comparaison.csv",
+      "sha256": "04cc1309c7245cbf70842b0c9be24a4e083c8c82c87112a4bb1a948cf074cb6e"
+    },
+    {
+      "fichier": "data/international/04a_isora_fonctions.csv",
+      "sha256": "65bb953ca3003faef78c1d4402d5b4dac4eb95d95a6596d981289da33e522dda"
+    },
+    {
+      "fichier": "data/international/04a_isora_observations.csv",
+      "sha256": "cb2ac1ffc676e5de718a82bc2f9f5e809493ecc98d16683c281e93a4cea6958e"
+    },
+    {
+      "fichier": "data/international/04a_lmp_comparaison.csv",
+      "sha256": "967749db67ebbda351b79d51b158781e895c05cd304158befa50a909845a13c0"
+    },
+    {
+      "fichier": "data/international/04a_lmp_observations.csv",
+      "sha256": "5395cbaa323d676e97b0f3d38a8136d740c23225c4fbb1e64185d27eae3d43ce"
+    },
+    {
+      "fichier": "data/international/04a_pes_profils_nationaux.csv",
+      "sha256": "7d9b0c6a7f53dc90c80acc168c86897ae22899215a38994c64291a7b7d655519"
+    },
+    {
+      "fichier": "data/international/04a_quatre_niveaux.csv",
+      "sha256": "ffbca649c4748fa672a4b2ed330573188239b2dfbb963d42f8241cd981831f94"
+    },
+    {
+      "fichier": "data/international/04a_reformes_candidates.csv",
+      "sha256": "58c2d9216abfb584bee07b35d3f03e48f67c503a458cbd2d7a84229f4a192627"
+    },
+    {
+      "fichier": "data/international/04b_controles.json",
+      "sha256": "50d19dfb4d3d31a9aa5f29f6de60225b8affedcc18d8c4f8af17c3007626dc1c"
+    },
+    {
+      "fichier": "data/international/04b_ecarts.csv",
+      "sha256": "49bb2db3d0c2180d50ceb17e90bef2072d74d357b5b4495a0294a17f156191d2"
+    },
+    {
+      "fichier": "data/international/04b_education_depense_eleve.csv",
+      "sha256": "a1d3868fd5bd9146db34f6e96a0aff3e595010c10a287d5242e16daa5ebd1d6f"
+    },
+    {
+      "fichier": "data/international/04b_education_ratios.csv",
+      "sha256": "2da14c88a5cd56e9fc3551d298b87377db38d16e3892e09bfb6a5b7d67349b16"
+    },
+    {
+      "fichier": "data/international/04b_education_remunerations.csv",
+      "sha256": "51939e4106d150b7f7d3a367f0a0519522d23d47ebccee06db97b6a363c870c9"
+    },
+    {
+      "fichier": "data/international/04b_justice2022.csv",
+      "sha256": "1214ecd33cbd2c8e96d4f01d55027ca46f40545e6dfcf91998c927e2fe2a2c28"
+    },
+    {
+      "fichier": "data/international/04b_parametres.json",
+      "sha256": "a645873382667a7fc150ee1833de1cde1c674b00f2fc88c8572fbeccd10cd8e4"
+    },
+    {
+      "fichier": "data/international/04b_personnels_education_fr.csv",
+      "sha256": "3cf36f55aca47356966882aa19b41cd663d3e4d6d607998e9b249da521781fc4"
+    },
+    {
+      "fichier": "data/international/04b_police2022.csv",
+      "sha256": "8b2d20a60d820b7e24d596a78104aa59b723c693395355a41ad03e7dd59838e5"
+    },
+    {
+      "fichier": "data/international/04b_police_contexte2022.csv",
+      "sha256": "ee4e9ad8614d46c1c1a26ab5e0f7505abcefbd63adfc8684670234c6e4519969"
+    },
+    {
+      "fichier": "data/international/04b_quatre_niveaux.csv",
+      "sha256": "68784d39e377b6d5db3bb628f560c9edd2f557189d034c83db68b780b18df49d"
+    },
+    {
+      "fichier": "data/international/04b_talis2024.csv",
+      "sha256": "26a17b92282a7a194fbde81b110a1c6ae6762dd960b7318f3fdc4de47c3ceb27"
+    },
+    {
+      "fichier": "data/international/04c_controles.csv",
+      "sha256": "e22da6af2c4c3dfe7da292776d794e7a139aa373f7714ffde763d1ecb46063e0"
+    },
+    {
+      "fichier": "data/international/04c_ecarts_et_corrections.csv",
+      "sha256": "94cea40082abe43e16894198d0e08d465515c7f253b82c7c161919ef088b9f09"
+    },
+    {
+      "fichier": "data/international/04c_esspros_comparaison.csv",
+      "sha256": "d33d5ddf8506d9ac4d1679acc7d9e4ebba82825393062da1d01e5183703be9de"
+    },
+    {
+      "fichier": "data/international/04c_france_couts.csv",
+      "sha256": "efd215c84db5b8155ffa2d2b2d74c04599d6a9fa61df065d00e061ae19b01da8"
+    },
+    {
+      "fichier": "data/international/04c_nomenclature.csv",
+      "sha256": "400be7ee06f45b96c343fe14c4a9573324855f27706b1c86cef6b4de98ba337a"
+    },
+    {
+      "fichier": "data/international/04c_pistes_reformes.csv",
+      "sha256": "3425011f5507b61e5eeef7ad6f07beb478110ddeffb4a3ca8c884defe198c924"
+    },
+    {
+      "fichier": "data/international/04c_sha_comparaison.csv",
+      "sha256": "8bd66fd244112890f3b63ffe92e5e30cb4603c2648a9e850beeb2ec0c66d5226"
+    },
+    {
+      "fichier": "data/international/04c_sha_regimes.csv",
+      "sha256": "47e4ce4d8849597bb82ce69ed3d3dade85a1be2237fa176d2bae256ff9313e8c"
+    },
+    {
+      "fichier": "data/international/04d_dgcl_organisation2026.csv",
+      "sha256": "24730bb13c7d3894566caf07435174c0535f661b874b2459dc67af78077fe34d"
+    },
+    {
+      "fichier": "data/international/04d_quatre_niveaux.csv",
+      "sha256": "c21a58527b69303d98db0ad0521c105975eecae9238fe16ea69dd780ea3a0aae"
+    },
+    {
+      "fichier": "data/international/04d_structures_territoriales_2020.csv",
+      "sha256": "de41663f3c39e95d13422b5ba99231b50f36335aac16055f32b17d43312c681b"
+    },
+    {
+      "fichier": "data/international/04d_support_indicateurs.csv",
+      "sha256": "fe46b5d9d21853f3666743d79947201faee0c39d4ed3f073ce33071f7374c6a7"
+    },
+    {
+      "fichier": "data/risques/verification_04a_lot2.csv",
+      "sha256": "bdf182f19577aa7861010a2526d7ec0c35d108df3badd0c860b229ab66bb8037"
+    },
+    {
+      "fichier": "data/risques/verification_04b_lot2.csv",
+      "sha256": "0ce0a24bfba5617d6dbc552b34b51cb33602d4234a731ac9238680362de90713"
+    },
+    {
+      "fichier": "data/risques/verification_04c_lot2.csv",
+      "sha256": "0d25402098cd52a8ca14d5258e16ed33988991a5148ecf60aa26ea97c29b9ac0"
+    },
+    {
+      "fichier": "data/risques/verification_04d_lot2.csv",
+      "sha256": "fe6076efe43651e1547f5102b0bf4fb09b17989d29949ca3fbb5e79c65f512ac"
+    },
+    {
+      "fichier": "data/risques/verification_chiffres_lot2.csv",
+      "sha256": "9c76cbd32cc8cc02b734a5c17ba909ad409c7f4bd82325cdda77bfd5381790be"
+    },
+    {
+      "fichier": "data/risques/verification_lot2_resume.json",
+      "sha256": "b9d13382ca6f777f4de421edf7de547a6e6e8d1b67b41c73998dde5a2932f8a9"
+    },
+    {
+      "fichier": "sources/04_manifestes_cache.json",
+      "sha256": "4c29027811de8fcbe00c7575e05c6889f230b49b5eaa81c7f1c85966f0ce6e0d"
+    },
+    {
+      "fichier": "sources/registre_04a.csv",
+      "sha256": "5d2cba65c8e03c28977b0c1203a4877763b17fb37192d64c6c575f5f32d6756f"
+    },
+    {
+      "fichier": "sources/registre_04b.csv",
+      "sha256": "69312888fd2255a339823a7120c6989c35c4d9834e055454b96af8bec4fc1694"
+    },
+    {
+      "fichier": "sources/registre_04c.csv",
+      "sha256": "8e01829d6757737d34567881fb9646dab5c1605594b86fef1f98189f2181f527"
+    },
+    {
+      "fichier": "sources/registre_04d.csv",
+      "sha256": "148126897ffb97595c56abb096ea44fa5f176ad5e77572245607ba9e6eebd57f"
+    }
+  ],
+  "images": [
+    {
+      "fichier": "figures/04_gestion_sante_public_prive.png",
+      "sha256": "534ba5980700814bdb10ca7093aedbdfc30f8ce08d3daea859e0fca04bfd1d3d"
+    }
+  ]
+}

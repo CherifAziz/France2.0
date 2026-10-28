@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-28",
+  "total": 63,
+  "resultats": {
+    "CONFORME": 28,
+    "CONFORME_CHAMP_DISTINCT": 1,
+    "CONFORME_VALEUR_RESERVE_UNITE": 1,
+    "CONFIRME_APRES_CORRECTION": 2,
+    "CONFIRME": 31
+  },
+  "sources_controles": [
+    {
+      "fichier": "data/risques/verification_04a_lot2.csv",
+      "lignes": 16,
+      "sha256": "bdf182f19577aa7861010a2526d7ec0c35d108df3badd0c860b229ab66bb8037"
+    },
+    {
+      "fichier": "data/risques/verification_04b_lot2.csv",
+      "lignes": 15,
+      "sha256": "0ce0a24bfba5617d6dbc552b34b51cb33602d4234a731ac9238680362de90713"
+    },
+    {
+      "fichier": "data/risques/verification_04c_lot2.csv",
+      "lignes": 17,
+      "sha256": "0d25402098cd52a8ca14d5258e16ed33988991a5148ecf60aa26ea97c29b9ac0"
+    },
+    {
+      "fichier": "data/risques/verification_04d_lot2.csv",
+      "lignes": 15,
+      "sha256": "fe6076efe43651e1547f5102b0bf4fb09b17989d29949ca3fbb5e79c65f512ac"
+    }
+  ],
+  "archives_rapprochees": 37,
+  "archives": [
+    {
+      "archive": "data/raw/04a/ba2024_rapport.html",
+      "sha256": "47ac2f4365ca4f8edb2c081bf44968199c7e87b52acd8f27a005bf323f4abf0a"
+    },
+    {
+      "archive": "data/raw/04a/ba2025_rapport.html",
+      "sha256": "f466eca5b659c2cb6fd76382b045b74f9ad4d66783ba5e3f462fa2172d81a72b"
+    },
+    {
+      "archive": "data/cache/04a/france_travail_2024.pdf",
+      "sha256": "cefe91a5b05d1d15a7a31344e6dbb858151ea0b7e26dd6b830ce3c3ab8dc23ec"
+    },
+    {
+      "archive": "data/raw/04a/imf_unit_mult.xml",
+      "sha256": "e2c53e0e44ed297cda1a1532f2ea4012776fd07dee7d042883fd939687947b1c"
+    },
+    {
+      "archive": "data/raw/04a/isora_codelist_6_0_6.xml.gz",
+      "sha256": "4d46d6bed1e3c052e124897248fd47802b98398300a10e9d7539b5e9dadb6f10"
+    },
+    {
+      "archive": "data/cache/04a/isora_questionnaire_2025.pdf",
+      "sha256": "c17f7fc7abd2b06fc6fb69b38edecf483d50da36db4b9e5ba46de88c27af9f5b"
+    },
+    {
+      "archive": "data/raw/04a/isora_selection_2022_2024.csv.gz",
+      "sha256": "9c616efae542c30ec751ef4c1d909fb1e9ef3f954069ae2f300cb0d561d5eba6"
+    },
+    {
+      "archive": "data/raw/04a/lmp_metadonnees.html",
+      "sha256": "b7ec321f34417f66cc4e7a93c5e078baaaa8e2e45f6d498a8b819e02ab2a3525"
+    },
+    {
+      "archive": "data/raw/04a/lmp_selection_2023_2024.csv.gz",
+      "sha256": "63e2ab32f6695de2585a242382ab98813d77675203421a2f353e90e771eec39b"
+    },
+    {
+      "archive": "data/raw/04a/lmp_structure.xml",
+      "sha256": "77bf8ebb6b1b5a2777b4e3568b3fff963bc907754c2530ec5c5e85f937469d75"
+    },
+    {
+      "archive": "data/cache/04a/pes_contractualisation_ocde_2022.pdf",
+      "sha256": "0558f9be317dc620a3265d0809817c781a5a422fa031d24c441b5809b32c5827"
+    },
+    {
+      "archive": "data/cache/04a/pes_experience_randomisee_2014.pdf",
+      "sha256": "5b426bf2f9ab9c7ab9a9f188b7ab87ab1f173777d5cf25cf52832c9e55ccbac4"
+    },
+    {
+      "archive": "data/cache/04a/tax_administration_2025.pdf",
+      "sha256": "224a57de2dadacd762a919fc11f3b2418f5d3c61ee20f5b8900d2859ac673b24"
+    },
+    {
+      "archive": "data/raw/04a/uwv2024_comptes.html",
+      "sha256": "000d0bf757d05fc9895917b61ac28b8a762f15f8a515ef05dfe097200eb6d105"
+    },
+    {
+      "archive": "data/raw/04a/uwv2024_personnel.html",
+      "sha256": "7dc2f918af38e43fb30fa785eeca457cfa4bbafade7e80c79ae6c6158d0cc291"
+    },
+    {
+      "archive": "data/cache/04a/world_public_employment_services_2026.pdf",
+      "sha256": "28b1e2f9da5cf4b3411b45ae8a7d24670956e35537190d55343e562ba9824ea2"
+    },
+    {
+      "archive": "data/raw/04b/cepej2024_france.pdf",
+      "sha256": "4538da369a5c99c35da5917d6040662e4aef7d78a6340c5a76c646c1dae0cee2"
+    },
+    {
+      "archive": "data/raw/04b/cepej2024_germany.pdf",
+      "sha256": "01c316a62adc43bc18e6d088ae3c3d40d892b7eb2e609dce16ef35c451ecc3d7"
+    },
+    {
+      "archive": "data/raw/04b/eurostat_crim_metadata.html",
+      "sha256": "9e5399d0399ff1f55fc97944fa733c0724f366379d997bd510b6ce9ffd373bfa"
+    },
+    {
+      "archive": "data/raw/04b/eurostat_crim_off_fr2022_codes.json",
+      "sha256": "f09718bb2d34d51b38ac81806a883e45ce1d9ccd9a43d45645d895c6e00bf0a3"
+    },
+    {
+      "archive": "data/raw/04b/eurostat_homicide2022.json",
+      "sha256": "998eebf84d0b32667fcdaa247d665df6c5ce8ef6013beabb3786426a18e05a11"
+    },
+    {
+      "archive": "data/raw/04b/eurostat_homicide2022_iccs.json",
+      "sha256": "401df6beac864b44add5b0d84424af999146f400f3ad284bfc3f31bca9f19dd8"
+    },
+    {
+      "archive": "data/raw/04c/drees_cns2026_part3.xlsx",
+      "sha256": "4bd1adf7de10ea31b0243207a65dd999395f19d5ff731bf222901f537bc2c5c1"
+    },
+    {
+      "archive": "data/raw/04c/drees_cns_gestion_records.json",
+      "sha256": "a3d3572cd9946bde739c47b79a448054f5fb1a9215c7a84a36598a572a91e580"
+    },
+    {
+      "archive": "data/raw/04c/drees_cns_gouvernance_records.json",
+      "sha256": "767ce37aac92d607e46b7aa925d99116f1c9a18a4ddff3273ce1d29daac7e6b5"
+    },
+    {
+      "archive": "data/raw/04c/drees_cns_metadata.json",
+      "sha256": "41fc3eee6e8dfd8d1e75f55e1b8c80b904558c12cc6dcb70dd0aa70055c13888"
+    },
+    {
+      "archive": "data/raw/04c/drees_cns_nomenclature.zip",
+      "sha256": "87d90e0d3212ee4894434d58d7ad1cd2f3e29dd5755354bf592cb33117efd47f"
+    },
+    {
+      "archive": "data/raw/04c/drees_oc2025.zip",
+      "sha256": "58afd14975826414f31e73c769bf4ea6f231f7aa75837b51d12fd68c9bc414cc"
+    },
+    {
+      "archive": "data/raw/04c/drees_oc_metadata.json",
+      "sha256": "a41b765a661d31cf03bee4c72662bb081deec4e37aa1538a66f99c85262cea8f"
+    },
+    {
+      "archive": "data/raw/04c/eurostat_esspros_2023.json",
+      "sha256": "80df5e215cbef969242b98032f53eb33816d2e476ab937f99d5c40f948367a01"
+    },
+    {
+      "archive": "data/raw/04c/oecd_sha_current_schemes.csv",
+      "sha256": "0371876153e675a82f4e0473ebe72e96ed195f669e1bf5f9130d2978c16e3f07"
+    },
+    {
+      "archive": "data/raw/04c/oecd_sha_current_total.csv",
+      "sha256": "fb0f4865bfa75a6157f06f6239ad64bbd80d17ada37d9bbfb2d4cb44cb6224a1"
+    },
+    {
+      "archive": "data/raw/04c/oecd_sha_structure.xml",
+      "sha256": "fde7cdddc503b2dd9418be05622a628d28621d094420588bfb2553c3a7106e87"
+    },
+    {
+      "archive": "data/raw/04c/oecd_sha_witness_simple.csv",
+      "sha256": "92d5b9f9e24d8d609fcbea39b6ef051161f1eef2f81b26dc0a94eedebbe1c988"
+    },
+    {
+      "archive": "data/raw/04d/dgcl_ch1_2026.xlsx",
+      "sha256": "0e7fceb5ae99124ea2942f727e0f2370f36335c381b6ec5e26fb092158a44772"
+    },
+    {
+      "archive": "data/raw/04d/dgcl_ch2_2026.xlsx",
+      "sha256": "9eac4e0b5bd04429364ba004c48392fe70510dde407530906bc7822a658567b3"
+    },
+    {
+      "archive": "data/raw/04d/oecd_sng_struct_2020_2026.csv",
+      "sha256": "92dae0f486e0267a8515214df61c1d39342ba9c7bad39ca5c54844735ba1c330"
+    }
+  ]
+}

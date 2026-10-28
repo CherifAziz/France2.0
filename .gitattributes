@@ -7,7 +7,7 @@ data/international/04[a-d]_* -text whitespace=cr-at-eol
 data/risques/*lot2* -text whitespace=cr-at-eol
 sources/registre_04[a-d].csv -text whitespace=cr-at-eol
 sources/04_manifestes_cache.json -text whitespace=cr-at-eol
-figures/04_* -text whitespace=cr-at-eol
+figures/04_* -text -whitespace
 livrables/dossier_recherche_lot2.* -text whitespace=cr-at-eol
 # Les notes assemblées gardent des LF sur tous les systèmes.
 recherche/04[a-d]_*.md text eol=lf

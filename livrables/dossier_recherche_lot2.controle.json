@@ -1,0 +1,25 @@
+{
+  "mobileOverflow": false,
+  "title": "Comparer les fonctions, définir les réformes — dossier de recherche",
+  "sections": 7,
+  "tables": 9,
+  "images": [
+    {
+      "src": "../figures/04_gestion_sante_public_prive.png",
+      "ok": true
+    }
+  ],
+  "duplicates": [],
+  "horizontalOverflow": false,
+  "missingAnchors": [],
+  "localLinks": 64,
+  "badFiles": [],
+  "errors": [],
+  "remoteRequests": [],
+  "date": "2026-10-28",
+  "fichier": "livrables/dossier_recherche_lot2.html",
+  "sha256_html": "903c823a6b8341608045ab2fb2761adcdc366219762195a7781583e29a7917ea",
+  "moteur": "Microsoft Edge headless / Playwright, fichiers locaux",
+  "vue_bureau": "1360x1000",
+  "vue_mobile": "390x844"
+}

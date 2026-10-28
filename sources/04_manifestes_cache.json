@@ -1,0 +1,281 @@
+[
+  {
+    "source_url": "https://www.francetravail.org/files/live/sites/peorg/files/documents/Publications/Rapport%20annuel/rapport_annuel_2024",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "cefe91a5b05d1d15a7a31344e6dbb858151ea0b7e26dd6b830ce3c3ab8dc23ec",
+    "bytes": 11185116,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04a/france_travail_2024.pdf"
+  },
+  {
+    "source_url": "https://www.oecd.org/content/dam/oecd/en/about/programmes/oecd-data-collection-programme/taxation/tax-administration-series-international-survey-on-revenue-administration-isora/ISORA-questionnaire.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "c17f7fc7abd2b06fc6fb69b38edecf483d50da36db4b9e5ba46de88c27af9f5b",
+    "bytes": 2055010,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04a/isora_questionnaire_2025.pdf"
+  },
+  {
+    "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/01/paying-for-results_e21263a2/c6392a59-en.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "0558f9be317dc620a3265d0809817c781a5a422fa031d24c441b5809b32c5827",
+    "bytes": 1534804,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04a/pes_contractualisation_ocde_2022.pdf"
+  },
+  {
+    "source_url": "https://www.povertyactionlab.org/sites/default/files/research-paper/87%20Private%20and%20Public%20Provision%20of%20Counseling%20to%20Job%20Seekers.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "5b426bf2f9ab9c7ab9a9f188b7ab87ab1f173777d5cf25cf52832c9e55ccbac4",
+    "bytes": 680774,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04a/pes_experience_randomisee_2014.pdf"
+  },
+  {
+    "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/tax-administration-2025_6360fad8/cc015ce8-en.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "224a57de2dadacd762a919fc11f3b2418f5d3c61ee20f5b8900d2859ac673b24",
+    "bytes": 4360249,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04a/tax_administration_2025.pdf"
+  },
+  {
+    "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/06/the-world-of-public-employment-services-2026_781934e6/4aebd080-en.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "28b1e2f9da5cf4b3411b45ae8a7d24670956e35537190d55343e562ba9824ea2",
+    "bytes": 43127597,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04a/world_public_employment_services_2026.pdf"
+  },
+  {
+    "source_url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2025-09/Les%20d%C3%A9penses%20de%20sant%C3%A9%20en%202024%20-%20R%C3%A9sultats%20des%20comptes%20de%20la%20sant%C3%A9%20-%20%C3%89dition%202025.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "e12dd4558db0c3d87526489e5c5629b41382fe977e451bb0c3359fc935d2af9f",
+    "bytes": 3007279,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04c/drees_comptes2025.pdf"
+  },
+  {
+    "source_url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2026-09/Les%20d%C3%A9penses%20de%20sant%C3%A9%20en%202025_1.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "701218541a1154381ee1af22ab33f6e8616185a4663d36c66b2b13117d6988ef",
+    "bytes": 4096359,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04c/drees_comptes2026.pdf"
+  },
+  {
+    "source_url": "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse-infographie-documents-de-reference/251001-les-d%C3%A9penses-de-sant%C3%A9-en-2025-edition-2026-panorama-de-la-drees",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "c7904458c5759a0fca2071841e996cd94cbeb46ecd37785b7c3886a2766a39ba",
+    "bytes": 92176,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04c/drees_comptes2026_page.html"
+  },
+  {
+    "source_url": "https://www.drees.solidarites-sante.gouv.fr/publications-communique-de-presse-documents-de-reference/rapports/251218-rapport-organismes-compl%C3%A9mentaires",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "c09eea06cddc79c7536c5f97689ea827f0582919a16315203136f9bd37cfd7be",
+    "bytes": 72880,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04c/drees_oc2025_page.html"
+  },
+  {
+    "source_url": "https://www.cso.ie/en/releasesandpublications/ep/p-spei/socialprotectionexpenditureinireland2023/backgroundnotes/",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "3816d0efb6d16dc32a19beb069d411afc4b9140852d5249e0ccf20b09e2769ec",
+    "bytes": 55354,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04c/esspros_irlande2023.html"
+  },
+  {
+    "source_url": "https://ec.europa.eu/eurostat/documents/3859598/23009546/KS-01-25-046-EN-N.pdf/5a1e58c5-1ff3-5503-0b39-efd1da3739cf?download=true&t=1770798859113&version=1.0",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "97728434e9cd4f2f08edd13bd52209d062e6bff62cc670d01b6717b007e18bbe",
+    "bytes": 1846075,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04c/esspros_manual2026.pdf"
+  },
+  {
+    "source_url": "https://ec.europa.eu/eurostat/cache/metadata/en/spr_esms.htm",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "64350a9cb0a0c56c8e2292f4502bebe4713fbb916a133b9eee510e80ea3cc904",
+    "bytes": 275337,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04c/eurostat_esspros_meta.html"
+  },
+  {
+    "source_url": "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_sha11_esms.htm",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "403562e16abc7eab28844e9cb566281c97d4506a512bce66aea5055bae183448",
+    "bytes": 254412,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04c/eurostat_sha_meta.html"
+  },
+  {
+    "source_url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2021%20SP/2022-01-14%20-%20HCAAM%20-%20Quatre%20sc%C3%A9narios%20polaires%20d%27%C3%A9volution%20de%20l%27articulation/document_travail_hcaam_-_complementaire_sante_et_prevoyance_-_janvier_2021.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "a7cfbd3768c050b6473db9cda3053a6954b533969bc11b4fb88381aff950750b",
+    "bytes": 1499022,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04c/hcaam2021_document_valide.pdf"
+  },
+  {
+    "source_url": "https://www.strategie.gouv.fr/files/files/Publications/2021%20SP/2022-01-14%20-%20HCAAM%20-%20Quatre%20sc%C3%A9narios%20polaires%20d%27%C3%A9volution%20de%20l%27articulation/rapport_hcaam-_quatre_scenarios_articulation_amo-amc_-_janvier_2022_0.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "0f085ba408e0351c17cbd92b54275fcbc5636025349059cdc15e52a0a8f66610",
+    "bytes": 5095049,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04c/hcaam2022_scenarios.pdf"
+  },
+  {
+    "source_url": "https://www.oecd.org/health/health-systems/Improving-Estimates-of-Spending-on-Administration.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "b572cef6ddf539c8bb8d433f22f76d19f4b0a64c6ac37ed4583117f3da50462c",
+    "bytes": 438427,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04c/oecd_admin_guidelines.pdf"
+  },
+  {
+    "source_url": "https://www.economie.gouv.fr/dae/chiffres-cles",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "a7a79a9b4ca6ca1a6dbdfb2a87c1fe1e5324e3276defeb7941a6ae5dec93bccd",
+    "bytes": 73956,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04d/dae_chiffres.html"
+  },
+  {
+    "source_url": "https://www.economie.gouv.fr/dae/la-politique-des-achats-de-letat/la-performance-economique",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "c4e3dc8a7ab9979e61a57dc7712bc24dfca66702ff9c42a75462c3b5d6598b9a",
+    "bytes": 74108,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04d/dae_methode.html"
+  },
+  {
+    "source_url": "https://www.economie.gouv.fr/files/files/directions_services/dae/media-document/Rapport_activite_2025_en_telechargement.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "3ebd7efd7c38420adfa13f013e20fdea89b063326f524c260ee77033478033c5",
+    "bytes": 2880304,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04d/dae_rapport2025.pdf"
+  },
+  {
+    "source_url": "https://www.economie.gouv.fr/files/files/directions_services/dae/media-document/Document_de_reference_economie_achat_2025.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "2b23e1a968c8769b2e141318a2b982e8bde4ef37f3aeb49fe642357428a789f7",
+    "bytes": 455814,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04d/dae_reference2025.pdf"
+  },
+  {
+    "source_url": "https://www.collectivites-locales.gouv.fr/les-collectivites-locales-en-chiffres-2026",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "dfa6ea0ea01e9e6c1f36ed9b690ab9557a829fec5d17e1ae6ecefb40f04a2213",
+    "bytes": 56528,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04d/dgcl_page2026.html"
+  },
+  {
+    "source_url": "https://www.ecologie.gouv.fr/presse/thomas-cazenave-dominique-faure-recoivent-conclusions-du-rapport-boris-ravignon-cout-du",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "626f3b4bc65e1bb19d900abdd88dfe1763ac380ed043bcecc98bfb910912e7a5",
+    "bytes": 54669,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04d/ravignon_page.html"
+  },
+  {
+    "source_url": "https://presse.economie.gouv.fr/download?n=1900%20-%20Rapport%20de%20Boris%20Ravignon%20sur%20le%20co%C3%BBt%20du%20millefeuille%20administratif-pdf&id=132915",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "c3217309a77bfd8b805b6cb4fec62517f101c306c87ba90d22d64bc56812dfd6",
+    "bytes": 3052968,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04d/ravignon_rapport2024.pdf"
+  },
+  {
+    "source_url": "https://presse.economie.gouv.fr/rapport-de-boris-ravignon-sur-le-cout-du-millefeuille-administratif/",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "0da77082ef83a0612a6af7e22a169d3af478e0fbf3653fab9b9eae5154d79085",
+    "bytes": 53248,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04d/ravignon_rapport_page.html"
+  },
+  {
+    "source_url": "https://www.senat.fr/notice-rapport/2024/r24-807-1-notice.html",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "2ae2c9024759532bcd032f7d5b0c609358bf66534a97c7b364a818dafaced513",
+    "bytes": 110751,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04d/senat_agences_notice.html"
+  },
+  {
+    "source_url": "https://www.senat.fr/controle/dossier/2024/19103.html",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "2334070883fa4bd4f1bad959631e4507fdb65ae0f410ee24240976328f875836",
+    "bytes": 114012,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04d/senat_agences_page.html"
+  },
+  {
+    "source_url": "https://www.senat.fr/rap/r24-807-1/r24-807-11.pdf",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "e3a21759061d0ba91eb7209c51685ce821c551ddcecc9d4605f228b767eeb199",
+    "bytes": 5293448,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "raw_path": "data/cache/04d/senat_agences_rapport2025.pdf"
+  },
+  {
+    "source_url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-moderniser-la-gestion-du-patrimoine-immobilier-de-letat.html",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "602a982081cdc7d17dc89e22613f863cee7a180f90bfac95433711efe102fc7b",
+    "bytes": 157788,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04d/senat_fonciere2026.html"
+  },
+  {
+    "source_url": "https://www.senat.fr/rap/a25-749/a25-749_mono.html",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "d3cecab9b4127c86c403189fc6c0c37b82543b13647a1cdcfcee4415dedf2e05",
+    "bytes": 462717,
+    "conversion": "html2text",
+    "raw_path": "data/cache/04d/senat_simplification2026.html"
+  },
+  {
+    "source_url": "https://sdmx.oecd.org/public/rest/dataflow/OECD.CFE.RDG/DSD_SNG_WOFI@DF_SNG_STRUCT/1.0?references=datastructure",
+    "date_consultation": "2026-10-28",
+    "http_status": 200,
+    "sha256": "9af7e0a7beef01c68e5ac013fdd5e98c4dbf4e0f2acb392b9818daf1fbacd9f6",
+    "bytes": 17542,
+    "conversion": "décodage texte",
+    "raw_path": "data/cache/04d/sng_structure.xml"
+  }
+]

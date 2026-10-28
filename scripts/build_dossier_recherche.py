@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Assemble les notes du premier lot, sans les présenter comme un rapport final.
+"""Assemble un lot de notes, sans le présenter comme un rapport final.
 
 La conversion de chaque note est indépendante : leurs références Markdown de
 même nom ne peuvent pas être mélangées entre sources. Pas de dépendance Pandoc.
 """
+import argparse
 import hashlib
 import html
 import json
@@ -30,6 +31,14 @@ NOTES=[
     ("verification","Vérification de 100 chiffres","00_verification_lot1.md"),
     ("modele","Moteur financier","00_audit_modele.md"),
     ("methode","Précisions de méthode","00_AVENANT_METHODOLOGIQUE.md"),
+]
+NOTES_LOT2=[
+    ("04s","Résultats et conséquences","04_synthese_fonctions.md"),
+    ("04a","Fiscalité et emploi","04a_fiscalite_emploi.md"),
+    ("04b","Éducation, sécurité et justice","04b_education_securite_justice.md"),
+    ("04c","Santé et protection sociale","04c_sante_protection_sociale.md"),
+    ("04d","Territoires et fonctions support","04d_territoires_fonctions_support.md"),
+    ("verification2","Contre-vérification du lot","00_verification_lot2.md"),
 ]
 CSS="""
 :root { color-scheme:light; --ink:#17232b; --muted:#53616b; --accent:#245574; --line:#dce2e6; }
@@ -74,11 +83,15 @@ footer { color:var(--muted); border-top:1px solid var(--line); padding:20px 28px
 
 
 def main():
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--lot",type=int,choices=[1,2],default=1)
+    args=parser.parse_args()
+    notes=NOTES if args.lot==1 else NOTES_LOT2
     out=ROOT/"livrables"
     out.mkdir(exist_ok=True)
     rendered=[]
     provenance=[]
-    for key,label,filename in NOTES:
+    for key,label,filename in notes:
         path=ROOT/"recherche"/filename
         if not path.is_file():
             raise SystemExit(f"Note attendue absente : {path}")
@@ -92,26 +105,37 @@ def main():
         rendered.append(f'<section id="n{key}">{body}<p class="note-source"><a href="../recherche/{filename}">Source Markdown de cette note</a></p></section>')
         provenance.append({"fichier":path.relative_to(ROOT).as_posix(),"sha256":hashlib.sha256(path.read_bytes()).hexdigest()})
     files=sorted(p for d in ["data/france","data/international","data/risques","sources"] for p in (ROOT/d).glob("*") if p.suffix in (".csv",".json",".md"))
+    if args.lot==2:
+        files=[p for p in files if re.match(r"04[a-d]_|04_manifestes_cache\.|registre_04[a-d]\.",p.name) or (p.parent==ROOT/"data/risques" and "lot2" in p.name)]
     downloads="\n".join(f'<li><a href="../{p.relative_to(ROOT).as_posix()}">{html.escape(p.relative_to(ROOT).as_posix())}</a></li>' for p in files)
-    nav="\n".join(f'<a href="#n{k}">{html.escape(l)}</a>' for k,l,_ in NOTES)+"<a href=\"#fichiers\">Données et registres</a>"
+    nav="\n".join(f'<a href="#n{k}">{html.escape(l)}</a>' for k,l,_ in notes)+"<a href=\"#fichiers\">Données et registres</a>"
+    title="Emploi public et comparaison internationale" if args.lot==1 else "Comparer les fonctions, définir les réformes"
+    intro=("Premier dossier de données, de sources et de méthodes. Il réunit la cartographie française, les départs, les coûts documentés, les métiers et les premières séries harmonisées." if args.lot==1 else
+           "Deuxième dossier de recherche : fiscalité, service public de l'emploi, éducation, sécurité, justice, santé, protection sociale et fonctions support. Il distingue écarts bruts, corrections de périmètre, besoins et potentiel réformable.")
+    previous="" if args.lot==1 else '<p><a href="dossier_recherche_lot1.html">Consulter le premier dossier : cartographie française et bases internationales</a></p>'
     content='''<!doctype html>
 <html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Emploi public français et comparaison internationale - dossier de recherche initial</title><style>'''+CSS+'''</style></head>
+<title>'''+title+''' — dossier de recherche</title><style>'''+CSS+'''</style></head>
 <body><header><div class="date">Mission La France est-elle suradministrée · Recherche arrêtée au 28 octobre 2026</div>
-<h1>Emploi public et comparaison internationale</h1>
-<p>Premier dossier de données, de sources et de méthodes. Il réunit la cartographie française, les départs, les coûts documentés, les métiers et les premières séries harmonisées.</p>
+<h1>'''+title+'''</h1>
+<p>'''+intro+'''</p>
 <p><strong>Le diagnostic national et le plan chiffré restent à construire.</strong> Les écarts bruts présentés ne démontrent pas des sureffectifs. Les données manquantes et les hypothèses sont signalées dans chaque note.</p>
-<p><a href="../SUIVI_MISSION.md">État de la mission et prochaines étapes</a></p></header>
+<p><a href="../SUIVI_MISSION.md">État de la mission et prochaines étapes</a></p>'''+previous+'''</header>
 <nav aria-label="Sommaire"><div>'''+nav+'''</div></nav><main>'''+"\n".join(rendered)+f'''
 <section id="fichiers"><h1>Données et registres de sources</h1>
 <p>Les tableaux conservent leurs unités, champs, années et localisations. Les PDF volumineux restent dans le cache local ; leurs URL et empreintes figurent dans les registres.</p>
 <ul class="files">{downloads}</ul></section></main>
 <footer>Assemblage reproductible : scripts/build_dossier_recherche.py. Le manifeste associé donne les empreintes des notes assemblées. Ce dossier intermédiaire ne remplace pas le rapport final prévu par le cahier des charges.</footer>
 </body></html>'''
-    target=out/"dossier_recherche_lot1.html"
+    target=out/f"dossier_recherche_lot{args.lot}.html"
     target.write_text(content,encoding="utf-8")
-    (out/"dossier_recherche_lot1.manifest.json").write_text(json.dumps({"date":"2026-10-28","notes":provenance,"sha256_html":hashlib.sha256(target.read_bytes()).hexdigest()},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print(f"{len(NOTES)} notes assemblées, {len(files)} fichiers liés, {target.stat().st_size} octets")
+    manifest={"date":"2026-10-28","lot":args.lot,"notes":provenance,"sha256_html":hashlib.sha256(target.read_bytes()).hexdigest()}
+    if args.lot==2:
+        manifest["donnees_liees"]=[{"fichier":p.relative_to(ROOT).as_posix(),"sha256":hashlib.sha256(p.read_bytes()).hexdigest()} for p in files]
+        images=set(re.findall(r'<img[^>]+src="([^\"]+)"',"\n".join(rendered)))
+        manifest["images"]=[{"fichier":(out/ref).resolve().relative_to(ROOT).as_posix(),"sha256":hashlib.sha256((out/ref).read_bytes()).hexdigest()} for ref in sorted(images) if not re.match(r"https?:",ref)]
+    target.with_suffix(".manifest.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    print(f"{len(notes)} notes assemblées, {len(files)} fichiers liés, {target.stat().st_size} octets")
 
 
 if __name__=="__main__":

@@ -31,9 +31,22 @@ Poursuivre le cahier des charges de `PROMPT_CODEX.md` jusqu'à un rapport indép
 6. Les jeux internationaux sont multidimensionnels : HC7 et total santé, régimes HF imbriqués, unités et multiplicateurs, moyennes/erreurs standard TALIS, dépenses/ratios EAG. Aucun cumul naïf.
 7. Une différence internationale brute n'est pas une mesure de sureffectif. L'externalisation doit être intégrée au diagnostic économique.
 
+## Avancement du deuxième lot
+
+Les quatre volets fonctionnels 04a–04d sont documentés, avec une synthèse transversale et un deuxième dossier HTML. Il s'agit d'un premier diagnostic : les corrections complètes aux besoins et les potentiels nationaux demeurent non identifiés lorsque les sources ne permettent pas de les établir.
+
+- **04a — Fiscalité et emploi** : 3 050 observations ISORA et 759 LMP, 23 pays demandés, sept fonctions fiscales et profils SPE rapprochés de comptes nationaux. 38 406 ETP fiscaux annuels ne sont pas les 93 789 agents de l'organisme en fin d'exercice. 132 comparaisons à quatre niveaux, six pistes de réforme, aucun écart brut converti en sureffectif.
+- **04b — Éducation, police et justice** : ratios EAG par secteur et niveau, rémunérations et dépenses PPA, TALIS et métadonnées ; police à année commune2022 ; 360 observations CEPEJ. Les soutiens scolaires, enseignants, policiers et non-juges ne sont pas assimilés à des administratifs. La charge d'affaires et les délais sont explicités ; potentiel net non établi.
+- **04c — Santé et protection sociale** : comptes DREES2026/année2025, 46 pays-années SHA, 1 851 lignes de régimes et 17 zones ESSPROS. HC7 inclut les assureurs privés et exclut les soutiens internes aux hôpitaux. Les OC privés représentent 52,09 % des frais de gestion de la santé2025. La décomposition par régime change le signe de l'écart France/Allemagne sur gouvernement/assurance sociale, sans prouver un gain causal. HCAAM conservé comme scénario historique, avec financement et transition.
+- **04d — Territoires et supports** : 90 observations WOFI2020, DGCL2026, rapports Ravignon/Sénat et achats2025. Coordination valorisée, hypothèses support, gains achats et objectif immobilier restent distincts. Le cadre de foncière promulgué en août2026 entre dans la référence de réforme engagée. Les recouvrements et un raccordement RH non reconstitué sont documentés.
+- **Reproduction et contrôle** : les cinq scripts analytiques reproduisent 36 CSV à l'identique. 63 contrôles indépendants relisent cellules, observations et passages primaires : 61 conformités sans correction et deux après correction (arrondi UK et rédaction RH). Les réserves d'unité/périmètre demeurent. 37 archives rapprochées de leurs empreintes ; 31 documents du cache sont restaurables par `scripts/restore_lot2_sources.py` (décomptes partiellement chevauchants). Les 104 fichiers bruts du lot sont identiques à leur index Git ; les attributs protègent aussi les empreintes des sorties assemblées.
+- **Livrable** : `livrables/dossier_recherche_lot2.html`, six notes assemblées, graphique public/privé et manifeste des sources assemblées. Rendu bureau/mobile, 64 liens locaux, ancres et image vérifiés ; preuve associée à l'empreinte HTML dans `livrables/dossier_recherche_lot2.controle.json`. Les notes individuelles de contre-vérification sont aussi disponibles. Aucun rapport final ni scénario financier national n'est annoncé comme terminé.
+
 ## Prochaine séquence
 
-Reprendre le chantier 04 fonction par fonction à partir des données contrôlées. Compléter les variables manquantes du chantier 03 (NACE/ISCO, PPA, heures, démographie, modes public/privé et résultats de service) avant de corriger les écarts bruts. Les chantiers 05–10 doivent documenter les réformes avant la calibration des scénarios. Répéter une contre-vérification d'au moins 40 chiffres décisifs lors de la phase 5, cette fois sur les réformes et économies finales.
+Documenter les chantiers **05–10** : évaluations de réformes étrangères, précédents français, simplification, IA et contre-audit des propositions politiques. Les pistes déjà présentes en04a/04c et les processus décrits en04b/04d serviront au catalogue de **25 fiches A–M**, sans remplacer l'évaluation des coûts nets.
+
+Compléter les variables encore manquantes du chantier03 (NACE/ISCO, heures, démographie, délégations, missions et résultats de service). Les PPA santé/éducation et plusieurs corrections public/privé sont maintenant documentées, mais ne constituent pas un ajustement complet aux besoins. Construire ensuite le registre disjoint des viviers/départs/coûts, les quatre scénarios et les sensibilités. Répéter une contre-vérification d'au moins40 chiffres décisifs lors de la phase5, cette fois sur les réformes et économies finales.
 
 ## Sauvegarde
 
