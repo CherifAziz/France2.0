@@ -1,0 +1,6 @@
+requests>=2.31,<3
+openpyxl>=3.1,<4
+html2text>=2024.2.26
+pypdf>=4,<7
+fonttools>=4.60,<5
+matplotlib>=3.9,<4
