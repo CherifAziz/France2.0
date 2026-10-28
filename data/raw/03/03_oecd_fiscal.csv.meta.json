@@ -1,0 +1,10 @@
+{
+  "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.SDD.NAD,DSD_NASEC10@DF_TABLE12_EXP,1.1/A.AUS+AUT+BEL+BGR+CAN+CHE+CHL+COL+CRI+CYP+CZE+DEU+DNK+ESP+EST+FIN+FRA+GBR+GRC+HRV+HUN+IRL+ISL+ISR+ITA+JPN+KOR+LTU+LUX+LVA+MEX+MLT+NLD+NOR+NZL+POL+PRT+ROU+SGP+SVK+SVN+SWE+TUR+USA.S13..D.D1+P2+D632+OTE+D41...XDC..V.N.?startPeriod=2023&endPeriod=2024",
+  "url_finale": "https://sdmx.oecd.org/public/rest/v1/data/OECD.SDD.NAD,DSD_NASEC10@DF_TABLE12_EXP,1.1/A.AUS+AUT+BEL+BGR+CAN+CHE+CHL+COL+CRI+CYP+CZE+DEU+DNK+ESP+EST+FIN+FRA+GBR+GRC+HRV+HUN+IRL+ISL+ISR+ITA+JPN+KOR+LTU+LUX+LVA+MEX+MLT+NLD+NOR+NZL+POL+PRT+ROU+SGP+SVK+SVN+SWE+TUR+USA.S13..D.D1+P2+D632+OTE+D41...XDC..V.N.?startPeriod=2023&endPeriod=2024",
+  "date_consultation": "2026-10-28",
+  "http_status": 200,
+  "content_type": "application/vnd.sdmx.data+csv; labels=both; charset=utf-8",
+  "server_date": "Wed, 28 Oct 2026 00:35:03 GMT",
+  "etag": "",
+  "sha256": "dee68cb7ec7362ec67eeb22181cac4f5eb89d275a57594d4b0170ce8a35be1fe"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NAMAIN10@DF_TABLE1_EXPENDITURE/2.0?references=datastructure",
+  "url_finale": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NAMAIN10@DF_TABLE1_EXPENDITURE/2.0?references=datastructure",
+  "date_consultation": "2026-10-28",
+  "http_status": 200,
+  "content_type": "application/vnd.sdmx.structure+xml; version=2.1; charset=utf-8",
+  "server_date": "Wed, 28 Oct 2026 00:35:02 GMT",
+  "etag": "",
+  "sha256": "382ec75776578ee0f7b2ba85b49e40f0c985cabdd9c31328b23b4cc6aced4a31"
+}

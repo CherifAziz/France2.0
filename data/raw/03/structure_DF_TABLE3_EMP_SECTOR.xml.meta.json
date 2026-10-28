@@ -1,0 +1,10 @@
+{
+  "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NAMAIN10@DF_TABLE3_EMP_SECTOR/2.0?references=datastructure",
+  "url_finale": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NAMAIN10@DF_TABLE3_EMP_SECTOR/2.0?references=datastructure",
+  "date_consultation": "2026-10-28",
+  "http_status": 200,
+  "content_type": "application/vnd.sdmx.structure+xml; charset=utf-8; version=2.1",
+  "server_date": "Wed, 28 Oct 2026 00:35:00 GMT",
+  "etag": "",
+  "sha256": "17382b8a73d033ec88cb1d7795da829f7de82278f953f0f1f0522b048a80f129"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NASEC10@DF_TABLE12_EMPDC/1.1?references=datastructure",
+  "url_finale": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.SDD.NAD/DSD_NASEC10@DF_TABLE12_EMPDC/1.1?references=datastructure",
+  "date_consultation": "2026-10-28",
+  "http_status": 200,
+  "content_type": "application/vnd.sdmx.structure+xml; version=2.1; charset=utf-8",
+  "server_date": "Wed, 28 Oct 2026 00:35:00 GMT",
+  "etag": "",
+  "sha256": "948c07829e9b3263f1c6962d3a3d94bdb630c9e8631710dae0287108e6d1e295"
+}

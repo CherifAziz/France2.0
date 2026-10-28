@@ -1,0 +1,19 @@
+variable,definition
+pays_iso3,"Code ISO3 ; EU27_2020 et OECD désignent des agrégats, pas des pays"
+pays,Libellé français du pays ou de l'agrégat
+indicateur,"Identifiant stable de l'indicateur, voir 03_dictionnaire_indicateurs.csv"
+valeur,"Valeur numérique ; vide signifie indisponible, jamais zéro imputé"
+unite,Unité après prise en compte du multiplicateur de la source
+annee,Année réelle de référence ; les dérogations StatLink 2021/2022 sont corrigées explicitement
+champ,Définition opérationnelle et avertissement sur le champ
+secteur,S13 administrations publiques ou S1 économie/population totale
+origine,Institution productrice/diffuseuse ; ne garantit pas une source nationale indépendante
+source_id,"Clé du registre03 ; indispensable pour distinguer sources, reprises et éditions"
+source_url,URL exacte des réponses utilisées ; plusieurs URL séparées par point-virgule pour un calcul
+edition_source,Publication datée ou collecte API ; ne pas fusionner silencieusement les millésimes
+source_localisation,"Chemin local, filtre pays/année ou cellule Excel et notes"
+flag,"Code source conservé ; A normal, P/p provisoire ; autres avertissements explicites du calcul"
+statut,"FAIT lu dans la source, ESTIMATION calcul reproductible, NON TROUVÉ absence ou formule impossible"
+formule,Formule appliquée ; vide pour une valeur publiée directement
+note,"Limites, divergences ou exceptions liées à cette observation"
+date_consultation,Date de la mission au format ISO ; actualisation future : réviser explicitement DATE dans le script

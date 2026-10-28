@@ -1,0 +1,4 @@
+# Conserver les octets des archives primaires et leurs empreintes, sans nettoyage.
+data/raw/** -text -whitespace
+# Exception héritée : blob Git LF, fichier de travail CRLF lors de la reprise.
+data/raw/04/isora_FRA_all_indicators.csv text eol=crlf -whitespace

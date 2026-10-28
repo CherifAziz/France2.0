@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v10.11.8.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF18331</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2026-10-28T01:35:02.4672482+01:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Dataflows>
+      <structure:Dataflow id="DSD_NASEC10@DF_TABLE12_EXP" agencyID="OECD.SDD.NAD" version="1.1" isFinal="true">
+        <common:Annotations>
+          <common:Annotation>
+            <common:AnnotationType>NonProductionDataflow</common:AnnotationType>
+            <common:AnnotationText xml:lang="en">true</common:AnnotationText>
+          </common:Annotation>
+          <common:Annotation id="@SDMX">
+            <common:AnnotationTitle>COMBINED_TRANSACTION</common:AnnotationTitle>
+            <common:AnnotationType>LAYOUT_ROW</common:AnnotationType>
+          </common:Annotation>
+          <common:Annotation id="@SDMX">
+            <common:AnnotationTitle>TIME_PERIOD</common:AnnotationTitle>
+            <common:AnnotationType>LAYOUT_COLUMN</common:AnnotationType>
+          </common:Annotation>
+          <common:Annotation id="@SDMX">
+            <common:AnnotationTitle>REF_AREA,COMBINED_UNIT_MEASURE</common:AnnotationTitle>
+            <common:AnnotationType>LAYOUT_ROW_SECTION</common:AnnotationType>
+          </common:Annotation>
+          <common:Annotation id="@SDMX">
+            <common:AnnotationTitle>FREQ,OBS_STATUS=A,CONF_STATUS=F,TABLE_IDENTIFIER,PRICE_BASE,REF_YEAR_PRICE,TRANSFORMATION=N,EXPENDITURE,CONSOLIDATION=N,TRANSACTION=B1GQ+D21X31+D2X3,COUNTERPART_SECTOR=_Z</common:AnnotationTitle>
+            <common:AnnotationType>NOT_DISPLAYED</common:AnnotationType>
+          </common:Annotation>
+          <common:Annotation id="@SDMX">
+            <common:AnnotationTitle>PRICE_BASE=V,REF_AREA=ITA,SECTOR=S13</common:AnnotationTitle>
+            <common:AnnotationType>DEFAULT</common:AnnotationType>
+          </common:Annotation>
+          <common:Annotation>
+            <common:AnnotationTitle>PRICE_BASE,REF_YEAR_PRICE,UNIT_MULT,CURRENCY,TRANSFORMATION</common:AnnotationTitle>
+            <common:AnnotationType>UNIT_MEASURE_CONCEPTS</common:AnnotationType>
+          </common:Annotation>
+          <common:Annotation id="@SDMX">
+            <common:AnnotationTitle>TRANSACTION:OECD.SDD.NAD:HCL_TRANSACTION_12_EXP_ANA(1.0).H</common:AnnotationTitle>
+            <common:AnnotationType>HIER_CONTEXT</common:AnnotationType>
+          </common:Annotation>
+          <common:Annotation>
+            <common:AnnotationTitle>COMBINED_TRANSACTION:TRANSACTION,COUNTERPART_SECTOR;COMBINED_UNIT_MEASURE:UNIT_MEASURE,PRICE_BASE,REF_YEAR_PRICE,UNIT_MULT,CURRENCY,TRANSFORMATION</common:AnnotationTitle>
+            <common:AnnotationType>COMBINED_CONCEPTS</common:AnnotationType>
+            <common:AnnotationText xml:lang="en">COMBINED_TRANSACTION:Combined transaction;COMBINED_UNIT_MEASURE:Combined unit of measure</common:AnnotationText>
+            <common:AnnotationText xml:lang="fr">COMBINED_TRANSACTION:Transaction combinée;COMBINED_UNIT_MEASURE:Unité de mesure combinée</common:AnnotationText>
+          </common:Annotation>
+          <common:Annotation>
+            <common:AnnotationTitle>V2/structure/dataflow/OECD.SDD.NAD/DSD_NASEC10@DF_TABLE12,DSD_NASEC10@DF_TABLE10,DSD_NASEC10@DF_TABLE11,DSD_NASEC10@DF_TABLE12_EXP,DSD_NASEC10@DF_TABLE12_REV,DSD_NASEC10@DF_TABLE12_BAL,DSD_NASEC10@DF_TABLE14_EXP,DSD_NASEC10@DF_TABLE14_REV/latest</common:AnnotationTitle>
+            <common:AnnotationType>RELATED_DATA</common:AnnotationType>
+          </common:Annotation>
+        </common:Annotations>
+        <common:Name xml:lang="en">Annual government non-financial accounts and key indicators (Expenditure)</common:Name>
+        <common:Name xml:lang="fr">Comptes annuels non financiers des administrations publiques et indicateurs principaux (dépenses)</common:Name>
+        <common:Description xml:lang="en">This table presents the full sequence of non-financial accounts for the General Government sector and its sub-sectors from the production account to the capital account. It shows the Expenditure (or Uses) side of the accounts, not including the balancing items, and is designed to be used in conjunction with the tables entitled ‘Annual government non-financial accounts and key indicators (Revenues)’ and ‘Annual government non-financial accounts and key indicators (Balancing items)’.  &lt;br&gt;&lt;br&gt;The presentation is on a country-by-country basis. Users are recommended to select one country (or area) at a time in the ‘Reference area’ filter in order to view the full sequence of non-financial accounts. Alternatively, specific lines within the sequence can be selected using the ‘Transaction’ filter to compare this item for combinations of sectors, countries and time periods. It is also possible to select the government sub-sectors – central, local and state (regional) government and social security funds – using the ‘Institutional sector’ filter.These indicators were presented in the previous dissemination system in the SNA_TABLE12 dataset. 
+&lt;br&gt; See ANA Changes for information on changes in methodology:  &lt;a href="https://webfs-sdd.oecd.org/files/.Stat/NAMAIN10/ANA_Changes.xls"&gt;ANA Changes&lt;/a&gt; &lt;br&gt;
+Explore also the Government Finances and Public Sector Debt webpage: &lt;a href= "https://www.oecd.org/en/data/datasets/government-finances-and-public-sector-debt.html"&gt; Government Finances and Public Sector Debt webpage&lt;/a&gt;&lt;br&gt;OECD statistics contact: &lt;a href="mailto:STAT.Contact@oecd.org"&gt;STAT.Contact@oecd.org&lt;/a&gt;</common:Description>
+        <common:Description xml:lang="fr">Ce tableau présente la séquence complète des dépenses des comptes non financiers pour le secteur des administrations publiques et ses sous-secteurs, du compte de production au compte de capital. Il présente le côté des dépenses (ou emplois) des comptes, à l'exclusion des soldes, et est conçu pour être utilisé conjointement avec le tableau intitulé ‘Comptes annuels non financiers des administrations publiques et indicateurs principaux (Revenus)’ et le tableau intitulé ‘Comptes annuels non financiers des administrations publiques et indicateurs principaux (Soldes comptables)’.&lt;br&gt;&lt;br&gt;
+
+La présentation se fait pays par pays. Il est recommandé aux utilisateurs de sélectionner un pays (ou une zone) à la fois dans le filtre ‘Zone de référence’ afin de visualiser la séquence complète des comptes non financiers. Alternativement, des lignes spécifiques dans la séquence peuvent être sélectionnées à l’aide du filtre 'Transaction' pour comparer cet élément pour des combinaisons de secteurs, de pays et de périodes. Il est également possible à l’aide du filtre ‘Secteur institutionnel’ de sélectionner les sous-secteurs des administrations publiques : l’administration centrale, les administrations d’Etats fédérés, les administrations locales, et les administrations de sécurité sociale .&lt;br&gt;&lt;br&gt;
+
+Ces indicateurs ont été présentés dans le système de diffusion précédent dans l'ensemble de données SNA_TABLE12. &lt;br&gt; 
+&lt;br&gt; Pour plus d'informations sur les changements de méthodologie, consultez le document "ANA Changes" (en anglais uniquement):  &lt;a href="https://webfs-sdd.oecd.org/files/.Stat/NAMAIN10/ANA_Changes.xls"&gt;ANA Changes&lt;/a&gt; &lt;br&gt;
+Explorez également la page Web des finances publiques et dette du secteur public: &lt;a href="https://www.oecd.org/fr/donnees/datasets/government-finances-and-public-sector-debt.html"&gt;Page Web des finances publiques et dette du secteur public&lt;/a&gt;&lt;br&gt;Contact statistique OCDE: &lt;a href="mailto:STAT.Contact@oecd.org"&gt;STAT.Contact@oecd.org&lt;/a&gt;</common:Description>
+        <structure:Structure>
+          <Ref id="DSD_NASEC10" version="1.1" agencyID="OECD.SDD.NAD" package="datastructure" class="DataStructure" />
+        </structure:Structure>
+      </structure:Dataflow>
+    </structure:Dataflows>
+    <structure:DataStructures>
+      <structure:DataStructure id="DSD_NASEC10" agencyID="OECD.SDD.NAD" version="1.1" isFinal="true">
+        <common:Annotations>
+          <common:Annotation>
+            <common:AnnotationTitle>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=OECD:MSD_REF_METADATA(1.0)</common:AnnotationTitle>
+            <common:AnnotationType>METADATA</common:AnnotationType>
+          </common:Annotation>
+        </common:Annotations>
+        <common:Name xml:lang="en">National Accounts Sectoral Accounts10</common:Name>
+        <structure:DataStructureComponents>
+          <structure:DimensionList id="DimensionDescriptor">
+            <structure:Dimension id="FREQ" position="1">
+              <structure:ConceptIdentity>
+                <Ref id="FREQ" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_FREQ" version="2.1" agencyID="SDMX" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="REF_AREA" position="2">
+              <structure:ConceptIdentity>
+                <Ref id="REF_AREA" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_AREA" version="1.1" agencyID="OECD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="SECTOR" position="3">
+              <structure:ConceptIdentity>
+                <Ref id="SECTOR" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_SECTOR" version="1.1" agencyID="OECD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="COUNTERPART_SECTOR" position="4">
+              <structure:ConceptIdentity>
+                <Ref id="COUNTERPART_SECTOR" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_SECTOR" version="1.1" agencyID="OECD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="ACCOUNTING_ENTRY" position="5">
+              <structure:ConceptIdentity>
+                <Ref id="ACCOUNTING_ENTRY" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_ACCOUNTING_ENTRY" version="1.0" agencyID="OECD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="TRANSACTION" position="6">
+              <structure:ConceptIdentity>
+                <Ref id="TRANSACTION" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_TRANSACTION" version="1.0" agencyID="OECD.SDD.NAD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="INSTR_ASSET" position="7">
+              <structure:ConceptIdentity>
+                <Ref id="INSTR_ASSET" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_INSTR_ASSET" version="1.0" agencyID="OECD.SDD.NAD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="EXPENDITURE" position="8">
+              <structure:ConceptIdentity>
+                <Ref id="EXPENDITURE" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_COFOG" version="1.0" agencyID="OECD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="UNIT_MEASURE" position="9">
+              <structure:ConceptIdentity>
+                <Ref id="UNIT_MEASURE" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_UNIT_MEASURE" version="1.1" agencyID="OECD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="VALUATION" position="10">
+              <structure:ConceptIdentity>
+                <Ref id="VALUATION" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_VALUATION" version="1.0" agencyID="OECD.SDD.NAD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="PRICE_BASE" position="11">
+              <structure:ConceptIdentity>
+                <Ref id="PRICE_BASE" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_PRICES" version="1.0" agencyID="OECD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="TRANSFORMATION" position="12">
+              <structure:ConceptIdentity>
+                <Ref id="TRANSFORMATION" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_TRANSFORMATION" version="1.1" agencyID="OECD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:Dimension id="TABLE_IDENTIFIER" position="13">
+              <structure:ConceptIdentity>
+                <Ref id="TABLE_IDENTIFIER" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_TABLEID" version="1.0" agencyID="OECD.SDD.NAD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+            </structure:Dimension>
+            <structure:TimeDimension id="TIME_PERIOD" position="14">
+              <structure:ConceptIdentity>
+                <Ref id="TIME_PERIOD" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:TextFormat textType="ObservationalTimePeriod" />
+              </structure:LocalRepresentation>
+            </structure:TimeDimension>
+          </structure:DimensionList>
+          <structure:AttributeList id="AttributeDescriptor">
+            <structure:Attribute id="COUNTERPART_AREA" assignmentStatus="Mandatory">
+              <structure:ConceptIdentity>
+                <Ref id="COUNTERPART_AREA" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_AREA" version="1.1" agencyID="OECD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+              <structure:AttributeRelationship>
+                <structure:Dimension>
+                  <Ref id="SECTOR" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="TRANSACTION" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="TABLE_IDENTIFIER" />
+                </structure:Dimension>
+              </structure:AttributeRelationship>
+            </structure:Attribute>
+            <structure:Attribute id="CONSOLIDATION" assignmentStatus="Mandatory">
+              <structure:ConceptIdentity>
+                <Ref id="CONSOLIDATION" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_CONSOLIDAT" version="1.0" agencyID="OECD.SDD.NAD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+              <structure:AttributeRelationship>
+                <structure:Dimension>
+                  <Ref id="TABLE_IDENTIFIER" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="TRANSACTION" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="COUNTERPART_SECTOR" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="ACCOUNTING_ENTRY" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="SECTOR" />
+                </structure:Dimension>
+              </structure:AttributeRelationship>
+            </structure:Attribute>
+            <structure:Attribute id="REF_YEAR_PRICE" assignmentStatus="Conditional">
+              <structure:ConceptIdentity>
+                <Ref id="REF_YEAR_PRICE" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:TextFormat textType="ObservationalTimePeriod" />
+              </structure:LocalRepresentation>
+              <structure:AttributeRelationship>
+                <structure:Dimension>
+                  <Ref id="SECTOR" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="FREQ" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="REF_AREA" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="ACCOUNTING_ENTRY" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="COUNTERPART_SECTOR" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="TRANSACTION" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="TABLE_IDENTIFIER" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="VALUATION" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="PRICE_BASE" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="INSTR_ASSET" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="EXPENDITURE" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="UNIT_MEASURE" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="TRANSFORMATION" />
+                </structure:Dimension>
+              </structure:AttributeRelationship>
+            </structure:Attribute>
+            <structure:Attribute id="CONF_STATUS" assignmentStatus="Mandatory">
+              <structure:ConceptIdentity>
+                <Ref id="CONF_STATUS" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_CONF_STATUS" version="1.2" agencyID="SDMX" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+              <structure:AttributeRelationship>
+                <structure:PrimaryMeasure>
+                  <Ref id="OBS_VALUE" />
+                </structure:PrimaryMeasure>
+              </structure:AttributeRelationship>
+            </structure:Attribute>
+            <structure:Attribute id="DECIMALS" assignmentStatus="Mandatory">
+              <structure:ConceptIdentity>
+                <Ref id="DECIMALS" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_DECIMALS" version="1.0" agencyID="SDMX" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+              <structure:AttributeRelationship>
+                <structure:Dimension>
+                  <Ref id="TRANSFORMATION" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="UNIT_MEASURE" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="EXPENDITURE" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="INSTR_ASSET" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="PRICE_BASE" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="VALUATION" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="TABLE_IDENTIFIER" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="TRANSACTION" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="COUNTERPART_SECTOR" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="ACCOUNTING_ENTRY" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="REF_AREA" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="FREQ" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="SECTOR" />
+                </structure:Dimension>
+              </structure:AttributeRelationship>
+            </structure:Attribute>
+            <structure:Attribute id="OBS_STATUS" assignmentStatus="Mandatory">
+              <structure:ConceptIdentity>
+                <Ref id="OBS_STATUS" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_OBS_STATUS" version="2.2" agencyID="SDMX" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+              <structure:AttributeRelationship>
+                <structure:PrimaryMeasure>
+                  <Ref id="OBS_VALUE" />
+                </structure:PrimaryMeasure>
+              </structure:AttributeRelationship>
+            </structure:Attribute>
+            <structure:Attribute id="UNIT_MULT" assignmentStatus="Mandatory">
+              <structure:ConceptIdentity>
+                <Ref id="UNIT_MULT" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_UNIT_MULT" version="1.1" agencyID="SDMX" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+              <structure:AttributeRelationship>
+                <structure:Dimension>
+                  <Ref id="PRICE_BASE" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="UNIT_MEASURE" />
+                </structure:Dimension>
+              </structure:AttributeRelationship>
+            </structure:Attribute>
+            <structure:Attribute id="CURRENCY" assignmentStatus="Mandatory">
+              <structure:ConceptIdentity>
+                <Ref id="CURRENCY" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:Enumeration>
+                  <Ref id="CL_CURRENCY" version="1.1" agencyID="OECD" package="codelist" class="Codelist" />
+                </structure:Enumeration>
+              </structure:LocalRepresentation>
+              <structure:AttributeRelationship>
+                <structure:Dimension>
+                  <Ref id="UNIT_MEASURE" />
+                </structure:Dimension>
+                <structure:Dimension>
+                  <Ref id="REF_AREA" />
+                </structure:Dimension>
+              </structure:AttributeRelationship>
+            </structure:Attribute>
+          </structure:AttributeList>
+          <structure:MeasureList id="MeasureDescriptor">
+            <structure:PrimaryMeasure id="OBS_VALUE">
+              <structure:ConceptIdentity>
+                <Ref id="OBS_VALUE" maintainableParentID="CS_NA" maintainableParentVersion="1.0" agencyID="OECD.SDD.NAD" package="conceptscheme" class="Concept" />
+              </structure:ConceptIdentity>
+              <structure:LocalRepresentation>
+                <structure:TextFormat textType="Double" />
+              </structure:LocalRepresentation>
+            </structure:PrimaryMeasure>
+          </structure:MeasureList>
+        </structure:DataStructureComponents>
+      </structure:DataStructure>
+    </structure:DataStructures>
+  </message:Structures>
+</message:Structure>
