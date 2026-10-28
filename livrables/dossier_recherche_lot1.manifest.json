@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-28",
+  "notes": [
+    {
+      "fichier": "recherche/01_emploi_public_france.md",
+      "sha256": "553c9df0403cefb7fc54336ae86ad05972970726c6c35c67a8d162953403456a"
+    },
+    {
+      "fichier": "recherche/01b_flux_retraites.md",
+      "sha256": "7f9358ae7de981238c57436279d829abf92c4099876a870f717005d9b95bf28c"
+    },
+    {
+      "fichier": "recherche/01c_couts_entree_pensions.md",
+      "sha256": "8df78c27c87b1f6f6ec8d8eb2ba9a27299bd6755c8cf6ec13efda7571beebcb4"
+    },
+    {
+      "fichier": "recherche/02_metiers_classification.md",
+      "sha256": "9ac40228a44c4e02330d10819ae515f3ea28099828ee2e715818faad70978ae7"
+    },
+    {
+      "fichier": "recherche/03_comparaison_harmonisee.md",
+      "sha256": "b07e7711cc4c4e0e9eb26357f030122bc2efd837eaa6e1556ddea40f97c8312d"
+    },
+    {
+      "fichier": "recherche/04_controle_preliminaire.md",
+      "sha256": "3da29195d4a99f4a73797a66332774ed9674643f076d109312ff263edf96df6e"
+    },
+    {
+      "fichier": "recherche/00_verification_lot1.md",
+      "sha256": "a653e9ab24d326b9d2666608d477e7fec97e4017d4be4372b35e6ab9d2110b1e"
+    },
+    {
+      "fichier": "recherche/00_audit_modele.md",
+      "sha256": "46a7b418a67d33593d0a3574530898cdd58c8df609b909f717ab46df79f9a979"
+    },
+    {
+      "fichier": "recherche/00_AVENANT_METHODOLOGIQUE.md",
+      "sha256": "c4c9cef5a535317e1db99f00566437e764f676cec2fa0878174f4ca9c506e0d8"
+    }
+  ],
+  "sha256_html": "a653d4238bdfd441b3e8255247bd1dbedeca0a36132ea85b5562dc8879c4c3f6"
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "source_url": "https://igas.gouv.fr/sites/igas/files/2026-07/Rapport%20D%C3%A9ploiement%20IA%20(2026).pdf",
+    "date_consultation": "2026-10-28",
+    "retrieved_at_utc": "2026-10-28T00:34:43.696196+00:00",
+    "http_status": 200,
+    "final_url": "https://igas.gouv.fr/sites/igas/files/2026-07/Rapport%20D%C3%A9ploiement%20IA%20(2026).pdf",
+    "content_type": "application/pdf",
+    "last_modified": "Mon, 06 Jul 2026 08:27:02 GMT",
+    "etag": null,
+    "encoding": null,
+    "raw_path": "data\\cache\\08\\igas_ia2026.pdf",
+    "bytes": 10364290,
+    "sha256": "e2b9ca9e58d0d0628e18bc5d3559d274aff7e4b28cb9357cce451ba81f5f3e0d",
+    "acces": "integral",
+    "pages": 709,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "statut_lecture": "telecharge_non_analyse",
+    "note": "Inventaire seulement ; aucun contenu de ce document ne sert encore de preuve analytique."
+  },
+  {
+    "source_url": "https://www.budget2027.fr/",
+    "date_consultation": "2026-10-28",
+    "retrieved_at_utc": "2026-10-28T00:34:43.700193+00:00",
+    "http_status": 200,
+    "final_url": "https://www.budget2027.fr/",
+    "content_type": "text/html; charset=UTF-8",
+    "last_modified": null,
+    "etag": null,
+    "encoding": "UTF-8",
+    "raw_path": "data\\cache\\10\\budget2027.html",
+    "bytes": 113850,
+    "sha256": "3fa12a84c2f584516387933c5b0eb489253d4b46e55bf645b3da366c60f1aa35",
+    "acces": "integral",
+    "conversion": "html2text",
+    "statut_lecture": "telecharge_non_analyse",
+    "note": "Inventaire seulement ; aucun contenu de ce document ne sert encore de preuve analytique."
+  }
+]
