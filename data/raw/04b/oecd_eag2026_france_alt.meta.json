@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.oecd.org/en/publications/education-at-a-glance-2026_c0e523a9-en/france_c75b2cc7-en.html",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:28:02.076978+00:00",
+  "http_status": 403,
+  "final_url": "https://www.oecd.org/en/publications/education-at-a-glance-2026_c0e523a9-en/france_c75b2cc7-en.html",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "UTF-8",
+  "raw_path": "data\\raw\\04b\\oecd_eag2026_france_alt.html",
+  "bytes": 5796,
+  "sha256": "5a8f499caec1421625bc3ed277618f38acaa920d317c005d3823c2c1d8e9701e",
+  "acces": "inaccessible",
+  "conversion": "html2text"
+}

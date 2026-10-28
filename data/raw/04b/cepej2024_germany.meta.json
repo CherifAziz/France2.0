@@ -1,0 +1,17 @@
+{
+  "source_url": "https://rm.coe.int/germany/1680b1df68",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:28:04.354553+00:00",
+  "http_status": 200,
+  "final_url": "https://rm.coe.int/germany/1680b1df68",
+  "content_type": "application/pdf",
+  "last_modified": null,
+  "etag": null,
+  "encoding": null,
+  "raw_path": "data\\raw\\04b\\cepej2024_germany.pdf",
+  "bytes": 292415,
+  "sha256": "01c316a62adc43bc18e6d088ae3c3d40d892b7eb2e609dce16ef35c451ecc3d7",
+  "acces": "integral",
+  "pages": 4,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

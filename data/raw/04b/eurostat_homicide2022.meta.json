@@ -1,0 +1,16 @@
+{
+  "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/crim_off_cat?format=JSON&lang=en&freq=A&iccs=IC0101&unit=P_HTHAB&sinceTimePeriod=2022&untilTimePeriod=2022",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:28:58.633407+00:00",
+  "http_status": 200,
+  "final_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/crim_off_cat?format=JSON&lang=en&freq=A&iccs=IC0101&unit=P_HTHAB&sinceTimePeriod=2022&untilTimePeriod=2022",
+  "content_type": "application/json",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "utf-8",
+  "raw_path": "data\\raw\\04b\\eurostat_homicide2022.json",
+  "bytes": 3702,
+  "sha256": "998eebf84d0b32667fcdaa247d665df6c5ce8ef6013beabb3786426a18e05a11",
+  "acces": "integral",
+  "conversion": "décodage texte"
+}

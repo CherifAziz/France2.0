@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-28",
+  "fichiers": {
+    "ratios": "oecd_eag_DF_UOE_NF_PERS_STR.csv",
+    "remunerations": "oecd_eag_staffcomp_subset.csv",
+    "depenses": "oecd_eag_perstud_subset.csv",
+    "talis": "oecd_talis_teacher.csv",
+    "police": "eurostat_crim_just_job.csv"
+  },
+  "source_urls": {
+    "ratios": "https://sdmx.oecd.org/public/rest/data/OECD.EDU.IMEP,DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_STR,1.1/",
+    "remunerations": "https://sdmx.oecd.org/public/rest/data/OECD.EDU.IMEP,DSD_EAG_UOE_FIN@DF_UOE_FIN_NATURE_STAFF,3.2/",
+    "depenses": "https://sdmx.oecd.org/public/rest/data/OECD.EDU.IMEP,DSD_EAG_UOE_FIN@DF_UOE_INDIC_FIN_PERSTUD,3.2/",
+    "talis": "https://sdmx.oecd.org/public/rest/data/OECD.EDU.ECS,DSD_TALIS@DF_TALIS_TEACHER_PROFILE,1.0/",
+    "police": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/crim_just_job"
+  },
+  "profils_cepej": [
+    [
+      "AUT",
+      "Austria",
+      22
+    ],
+    [
+      "BEL",
+      "Belgium",
+      30
+    ],
+    [
+      "DNK",
+      "Denmark",
+      54
+    ],
+    [
+      "EST",
+      "Estonia",
+      58
+    ],
+    [
+      "FIN",
+      "Finland",
+      62
+    ],
+    [
+      "FRA",
+      "France",
+      66
+    ],
+    [
+      "DEU",
+      "Germany",
+      74
+    ],
+    [
+      "IRL",
+      "Ireland",
+      90
+    ],
+    [
+      "ITA",
+      "Italy",
+      94
+    ],
+    [
+      "NLD",
+      "Netherlands",
+      126
+    ],
+    [
+      "NOR",
+      "Norway",
+      134
+    ],
+    [
+      "POL",
+      "Poland",
+      138
+    ],
+    [
+      "PRT",
+      "Portugal",
+      142
+    ],
+    [
+      "ESP",
+      "Spain",
+      162
+    ],
+    [
+      "SWE",
+      "Sweden",
+      166
+    ],
+    [
+      "CHE",
+      "Switzerland",
+      170
+    ],
+    [
+      "UK:ENG&WAL",
+      "UK - England and Wales",
+      182
+    ],
+    [
+      "UK:NIR",
+      "UK - Northern Ireland",
+      186
+    ],
+    [
+      "UK:SCO",
+      "UK - Scotland",
+      190
+    ]
+  ],
+  "annee_police": 2022,
+  "annee_ratios": 2024,
+  "annee_finances": 2023,
+  "annee_talis": 2024,
+  "annee_cepej": 2022,
+  "note": "Les CSV de ratios incluent 2020-2024 pour contrôles temporels. Les écarts ont toujours la même année et unité ; aucun lissage ou conversion en postes supprimables."
+}

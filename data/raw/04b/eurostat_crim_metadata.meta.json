@@ -1,0 +1,16 @@
+{
+  "source_url": "https://ec.europa.eu/eurostat/cache/metadata/en/crim_sims.htm",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:27:28.881484+00:00",
+  "http_status": 200,
+  "final_url": "https://ec.europa.eu/eurostat/cache/metadata/en/crim_sims.htm",
+  "content_type": "text/html",
+  "last_modified": "Mon, 26 Oct 2026 18:45:02 GMT",
+  "etag": "\"722ad-65ec2ba52b949\"",
+  "encoding": "ISO-8859-1",
+  "raw_path": "data\\raw\\04b\\eurostat_crim_metadata.html",
+  "bytes": 467629,
+  "sha256": "9e5399d0399ff1f55fc97944fa733c0724f366379d997bd510b6ce9ffd373bfa",
+  "acces": "integral",
+  "conversion": "html2text"
+}

@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-28",
+  "lignes": {
+    "ratios": 3125,
+    "remunerations": 243,
+    "depenses": 144,
+    "personnels_fr": 48,
+    "talis": 94,
+    "police": 28,
+    "justice": 360
+  },
+  "ecarts": 2337,
+  "controle_ids": "sans doublons",
+  "residus_remuneration": [
+    {
+      "pays": "ESP",
+      "niveau": "ISCED11_2",
+      "residu": -3.092281986027956e-11
+    },
+    {
+      "pays": "ESP",
+      "niveau": "ISCED11_1",
+      "residu": -1.0913936421275139e-11
+    },
+    {
+      "pays": "ESP",
+      "niveau": "ISCED11_3",
+      "residu": -1.0913936421275139e-11
+    },
+    {
+      "pays": "SWE",
+      "niveau": "ISCED11_3",
+      "residu": 0.0
+    },
+    {
+      "pays": "SWE",
+      "niveau": "ISCED11_1",
+      "residu": -7.275957614183426e-12
+    },
+    {
+      "pays": "SWE",
+      "niveau": "ISCED11_2",
+      "residu": 0.0
+    },
+    {
+      "pays": "GBR",
+      "niveau": "ISCED11_3",
+      "residu": 1.8189894035458565e-11
+    },
+    {
+      "pays": "GBR",
+      "niveau": "ISCED11_2",
+      "residu": 3.637978807091713e-12
+    },
+    {
+      "pays": "GBR",
+      "niveau": "ISCED11_1",
+      "residu": -7.275957614183426e-12
+    },
+    {
+      "pays": "IRL",
+      "niveau": "ISCED11_1",
+      "residu": -2.2737367544323206e-12
+    },
+    {
+      "pays": "IRL",
+      "niveau": "ISCED11_3",
+      "residu": 9.094947017729282e-13
+    },
+    {
+      "pays": "IRL",
+      "niveau": "ISCED11_2",
+      "residu": 4.092726157978177e-12
+    },
+    {
+      "pays": "AUS",
+      "niveau": "ISCED11_2",
+      "residu": -2.546585164964199e-11
+    },
+    {
+      "pays": "AUS",
+      "niveau": "ISCED11_3",
+      "residu": 4.001776687800884e-11
+    },
+    {
+      "pays": "AUS",
+      "niveau": "ISCED11_1",
+      "residu": -4.001776687800884e-11
+    },
+    {
+      "pays": "CAN",
+      "niveau": "ISCED11_2",
+      "residu": 1.0913936421275139e-11
+    },
+    {
+      "pays": "CAN",
+      "niveau": "ISCED11_3",
+      "residu": -6.912159733474255e-11
+    },
+    {
+      "pays": "CAN",
+      "niveau": "ISCED11_1",
+      "residu": -5.820766091346741e-11
+    },
+    {
+      "pays": "FRA",
+      "niveau": "ISCED11_2",
+      "residu": 3.637978807091713e-12
+    },
+    {
+      "pays": "FRA",
+      "niveau": "ISCED11_1",
+      "residu": 0.0
+    },
+    {
+      "pays": "FRA",
+      "niveau": "ISCED11_3",
+      "residu": 0.0
+    },
+    {
+      "pays": "NZL",
+      "niveau": "ISCED11_2",
+      "residu": 2.2737367544323206e-12
+    },
+    {
+      "pays": "NZL",
+      "niveau": "ISCED11_3",
+      "residu": 345.8481347760064
+    },
+    {
+      "pays": "NZL",
+      "niveau": "ISCED11_1",
+      "residu": 5.002220859751105e-12
+    },
+    {
+      "pays": "KOR",
+      "niveau": "ISCED11_3",
+      "residu": 0.0
+    },
+    {
+      "pays": "KOR",
+      "niveau": "ISCED11_1",
+      "residu": 1.862645149230957e-09
+    },
+    {
+      "pays": "KOR",
+      "niveau": "ISCED11_2",
+      "residu": -1.862645149230957e-09
+    },
+    {
+      "pays": "PRT",
+      "niveau": "ISCED11_1",
+      "residu": 0.0
+    },
+    {
+      "pays": "PRT",
+      "niveau": "ISCED11_2",
+      "residu": 0.0
+    },
+    {
+      "pays": "BEL",
+      "niveau": "ISCED11_2",
+      "residu": 8.185452315956354e-12
+    },
+    {
+      "pays": "ITA",
+      "niveau": "ISCED11_2",
+      "residu": -5.093170329928398e-11
+    },
+    {
+      "pays": "FIN",
+      "niveau": "ISCED11_1",
+      "residu": 3.183231456205249e-12
+    },
+    {
+      "pays": "EST",
+      "niveau": "ISCED11_3",
+      "residu": 0.0
+    },
+    {
+      "pays": "EST",
+      "niveau": "ISCED11_1",
+      "residu": 5.684341886080802e-14
+    },
+    {
+      "pays": "EST",
+      "niveau": "ISCED11_2",
+      "residu": -2.842170943040401e-14
+    },
+    {
+      "pays": "BEL",
+      "niveau": "ISCED11_3",
+      "residu": 0.0
+    },
+    {
+      "pays": "ITA",
+      "niveau": "ISCED11_3",
+      "residu": 3.092281986027956e-11
+    },
+    {
+      "pays": "PRT",
+      "niveau": "ISCED11_3",
+      "residu": 0.0
+    },
+    {
+      "pays": "FIN",
+      "niveau": "ISCED11_3",
+      "residu": -7.958078640513122e-12
+    },
+    {
+      "pays": "ITA",
+      "niveau": "ISCED11_1",
+      "residu": -7.09405867382884e-11
+    },
+    {
+      "pays": "AUT",
+      "niveau": "ISCED11_3",
+      "residu": 9.094947017729282e-13
+    },
+    {
+      "pays": "BEL",
+      "niveau": "ISCED11_1",
+      "residu": 0.0
+    },
+    {
+      "pays": "AUT",
+      "niveau": "ISCED11_2",
+      "residu": 3.183231456205249e-12
+    },
+    {
+      "pays": "AUT",
+      "niveau": "ISCED11_1",
+      "residu": -8.185452315956354e-12
+    },
+    {
+      "pays": "FIN",
+      "niveau": "ISCED11_2",
+      "residu": 1.1368683772161603e-12
+    }
+  ],
+  "residu_Q52_France": 2,
+  "faits_cles": {
+    "police_fr2022": 245983,
+    "nonjuges_fr_pour100000": 37.3,
+    "enseignants_publics_pp": 747404,
+    "administration_talis_fr_heures": 1.5
+  },
+  "avertissements": [
+    "Ratio élèves/enseignant ≠ taille de classe",
+    "Non-enseignants et non-juges ≠ administratifs",
+    "NA/NAP/valeur vide jamais convertis en zéro",
+    "Frais de justice en euros courants, pas PPA",
+    "TALIS tous enseignants et temps plein sont deux populations",
+    "Pas de correction chiffrée des besoins ; potentiel non identifié",
+    "Police France 2023 absente du brut ; millésime commun retenu 2022",
+    "Q60 France auxiliaires du parquet seulement : comparaison internationale prudente",
+    "Q52 composantes : écart 2 ETP non imputé"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.oecd.org/en/publications/education-at-a-glance-2026_b4968bbc-en/full-report/how-do-student-teacher-ratios-and-class-sizes-vary-across-education-levels_30c0e06c.html",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:29:31.902703+00:00",
+  "http_status": 403,
+  "final_url": "https://www.oecd.org/en/publications/education-at-a-glance-2026_b4968bbc-en/full-report/how-do-student-teacher-ratios-and-class-sizes-vary-across-education-levels_30c0e06c.html",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "UTF-8",
+  "raw_path": "data\\raw\\04b\\oecd_eag2026_D2.html",
+  "bytes": 6134,
+  "sha256": "457e61d0fc679ace49f9a29494d2c02ec933fa64522a1bd84bca1aabae5d8f7b",
+  "acces": "inaccessible",
+  "conversion": "html2text"
+}
