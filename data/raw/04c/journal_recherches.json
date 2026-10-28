@@ -1,0 +1,21 @@
+{
+  "date_consultation": "2026-10-28",
+  "queries": [
+    "site.strategie.gouv.fr HCAAM janvier2021 complémentaires santé prévoyance document travail frais gestion",
+    "site.ccomptes.fr RALFSS2026 frais gestion assurance maladie indus",
+    "site.ccomptes.fr rapport sur l’application des lois de financement2026",
+    "site.ccomptes.fr Sécurité sociale2026 gestion",
+    "site.ccomptes.fr frais de gestion2026 rapport",
+    "site.ec.europa.eu eurostat ESSPROS manual administration costs2026",
+    "site.oecd.org health expenditure per capita USD PPP AIC health at a glance2025"
+  ],
+  "outcomes": [
+    "HCAAM2021 ancien lien404 ; nouveau lien primaire trouvé depuis page HCAAM scénarios publiée14/01/2022 ; document2021 lu.",
+    "RALFSS2025 chapitreIX trouvé et passages lus via lecteur web primaire malgré timeout du téléchargement direct.",
+    "Aucun chapitre RALFSS2026 de coûts de gestion identifié par ces recherches ; résultat ne prouve pas une absence de publication.",
+    "ESSPROS2026 manuel intégral retrouvé ; édition2022 remplacée par2026 pour les définitions.",
+    "Comptes santé DREES2026 publiés01/10/2026 identifiés par API CNS ; PDF et XLSX lus.",
+    "Rapport détaillé OC2025, année2024, reste le dernier rapportOC identifié ; données CNS2026 année2025 traitées séparément.",
+    "Première tentative SHA /v1/data avec Accept csvfile a échoué500 ; endpoint /rest/data et type MIME officiel ont réussi. Les réponses échouées ne sont pas interprétées comme données."
+  ]
+}

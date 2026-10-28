@@ -1,0 +1,16 @@
+{
+  "source_url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.ELS.HD/DSD_SHA@DF_SHA/1.1?references=all",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:25:52.758696+00:00",
+  "http_status": 200,
+  "final_url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.ELS.HD/DSD_SHA@DF_SHA/1.1?references=all",
+  "content_type": "application/vnd.sdmx.structure+xml; charset=utf-8; version=2.1",
+  "last_modified": "2023-11-14",
+  "etag": null,
+  "encoding": "utf-8",
+  "raw_path": "data\\raw\\04c\\oecd_sha_structure.xml",
+  "bytes": 1269246,
+  "sha256": "fde7cdddc503b2dd9418be05622a628d28621d094420588bfb2553c3a7106e87",
+  "acces": "integral",
+  "conversion": "décodage texte"
+}

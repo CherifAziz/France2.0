@@ -1,0 +1,15 @@
+{
+  "source_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/cns_financement/attachments/nomenclature_poste_cns_diffusion_xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:27:49.843603+00:00",
+  "http_status": 200,
+  "final_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/cns_financement/attachments/nomenclature_poste_cns_diffusion_xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Mon, 14 Sep 2026 15:52:34 GMT",
+  "etag": "\"6aa81842-45d5\"",
+  "encoding": null,
+  "raw_path": "data\\raw\\04c\\drees_cns_nomenclature.zip",
+  "bytes": 17877,
+  "sha256": "87d90e0d3212ee4894434d58d7ad1cd2f3e29dd5755354bf592cb33117efd47f",
+  "acces": "integral"
+}

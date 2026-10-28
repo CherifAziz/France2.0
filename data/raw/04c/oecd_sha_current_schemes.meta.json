@@ -1,0 +1,12 @@
+{
+  "source_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.HD,DSD_SHA@DF_SHA,1.1/AUS+AUT+BEL+CAN+CHE+DEU+DNK+ESP+EST+FIN+FRA+GBR+IRL+ITA+JPN+KOR+NLD+NOR+NZL+POL+PRT+SWE+USA.A.EXP_HEALTH.XDC+PT_EXP_HLTH+USD_PPP_PS._T+HF1+HF11+HF12HF13+HF121+HF122+HF2+HF21+HF3._Z.HC7+_T._T._T._Z._Z.?startPeriod=2023&endPeriod=2024",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:34:52.164368+00:00",
+  "http_status": 200,
+  "content_type": "application/vnd.sdmx.data+csv; labels=both; charset=utf-8",
+  "final_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.HD,DSD_SHA@DF_SHA,1.1/AUS+AUT+BEL+CAN+CHE+DEU+DNK+ESP+EST+FIN+FRA+GBR+IRL+ITA+JPN+KOR+NLD+NOR+NZL+POL+PRT+SWE+USA.A.EXP_HEALTH.XDC+PT_EXP_HLTH+USD_PPP_PS._T+HF1+HF11+HF12HF13+HF121+HF122+HF2+HF21+HF3._Z.HC7+_T._T._T._Z._Z.?startPeriod=2023&endPeriod=2024",
+  "bytes": 995336,
+  "sha256": "0371876153e675a82f4e0473ebe72e96ed195f669e1bf5f9130d2978c16e3f07",
+  "acces": "integral",
+  "raw_path": "data\\raw\\04c\\oecd_sha_current_schemes.csv"
+}

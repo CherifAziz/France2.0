@@ -1,0 +1,16 @@
+{
+  "source_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/cns_financement/records?where=annee%20in%20(%222023%22,%222024%22,%222025%22)%20and%20search(poste_lib,%22gestion%22)&limit=100",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:28:12.602546+00:00",
+  "http_status": 200,
+  "final_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/cns_financement/records?where=annee%20in%20(%222023%22,%222024%22,%222025%22)%20and%20search(poste_lib,%22gestion%22)&limit=100",
+  "content_type": "application/json; charset=utf-8",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "utf-8",
+  "raw_path": "data\\raw\\04c\\drees_cns_gestion_records.json",
+  "bytes": 4187,
+  "sha256": "a3d3572cd9946bde739c47b79a448054f5fb1a9215c7a84a36598a572a91e580",
+  "acces": "integral",
+  "conversion": "décodage texte"
+}

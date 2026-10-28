@@ -1,0 +1,11 @@
+{
+  "source_url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.ELS.HD,DSD_SHA@DF_SHA,1.1/FRA+DEU+NLD+DNK+GBR.A.EXP_HEALTH.PT_EXP_HLTH+PT_B1GQ+USD_PPP_PS._T._Z.HC7+HC71+HC72+_T._T._T._Z._Z.V+_Z?startPeriod=2023&endPeriod=2023",
+  "retrieved_at_utc": "2026-10-28T01:32:38.673813+00:00",
+  "date_consultation": "2026-10-28",
+  "accept": "csvfile",
+  "http_status": 500,
+  "content_type": "text/plain",
+  "bytes": 21,
+  "sha256": "f74d744451ed13502cccccac6c65505d59099b6621cc4debe58575e9442d66e6",
+  "acces": "inaccessible"
+}

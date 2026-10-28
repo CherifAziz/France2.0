@@ -1,0 +1,15 @@
+{
+  "source_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/organismes_complementaires_rapport_annuel/attachments/rapport_oc_2025_xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:27:50.680650+00:00",
+  "http_status": 200,
+  "final_url": "https://data.drees.solidarites-sante.gouv.fr/api/explore/v2.1/catalog/datasets/organismes_complementaires_rapport_annuel/attachments/rapport_oc_2025_xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Tue, 16 Dec 2025 21:05:05 GMT",
+  "etag": "\"6941c981-22602\"",
+  "encoding": null,
+  "raw_path": "data\\raw\\04c\\drees_oc2025.zip",
+  "bytes": 140802,
+  "sha256": "58afd14975826414f31e73c769bf4ea6f231f7aa75837b51d12fd68c9bc414cc",
+  "acces": "integral"
+}

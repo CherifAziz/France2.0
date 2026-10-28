@@ -1,0 +1,9 @@
+{
+  "source_url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/spr_exp_type?format=JSON&lang=en&freq=A&spdeps=ADM&spdeps=TOTAL&unit=PC_GDP&unit=PC_EXP&unit=PPS_HAB&time=2023",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:36:06.718505+00:00",
+  "http_status": 200,
+  "bytes": 8414,
+  "sha256": "80df5e215cbef969242b98032f53eb33816d2e476ab937f99d5c40f948367a01",
+  "acces": "integral"
+}

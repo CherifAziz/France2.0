@@ -1,0 +1,10 @@
+{
+  "source_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.HD,DSD_SHA@DF_SHA,1.1/FRA.A.EXP_HEALTH.PT_EXP_HLTH._T._Z.HC7._T._T._Z._Z._Z?startPeriod=2023&endPeriod=2023",
+  "retrieved_at_utc": "2026-10-28T01:34:10.280094+00:00",
+  "date_consultation": "2026-10-28",
+  "http_status": 200,
+  "content_type": "application/vnd.sdmx.data+csv; labels=both; charset=utf-8",
+  "bytes": 925,
+  "sha256": "92d5b9f9e24d8d609fcbea39b6ef051161f1eef2f81b26dc0a94eedebbe1c988",
+  "acces": "integral"
+}

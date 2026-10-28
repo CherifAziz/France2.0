@@ -1,0 +1,15 @@
+{
+  "source_url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2026-09/CNS2026%20-%20Partie%203%20DCSi%20par%20composante.xlsx",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:32:17.771778+00:00",
+  "http_status": 200,
+  "final_url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2026-09/CNS2026%20-%20Partie%203%20DCSi%20par%20composante.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "last_modified": "Wed, 30 Sep 2026 14:55:36 GMT",
+  "etag": null,
+  "encoding": null,
+  "raw_path": "data\\raw\\04c\\drees_cns2026_part3.xlsx",
+  "bytes": 317227,
+  "sha256": "4bd1adf7de10ea31b0243207a65dd999395f19d5ff731bf222901f537bc2c5c1",
+  "acces": "integral"
+}
