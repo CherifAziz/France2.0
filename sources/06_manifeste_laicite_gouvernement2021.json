@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.info.gouv.fr/communique/12316-creation-du-comite-interministeriel-de-la-laicite",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:39:57.728767+00:00",
+  "http_status": 403,
+  "final_url": "https://www.info.gouv.fr/communique/12316-creation-du-comite-interministeriel-de-la-laicite",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "UTF-8",
+  "raw_path": "data\\raw\\06\\laicite_gouvernement2021.html",
+  "bytes": 5743,
+  "sha256": "f4988b435ff98f80d9fcd7684b85195cbbabac7232f9f31f9d11cb9733ce9ced",
+  "acces": "inaccessible",
+  "conversion": "html2text"
+}

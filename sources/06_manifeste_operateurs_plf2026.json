@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.budget.gouv.fr/documentation/file-download/31510",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:20:42.254174+00:00",
+  "http_status": 200,
+  "final_url": "https://www.budget.gouv.fr/documentation/file-download/31510",
+  "content_type": "application/pdf",
+  "last_modified": "Wed, 22 Oct 2025 12:32:14 GMT",
+  "etag": null,
+  "encoding": null,
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\cache\\06\\operateurs_plf2026.pdf",
+  "bytes": 11738987,
+  "sha256": "c408d289e3a8a324f0954a772b1e5efb9439baf2f489ff99d06f0b7f33a0447b",
+  "acces": "integral",
+  "pages": 663,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

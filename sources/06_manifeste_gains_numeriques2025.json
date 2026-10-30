@@ -1,0 +1,7 @@
+{
+  "source_url": "https://www.ccomptes.fr/sites/default/files/2025-01/20250121-S2024-1570_Mieux-suivre-et-valoriser-les-gains-de-productivite-de-lEtat-issus-du-num--rique_0.pdf",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:06.560095+00:00",
+  "acces": "inaccessible",
+  "erreur": "ConnectTimeout: HTTPSConnectionPool(host='www.ccomptes.fr', port=443): Max retries exceeded with url: /sites/default/files/2025-01/20250121-S2024-1570_Mieux-suivre-et-valoriser-les-gains-de-productivite-de-lEtat-issus-du-num--rique_0.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ccomptes.fr', port=443) at 0x1e7a0f483e0>, 'Connection to www.ccomptes.fr timed out. (connect timeout=40)'))"
+}

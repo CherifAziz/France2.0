@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.assemblee-nationale.fr/14/pdf/rap-info/i0435.pdf",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:03.529934+00:00",
+  "http_status": 200,
+  "final_url": "https://www.assemblee-nationale.fr/14/pdf/rap-info/i0435.pdf",
+  "content_type": "application/pdf",
+  "last_modified": null,
+  "etag": "\"07c1fec47fdd61:0\"",
+  "encoding": null,
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\cache\\06\\rgpp_an2012.pdf",
+  "bytes": 516075,
+  "sha256": "3024dee7ff4cfea73593bc9722785f72662870e1dd9f4cfee641aabc747b521e",
+  "acces": "integral",
+  "pages": 79,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

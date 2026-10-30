@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.assemblee-nationale.fr/dyn/opendata/RINFANR5L17B3072.html",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:27.972512+00:00",
+  "http_status": 200,
+  "final_url": "https://www.assemblee-nationale.fr/dyn/opendata/RINFANR5L17B3072.html",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Thu, 30 Jul 2026 14:52:04 GMT",
+  "etag": null,
+  "encoding": "UTF-8",
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\raw\\06\\dgfip_an2026.html",
+  "bytes": 889915,
+  "sha256": "fcbcbb24dd8557e0ff9b3d3c716ce0f2b0bf3e24b3c90d9f602695a37d4b43b1",
+  "acces": "integral",
+  "conversion": "html2text"
+}

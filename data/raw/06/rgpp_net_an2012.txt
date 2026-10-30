@@ -1,0 +1,694 @@
+  * Aller au menu
+  * Aller au contenu
+  * Aller a la recherche
+  * Politique daccessibilité
+  * [Accueil](/index.asp)
+  * [Plan du site](/plan.asp)
+  * [Aide](/aide.asp)
+  * [Contact](/ecrire.asp)
+
+
+
+  * [English](/english/index.asp)
+  * [Deutsch](http://www2.assemblee-nationale.fr/langues/willkommen-auf-der-deutschsprachigen-webseite-der-franzoesischen-nationalversammlung)
+
+Recherche :
+
+Assemblée nationale
+
+  * [ ](http://www.assemblee-nationale.fr)
+  * Les  
+députés
+    * [Le Président](http://presidence.assemblee-nationale.fr)
+    * [577 députés](http://www2.assemblee-nationale.fr/qui)
+    * [Les collaborateurs](http://www2.assemblee-nationale.fr/deputes2/les-collaborateurs)
+    * [Le Bureau](http://www2.assemblee-nationale.fr/15/le-bureau-de-l-assemblee-nationale)
+    * [La Conférence des Présidents](http://www2.assemblee-nationale.fr/15/la-conference-des-presidents)
+    * [Les Groupes politiques](http://www2.assemblee-nationale.fr/15/les-groupes-politiques/)
+    * [Statut des députes](http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/role-et-pouvoirs-de-l-assemblee-nationale/le-depute/le-statut-du-depute)
+    * [Déontologie](http://www2.assemblee-nationale.fr/deputes2/deontologie-a-l-assemblee-nationale)
+    * [Élections législatives](http://www2.assemblee-nationale.fr/deputes2/elections-legislatives-des-11-et-18-juin-2017)
+    * [Anciens députés](http://www2.assemblee-nationale.fr/sycomore/recherche)
+    * [Contacter son député](http://www2.assemblee-nationale.fr/deputes/liste/alphabetique)
+  * Dans  
+l'Hémicycle
+    * [Ordre du jour](/agendas/odj.asp)
+    * [Calendrier de la session](/15/seance/previsionnel.asp)
+    * [Comptes rendus des séances](/15/debats/index.asp)
+    * Scrutins
+      * [Tous les scrutins publics](http://www2.assemblee-nationale.fr/scrutins/liste/\(legislature\)/15)
+      * [Les scrutins publics ordinaires](http://www2.assemblee-nationale.fr/scrutins/liste/\(legislature\)/15/\(type\)/SOR)
+      * [Les scrutins solennels sur un texte](http://www2.assemblee-nationale.fr/scrutins/liste/\(legislature\)/15/\(type\)/SSO)
+      * [Autres scrutins solennels (déclarations, motions de censure )](http://www2.assemblee-nationale.fr/scrutins/liste/\(legislature\)/15/\(type\)/AUT)
+    * [Le Congrès](http://www2.assemblee-nationale.fr/le-congres-du-parlement)
+    * [Engagements de responsabilité et motions de censure](/15/documents/engagements.asp)
+    * [Budget et sécurité sociale](/budget/index.asp)
+    * [Assister à une séance](/infos/assister.asp)
+    * Anciennes législatures
+      * [XIVe législature](/14/documents/archives-14leg.asp)
+      * [XIIIe législature](/13/documents/archives-13leg.asp)
+      * [XIIe législature](/12/documents/archives-12leg.asp)
+      * [XIe législature](/11/documents/archives-11leg.asp)
+      * [Autres législatures](http://archives.assemblee-nationale.fr/)
+  * Commissions et  
+autres instances
+    * [Agendas](/agendas/index.asp)
+    * Les Commissions permanentes
+      * [Affaires culturelles](/commissions/419604_tab.asp)
+      * [Affaires économiques](/commissions/419610_tab.asp)
+      * [Affaires étrangères](/commissions/59047_tab.asp)
+      * [Affaires sociales](/commissions/420120_tab.asp)
+      * [Défense](/commissions/59046_tab.asp)
+      * [Développement durable](/commissions/419865_tab.asp)
+      * [Finances](/commissions/59048_tab.asp)
+      * [Lois](/commissions/59051_tab.asp)
+    * Autres commissions
+      * [Affaires européennes](http://www2.assemblee-nationale.fr/15/autres-commissions/commission-des-affaires-europeennes)
+      * [Commissions d'enquête](http://www2.assemblee-nationale.fr/15/autres-commissions/commissions-d-enquete)
+      * [Commissions spéciales](http://www2.assemblee-nationale.fr/15/autres-commissions/commissions-speciales)
+      * [Commissions mixtes paritaires](http://www2.assemblee-nationale.fr/15/autres-commissions/commissions-mixtes-paritaires-composition)
+      * [Commission chargée d'apurer les comptes](http://www2.assemblee-nationale.fr/15/autres-commissions/commission-speciale-chargee-de-verifier-et-d-apurer-les-comptes/)
+      * [Commission-article 26 de la Constitution](http://www2.assemblee-nationale.fr/15/autres-commissions/commission-chargee-de-l-application-de-l-article-26-de-la-constitution)
+    * Délégations, comité, office et autres instances
+      * [Délégation aux Droits  
+des Femmes](http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/delegation-aux-droits-des-femmes)
+      * [Délégation aux collectivités territoriales et à la décentralisation](http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/delegation-aux-collectivites-territoriales-et-a-la-decentralisation)
+      * [Délégation aux outre-mer](http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/delegation-aux-outre-mer)
+      * [Délégation au renseignement](http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/delegation-parlementaire-au-renseignement)
+      * [Comité d'évaluation et de contrôle](http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/comite-d-evaluation-et-de-controle)
+      * [Office parlementaire d'évaluation des choix scientifiques et technologiques (OPECST)](http://www2.assemblee-nationale.fr/15/les-delegations-comite-et-office-parlementaire/office-parlementaire-d-evaluation-des-choix-scientifiques-et-technologiques)
+      * [Groupes de travail des réformes](http://www2.assemblee-nationale.fr/qui/pour-une-nouvelle-assemblee-nationale-les-rendez-vous-des-reformes-2017-2022)
+    * [Missions d'information](http://www2.assemblee-nationale.fr/15/missions-d-information)
+    * [Groupes d'études](http://www2.assemblee-nationale.fr/15/les-groupes-d-etudes)
+    * [Organismes extra-parlementaires](http://www2.assemblee-nationale.fr/commissions-et-autres-instances/organismes-extra-parlementaires/organismes-extra-parlementaires)
+    * Anciennes législatures
+      * [XIVe législature](/14/documents/archives-14leg.asp)
+      * [XIIIe législature](/13/documents/archives-13leg.asp)
+      * [XIIe législature](/12/documents/archives-12leg.asp)
+      * [XIe législature](/11/documents/archives-11leg.asp)
+      * [Autres législatures](http://archives.assemblee-nationale.fr/)
+  * Documents  
+parlementaires
+    * Documents de référence
+      * [Constitution](/connaissance/constitution.asp)
+      * [Règlement de l'Assemblée nationale](/connaissance/reglement.asp)
+      * [Instruction générale du Bureau (IGB)](/connaissance/instruction.asp)
+      * [Loi organique n° 2009-403 du 15 avril 2009](/connaissance/loi15042009.asp)
+      * [Règlement du Congrès](/connaissance/reglement_congres.asp)
+      * [Ordonnance relative au fonctionnement des assemblées parlementaires](/connaissance/pouvoirs-publics/pouvoirs_publics-08.asp#P13383_1259070)
+      * [Loi organique relative aux lois de finances](/connaissance/ordonnance-finances.asp)
+      * [Recueil des textes relatifs aux pouvoirs publics](/connaissance/pouvoirs-publics/pouvoirs_publics.asp)
+    * [Projets de loi](/15/documents/index-projets.asp)
+    * [Propositions de loi](/15/documents/index-proposition.asp)
+    * [Amendements](http://www2.assemblee-nationale.fr/recherche/amendements)
+    * [Textes adoptés](/15/documents/index-ta.asp)
+    * [Rapports législatifs](/15/documents/index-rapports.asp)
+    * [Dossiers législatifs](/15/documents/index-dossier.asp)
+    * [Documents budgétaires](/15/budget/redirect/liste_rapporteurs.asp)
+    * [Rapports d'information](/15/liste/rapport_information1.asp)
+    * [Rapports sur l'application de la loi](/15/liste/rapport_application_lois1.asp)
+    * [Questions écrites et orales](/controle/questions.asp)
+    * [Motions et résolutions européennes](/15/documents/motions.asp)
+    * [Autres motions et résolutions](/15/documents/autres-motions.asp)
+    * [Tous les documents parlementaires](/documents/index.asp)
+  * Europe  
+et international
+    * [L'agenda européen et international](http://www2.assemblee-nationale.fr/agendas/agenda-international)
+    * L'Assemblée nationale et l'Europe
+      * [La Commission des Affaires européennes](http://www2.assemblee-nationale.fr/15/autres-commissions/commission-des-affaires-europeennes)
+      * [LAssemblée parlementaire du Conseil de lEurope](http://www2.assemblee-nationale.fr/europe-et-international/activites-parlementaires-internationales/les-assemblees-parlementaires-internationales/assemblee-parlementaire-du-conseil-de-l-europe)
+      * [Les relations franco-allemandes](http://www2.assemblee-nationale.fr/europe-et-international/activites-parlementaires-internationales/les-relations-parlementaires-franco-allemandes)
+    * [Activités parlementaires internationales](/international/index.asp)
+    * [Groupes d'amitié](/international/groupes-amitie-index.asp)
+  * Découvrir  
+l'Assemblée
+    * [Bienvenue à l'Assemblée nationale](/connaissance/bienvenue.asp)
+    * [Visiter l'Assemblée nationale](/infos/visiter.asp)
+    * [Rôle et pouvoirs de l'Assemblée](/connaissance/index.asp)
+    * Statistiques
+      * [Statistiques de la session en cours](http://www2.assemblee-nationale.fr/15/statistiques-de-l-activite-parlementaire)
+      * [Bulletins annuels](http://www2.assemblee-nationale.fr/15/statistiques-de-l-activite-parlementaire/bulletins-annuels)
+    * [Comptes de l'Assemblée](/connaissance/comptesan.asp)
+    * [Histoire](http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire)
+    * [Patrimoine](http://www2.assemblee-nationale.fr/decouvrir-l-assemblee/patrimoine)
+    * [Juniors](/juniors/index.asp)
+    * [Site des archives de l'Assemblée nationale](http://archives.assemblee-nationale.fr/)
+  * Informations  
+pratiques
+    * [Les services de lAssemblée](/infos/services.asp)
+    * [Concours et recrutement](/concours/index.asp)
+    * [Marchés publics](/marches-publics/index.asp)
+    * [Bibliothèque et archives](http://www2.assemblee-nationale.fr/informations-pratiques/archives-et-bibliotheque)
+    * [Plan du site](/plan.asp)
+    * [Contact et plan d'accès](/infos/venir.asp)
+
+
+
+[Accueil](/index.asp) > [Documents parlementaires](/documents/index.asp) > [ Les rapports législatifs](/14/documents/index-rapports.asp)
+
+[![Version PDF](/images/bouton-pdf.gif)](/14/pdf/budget/plf2013/b0251-tIII-a28.pdf)   
+
+
+![](b0251-tiii-a28-1.gif)  
+N° 251
+
+______
+
+ASSEMBLÉE NATIONALE
+
+CONSTITUTION DU 4 OCTOBRE 1958
+
+QUATORZIÈME LÉGISLATURE
+
+Enregistré à la Présidence de l'Assemblée nationale le 10 octobre 2012.
+
+**RAPPORT**
+
+FAIT
+
+AU NOM DE LA COMMISSION DES FINANCES, DE L'ÉCONOMIE GÉNÉRALE ET DU CONTRÔLE BUDGÉTAIRE SUR LE PROJET DE **loi de finances** _pour_**2013**(n° 235),
+
+PAR  M. CHRISTIAN ECKERT,
+
+Rapporteur Général
+
+Député
+
+----
+
+**ANNEXE N°  28  
+  
+GESTION DES FINANCES PUBLIQUES ET  
+DES RESSOURCES HUMAINES**
+
+**STRATÉGIE DES FINANCES PUBLIQUES  
+ET MODERNISATION DE L'ÉTAT**
+
+**CONDUITE ET PILOTAGE DES POLITIQUES  
+ÉCONOMIQUE ET FINANCIÈRE**
+
+Rapporteure spéciale : Mme Karine Berger
+
+Députée
+
+____
+
+**SYNTHÈSE** 5
+
+**I. - LA NÉCESSITÉ D'UN PILOTAGE INTERMINISTÉRIEL POUR CONDUIRE LA RÉFORME DE L'ÉTAT** 7
+
+A.- L'ÉCHEC DE LA DGME DANS LA CONDUITE DE LA RGPP 7
+
+B.- L'OPÉRATEUR NATIONAL DE PAYE : UNE GOUVERNANCE INTERMINISTÉRIELLE INDISPENSABLE POUR MENER À BIEN CE PROJET D'ENVERGURE 10
+
+1.- La nécessité de déployer un tel outil 10
+
+2.- Un projet intrinsèquement complexe, un éclatement peu satisfaisant du pilotage 12
+
+3.- De premiers retards enregistrés 13
+
+4.- Quels coûts et quels gains associés à ce projet ? 15
+
+C.- UTILISER AU MIEUX LES POSSIBILITÉS OFFERTES PAR CHORUS GRÂCE À UNE ÉVOLUTION DE L'ORGANISATION ADMINISTRATIVE DES DIFFÉRENTS MINISTÈRES 16
+
+1.- Un système informatique entièrement déployé 16
+
+2.- Le développement de nouvelles fonctionnalités 17
+
+3.- Améliorer l'organisation administrative pour tirer parti des possibilités de Chorus 18
+
+**II. - VERS UNE NOUVELLE MÉTHODE DE MODERNISATION DES POLITIQUES PUBLIQUES** 20
+
+A.- DES CONSTATS LARGEMENT PARTAGES SUR LES ÉCHECS DE LA RGPP 20
+
+1.- Des ambitions de modernisation des politiques publiques très vite laissées de côté, au profit d'une seule vision comptable 20
+
+2.- L'absence de transparence et de concertation 21
+
+3.- Le caractère très disparate des mesures mises en oeuvre 22
+
+4.- Un système réducteur et parfois incohérent de suivi des réformes 23
+
+5.- Une évaluation lacunaire et biaisée des économies attendues 24
+
+B.- UN MANQUE D'ÉQUITÉ DANS LA MISE EN oeUVRE DES RÉFORMES 25
+
+1.- Un retour catégoriel très variable selon les ministères 25
+
+2.- Des inégalités au sein même des ministères, voire entre les catégories de fonctionnaires ? 28
+
+3.- Un accompagnement insuffisant en matière de gestion des ressources humaines 30
+
+C.- VERS UNE NOUVELLE DÉMARCHE DE MODERNISATION DE L'ACTION PUBLIQUE 31
+
+**III. - LES MOYENS DÉVOLUS AUX PROGRAMMES _STRATÉGIE DE MODERNISATION DES FINANCES PUBLIQUES_ ET _CONDUITE ET PILOTAGE DES POLITIQUES ÉCONOMIQUE ET FINANCIÈRE_** 33
+
+A.- DES ÉVOLUTIONS DE CRÉDITS LARGEMENT LIÉES AU DÉROULEMENT DES GRANDS PROGRAMMES INFORMATIQUES POUR LE PROGRAMME 221 33
+
+B.- DES CRÉDITS EN HAUSSE DANS L'ENSEMBLE POUR LE PROGRAMME 218 35
+
+**EXAMEN EN COMMISSION** 39
+
+**ANNEXE  : LISTE DES AUDITIONS RÉALISÉES PAR LA RAPPORTEURE SPÉCIALE** 41
+
+L'article 49 de la loi organique du 1er août 2001 relative aux lois de finances (LOLF) fixe au 10 octobre la date limite pour le retour des réponses aux questionnaires budgétaires. À cette date, 74 % des réponses étaient parvenues à la Rapporteure spéciale.
+
+**SYNTHÈSE**
+
+Le projet de modernisation de l'État constitue une priorité, après cinq années de RGPP que l'on peut assimiler à cinq années perdues. Pour le mener à bien, il importe de sortir de la seule logique financière et comptable, pour se fixer des objectifs et redéfinir les contours de l'action publique, en ne se contentant pas d'essayer de « faire pareil avec moins ». Une véritable démarche interministérielle doit être mise en oeuvre à cette fin. La réforme de l'État ne doit plus être liée à la baisse des effectifs de la fonction publique, d'autant que la mise en oeuvre du « un sur deux » a montré ses limites depuis 2007. Si des économies de masse salariale de l'ordre de près de 3,6 milliards d'euros sont évoquées pour la période 2009-2012, ce chiffre ne correspond pas aux économies nettes, une fois le retour catégoriel déduit. Or, ce dernier a dépassé 67 % en 2010, par exemple, ce qui tend à fortement réduire le montant total des gains réellement obtenus. Il est indispensable de concentrer les efforts sur les véritables leviers de modernisation de l'action publique. Parmi eux, figurent les projets informatiques transversaux que sont Chorus, qui a été largement décrié mais qui fonctionne désormais, et l'Opérateur national de paye (ONP), qui doit permettre de rationaliser la gestion de la paye à l'horizon 2017. La question des ressources humaines s'est retrouvée au coeur de la RGPP. Or la mise en oeuvre des réformes s'est caractérisée par un manque d'équité flagrant entre les différents ministères et services. Le principe du retour catégoriel a été dévoyé dans son application, alors que certains des ministères qui ont consenti le plus d'efforts de réduction d'effectifs ne sont pas ceux, loin s'en faut, qui ont le plus bénéficié des enveloppes catégorielles. L'accompagnement de certaines réformes, comme la création de la direction générale des finances publiques (DGFiP), s'est avéré très favorable pour les personnels concernés, alors que d'autres services touchés par des restructurations importantes, par exemple la réforme de l'administration territoriale de l'État (RéATE), n'ont pas obtenu un traitement similaire. Il n'a pas été possible d'obtenir d'éléments précis sur l'impact de la RGPP selon les différentes catégories de fonctionnaires. Néanmoins, sur la base des auditions réalisées et de données partielles, il semble qu'elle s'est traduite par une diminution des effectifs de catégorie C bien plus forte que celle affectant les effectifs de catégorie A. Enfin, il conviendra de dresser un bilan précis de la mise en oeuvre de la prime de fonctions et de résultats (PFR), correspondant à la « rémunération au mérite » au sein de la fonction publique.  À la lumière de ses travaux, la Rapporteure spéciale recommande de rattacher la direction générale de la modernisation de l'État, le programme Chorus ainsi que le programme ONP au Premier ministre, afin d'assurer un réel pilotage interministériel de la réforme de l'État, qui permette de procéder aux arbitrages nécessaires. La mise en place d'une gouvernance interministérielle est particulièrement essentielle pour l'ONP, qui constitue un projet structurant de grande envergure, dont les ministères ne semblent pas avoir suffisamment mesuré les enjeux. La Rapporteure spéciale insiste également sur la nécessité d'engager une réflexion approfondie sur la définition des missions des acteurs publics, préalable indispensable à toute réforme.  La Rapporteure spéciale note enfin que pour certains sujets, certaines informations ne semblent pas exister, du fait de la difficulté à agréger des données de façon transversale ; elle regrette par ailleurs qu'à plusieurs reprises, il se soit avéré impossible d'obtenir des informations sur des points précis, malgré plusieurs relances.   
+---  
+  
+**I.- LA NÉCESSITÉ D'UN PILOTAGE INTERMINISTÉRIEL POUR CONDUIRE LA RÉFORME DE L'ÉTAT**
+
+Le programme Stratégie des finances publiques et modernisation de l'État (221) porte trois acteurs centraux de la réforme de l'État, qui correspondent chacun à une action : la direction générale de modernisation de l'État (DGME), qui a été chargée de mettre en oeuvre la révision générale des politiques publiques (RGPP), mais aussi deux projets informatiques transversaux majeurs, Chorus et l'Opérateur national de paye (ONP), qui constituent tous deux, au-delà de leurs aspects techniques, de véritables leviers de modernisation de l'État. 
+
+A.- L'ÉCHEC DE LA DGME DANS LA CONDUITE DE LA RGPP
+
+La DGME a été créée en 2005 au sein du ministère de l'Économie et des finances, puis rattachée en 2010 au ministère du Budget, des comptes publics et de la réforme de l'État. Elle venait se substituer à plusieurs structures chargées de missions de modernisation de la gestion publique, de simplification administrative et de développement de l'administration électronique.
+
+Les missions de la DGME ont pris une dimension nouvelle dans le cadre de la révision générale des politiques publiques (RGPP), en 2007. La direction a été chargée de préparer les conseils de modernisation des politiques publiques (CMPP) et les comités de suivi, tant au stade de l'élaboration des réformes qu'à celui du suivi des mesures annoncées, mais aussi d'accompagner la mise en oeuvre des mesures au sein des différents ministères. La DGME a constitué un acteur clé de la RGPP, à toutes les étapes du processus. 
+
+Au regard des cinq années passées, un constat s'impose : la DGME a échoué dans le pilotage de la réforme des politiques publiques. Son mode de fonctionnement, s'appuyant largement sur le recours aux cabinets d'audits, était déconnecté de la réalité des administrations, et le suivi et l'évaluation des réformes étaient défaillants. L'accompagnement des mesures, lesquelles se traduisaient par des suppressions d'effectifs massives, n'était pas à la hauteur des enjeux. 
+
+La DGME a largement recouru à des cabinets de consultants, que ce soit en amont des réformes, pour leur préparation au sein d'équipes d'audit, ou pour l'accompagnement de leur entrée en vigueur. Le travail de ces cabinets a fait l'objet de fortes critiques, car leur connaissance de l'administration et des politiques publiques était souvent limitée. Leurs préconisations sont apparues dénuées de recul sur l'action publique, éloignées des réalités et _de facto_ peu légitimes. De jeunes consultants junior de vingt-cinq ans venaient ainsi expliquer à un directeur d'administration centrale comment faire son travail, ce qui ne constituait sans doute pas la meilleure méthode pour proposer et accompagner les réformes. Leur intervention a été perçue comme l'expression d'une certaine méfiance à l'égard de l'administration, jugée par nature incapable de se réformer. On peut d'ailleurs s'interroger sur l'apport attendu des consultants au sein des équipes mixtes d'audit (1) déployées à l'automne 2007 pour passer en revue les politiques publiques. Il a été indiqué à la Rapporteure spéciale que la contribution principale de ces consultants résidait dans leurs capacités d'analyses chiffrées, tandis que les inspecteurs apportaient leur expertise des politiques publiques. Cette analyse apparaît pour le moins étonnante : il serait inquiétant que les corps d'inspection ne soient pas en mesure de fournir des données sur leurs propres administrations. Le rôle « naturel » des cabinets d'audit semblerait davantage être l'apport d'une vision alternative à celle de l'administration, qui manquerait de recul sur sa propre action. 
+
+Le recours massif aux cabinets privés s'est en tout cas matérialisé par de fortes dépenses, tout particulièrement en 2008. Selon la DGME, le coût direct des prestations de conseil de la RGPP était de l'ordre de 21 millions d'euros par an en moyenne sur la période 2007-2011, mais ce chiffre ne représente qu'une partie du budget « consultants » de la direction, ainsi que le montre le tableau suivant. 
+
+**DÉPENSES «  CONSULTANTS » POUR LA MODERNISATION DE L'ÉTAT**
+
+_(en millions d 'euros)_
+
+| **2006 (exéc.)** | **2007 (exéc.)** | **2008 (exéc.)** | **2009 (exéc.)** | **2010 (exéc.)** | **2011 (exéc.)** | **2012 (prévision exéc.)** | **2013 (PLF)**  
+---|---|---|---|---|---|---|---|---  
+Administration électronique | 22,74 | 29,17 |  |  |  |  |  |   
+Modernisation gestion | 9,96 | 11,49 |  |  |  |  |  |   
+Transversal/support | 3,95 | 4,03 |  |  |  |  |  |   
+Qualité et simplification | 1,68 | 3,33 |  |  |  |  |  |   
+**Conseil** |  |  | 29,16 | 18,43 | 21,23 | 19,40 | 16,35 | 16,04  
+**Innovation** |  |  | 0,53 | 2,72 | 1,92 | 2,50 | 2,19 | 2,25  
+**Projets** |  |  | 31,63 | 21,28 | 22,51 | 21,55 | 14,43 | 14,09  
+**Actions transverses** |  |  | 3,83 | 2,49 | 2,40 | 3,59 | 4,53 | 4,05  
+**TOTAL** | **38,33** | **48,02** | **65,15** | **44,92** | **48,06** | **47,04** | **37,50** | **36,43**  
+**Évolution n-1/n** |  | 25,28 % | 35,67 % | - 31,05 % | 6,99 % | - 2,12 % | - 20,28 % | - 2,85 %  
+  
+_Source  : Rapport conjoint de l'IGF, l'IGA et l'IGAS_
+
+L'essentiel des dépenses d'accompagnement des réformes relève de la ligne « Conseil », alors que dans le poste « Projets », figurent pour une part importante les contrats pour la mise en place de services pour l'administration électronique. Par ailleurs, le tableau ne comptabilise pas les dépenses réalisées par les ministères, qui ont eux-mêmes recouru à des consultants pour conduire leurs réformes. 
+
+Somme toute, l'appui apporté par les consultants dans le cadre de la RGPP s'est avéré très coûteux et il est apparu à bien des égards contre-productif, en donnant le sentiment de réformes imposées de l'extérieur et coupées des réalités de l'action publique. 
+
+Le suivi des réformes apparaît lui aussi déficient. Ainsi que le souligne le rapport conjoint de l'inspection générale des finances (IGF), de l'inspection générale de l'administration (IGA) et de l'inspection générale des affaires sociales (IGAS) (2), le suivi centralisé par la DGME n'a pas permis de disposer d'une information fiable et cohérente sur l'avancement de la RGPP. Les fiches mandats tenues pour chaque mesure présentaient des lacunes, par exemple pour les informations sur les gains en équivalents temps plein (ETP), renseignés dans moins du tiers des fiches, sur les gains budgétaires, qui ne sont évoqués que dans 7 % d'entre elles, ou sur les indicateurs de suivi, auxquels ne sont pas associés de cibles dans les trois quarts des cas. 
+
+Ces constats illustrent bien les insuffisances du pilotage des réformes, tant dans leur mise en oeuvre que dans l'évaluation de leurs résultats, et notamment des économies qu'elles permettaient de réaliser. Le système de suivi des différentes mesures, avec l'utilisation des feux vert, orange et rouge, apparaît peu précis, réducteur et parfois incohérent, ainsi que cela sera développé plus avant. L'attribution des couleurs de feu était essentiellement fondée sur les échanges de la DGME avec les chefs de projet. Le contrôle exercé par la DGME apparaît donc restreint, puisqu'il se limite aux déclarations des chefs de projet, sans guère de contre-expertise, en s'inscrivant, ainsi que cela a été indiqué à la Rapporteure spéciale, dans « _une logique de confiance_  ». Cette démarche semble bien insuffisante pour évaluer véritablement la mise en oeuvre de réformes de grande ampleur. Peut-on ainsi considérer par exemple que la fusion de la DGCP (Direction générale de la comptabilité publique) et de la DGI (Direction générale des impôts) au sein de la DGFiP (Direction générale des finances publiques) est bien achevée ? Elle l'est certes officiellement, avec la fusion des corps et des structures administratives et le déploiement des services locaux en 2011, et la DGME la classe parmi les mesures finies. Toutefois, sur le terrain, dans les services déconcentrés, bien souvent les anciennes équipes de la DGI et de la DGCP travaillent dans des locaux séparés, chacune de leur côté, ce qui nuance le constat d'une réforme aboutie.
+
+Cette insuffisance dans le suivi se double de lacunes dans l'évaluation des économies budgétaires obtenues, en l'absence d'un suivi budgétaire réel attaché à chaque mesure. Cette dimension relève toutefois davantage de la direction du budget que de la DGME proprement dite, et sera détaillée plus loin.
+
+Enfin, l'accompagnement par la DGME des ministères dans la mise en oeuvre de leurs réformes n'a pas été à la hauteur de l'ampleur de ces dernières. À titre d'exemple, la DGME a accompagné la réforme des demandes de naturalisation au sein du ministère de l'Intérieur : son rôle se serait en fait limité à s'intéresser aux armoires de rangement des agents et à la rationalisation de leurs tâches quotidiennes. Autant de préconisations d'organisation qui apparaissent bien dérisoires au regard de l'importance des suppressions d'effectifs réalisées dans les préfectures et sous-préfectures. 
+
+La DGME, dans son organisation et son mode de fonctionnement actuels, a échoué dans le pilotage de la réforme des politiques publiques. De surcroît, son rattachement au ministère du Budget, des comptes publics et de la réforme de l'État pendant toute la période de la RGPP a favorisé l'association faite entre les réformes et les restrictions budgétaires, en réduisant la démarche à la seule recherche d'économies, ce qu'elle est rapidement devenue _de facto_. C'est pourquoi tant son rôle que son positionnement doivent évoluer ; depuis mai 2012, elle était rattachée au ministère de la Réforme de l'État, de la décentralisation et de la fonction publique ; son directeur n'assure plus la responsabilité du programme 221. Son positionnement est en train de changer dans le cadre des travaux en cours sur la modernisation de l'action publique. 
+
+**La Rapporteure spéciale estime que la DGME doit être profondément réformée. Elle approuve le choix du Gouvernement de la transformer en une direction interministérielle rattachée au Premier ministre, dans le cadre de la création du Secrétariat général pour la modernisation de l 'action publique (SGMAP), lequel doit également inclure la direction interministérielle des systèmes d'information et de communication (DISIC). Ce positionnement permettra d'inscrire la DGME, qui doit être rebaptisée DIMAP (Direction interministérielle de modernisation de l'action publique) dans une stratégie transversale plus cohérente et efficace. **
+
+B.- L'OPÉRATEUR NATIONAL DE PAYE : UNE GOUVERNANCE INTERMINISTÉRIELLE INDISPENSABLE POUR MENER À BIEN CE PROJET D'ENVERGURE
+
+1.- La nécessité de déployer un tel outil
+
+L'Opérateur national de paye (ONP) constitue un projet informatique d'une ampleur et d'une importance comparables à Chorus, en ce qu'il vise à transformer l'outil de gestion de la paye des fonctionnaires de l'État ainsi que l'organisation même des différents services chargés de la paie et de la gestion des ressources humaines dans les ministères. Il est porté par l'action 6 _Systèmes d 'information et production de la paye_ du programme 221. 
+
+De façon schématique, ce projet repose sur un progiciel intégré dénommé _SI Paye_ , qui est destiné à être alimenté par les données issues des systèmes d'information des ressources humaines (SIRH) des différents ministères. L'articulation entre les informations apportées par les SIRH ministériels et le progiciel _SI Paye_ permettra de déclencher et de verser la paye des agents de l'État de façon automatique alors qu'aujourd'hui, les ministères assurent la préparation de la paie de leurs agents, ce qui correspond à la phase de pré-liquidation, tandis que la paye est ensuite calculée, comptabilisée et mandatée par la DGFiP. L'ONP a donc vocation à devenir l'opérateur unique du traitement de la paye des agents de l'État. 
+
+Il est conduit par le service à compétence nationale lui-même intitulé ONP, et rattaché conjointement à la direction générale des finances publiques (DGFiP) et à la direction générale de l'administration et de la fonction publique (DGAFP). 
+
+Ce projet répond à plusieurs enjeux. En premier lieu, il doit permettre de remplacer l'ensemble des applications existantes, alors que la plupart des 10 000 agents affectés à la paie travaillent sur des applications vieilles de 40 ans, bien souvent obsolètes. Le maintien de telles applications fait peser à terme un risque sur la fiabilité et le fonctionnement du dispositif de paie. 
+
+Ensuite, il a vocation à améliorer les outils mis à la disposition des utilisateurs, que ce soit en matière de robustesse des applications, de simplification du traitement des processus de paye ou d'allègement des tâches de saisies. À ce titre, il permettra de concentrer les emplois sur des tâches valorisantes. Il doit aussi conduire à harmoniser les pratiques de gestion de ressources humaines et de paie entre les différents ministères et de rationaliser leur organisation, avec une profonde restructuration des services, de leurs compétences et de leurs périmètres. Il a vocation à assurer une interprétation plus homogène des dispositions réglementaires en matière de paye. Les agents de l'État devraient bénéficier d'une meilleure gestion des éléments de leur rémunération, notamment dans les situations de mobilité. 
+
+**Enfin, et c 'est le point le plus important, il répond à la nécessité de disposer d'un outil de pilotage global des ressources humaines au niveau de l'État.**
+
+En l'état actuel du fonctionnement de la paie et des SIRH des ministères, il est très difficile d'obtenir des données fiables, homogènes et consolidées, qui permettraient à l'État de disposer d'un outil de pilotage d'ensemble de sa propre masse salariale. L'ONP a vocation à fournir un système d'information moderne, permettant de mener une véritable gestion prévisionnelle des emplois et des compétences à grande échelle, avec la possibilité de croiser des données, d'établir des comparaisons et de faire des projections, en se fondant sur des données harmonisées. Les dépenses de masse salariale deviendront beaucoup plus lisibles et intelligibles, et ces progrès bénéficieront tant aux administrations concernées   
+- particulièrement la DGAFP et la direction du Budget - qu'à la représentation nationale. 
+
+2.- Un projet intrinsèquement complexe, un éclatement peu satisfaisant du pilotage
+
+La mise en oeuvre d'un tel projet est indéniablement d'une grande complexité, tout d'abord du fait de son envergure, puisqu'il porte sur la paye de 2,5 millions d'agents. Ensuite, la réglementation en la matière est foisonnante, avec environ 1 850 régimes indemnitaires, et elle constitue une matière très mouvante, en constante évolution, ce qui exige de l'ONP de s'adapter au fil de l'eau. La DGAFP et la direction du budget assurent une veille juridique commune et informent l'ONP des modifications réglementaires intervenues, à charge pour ce dernier de traduire les textes juridiques en langage informatique. Enfin, un tel projet pose nécessairement des questions de sécurité, dans la mesure où il a trait aux données personnelles et de paye de l'ensemble des agents de l'État, et il soulève des enjeux sociaux : toute difficulté de fonctionnement aurait d'emblée des conséquences très importantes. Les difficultés rencontrées sur le calculateur Louvois au sein du ministère de la Défense, qui ont engendré des erreurs dans le versement de diverses indemnités, attestent de la sensibilité de ces sujets. 
+
+Outre les difficultés liées à la nature même du projet, s'ajoute la question de son pilotage. En effet, dès l'origine, a été retenue une organisation relativement décentralisée : l'ONP est chargé de la conception et de la construction du progiciel _SI Paye_ , de l'élaboration de référentiels communs pour permettre l'harmonisation des SIRH des ministères, puis leur raccordement, ainsi que de l'offre d'un SIRH pour les ministères ayant choisi de recourir à une solution mutualisée. Il lui appartient aussi de mettre en place un système informatique décisionnel et un outil de gestion des référentiels communs.
+
+En revanche, c'est aux ministères qu'il incombe de mettre en conformité leurs SIRH avec les normes et les référentiels communs, afin de garantir leur bonne articulation avec le _SI  Paye_. Un certain nombre de ministères ou d'institutions (3) se sont toutefois prononcés en faveur de l'offre de SIRH proposée par l'ONP. Ce sont aussi les différents ministères qui sont chargés de la mise en qualité des données, de l'évolution de leur organisation et de leurs processus, et de la conduite du changement. Chaque ministère a réalisé un audit sur son SIRH en 2008, afin d'analyser les écarts entre les informations et les règles portées par les SIRH et les exigences des référentiels communs. Ils procèdent désormais aux adaptations nécessaires, selon leur propre stratégie.
+
+**Toute la difficulté du pilotage de ce projet réside dans l 'articulation entre les travaux conduits d'une part par l'ONP, d'autre part par les ministères ; ils doivent avancer de façon coordonnée afin de permettre un raccordement progressif des ministères, selon le calendrier de déploiement prévu. **
+
+Au fil des différentes auditions qu'elle a conduites, il est apparu à la Rapporteure spéciale que l'engagement des différents ministères était inégal, et que le projet ne constituait pas nécessairement une priorité pour nombre d'entre eux. A été notamment relevé le niveau décroissant de la représentation des ministères au sein des comités d'orientation stratégique, qui constitue un bon indicateur de leur degré d'implication. Plusieurs ministères dits « pilotes », qui devaient participer aux premières expérimentations, se sont retirés. Il est certain que chaque ministère doit mener de front de nombreuses actions, et qu'un projet informatique sur la paye peut sembler relativement aride et ne suscite pas nécessairement l'enthousiasme. Néanmoins, il est essentiel que chaque acteur joue sa partition selon le rythme prévu, sans quoi tout le déploiement du projet est mis en péril, compte tenu de la complexité du calendrier. 
+
+Or, il est difficile d'identifier et de mesurer les dépenses engagées par les différents ministères pour mettre en conformité leurs SIRH, puisque ces dépenses ne relèvent pas de l'action 6 du programme 221, mais de leur propre budget. Elles sont noyées dans les crédits de chacun d'entre eux, ce qui ne permet pas de les identifier ni de connaître leur évolution. Comme cela est indiqué dans le rapport annuel de performances pour 2011 de la mission Gestion des finances publiques et des ressources humaines, « _si les équipes de l 'ONP apportent un appui et un accompagnement à chacun des partenaires sur l'ensemble des chantiers, le budget opérationnel de programme de l'ONP ne retrace pas les crédits permettant de financer la conduite du changement au sein des ministères_. » L'ONP ne peut que constater l'avancée - ou les retards - des travaux conduits dans les ministères, sans avoir aucune prise sur ces derniers, alors même qu'il en est complètement tributaire pour la poursuite du projet. 
+
+**La Rapporteure spéciale estime essentiel de mettre en oeuvre pour ce projet un mode de gouvernance interministériel, afin d'assurer un pilotage efficace, qui permette d'arbitrer et de prendre des décisions dès que des difficultés ou des retards surviennent. **
+
+3.- De premiers retards enregistrés
+
+Il convient en premier lieu de relever le sous-effectif chronique que connaît l'Opérateur national de paye depuis sa création, du fait des difficultés rencontrées pour recruter des personnels. Depuis 2008, les effectifs inscrits sur l'action 6 sont en augmentation, afin d'accompagner le développement du projet, et sont passés de 57 ETPT dans la loi de finances pour 2008 à 190 ETPT en loi de finances pour 2012. Néanmoins, selon le rapport annuel de performances pour l'année 2011, sur les 151 ETPT prévus, seuls 115 ont été effectivement consommés. Cet écart s'explique par l'étroitesse du marché pour les compétences requises pour ce type de projet : sont à la fois recherchées une expertise dans la conduite de projet et une bonne connaissance des logiciels utilisés, de la comptabilité publique et des dispositifs de paie. Le vivier de recrutement s'avère de fait assez restreint. Il a aussi été souligné, pour expliquer la difficulté à recruter, que la participation à ce type de projet dans la carrière des personnels n'est pas valorisée, ce qui n'est guère motivant. L'ONP a pour l'essentiel résorbé son sous-effectif, mais son fonctionnement a beaucoup reposé sur l'engagement et les efforts des personnels en place. 
+
+Le calendrier initial du projet a connu des premiers retards, puisque dès 2011, la livraison de la conception détaillée du progiciel _SI Paye_ a été décalée de quinze mois ; du fait de ce retard et de l'identification de besoins complémentaires, deux avenants d'un montant de près de 9 millions d'euros au total ont dû être signés, représentant 10 % du montant de la tranche ferme du marché qui s'élevait à 88,1 millions d'euros. Toutefois, le calendrier est désormais stabilisé, puisque la livraison contractuelle est prévue en décembre prochain. Le progiciel _SI Paye_ est désormais sur les rails. 
+
+La suite du projet repose désormais sur la coordination des travaux entre ONP et ministères. Le ministère de l'Agriculture joue le rôle de ministère pilote : un test d'interface est prévu en décembre 2012, pour un passage en phase de paie fin 2013, en double commande néanmoins ; la paye par le seul dispositif _SI Paye_ n'interviendra qu'en mars 2014\. Deux autres ministères (4) se sont retirés de l'expérimentation, car ils n'étaient pas prêts pour les échéances prévues. Le ministère de l'Intérieur (hors direction générale de la gendarmerie nationale pour l'expérimentation) est le seul restant pour prendre la suite du ministère de l'Agriculture.
+
+La bonne maîtrise de l'expérimentation conduite avec le ministère de l'Agriculture ne constitue qu'une première étape. En effet, ce ministère constitue un cas relativement simple, puisque la gestion des ressources humaines y est centralisée ; d'autres ministères ont une organisation plus complexe, par exemple le ministère de l'Intérieur, avec des centres de paye répartis sur tout le territoire, ce qui entraîne des contraintes supplémentaires. C'est pourquoi il importe de réussir le raccordement du ministère de l'Agriculture au _SI Paye_ , pour pouvoir ensuite engager les expérimentations avec des ministères aux organisations plus éclatées. 
+
+Le calendrier initial prévoyait que le déploiement du _SI Paye_ devait être achevé en 2017. Si l'année dernière, la réponse au questionnaire budgétaire du Rapporteur spécial présentait le calendrier de raccordement des ministères, ces éléments ne figurent pas cette année dans les données fournies. Serait-ce parce que des incertitudes et des risques de décalage pèsent désormais sur ce déploiement ? La Rapporteure spéciale ne peut que regretter cette absence d'informations. En tout état de cause, il semble que les retards dans la phase de conception du _SI  Paye_ et dans les expérimentations aient absorbé toutes les marges de manoeuvres prévues initialement dans la perspective d'un déploiement en 2017. 
+
+4.- Quels coûts et quels gains associés à ce projet ?
+
+Le coût de construction et de maintenance du système _SI-Paye_ est évalué à environ 170 millions d'euros (5). Il s'inscrit dans le cadre des dépenses du programme dans son ensemble, qui intègrent pour l'ONP la construction et la maintenance des autres systèmes d'information, les opérations de recette et de déploiement, l'acquisition et la maintenance des infrastructures, l'assistance à maîtrise d'ouvrage et les dépenses de personnel. Pour les ministères, il faut prendre en compte les coûts de mise en conformité de leur SIRH et de conduite du changement. 
+
+Dans la réponse transmise l'année précédente, ce coût global était estimé jusqu'en 2018 entre 650 millions d'euros et 760 millions d'euros. Plus aucune mention du coût global ne figure dans les éléments fournis cette année à la Rapporteure spéciale. Aucune indication n'est donnée non plus dans le projet annuel de performances. Cette lacune, qui s'ajoute à celle constatée sur le calendrier de déploiement, ne peut qu'être déplorée. Il est sans doute complexe de procéder à une telle évaluation, notamment pour les dépenses engagées par les ministères. Néanmoins, le pilotage d'un tel projet impose d'avoir une vision d'ensemble sur son coût, ce qui permettrait également d'éclairer le vote de la représentation nationale sur les crédits - conséquents - qui sont alloués au projet chaque année. 
+
+Lors des travaux conduits dans le cadre de la RGPP - puisque le projet ONP, bien que lancé avant la RGPP, y a été intégré _a posteriori_  - , il avait été estimé que le projet devrait permettre d'obtenir des gains de l'ordre de 3 800 ETP, se décomposant en 3 000 ETP dans les différents ministères, du fait de la réorganisation de la chaîne de paye, et 800 ETP pour la DGFiP. Ces évaluations, qui datent de 2007 et n'ont pas fait l'objet d'un suivi depuis, sont reprises dans le projet annuel de performances pour 2013, de même que les précédentes années. 
+
+Il est certain que la mise en place de l'ONP permettra à terme de réaliser des gains de productivité et de réduire les effectifs affectés aux opérations de paye. Toutefois, les chiffres annoncés doivent être considérés avec la plus grande prudence : ainsi que cela est évoqué plus loin, l'évaluation faite dans le cadre de la RGPP des économies issues des réformes était souvent peu précise et très volontariste. En tout état de cause, les gains attendus de la mise en place de l'ONP ne pourront être obtenus que si celle-ci est accompagnée d'une réelle réorganisation des services et des processus ministériels et interministériels. Cette problématique rejoint directement celle à laquelle est aujourd'hui confronté le projet informatique Chorus. 
+
+C.- UTILISER AU MIEUX LES POSSIBILITÉS OFFERTES PAR CHORUS GRÂCE À UNE ÉVOLUTION DE L'ORGANISATION ADMINISTRATIVE DES DIFFÉRENTS MINISTÈRES
+
+1.- Un système informatique entièrement déployé
+
+Le projet informatique Chorus est porté par l'action 5 _Information financière de l 'État_ du programme 221. Si ses déboires ont largement défrayé la chronique au cours des dernières années, il est désormais entré dans une phase de gestion. Ses principaux objectifs sont atteints, et c'est désormais sur son amélioration et la mise en place de nouvelles fonctionnalités que travaille pour l'essentiel l'Agence pour l'informatique financière de l'État (AIFE). 
+
+À grands traits, Chorus consiste en un système d'information financière intégré, commun à toutes les administrations centrales et déconcentrées de l'État et partagé entre les ordonnateurs et les comptables. Il était indispensable de mettre en place cet outil pour se conformer aux dispositions de la loi organique relative aux lois de finances de 2001, notamment afin de tenir à la fois la comptabilité budgétaire et la comptabilité générale de l'État. Le projet de l'ONP doit d'ailleurs être conçu en cohérence avec Chorus, de même que le projet Copernic, qui porte sur la gestion de l'assiette et du recouvrement des recettes fiscales. 
+
+Réalisé en six vagues successives entre juin 2008 et janvier 2011, le déploiement de Chorus dans les services de l'État est désormais achevé. Le basculement de la comptabilité générale sous Chorus est intervenu le 1er janvier 2012. Dans son rapport de certification des comptes de l'État pour l'exercice 2011 de mai dernier, la Cour des comptes reconduit une réserve substantielle relative aux systèmes d'information financière et comptable de l'État, mais relève des avancées et lève une partie des réserves formulées l'année précédente. 
+
+Il est certain que la mise en place de Chorus n'a pas été exempte de difficultés, et que le déploiement au sein des services a été chaotique, occasionnant des retards de paiement conséquents. Ont été mis en avant la rigidité et la complexité de l'outil, les difficultés d'appropriation pour les agents, ainsi que de nombreux dysfonctionnements. Pour autant, Chorus est désormais en place, et offre des performances techniques bien supérieures aux dispositifs antérieurs : à titre d'exemple, en un seul clic, ou presque, les crédits peuvent ainsi « descendre » en deux heures au sein des services déconcentrés, au lieu de deux à trois jours auparavant. 
+
+Dans l'ensemble, le budget global de Chorus semble avoir été maîtrisé, en atteignant environ un milliard d'euros au total pour la période 2006-2015 selon le rapport annuel de performances pour 2011, contre 1,1 milliard prévu en 2006. La Cour des comptes, dans son rapport public annuel de 2011, mettait certes en avant des surcoûts par rapport aux prévisions, mais incluait dans ses estimations des coûts indirects, relevant notamment des dispositifs antérieurs à Chorus (6). 
+
+2.- Le développement de nouvelles fonctionnalités
+
+Désormais, l'AIFE se consacre à l'amélioration du fonctionnement de Chorus, notamment pour prendre en compte les remarques et demandes de la Cour des comptes, et pour remédier aux anomalies. Elle conduit parallèlement des projets visant à introduire de nouvelles fonctionnalités dans le dispositif actuel. À ce titre, sont inscrits dans le projet de loi de finances des crédits d'investissement afin de financer un certain nombre d'opérations ; ils sont retracés dans le tableau ci-dessous. 
+
+|  |   
+---|---|---  
+**CRÉDITS D 'INVESTISSEMENT INSCRITS AU TITRE DU FINANCEMENT D'OPÉRATIONS** _(en millions d 'euros)_  
+| **Autorisations d 'engagement** | **Crédits de paiement**  
+Refonte du portail diapason et outil de gestion projet | 0 | 0,2  
+Évolutions réglementaires et ministérielles | 4 | 3,1  
+Nouvelle architecture technique | 10,5 | 5,7  
+Portail décisionnel (BO) | 1,2 | 1,4  
+Nouvelle architecture applicative (SRM7) | 2,8 | 2,2  
+Amélioration des niveaux de service | 0,8 | 1  
+Dématérialisation | 1,3 | 1,5  
+Gestion des déplacements temporaires des agents de l'État | 1,5 | 1,6  
+Gestion du patrimoine de l'État | 2,1 | 1,3  
+Comptabilité analytique | 1,2 | 1,5  
+Formulaire frais de justice et SI achat | 2,3 | 1,5  
+**Total** | **27,7** | **21**  
+_Source  : Projet annuel de performance pour 2013_  
+  
+Par exemple, est en cours un projet « Chorus Déplacement temporaire », qui vise à introduire une solution commune à tous les ministères pour la gestion des déplacements, dans le cadre d'une procédure complètement dématérialisée. Il a été développé à partir d'un outil informatique utilisé dans le secteur privé, et deux ministères pilotes, l'Agriculture et la Culture, en ont reçu une première version en juillet dernier. D'autres ministères suivront d'ici 2014 (Intérieur, Éducation nationale, Travail, Santé…). Sa généralisation devrait permettre de réaliser des économies substantielles en matière de frais de déplacement des agents. 
+
+De même, le projet « Chorus Factures » a pour objectif la dématérialisation des factures des fournisseurs : il consiste en la production par le fournisseur d'un fichier de données depuis son système de facturation, puis l'envoi automatique de ce fichier vers Chorus, qui génère automatiquement une demande de paiement. Des gains importants pourraient être obtenus par ce biais, et ce projet est d'autant plus intéressant que le traitement des factures n'est guère une tâche valorisante pour les agents qui en sont chargés. Une plate-forme Chorus Factures a été lancée en janvier dernier, avec plusieurs sociétés pilotes (Bull, Orange, Imprimerie nationale…). Néanmoins, l'AIFE constate des freins à ce processus de dématérialisation, qui pourraient ralentir son développement. À titre d'exemple, les sociétés EDF et GDF demandent à être rémunérées pour envoyer des factures dématérialisées…
+
+D'autres développements sont en cours, par exemple le formulaire Frais de justice, la numérisation des factures « papier », la dématérialisation des marchés publics, ou encore la mise en place de la carte achats. Autant de projets qui visent à tirer parti des possibilités techniques qu'offre Chorus, qu'il faut doter de moyens financiers suffisants. 
+
+3.- Améliorer l'organisation administrative pour tirer parti des possibilités de Chorus
+
+Bien que d'une façon différente, Chorus comme l'ONP mettent en lumière l'absence de réel pilotage interministériel au sein de l'État pour de grands projets transversaux de ce type. Pour l'ONP, les difficultés résultent d'un manque d'implication des différents ministères dans la mise en oeuvre et le financement du projet ; pour Chorus, il s'agit davantage d'un volontarisme insuffisant pour mettre en place l'organisation adéquate permettant de tirer profit de toutes les possibilités offertes par le nouvel outil. 
+
+L'entrée en service de Chorus est en effet indissociable d'une évolution de l'organisation des administrations, et doit s'appuyer notamment sur la mise en place de centres de services partagés et de services facturiers, en administration centrale et en services déconcentrés. Les premiers, dont la généralisation a été lancée en 2011, sont chargés de la gestion des dépenses et des recettes des services prescripteurs dont ils ont reçu délégation, tandis que les deuxièmes sont appelés à réceptionner les factures, à liquider les dépenses et à les payer. Or, l'organisation administrative des différents ministères n'a pas suffisamment évolué : les centres de services partagés mis en place sont très inégaux en taille ; certains sont encore très proches des anciens services de dépenses des ordonnateurs, et le degré de mutualisation est très variable selon les ministères. La mise en oeuvre des services facturiers est encore partielle : si, en administration centrale, la plupart des ministères s'en sont dotés, tel n'est pas le cas en services déconcentrés.
+
+L'organisation actuelle est donc encore loin de celle qui avait été définie comme cible, ce qui se traduit par une sous-utilisation des potentialités offertes par Chorus, une moindre fluidité des processus et, partant, de moindres gains de productivité par rapport à ce qui était attendu. 
+
+**À la lumière des précédents développements, la Rapporteure spéciale estime que le rattachement au ministère de l 'Économie et des finances de projets comme Chorus et ONP n'est pas optimal. Il serait souhaitable de les placer, de même que la DGME, au sein du Secrétariat général pour la modernisation de l'action publique, plus à même de définir une stratégie et un pilotage efficaces. **
+
+**II.- VERS UNE NOUVELLE MÉTHODE DE MODERNISATION DES POLITIQUES PUBLIQUES**
+
+Le Gouvernement a dès juillet dernier annoncé la fin de la RGPP, tout en indiquant sa volonté de poursuivre la modernisation des politiques publiques, mais dans un cadre différent. À l'issue de cinq années, le bilan de la RGPP n'est certes pas totalement négatif : un certain nombre de réformes utiles ont été engagées. Néanmoins, elle constitue à bien des égards un exemple de ce qu'il ne faut pas faire en matière de réforme de l'État.
+
+A.- DES CONSTATS LARGEMENT PARTAGES SUR LES ÉCHECS DE LA RGPP
+
+1.- Des ambitions de modernisation des politiques publiques très vite laissées de côté, au profit d'une seule vision comptable
+
+Lors de son lancement en juillet 2007, la révision générale des politiques publiques fut annoncée comme une « _réforme de l 'État ambitieuse et sans précédent_ » ; elle devait se fonder sur une réflexion approfondie sur la définition des missions de l'État, en dépassant la logique des moyens et en s'interrogeant sur les fins de toute action publique. La RGPP reposait sur une étude de chacune des politiques publiques, autour d'un questionnement en cinq étapes (7) : à quoi sert la politique passée au crible ? Répond-t-elle aux besoins des usagers ? Peut-on la conduire différemment ? Avec moins de moyens ? En la ciblant davantage ? Certes, la RGPP était associée à des objectifs budgétaires et elle devait permettre d'identifier des améliorations de l'organisation et du fonctionnement de l'État, conduisant à des économies ; néanmoins, elle visait avant tout à refonder et moderniser l'action de l'État. 
+
+On ne peut que constater que cette ambition a été abandonnée très rapidement, pour laisser la place à des réformes ministérielles ou interministérielles reposant sur une approche essentiellement comptable, visant à une recherche d'économies à marche forcée, afin de « faire pareil avec moins ». La réflexion sur le contour des missions de l'État n'a été qu'effleurée, et son bilan s'avère singulièrement mince. Seule une mission de l'État a été véritablement supprimée, celle de l'ingénierie concurrentielle - régulièrement citée comme exemple de redéfinition des missions (8). Mais, comme le souligne le rapport d'information de M. de Legge (9), la RGPP n'a finalement fait que confirmer, et non lancer, une évolution entamée depuis plus de dix ans, sous l'effet du droit communautaire de la concurrence. De fait, les références relatives au questionnement sur l'action publique ont peu à peu disparu des communications et rapports publics officiels sur la RGPP, tandis que l'accent était davantage mis sur la mise en oeuvre des réformes décidées. La RGPP laisse à cet égard une forte impression d'occasion manquée et d'inaboutissement.
+
+2.- L'absence de transparence et de concertation
+
+Cet aspect a été largement souligné dans différents rapports : la RGPP s'est caractérisée par une absence totale de transparence lors de l'élaboration des réformes, et par un manque d'association des agents, du Parlement et des usagers de l'administration, donnant l'impression d'un dispositif fonctionnant en circuit fermé.
+
+Dès le lancement de la RGPP, le recours à des équipes d'audit travaillant de façon confidentielle, y compris semble-t-il à l'égard des administrations concernées, a marqué un manque de transparence peu propice à la préparation de réformes de grande ampleur. Les rapporteurs du Comité d'évaluation et de contrôle chargé d'établir un bilan de la RGPP (10) ont souligné cette opacité des travaux préparatoires, qui a perduré, puisque lors de leurs travaux, ils ont essuyé une fin de non-recevoir de la part de la DGME lorsqu'ils ont demandé communication des réflexions d'une équipe mixte d'audit sur deux réformes de la RGPP, relatives aux modalités de délivrance des passeports et des certificats d'immatriculation des véhicules.
+
+Si les discours officiels soulignaient à l'envi l'importance de l'adhésion et de la mobilisation des agents pour assurer la réussite des réformes, ces derniers n'ont pas été associés à la phase de préparation de la RGPP. Ils ont simplement été informés, en aval, des décisions prises, et mis devant le fait accompli. Cette absence de dialogue social, résultant pour partie de la volonté d'aller vite, s'est traduite par l'incompréhension des personnels, puis, au fil de l'avancée des réformes, par un véritable rejet. Ces difficultés ont également concerné les personnels d'encadrement, qui n'étaient pas nécessairement hostiles au principe même des réformes, mais qui étaient en désaccord avec les modalités de leur mise en oeuvre, notamment la mise en avant des consultants privés et le manque de concertation. 
+
+Le Parlement a lui aussi été tenu largement à l'écart des travaux de la RGPP. Au-delà de la participation _ès qualité_ des rapporteurs généraux des commissions des Finances de l'Assemblée et du Sénat aux réunions des CMPP et des comités de suivi, les parlementaires n'ont été associés ni à la première phase de la RGPP, en amont de l'élaboration des réformes, ni aux travaux de suivi. Certes, ainsi que le souligne le rapport du CEC précité, les parlementaires ont été amenés à examiner les projets de loi de finances mettant en oeuvre le non-remplacement d'un fonctionnaire sur deux, ou bien encore certains textes destinés à appliquer des mesures de la RGPP. Mais il s'agissait de saisines ponctuelles, au cas par cas, qui ne s'inscrivaient pas dans une démarche globale. Par ailleurs, nombre de réformes issues de la RGPP, notamment celles se traduisant par des réorganisations administratives, ne nécessitaient pas d'intervention du pouvoir législatif. 
+
+L'information du Parlement sur le suivi de la RGPP a été très lacunaire : c'est un amendement parlementaire qui, dans le projet de loi de finances pour 2010, a introduit l'obligation pour le Gouvernement d'annexer chaque année au projet de loi de règlement des comptes un document présentant un bilan des mesures décidées dans le cadre de la RGPP et apportant des éléments sur chacune d'entre elles, notamment sur leur calendrier et les économies qu'elles permettaient de dégager. La portée de cet amendement a été singulièrement réduite par un sous-amendement gouvernemental, qui a limité le champ des mesures ainsi documentées à celles considérées comme terminées. Ce sous-amendement a ainsi évité au Gouvernement de présenter chaque année au Parlement un document d'ensemble sur l'avancement de chacune des mesures de la RGPP, terminées ou en cours. 
+
+Dans le document présenté en 2012 portant sur l'année 2011, les économies hors titre 2 résultant des mesures présentées sont inférieures à un milliard d'euros, contre 4,2 milliards d'euros attendus pour l'année 2011. Néanmoins, la première sous-direction du budget a indiqué à la Rapporteure spéciale que les économies étaient bien au rendez-vous, mais que les plus de trois milliards d'euros d'écart correspondaient à des mesures en cours, qui ne figuraient donc pas dans le document transmis. Ce seul chiffre permet de prendre pleinement la mesure de la faiblesse de l'information du Parlement.
+
+3.- Le caractère très disparate des mesures mises en oeuvre
+
+Dans son acception la plus courante, la RGPP recouvre les mesures ayant fait l'objet d'une décision en CMPP ainsi que d'une fiche mandat de la DGME. Le décompte de ces mesures apparaît variable : le rapport du CEC fait mention de 517 mesures au total, dont 332 au titre de la phase 1, et 185 pour la phase 2. Le rapport de l'IGF, de l'IGA et de l'IGAS compte quant à lui 503 mesures, en ôtant 27 mesures « miroir », c'est-à-dire portées par plusieurs ministères, du total de 530\. Ces incertitudes quant au nombre exact de mesures reflètent leur difficile traçabilité dans le temps, certaines étant rebaptisées ou renumérotées en cours de route, d'autres étant fusionnées. Par ailleurs, certaines réformes, antérieures à la RGPP, lui ont été rattachées _a posteriori_. Au total, sur ces 503 réformes, 311 sont encore en cours, soit 62 %. 
+
+En tout état de cause, un coup d'oeil sur la liste des mesures suffit pour saisir la grande hétérogénéité de celles-ci : la réforme de la carte judiciaire côtoie le recentrage de la politique de l'État en matière de politique du cheval ou encore l'installation d'un directeur chargé de coordonner les dépenses informatiques de l'État au sein du ministère du Budget. Ces mesures apparaissent très disparates de par leur nature, leur ampleur et leurs effets. 
+
+Une bonne part des réformes visait à une réorganisation des structures administratives, comme par exemple la RéATE (réforme de l'administration territoriale de l'État), la création de la DGFiP et des agences régionales de santé, ainsi que celle des bases de défense. D'autres mesures visaient à modifier les modalités d'intervention de l'État, par exemple en matière de niches fiscales et sociales, ou encore d'aides aux entreprises ; d'autres encore portaient sur des politiques très sectorielles. Cet aspect « inventaire à la Prévert » de la RGPP a joué en sa défaveur, en brouillant son image ainsi que la hiérarchisation des réformes et des priorités.
+
+4.- Un système réducteur et parfois incohérent de suivi des réformes
+
+L'avancement de chacune des réformes a fait l'objet d'un système de notation par des feux tricolores vert, orange ou rouge. Ce dispositif d'évaluation apparaît particulièrement sommaire pour évaluer des réformes parfois très complexes, et ne permet guère d'apporter des nuances. Il présente également un caractère infantilisant, qui n'est pas nécessairement très productif. Par ailleurs, la signification de chacune des couleurs a évolué au cours du temps ; la portée de ces évolutions apparaît peu lisible, et laisse une impression d'opacité au lecteur des rapports publics sur l'avancement de la RGPP. Enfin, les rares commentaires qui accompagnent les feux sont succincts et peu précis. 
+
+Outre ces défauts structurels du système d'évaluation, a été mis en lumière le caractère parfois arbitraire de l'attribution d'un feu vert, orange ou vert. Le rapport du CEC donne ainsi plusieurs exemples concrets, avec notamment l'évaluation d'une mesure concernant un établissement intervenant dans la rénovation urbaine et d'une autre sur l'organisation scolaire, qui laissent quelque peu songeur sur la fiabilité du dispositif. Le rapport de l'IGF, de l'IGA et de l'IGAS le formule autrement, mais le constat est tout aussi définitif, puisqu'il estime que le changement de couleur de feu d'une mesure tenait parfois plus à la capacité de conviction d'un cabinet, d'un secrétaire général ou de la DGME qu'à l'avancement réel de la mesure.
+
+Enfin, la lecture des rapports rendus publics à l'occasion des CMPP et des rapports d'étape donne davantage l'impression d'un exercice de communication politique que d'un bilan sincère et exhaustif de la mise en oeuvre des mesures. 
+
+5.- Une évaluation lacunaire et biaisée des économies attendues
+
+Des auditions conduites par la Rapporteure spéciale, il apparaît clairement que le suivi budgétaire de chacun des projets de la RGPP était pour le moins insuffisant, et orienté dès l'origine par la volonté politique d'afficher des économies substantielles et rapides. 
+
+Cette lacune a d'ailleurs été identifiée dans tous les rapports précédents : dès janvier 2011, la Cour des comptes soulignait, dans ses observations définitives sur le pilotage et le suivi de la RGPP, les insuffisances de l'évaluation des gains budgétaires, tandis que le rapport d'information du CEC concluait que le bilan budgétaire de la RGPP demeurait dans l'ensemble une « _énigme_  », tant les informations, difficiles à recueillir, semblaient « _discutables et parcellaires  »_ ; les chiffres fournis par la direction du budget différaient parfois sensiblement de ceux présentés par les ministères concernés par une mesure. Le rapport de l'IGF, l'IGA et l'IGAS relève quant à lui que les économies prévues étaient davantage un objectif budgétaire que la somme des réformes menées. 
+
+La direction du budget a ainsi dès 2008 identifié un besoin d'économies de 10 à 15 milliards d'euros lors de la préparation de la première loi de programmation des finances publiques ; ce chiffre de 15 milliards d'euros se retrouve ensuite dans l'estimation des gains attendus des réformes sur la période 2009-2013. Ce montant se décomposait comme suit : 10,4 milliards d'euros en dépenses de fonctionnement et d'intervention et 4,6 milliards d'euros en dépenses de personnel. Sur la période 2009-2012, les économies devaient atteindre 12,3 milliards d'euros. Elles étaient censées être obtenues sur environ 77 des 503 mesures de la RGPP, les autres mesures ne pouvant être chiffrées. 
+
+L'actualisation de ces estimations, détaillée mesure par mesure, devait être fournie par la direction du budget à la fin du mois de septembre. À l'heure où ce rapport est présenté, aucune information n'a toutefois été transmise à la Rapporteure spéciale. Selon le rapport de l'IGF, de l'IGA et de l'IGAS, les gains pour les années 2009-2012 devraient être d'environ 11,9 milliards d'euros, au lieu des 12,3 milliards d'euros attendus, soit une révision à la baisse limitée. Néanmoins, la méthode de la direction du budget, s'inscrivant dans une logique de programmation budgétaire, peut paraître discutable : la direction est chargée d'évaluer les gains issus des mesures dans l'optique de leur articulation avec le projet de loi de finances de chaque année, et suit l'exécution budgétaire des différents ministères pour actualiser ses prévisions. Ainsi que cela a été indiqué à la Rapporteure spéciale, la direction du budget ne peut pas forcément mesurer si, compte tenu de la fongibilité des crédits au sein des programmes, les économies viennent véritablement des mesures prises, ou si elles résultent simplement d'économies de substitution faites par les ministères, sur d'autres postes, si les gains attendus ne se concrétisent pas - ou du moins pas dans les délais attendus. C'est sans doute cette approche trop globalisante qui explique les discordances entre les estimations de la direction du budget et celles des ministères. 
+
+Ensuite, les économies ainsi évaluées correspondent aux gains bruts des réformes, et non aux gains nets, alors que le coût associé à la mise en oeuvre des mesures de la RGPP n'est ni calculé, ni défalqué des économies enregistrées. Or il apparaît évident que certaines réformes de grande ampleur, comme celles de la carte judiciaire et de la carte militaire, ont nécessairement des coûts induits, même si l'on attend _in fine_ qu'elles produisent des économies. Ce biais a également été mis en exergue par le rapport précité de la Cour des comptes.
+
+À ce titre, le chiffre de 11,9 milliards d'euros de gains effectivement engrangés sur 2009-2012 inclut selon le rapport de l'IGF, de l'IGA et de l'IGAS, 8,33 milliards d'euros d'économies de fonctionnement et d'intervention, ce qui signifie que le reste, soit près de 3,6 milliards d'euros, est issu des gains obtenus en dépenses de personnel. Ce chiffre correspond là aussi aux économies brutes, résultant du non remplacement d'un fonctionnaire sur deux (le « un sur deux »), oscillant entre 800 à 950 millions d'euros par an. Néanmoins, n'est pas pris en compte le retour catégoriel reversé aux agents, qui peut atteindre plus de 60 % selon les années (67,3 % en 2010 par exemple). De ce fait, les économies nettes en titre 2 sont bien inférieures à 3,6 milliards d'euros sur la période. Selon les rapports sur les projets de loi de règlement pour 2010 et 2011, les économies nettes de titre 2 résultant de la RGPP atteignaient respectivement 264 millions d'euros en 2010, contre 808 millions d'euros en économies brutes, et 373 millions d'euros en 2011, contre 935 millions d'euros en économies brutes. 
+
+B.- UN MANQUE D'ÉQUITÉ DANS LA MISE EN oeUVRE DES RÉFORMES
+
+La question des ressources humaines s'est trouvée au coeur des réformes issues de la RGPP, alors que celle-ci a été associée au principe du « un sur deux ». Elle s'est accompagnée d'une baisse des effectifs sans précédent, de l'ordre de plus de 145 000 agents entre 2007 et 2012, soit environ 7 % des effectifs de la fonction publique d'État. L'accompagnement n'a pas été à la hauteur, tout en se traduisant par de grandes disparités de traitement selon les ministères.
+
+1.- Un retour catégoriel très variable selon les ministères 
+
+Le retour catégoriel est fondé sur un principe de restitution aux fonctionnaires de la moitié des économies réalisées grâce au non-remplacement d'un départ à la retraite sur deux, sous forme de mesures catégorielles. Ce dispositif n'apparaît pas critiquable en lui-même ; il s'agit de faire bénéficier les fonctionnaires des gains de productivité qui sont dégagés par les diminutions des effectifs, tout en accompagnant, souvent, le bouleversement de leur environnement administratif issu des réformes conduites.
+
+Néanmoins, le montant des retours catégoriels versés durant la RGPP n'est pas supérieur à celui correspondant aux « mesures catégorielles » intervenues pendant la période précédente, sur les années 2002-2007. L'enveloppe totale fluctue autour de 500 millions d'euros sur ces deux périodes, sans hausse substantielle à partir de 2007. Par ailleurs, la notion même de retour catégoriel est apparue assez floue ; il n'est pas aisé de distinguer, parmi les mesures catégorielles, celles qui relèvent effectivement du retour aux agents d'une partie des économies issues des diminutions d'effectifs de celles qui correspondent à d'autres dispositifs catégoriels, notamment ceux qui ont été lancés avant la RGPP. 
+
+Au vu des données disponibles, il apparaît que le dispositif a été véritablement dévoyé dans son application. Certains des ministères qui ont consenti le plus d'efforts de réduction d'effectifs ne sont pas ceux, loin s'en faut, qui bénéficient le plus de ce retour catégoriel, ainsi que l'illustre le tableau ci-dessous, qui porte sur l'année 2011. 
+
+**ÉVOLUTION DES EFFECTIFS ET DES ÉCONOMIES LIÉS À LA MISE EN oeUVRE DU ½ PAR MINISTÈRE ET PAR MISSION**
+
+|  |  |  |  |  |  |  |   
+---|---|---|---|---|---|---|---|---  
+| **EFFECTIFS (ETP)** | **Économies brutes (M €)** | **Mesures catégorielles (M €)**  
+**Ministère** | **Schéma d 'emplois exécution 2011** | **Taux de non remplacement 2011** | **Prévues en LFI 2011** | **Exécutées en 2011** | **Écart à la prévision** | **Prévues en LFI 2011** | **Exécutées en 2011** | **retour catégoriel 2011**  
+Affaires étrangères et européennes | - 164 | - 72 % | - 7,0 | - 16,0 | - 9,0 | 6,7 | 6,6 | 41 %  
+Agriculture, alimentation, pêche, ruralité et aménagement du territoire | - 659 | - 78 % | - 21,8 | - 19,0 | 2,8 | 10,9 | 9,9 | 52 %  
+Budget, comptes publics, fonction publique et réforme de l'État | - 3 621 | - 64 % | - 137,7 | - 160,2 | - 22,5 | 78,4 | 92,8 | 58 %  
+Culture et communication | - 93 | - 27 % | - 3,2 | - 5,4 | - 2,2 | 1,6 | 2,1 | 39 %  
+Défense et anciens combattants | - 7 948 | - 83 % | - 212,1 | - 234,3 | - 22,2 | 104,0 | 84,0 | 36 %  
+Écologie, développement durable, transports et logement | - 1 494 | - 70 % | - 47,4 | - 51,1 | - 3,6 | 31,8 | 24,1 | 47 %  
+Économie, finances et industrie | - 415 | - 73 % | - 14,4 | - 15,8 | - 1,4 | 10,1 | 10,3 | 65 %  
+Éducation nationale, jeunesse et vie associative | - 16 826 | - 50 % | - 362,3 | - 392,4 | - 30,1 | 196,0 | 175,9 | 45 %  
+Enseignement supérieur et recherche | 0 | 0 % | 0,0 | 0,0 | 0,0 | 12,8 | 1,6 | Exonéré du 1 sur 2  
+Intérieur, outre-mer, collectivités territoriales et immigration | - 618 | - 9 % | - 29,6 | - 41,8 | - 12,2 | 128,9 | 127,6 | 305 %  
+Justice et libertés | 226 | 12 % | 23,7 | 15,3 | - 8,4 | 16,0 | 11,3 | Exonéré du 1 sur 2  
+Services du Premier ministre | 193 | 113 % | 10,4 | 9,9 | - 0,5 | 4,2 | 5,9 | 59 %  
+Travail, emploi et santé | - 587 | - 67 % | - 15,5 | - 24,2 | - 8,7 | 13,0 | 10,7 | 44 %  
+**Total** | - **32  006** | - **50  %** | - **817,0** | - **935,0** | - **118,0** | **614,5** | **562,6** | **60  %**  
+  
+_Source  : rapport sur le projet de loi de règlement des comptes pour 2011 du Rapporteur général de la commission des Finances_
+
+Ce tableau fait apparaître des écarts flagrants entre les différents ministères, et un manque d'équité certain. Alors que le taux de non-remplacement des personnels de la défense atteint 83 %, le plus élevé de tous les ministères, le retour catégoriel se limite à 36 %. L'éducation nationale a appliqué un taux de non-remplacement de 50 %, mais le retour catégoriel n'y atteint que 45 %. À l'autre bout du spectre, figure le ministère de l'Intérieur, qui, avec un taux de non-remplacement de 9 %, bénéficie d'un retour catégoriel de 305 %, ce qui signifie que les mesures catégorielles représentent plus de trois fois les économies brutes issues de la baisse des effectifs… Certes, plus de la moitié de ces mesures catégorielles résulte de la poursuite de protocoles antérieurs à la RGPP, avec notamment le protocole dit corps et carrières de la police nationale. Selon les données fournies par le Rapporteur général (11), une fois ces mesures neutralisées, le retour catégoriel lié au « un sur deux » au ministère de l'intérieur atteint tout de même 134 %. 
+
+Ce manque d'équité transparaît également dans les conditions avantageuses dont a bénéficié la création de la DGFiP. Cette réorganisation administrative de grande ampleur concernait environ 129 000 agents, et s'est traduite par la suppression de plus de 10 000 emplois entre 2008 et 2012. Or, selon un rapport remis à la commission des Finances du Sénat en octobre 2011, les avantages statutaires et indemnitaires accordés aux agents apparaissent substantiels. M. Christian Babusiaux, président de la Première chambre de la Cour des comptes, a ainsi énuméré devant la commission des Finances du Sénat ces différents avantages : «** **_alignement sur la situation la plus favorable prévalant dans les deux directions fusionnées, reclassements, généralisation et pérennisation des primes et indemnités, dans de très nombreux cas sans justification fonctionnelle, c'est-à-dire sans que le travail des agents ait été modifié.  »_ Ainsi, la prime de fusion de 350 euros par an, créée à l'origine pour les seuls agents affectés par les restructurations, a été accordée à l'ensemble des agents de la DGFiP, et non aux seuls agents contraints à une mobilité professionnelle ou géographique. Elle a ensuite été pérennisée à partir de 2009, puis augmentée en 2011. Son coût total pour la période 2007 à 2012 est estimé à 59,5 millions d'euros. D'autres services concernés par des restructurations importantes, notamment les services déconcentrés, dans le cadre de la RéATE, ou encore le ministère de la Défense, n'ont sans aucun doute pas bénéficié d'un tel accompagnement.
+
+2.- Des inégalités au sein même des ministères, voire entre les catégories de fonctionnaires ?
+
+Au sein même des ministères, l'attribution du retour catégoriel apparaît parfois peu en rapport avec les efforts consentis par les différents services. Par exemple, pour le ministère de l'Intérieur, les réductions d'effectifs n'ont pas touché de la même façon la police et les préfectures, lesquelles ont subi de plein fouet les conséquences de la RéATE. Or l'enveloppe destinée au retour catégoriel semble bien avoir essentiellement bénéficié aux services de police. Se dégage l'impression que la distribution du retour catégoriel a été parfois arbitraire, et _in fine_ déconnectée des mesures de la RGPP ; elle n'a pas été utilisée selon les principes qui la fondaient, à savoir la redistribution des gains de productivité résultant de la baisse des effectifs, et l'accompagnement des réformes.
+
+La DGAFP n'avait aucune vision d'ensemble des mesures catégorielles, et se voyait parfois informée au dernier moment de certaines décisions lourdes de conséquences pour les finances publiques. Sans doute la répartition des enveloppes catégorielles entre ministères et au sein de ces derniers aurait-elle dû faire l'objet d'une coordination interministérielle, pour éviter de telles disparités et l'apparition d'une forme de clientélisme au sein de certains ministères. 
+
+Il serait également intéressant d'étudier plus avant l'impact de la RGPP sur les différentes catégories de fonctionnaires, ainsi que sur les différents corps. La Rapporteure spéciale a posé plusieurs questions en ce sens à la deuxième sous-direction de la direction du budget, dès le début du mois de septembre ; ce n'est que deux mois plus tard, soit le vendredi 2 novembre, qu'elle a obtenu des éléments, au demeurant incomplets. Certaines réponses sont sans doute complexes à élaborer, du fait de la difficulté à agréger des données parfois peu homogènes selon les ministères. Néanmoins, il n'a pas été possible d'obtenir la moindre information sur l'évolution de la masse salariale et des effectifs pour les trente principaux corps de la fonction publique d'État pour la période 2007-2012. Si des chiffres ont été fournis pour les suppressions d'emplois par catégorie (A +, A, B et C) au sein du ministère de l'économie et des finances, ils n'étaient pas rapportés aux effectifs totaux par catégorie, ainsi que cela était demandé par la Rapporteure spéciale, ce qui limite fortement leur exploitation : on ne peut donc pas en déduire, en l'état, la contribution de chaque catégorie aux suppressions d'effectifs, au regard de leur poids respectif.
+
+**La Rapporteure spéciale ne peut que déplorer le délai conséquent observé pour obtenir des réponses à ses questions. Par ailleurs, l 'examen des informations transmises la laisse quelque peu dubitative sur les capacités d'évaluation de la direction du budget.**
+
+Sur la base des auditions de la Rapporteure spéciale et de données partielles, il semble toutefois que la RGPP s'est traduite par une diminution des effectifs de catégorie C bien plus forte que celle affectant les effectifs de catégorie A. On peut par exemple observer qu'en 2009, au sein du ministère de l'économie et des finances, seuls les effectifs de catégorie C ont enregistré une diminution (- 3 460), tandis que toutes les autres catégories voyaient leurs effectifs croître (+ 1 197 pour les catégories A +, A et B).
+
+La mise en oeuvre de la règle du « un sur deux » paraît avoir conduit les ministères, libres de leur recrutement dans le cadre de leur plafond d'emplois, à augmenter le niveau relatif de qualification de leurs agents.
+
+3.- Un accompagnement insuffisant en matière de gestion des ressources humaines 
+
+Les ressources humaines devaient constituer, dès l'origine, un des piliers de la RGPP, en tant qu'objet même de modernisation, mais aussi comme levier de réalisation des réformes. 
+
+Parmi les outils retenus, figurait la fameuse « boîte à outils RH » mise à disposition des ministères par la DGAFP afin d'accompagner les réformes ; il s'agissait notamment de mesures visant à faciliter la mobilité des agents publics ou d'outils visant à faire évoluer les pratiques de gestion des ressources humaines. Néanmoins, comme le souligne le rapport de l'IGF, l'IGA et l'IGAS, cette « boîte à outils RH » n'a pas été dotée de moyens suffisants : pour des raisons budgétaires, les opérations réalisées dans le cadre de la Réate, par exemple, n'ont pas ouvert droit à la prime de restructuration des services. Dans les ministères les moins bien dotés, utiliser cette prime serait revenu à assécher quasi totalement l'enveloppe prévue pour le retour catégoriel. D'autres inégalités de traitement, dans la mise en oeuvre du dispositif d'aide à la mobilité, ont été relevées. 
+
+Dans l'ensemble, les enjeux de gestion de ressources humaines semblent avoir été négligés dans la conception des réformes, et ici encore, le pilotage interministériel est apparu insuffisant. En dépit des efforts réalisés, la DGAFP n'est pas devenue la véritable « direction de groupe » qui était visée. Elle a certes mis en oeuvre la politique de réduction du nombre de corps et a veillé à la cohérence des politiques ministérielles de gestion des ressources humaines, par exemple dans le cadre des conférences de gestion prévisionnelle des ressources humaines, organisées avec les différents ministères. Pour autant, la mise en oeuvre d'une véritable gestion prévisionnelle des effectifs, des emplois et des compétences (GPEEC) n'a jamais eu lieu.
+
+Enfin, parallèlement à la RGPP, la politique de « rémunération au mérite » a été généralisée, par l'instauration de la prime de fonctions et de résultats (PFR) par décret du 22 décembre 2008. Cette prime avait vocation à se substituer aux dispositifs indemnitaires existants et de fait, sa mise en place a permis de simplifier des régimes en vigueur très complexes. Cette prime se décompose en deux parties : l'une tenant compte des responsabilités, du niveau d'expertise et des sujétions spéciales liées aux fonctions exercées par l'agent (partie F) et l'autre tenant compte des résultats de la procédure d'évaluation individuelle et de la manière de servir (partie R). La PFR a été progressivement déployée aux différents niveaux hiérarchiques, et concerne aujourd'hui la plupart des personnels de catégorie A et A+, ainsi que des agents administratifs de catégorie B.
+
+On peut s'interroger sur les modalités d'extension de la PFR, et notamment son application à des agents de catégorie B avant même que tous les agents de catégorie A ne soient concernés. La Rapporteure spéciale a souhaité connaître l'impact budgétaire de la mise en place de la PFR sur le montant total des primes, mais il lui a été répondu que « _l 'on ne dispose pas d'une estimation précise de l'impact budgétaire de la mise en place de la PFR, les données communiquées dans les RAP par les ministères n'étant pas toujours suffisamment détaillées_ ». 
+
+C.- VERS UNE NOUVELLE DÉMARCHE DE MODERNISATION DE L'ACTION PUBLIQUE
+
+Nul ne remet en cause la nécessité de moderniser les politiques publiques, et il ne faudrait pas que la RGPP conduise à disqualifier la notion même de réforme de l'État. En revanche, les méthodes doivent être profondément repensées, afin de tirer parti de l'expérience de la RGPP et de ne pas reproduire les mêmes erreurs. 
+
+Tel est l'objet du rapport de l'IGF, l'IGA et l'IGAS, qui, après avoir dressé un bilan de la RGPP, dessine les contours d'une nouvelle démarche ; ses grandes lignes ont été reprises dans le cadre du séminaire gouvernemental sur la rénovation de l'action publique du 1er octobre dernier. 
+
+Les propositions formulées par le rapport s'articulent autour de plusieurs axes : tout d'abord, l'élargissement du champ de la modernisation de l'action publique à l'ensemble de la sphère publique, alors que la RGPP se limitait au seul périmètre de l'État. Ensuite, le rapport insiste sur la nécessité de mobiliser les capacités de proposition des agents et de veiller à la qualité du dialogue social, afin d'éviter l'écueil d'une réforme « verticale », imposée d'en haut sans concertation, qui a caractérisé la RGPP. Il propose enfin un dispositif de pilotage reposant sur un comité interministériel présidé par le Premier ministre et sur un renforcement de la coordination interministérielle. 
+
+Le rapport insiste également sur la nécessité d'améliorer la gestion des ressources humaines, qui constitue en effet un chantier prioritaire dans la perspective de futures réformes, ainsi que sur la nécessité d'assurer l'équité entre les acteurs publics et la transparence du processus de réforme. Il souligne enfin qu'il importe d'inscrire dans la durée la rénovation de l'action publique, afin que la réforme de l'État ne fasse plus l'objet, pour des raisons d'affichage politique, de « démarches événements » successives, et qu'elle donne désormais lieu à une réflexion de moyen terme. 
+
+À l'issue du séminaire gouvernemental, ces orientations ont été largement reprises. En premier lieu, il a été décidé d'engager un travail d'évaluation des politiques publiques avec l'ensemble des acteurs publics concernés, et donc, au-delà de l'État, avec les collectivités locales, les organismes sociaux et les opérateurs. La nouvelle démarche consistera à programmer, sur la base d'une « cartographie » des politiques publiques, un examen d'ensemble des politiques en plusieurs vagues, puis à arrêter la méthode et le calendrier de travail qui sera conduit sous la responsabilité du ministre concerné. Parallèlement, l'organisation de l'administration territoriale de l'État a vocation à être stabilisée, afin d'identifier les pistes d'améliorations et de remédier aux dysfonctionnements, sans remettre en cause dans la précipitation l'organisation issue des dernières réformes. En deuxième lieu, les agents seront associés à la modernisation de l'action publique : à partir du mois de novembre et sur une période de trois mois, les ministres, les préfets et les chefs de services déconcentrés organiseront des réunions de concertation avec les agents sur le terrain, pour identifier des pistes opérationnelles d'amélioration des conditions de travail, de simplification des processus administratifs, et d'allègement des circuits d'instruction et de remontée des informations. Les propositions issues de ces travaux feront l'objet, lorsqu'elles ne pourront pas être mises en oeuvre directement au niveau local, d'un examen interministériel accéléré, pour permettre le cas échéant leur généralisation. La concertation et le dialogue social seront placés au coeur du processus de modernisation de l'action publique. Dans cette perspective, a d'ailleurs été confiée à Mme Yannick Moreau une mission sur la création d'une instance de dialogue, de réflexion prospective et d'expertise sur les politiques publiques.
+
+En troisième lieu, un nouveau mode de pilotage de la modernisation de l'action publique a été arrêté : le Premier ministre réunira chaque trimestre un comité interministériel de modernisation de l'action publique, réunissant l'ensemble des ministres, afin d'arrêter les orientations de la nouvelle politique de modernisation et d'en suivre la mise en oeuvre. La ministre en charge de la réforme de l'État en sera le rapporteur général. Ce comité sera réuni pour la première fois en décembre pour arrêter la feuille de route précise de chacun des ministres, la méthode, ainsi que le calendrier de la démarche d'analyse des politiques publiques. Le SGMAP, qui vient d'être mis en place, est placé auprès du Premier ministre et mis à disposition de la ministre de la réforme de l'État. Parallèlement, l'accent sera mis sur la rénovation de la gestion des ressources humaines, ainsi que sur l'écoute des besoins des citoyens et des usagers des services publics. 
+
+Enfin, la logique de modernisation et celle de redressement des finances publiques sont nettement dissociées : si les contraintes budgétaires ne peuvent être ignorées dans le contexte actuel, la réforme de l'action publique n'a pas pour première finalité de réduire les dépenses, et ne peut être pensée comme telle. 
+
+**La Rapporteure sociale ne peut que souscrire aux orientations définies par le Gouvernement. Elle insiste sur la nécessité d 'engager une véritable réflexion sur le contour des missions qui doivent relever de l'action publique, préalable indispensable à toute réforme. **
+
+**III.- LES MOYENS DÉVOLUS AUX PROGRAMMES _STRATÉGIE DE MODERNISATION DES FINANCES PUBLIQUES_ ET _CONDUITE ET PILOTAGE DES POLITIQUES ÉCONOMIQUE ET FINANCIÈRE_**
+
+Après les précédents développements sur les enjeux de la modernisation des politiques publiques, relevant essentiellement du programme 221, il convient d'examiner les crédits qui sont alloués à ce dernier, ainsi qu'au programme 218 Conduite et pilotage des politiques économique et financière. Les deux programmes sont désormais placés sous la responsabilité du secrétaire général des ministères économique et financier, puisque depuis ce projet de loi de finances, le directeur général de la modernisation de l'État n'est plus chargé du programme 221.
+
+A.- DES ÉVOLUTIONS DE CRÉDITS LARGEMENT LIÉES AU DÉROULEMENT DES GRANDS PROGRAMMES INFORMATIQUES POUR LE PROGRAMME 221
+
+Les moyens alloués au programme 221 en crédits de paiement (CP) connaissent une nette diminution par rapport à 2012, de l'ordre de 7,5 %, pour s'établir à 257,9 millions d'euros. En revanche, les autorisations d'engagement (AE) du programme augmentent de 4,9 %, pour atteindre 255,7 millions d'euros. 
+
+La baisse d'ensemble des crédits de paiement résulte de la diminution des crédits sur la plupart des actions, et notamment sur l'action 5 _Information financière de l 'État_, correspondant à Chorus ; seule l'action 6 _Systèmes d 'information et production de la paye_, qui porte le projet informatique _SI Paye_ , voit ses moyens s'accroître, de près de 8,9 %. Quant aux autorisations d'engagement, la forte augmentation des moyens alloués aux deux actions relatives aux projets informatiques vient plus que compenser les diminutions observées sur quasiment toutes les autres actions. 
+
+Au total, le plafond d'emplois du programme diminue de 5 ETPT, passant de 1 155 en 2012 à 1 150 en 2013 ; cette baisse recouvre des évolutions contrastées selon les actions. 
+
+Le tableau ci-après récapitule l'évolution des crédits du programme par action entre 2012 et 2013\. Il illustre le poids des deux actions correspondant aux projets Chorus et _SI Paye_ , qui représentent près de 50 % des crédits de paiement, suivies de l'action _Modernisation de l 'État_, qui supporte la DGME (18 % du total).
+
+**ÉVOLUTION DES CRÉDITS DU PROGRAMME STRATÉGIE DES FINANCES PUBLIQUES ET MODERNISATION DE L 'ÉTAT**
+
+|  |  |  |  |  |   
+---|---|---|---|---|---|---  
+| **AE** | **CP**  
+**LFI 2012** | **PLF 2013** | **Évolution 20103/2012 (en  %)** | **LFI 2012** | **PLF 2013** | **Évolution 2013/2012 (en  %)**  
+2 Politique des finances publiques et analyse de la performance des politiques publiques | 37 311 587 | 36 951 074 | - 0,97 | 37 561 587 | 36 951 074 | - 1,63  
+4 Modernisation de l'État | 50 984 530 | 47 643 456 | - 6,55 | 51 484 530 | 47 643 456 | - 7,46  
+5 Information financière de l'État | 79 837 245 | 85 279 152 | 6,82 | 102 596 911 | 81 568 801 | - 20,50  
+6 Systèmes d'information et production de la paye | 51 770 723 | 63 074 908 | 21,84 | 62 754 814 | 68 314 671 | 8,86  
+7 Politique de la fonction publique et modernisation de la gestion des ressources humaines | 12 911 037 | 12 917 193 | 0,05 | 12 911 037 | 12 917 193 | 0,05  
+8 Régulation des jeux en ligne | 10 857 313 | 9 805 293 | - 9,69 | 11 415 933 | 10 505 293 | - 7,98  
+**Total** | **243  672 435** | **255  671 076** | **4,92** | **278  724 812** | **257  900 488** | - **7,47**  
+  
+_Source  : projet annuel de performances pour 2013_
+
+L'action 2 _Politique des finances publiques et analyse de la performance des politiques publiques_ voit ses crédits diminuer de 1,6 %, pour atteindre 36,95 millions d'euros en autorisations d'engagement comme en crédits de paiement. Pour l'essentiel, il s'agit des dépenses de personnel de la direction du budget, qui représentent 34,9 millions d'euros et correspondent aux 395 ETPT qui y sont affectés (contre 400 ETPT en 2012).
+
+L'action 4 _Modernisation de l 'État_, qui recouvre les effectifs et les dépenses de la DGME, enregistre une forte diminution de ses moyens, de l'ordre de 6,5% en autorisations d'engagement et de 7,85 % en crédits de paiement, pour s'établir à 47,6 millions d'euros (en autorisations d'engagement comme en crédits de paiement) ; cette évolution s'inscrit dans la baisse des moyens constatée depuis 2011. L'effectif prévu pour la DGME est en diminution de 3 ETPT en 2013, pour s'élever à 137 ETPT. Par ailleurs, les dépenses de fonctionnement atteignent 32,1 millions d'euros en autorisations d'engagement et 32,2 millions d'euros en crédits de paiement, soit une baisse de respectivement 4,5 % et 5,4 %. 
+
+L'action 5 _Information financière de l 'État_ connaît, dans le présent projet, une évolution contrastée, avec une nette hausse des autorisations d'engagement , à hauteur de 6,8 %, et la chute de ses crédits de paiement de 20,5 %. L'essentiel de ses crédits concerne le budget de fonctionnement et d'investissement géré par l'AIFE. Leur évolution résulte de l'achèvement de l'essentiel du programme, mais aussi de la nécessité d'assurer la maintenance de l'outil et de mettre en oeuvre des projets associés, de plus petite taille et s'étalant sur des durées limitées, pour améliorer ses fonctionnalités. L'action supporte les 194 ETPT affectés à l'Agence pour l'informatique financière de l'État (AIFE) et au Conseil de normalisation des comptes publics, soit une baisse de 11 ETPT par rapport à 2012 ; les dépenses de personnel sont elles aussi en diminution.
+
+L'action 6 _Systèmes d 'information et de production de la paye_ bénéficie d'une forte augmentation de ses autorisations d'engagement comme de ses crédits de paiement, de respectivement 21,8 % et 8,9 %, pour atteindre 63,1 et 68,3 millions d'euros. Cette action retrace le financement du projet informatique _SI Paye_ , qui est en phase ascendante ; c'est ce qui explique l'évolution de ses crédits, de même que la hausse de ses effectifs. Ces derniers passent en effet de 190 à 206 ETPT.
+
+L'évolution des autorisations d'engagement et crédits de paiement est relativement heurtée au fil des dernières années pour les actions 5 et 6 ; en effet, il n'est pas aisé de prévoir le rythme de la dépense, notamment du fait des aléas de la conduite de programmes informatiques d'une telle ampleur - par exemple, pour faire face à la nécessité de passer une tranche ferme de contrat à tel moment. C'est d'ailleurs pour cette raison que le programme 221 bénéficie d'une dérogation à la règle de plafonnement à 3 % des reports de crédits de paiement d'une année sur l'autre, de même que le programme 156 (portant le projet informatique Copernic), par exemple. 
+
+Les moyens accordés à l'action _Politique de la fonction publique et modernisation de la gestion des ressources humaines_ sont stables (+ 0,05 %), à 12,92 millions d'euros. Cette action retrace les effectifs de la DGAFP, soit 154 ETPT (- 1 ETPT par rapport à 2012), tandis que ses dépenses hors titre 2 sont retracées dans le programme Fonction publique.
+
+Enfin, l'action _Régulation des jeux en ligne_ , qui, créée en 2010, correspond au financement de l'Autorité de régulation des jeux en ligne (ARJEL), voit ses autorisations d'engagement et crédits de paiement diminuer fortement, après la hausse constatée en 2012. Les autorisations d'engagement s'élèvent à 9,8 millions d'euros (- 9,7 %) et les crédits de paiement atteignent 10,5 millions d'euros (- 8 %). Les effectifs, qui ont régulièrement augmenté depuis sa création en 2010, pour atteindre 65 ETPT en 2012, sont réduits d'un ETPT. Les dépenses de fonctionnement de l'ARJEL sont en diminution, notamment du fait de la nette baisse des actions de communication institutionnelle et à destination des joueurs ; en revanche, les frais de fonctionnement de la structure, concernant essentiellement les coûts de maintenance et de loyer de son bâtiment, augmentent.
+
+B.- DES CRÉDITS EN HAUSSE DANS L'ENSEMBLE POUR LE PROGRAMME 218
+
+Le programme Conduite et pilotage des politiques économique et financière porte les crédits visant à coordonner l'ensemble des fonctions d'état-major et de pilotage des ministères économique et financier. Outre les cabinets des ministres et des secrétaires d'État, le programme regroupe une myriade de services : du secrétariat général, reconfiguré en mai 2010 et intégrant le service de la communication et les services de l'ex-direction des personnels et de l'adaptation de l'environnement professionnel (DPAEP), à la direction des affaires juridiques (DAJ), en passant par l'Inspection générale des finances (IGF) et Tracfin. 
+
+Il constitue un programme de soutien des ministères économique et financier, en supportant les ressources allouées aux politiques ministérielles d'action sociale, de santé et de sécurité au travail, ainsi que l'ensemble des moyens et des effectifs qui concourent au fonctionnement matériel des services centraux des deux ministères, à la gestion des personnels de l'administration centrale et à la formation des agents. 
+
+Les moyens alloués à ce programme sont quasiment stables en crédits de paiement (+ 0,3 %), pour atteindre 883,9 millions d'euros, tandis qu'ils augmentent en autorisations d'engagement de 3,1 %, pour s'établir à 893,9 millions d'euros. Le plafond d'emplois atteint 4 939 ETPT, en diminution de 87 ETPT par rapport à 2012. 
+
+**ÉVOLUTION DES CRÉDITS DU PROGRAMME _CONDUITE ET PILOTAGE DES POLITIQUES ÉCONOMIQUE ET FINANCIÈRE_**
+
+|  |  |  |  |  |   
+---|---|---|---|---|---|---  
+| **AE** | **CP**  
+**LFI 2012** | **PLF 2013** | **Évolution 20103/2012 (en  %)** | **LFI 2012** | **PLF 2013** | **Évolution 2013/2012 (en  %)**  
+1. État-major, médiation et politiques transversales | 357 875 168 | 346 887 570 | - 3,07 | 357 878 808 | 346 883 367 | - 3,07  
+2. Expertise, audit, évaluation et contrôle | 64 692 520 | 66 745 095 | 3,17 | 64 693 658 | 67 751 208 | 4,73  
+3. Promotion des politiques économique et financière | 15 812 424 | 15 609 875 | - 1,28 | 15 627 747 | 15 409 875 | - 1,39  
+4. Contribution au respect du droit et à la sécurité juridique | 21 488 276 | 20 887 424 | - 2,80 | 20 553 568 | 20 887 424 | 1,62  
+5. Prestations d'appui et support | 406 982 383 | 443 826 393 | 9,05 | 422 518 783 | 433 004 993 | 2,48  
+**Total** | **866  850 771** | **893  956 357** | **3,13** | **881  272 564** | **883  936 867** | **0,30**  
+  
+_Source  : projet annuel de performances pour 2013_
+
+Les deux principales actions du programme, _État-major, médiation et politiques transversales_ et _Prestations d 'appui et support_, représentent à elles seules près de 90 % des crédits du programme, et connaissent des évolutions contrastées. 
+
+La première enregistre une baisse de 3,1 % tant en autorisations d'engagement qu'en crédits de paiement pour s'établir à 346,9 millions d'euros. Elle correspond aux crédits inscrits, relevant du titre 3, pour les politiques d'action sociale et de sécurité au travail, ainsi qu'aux dépenses de titre 2 pour les personnels de nombreux services des deux ministères du pôle économique et financier (cabinets ministériels, secrétariat général des ministères, services du haut fonctionnaire de défense et de sécurité, médiateur des ministères, agence du patrimoine immatériel de l'État, service à compétence nationale Tracfin, service des achats de l'État…). Cette action regroupe ainsi 2 051 ETPT, soit 34 de moins qu'en 2012, et ses dépenses de titre 2 diminuent de 5,6 % en 2013, pour atteindre 165,7 millions d'euros. Les crédits de fonctionnement sont également légèrement réduits. Les moyens alloués aux politiques d'action sociale (restauration, aides au logement, tourisme social, associations socio-culturelles, réservation de places en crèche…), représentent 159 millions d'euros en crédits de paiement, tandis que 20,4 millions d'euros sont prévus pour la politique en faveur de la santé et la sécurité au travail, de même qu'en 2012. 
+
+La seconde action _Prestations d 'appui et support_ connaît en revanche une nette hausse de ses moyens en autorisations d'engagement (+ 9,1 %), pour atteindre 443,8 millions d'euros, et en crédits de paiement (+ 2,5 %), soit 433 millions d'euros. Toutefois, l'augmentation est constatée par rapport aux dispositions de la loi de finances initiale pour 2012, et non par rapport à celles du projet de loi de finances ; or les crédits de cette action ont été substantiellement réduits durant leur examen au Parlement par voie d'amendement gouvernemental, de façon quasi forfaitaire.
+
+L'action Prestations d'appui et support regroupe 2 126 ETPT, pour des dépenses de personnel de 166,88 millions d'euros, en hausse de 1,4 % malgré la baisse de 85 ETPT. Hors titre 2, les principaux postes de dépenses sont le fonctionnement immobilier des services centraux (respectivement 177,3 et 171,3 millions d'euros en autorisations d'engagement et crédits de paiement), les dépenses de fonctionnement courant logistique - mobilier, gardiennage, nettoyage… - (soit 42,2 et 40,2 millions d'euros en autorisations d'engagement et crédits de paiement), les dépenses informatiques des services centraux (28,3 et 25,5 millions d'euros en autorisations d'engagement et crédits de paiement) et les dépenses de formation (3,6 et 3,4 millions d'euros en autorisations d'engagement et crédits de paiement), correspondant à la dotation gérée par l'Institut de la gestion publique et du développement économique (IGPDE) pour la préparation aux concours et la formation continue. La hausse des autorisations d'engagement provient notamment du poste immobilier. Figure également sur cette action le financement interministériel des opérations d'interceptions légales de sécurité, lesquelles bénéficient essentiellement aux ministères de la Justice et de l'Intérieur. On peut d'ailleurs s'interroger sur la pertinence du rattachement au présent programme de ces crédits, dont le lien avec le pilotage des politiques économique et financière est pour le moins ténu. 
+
+Représentant 7,5 % des crédits du programme, l'action _Expertise, audit, évaluation et contrôle_ regroupe les services d'inspection et de contrôle des ministères (Inspection générale des finances et Contrôle général économique et financier). Elle est dotée de 66,7 millions d'euros en autorisations d'engagement et 67,7 millions d'euros en crédits de paiement, correspondant pour l'essentiel à des dépenses de titre 2. Elle rassemble 465 ETPT. Une hausse est observée en autorisations d'engagement (3,2 %) comme en crédits de paiement (4,7 %) par rapport à l'année précédente, mais elle résulte d'une imprécision dans la définition des effectifs dans la précédente loi de finances.
+
+Enfin, le programme comporte deux actions d'un montant plus réduit, de l'ordre de 2 % des crédits chacune. Les autorisations d'engagement inscrites sur l'action _Promotion des politiques économique et financière_ s'établissent à 15,6 millions d'euros en 2013, et les crédits de paiement à 15,4 millions d'euros, en baisse respective de 1,3 % et 1,4 %. Les crédits destinés à cette action ont connu une forte diminution depuis 2009, parallèlement à la réforme d'ampleur engagée au sein du SIRCOM, service de la communication du secrétariat général, portant aussi bien sur ses missions que sur son organisation. Le plafond d'emplois, qui a diminué de près de 50 % en cinq ans, s'établit désormais à 109 ETPT, soit deux de moins que l'année passée. Les dépenses de fonctionnement du SIRCOM sont stables par rapport à l'année 2012, à 6,5 millions d'euros en autorisations d'engagement et 6,3 millions d'euros en crédits de paiement. Ils se répartissent entre 0,8 million d'euros pour les grandes campagnes de communication, le cas échéant en partenariat avec d'autres acteurs (service d'information du Gouvernement, autres ministères…) et 5,5 millions d'euros pour les actions récurrentes de communication (production de supports de communication, services de presse, études, actions événementielles…).
+
+L'action 4 _Contribution au respect du droit et à la sécurité judiciaire_ , correspondant aux moyens alloués à la direction des affaires juridique (DAJ) des ministères économique et financier, dispose d'une dotation de 20,9 millions d'euros en autorisations d'engagement comme en crédits de paiement, en baisse de 2,8 % pour les premières et en hausse de 1,6 % pour les seconds. Les crédits de masse salariale sont en légère diminution, parallèlement à une diminution de 4 ETPT, pour atteindre 188 ETPT. Les crédits hors titre 2 inscrits sur l'action 4 couvrent trois types de dépenses : les frais de justice et réparations civiles afférents aux contentieux dont la DAJ assure le suivi ; les dépenses d'avocats recrutés pour la protection des fonctionnaires ; la prise en charge des condamnations administratives des ministères économique et financier. Ces dernières, dont le montant est difficile à évaluer _ex ante_ , connaissent une forte hausse depuis 2011 dans le cadre du contentieux de masse relatif au blocage de carrière des personnels reclassés de La Poste et France Télécom. Au total, les crédits hors titre 2 sont en hausse pour faire face au dynamisme de ces dépenses, pour s'établir à 5,5 millions d'euros en autorisations d'engagement et en crédits de paiement.
+
+*
+
+* *
+
+**EXAMEN EN COMMISSION**
+
+_Après l 'audition de M. Pierre Moscovici, ministre de l'Économie et des Finances, et de Mme Marylise Lebranchu, ministre de la Réforme de l'État, de la Décentralisation et de la Fonction publique, lors de la commission élargie du 25 octobre 2012 à 9 heures 30 _(12)_sur les missions_ Gestion des finances publiques et des ressources humaines, Provisions,**** Régimes sociaux et de retraite _, et sur les comptes spéciaux_ Gestion du patrimoine immobilier de l'État _et_ Pensions _, la commission des Finances examine les crédits de ces missions et comptes spéciaux._
+
+_Conformément à l 'avis favorable de Mme Karine Berger, MM. Jean-Louis Gagnaire et Jean-Louis Dumont, et en dépit de l'avis défavorable de M. Camille de Rocca Serra, Rapporteurs spéciaux, la Commission **adopte** les crédits de la mission _**Gestion des finances publiques et des ressources humaines**.
+
+*
+
+* *
+
+**ANNEXE :  
+LISTE DES AUDITIONS RÉALISÉES PAR LA RAPPORTEURE SPÉCIALE**
+
+- le 5 septembre 2012 : Mme Anne Duclos-Grisier, chargée de la deuxième sous-direction de la direction du Budget ;
+
+- le 6 septembre 2012 : M. Jean-François Verdier, directeur général de l'administration et de la fonction publique ;
+
+- le 14 septembre 2012 : M. François-Daniel Migeon, directeur général de la modernisation de l'État ;
+
+- le 14 septembre 2012 : Mme Mélanie Joder, chargée de la première sous-direction de la direction du Budget ;
+
+- le 20 septembre 2012 : Mme Sophie Mahieux, directrice de l'Opérateur national de paye, et Mme Régine Diyani, directrice de l'Agence pour l'informatique financière de l'État ;
+
+- le 24 octobre 2012 : M. Dominique Lamiot, secrétaire général des ministères économique et financier. 
+
+© Assemblée nationale 
+
+1 _() Les 27 équipes d 'audit étaient composées de consultants et de membres des corps d'inspection ministériels ou interministériels. La répartition entre consultants et inspecteurs d'administration au sein des équipes n'est pas connue avec précision ; toutefois, les corps d'inspection se trouvaient majoritaires et conduisaient les équipes._
+
+2 _() Rapport sur le bilan de la RGPP et les conditions de réussite d 'une nouvelle politique de réforme de l'État, remis au Premier ministre le 25 septembre 2012. _
+
+3 _() Les ministères et institutions concernés sont le ministère de la culture, le ministère des affaires sociales et de la santé, le ministère des sports et de la jeunesse, le ministère du travail, le Conseil d 'Etat, la Cour des comptes, les services du Premier ministre et les autorités administratives indépendantes qui lui sont rattachées._
+
+4 _() Le ministère de l 'Écologie, du développement durable et de l'énergie, ainsi que le ministère de l'Éducation nationale (pour une petite partie de ses effectifs)._
+
+5 _() Ce montant inclut la tranche ferme forfaitaire, l 'affermissement de l'ensemble des tranches conditionnelles et les coûts relatifs aux prestations de maintenance évolutive sur la durée du marché._
+
+6 _() Par exemple, le prolongement du fonctionnement de Palier LOLF pendant deux ans supplémentaires, ou des coûts d 'adaptation des applications Accord 1 et Accord 1 bis qui ont été utiles à la conception de Chorus._
+
+7 _() Telle était la présentation faite par M. Eric Woerth, ministre du budget, des comptes publics et de la fonction publique, dans un discours du 10 juillet 2007._
+
+8 _() Est également évoqué le recentrage de l 'action de la protection judiciaire de la jeunesse sur la prise en charge des mineurs délinquants ; néanmoins, ce recentrage s'est simplement traduit par un transfert de la mission vers les conseils généraux, principalement compétents en matière d'aide sociale à l'enfance. _
+
+9 _() Rapport d 'information du Sénat, au nom de la mission commune d'information sur les conséquences de la révision générale des politiques publiques pour les collectivités territoriales et les services publics locaux, de M. Dominique de Legge, 22 juin 2011._
+
+10 _() Rapport d 'information n° 4019, « Une évaluation de la RGPP : méthode, contenus, impacts financiers », de MM. François Cornut-Gentille et Christian Eckert, 1er décembre 2011. _
+
+11 _() Rapport n°  35 sur le projet de loi de règlement des comptes et rapport de gestion pour l'année 2011 de M. Christian Eckert, déposé le 5 juillet 2012. _
+
+12 _() Le compte rendu de la commission élargie est disponible sur le site internet de l 'Assemblée nationale à l'adresse : http://www.assemblee-nationale.fr/14/budget/plf2013/commissions_elargies/cr/C006.asp_

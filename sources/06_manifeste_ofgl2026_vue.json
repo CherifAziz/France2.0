@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/OFGL/pre%20rapport%202026/1-%20Vue%20d%27ensemble.pdf",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:37:10.864821+00:00",
+  "http_status": 200,
+  "final_url": "https://www.collectivites-locales.gouv.fr/files/files/Etudes-et-statistiques/OFGL/pre%20rapport%202026/1-%20Vue%20d%27ensemble.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 06 Jul 2026 10:17:09 GMT",
+  "etag": "\"1cd212-655ee93c3e443\"",
+  "encoding": null,
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\cache\\06\\ofgl2026_vue.pdf",
+  "bytes": 1888786,
+  "sha256": "fd5fc0bee94cb59ba2db2166d0e4799ca73eb5ab0e0b942d516e778fdafb3dea",
+  "acces": "integral",
+  "pages": 16,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

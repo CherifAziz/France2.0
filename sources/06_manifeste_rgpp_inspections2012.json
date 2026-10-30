@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.vie-publique.fr/files/rapport/pdf/124000520.pdf",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:20:42.256683+00:00",
+  "http_status": 200,
+  "final_url": "https://www.vie-publique.fr/files/rapport/pdf/124000520.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Tue, 07 Feb 2023 21:38:57 GMT",
+  "etag": "\"42ab35-5f422f9965e40\"",
+  "encoding": null,
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\cache\\06\\rgpp_inspections2012.pdf",
+  "bytes": 4369205,
+  "sha256": "11d8795aaf1967e523792fd43f678c67c3d6a4a738b88a947517b5c976c30b0e",
+  "acces": "integral",
+  "pages": 367,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

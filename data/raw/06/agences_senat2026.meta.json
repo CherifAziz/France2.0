@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.senat.fr/compte-rendu-commissions/20260921/cs_agencification.html",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:37:02.523069+00:00",
+  "http_status": 200,
+  "final_url": "https://www.senat.fr/compte-rendu-commissions/20260921/cs_agencification.html",
+  "content_type": "text/html",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "ISO-8859-1",
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\raw\\06\\agences_senat2026.html",
+  "bytes": 679171,
+  "sha256": "06def8c16255ac05acbfbe43e126fdfa815c9296ef8b37920e6c6c22189b4add",
+  "acces": "integral",
+  "conversion": "html2text"
+}

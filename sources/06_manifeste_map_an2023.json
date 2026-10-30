@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.assemblee-nationale.fr/dyn/opendata/RINFANR5L16B1329.html",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:37:04.265246+00:00",
+  "http_status": 200,
+  "final_url": "https://www.assemblee-nationale.fr/dyn/opendata/RINFANR5L16B1329.html",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": "Wed, 21 Jun 2023 08:38:34 GMT",
+  "etag": null,
+  "encoding": "UTF-8",
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\raw\\06\\map_an2023.html",
+  "bytes": 1597202,
+  "sha256": "361c136ee34de20a6b7ffd2ab5f83be187bd3fb928f6af24488647d30f0cbce7",
+  "acces": "integral",
+  "conversion": "html2text"
+}

@@ -1,0 +1,17 @@
+{
+  "source_url": "https://presse.economie.gouv.fr/download?n=1900%20-%20Rapport%20de%20Boris%20Ravignon%20sur%20le%20co%C3%BBt%20du%20millefeuille%20administratif-pdf&id=132915",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T01:28:51.077508+00:00",
+  "http_status": 200,
+  "final_url": "https://presse.economie.gouv.fr/download/?n=1900%20-%20Rapport%20de%20Boris%20Ravignon%20sur%20le%20co%C3%BBt%20du%20millefeuille%20administratif-pdf&id=132915",
+  "content_type": "application/octet-stream",
+  "last_modified": null,
+  "etag": null,
+  "encoding": null,
+  "raw_path": "data\\cache\\04d\\ravignon_rapport2024.pdf",
+  "bytes": 3052968,
+  "sha256": "c3217309a77bfd8b805b6cb4fec62517f101c306c87ba90d22d64bc56812dfd6",
+  "acces": "integral",
+  "pages": 240,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

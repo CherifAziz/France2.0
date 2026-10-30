@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.collectivites-locales.gouv.fr/etudes-et-statistiques/rapports-de-lobservatoire-des-finances-et-de-la-gestion-publique-locales-ofgl",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:37:10.126316+00:00",
+  "http_status": 200,
+  "final_url": "https://www.collectivites-locales.gouv.fr/etudes-et-statistiques/rapports-de-lobservatoire-des-finances-et-de-la-gestion-publique-locales-ofgl",
+  "content_type": "text/html; charset=utf-8",
+  "last_modified": "Tue, 27 Oct 2026 09:49:58 GMT",
+  "etag": "\"1793094598\"",
+  "encoding": "utf-8",
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\raw\\06\\ofgl2026_index.html",
+  "bytes": 74989,
+  "sha256": "44ac248a7243f839918bf672c92f10e55f3142e53ba10a04dc28912456c48824",
+  "acces": "integral",
+  "conversion": "html2text"
+}

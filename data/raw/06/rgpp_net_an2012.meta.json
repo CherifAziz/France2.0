@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.assemblee-nationale.fr/14/budget/plf2013/b0251-tIII-a28.asp",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:51:59.675161+00:00",
+  "http_status": 200,
+  "final_url": "https://www.assemblee-nationale.fr/14/budget/plf2013/b0251-tIII-a28.asp",
+  "content_type": "text/html",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "ISO-8859-1",
+  "raw_path": "data\\raw\\06\\rgpp_net_an2012.html",
+  "bytes": 220363,
+  "sha256": "508ca1a1c84d157be03c2a9068b9b84a441d54fcb581a659faa9cbff82da5a8c",
+  "acces": "integral",
+  "conversion": "html2text"
+}

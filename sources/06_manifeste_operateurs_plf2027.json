@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.budget.gouv.fr/documentation/file-download/34432",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:20:42.245642+00:00",
+  "http_status": 200,
+  "final_url": "https://www.budget.gouv.fr/documentation/file-download/34432",
+  "content_type": "application/pdf",
+  "last_modified": "Mon, 12 Oct 2026 14:52:35 GMT",
+  "etag": null,
+  "encoding": null,
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\cache\\06\\operateurs_plf2027.pdf",
+  "bytes": 11940762,
+  "sha256": "474aee86b0a60d931651883e02a0b69ed4d0c3c8de4c68ca01b8fddd6ed793d3",
+  "acces": "integral",
+  "pages": 665,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

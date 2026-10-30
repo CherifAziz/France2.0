@@ -1,0 +1,7 @@
+{
+  "source_url": "https://www.ccomptes.fr/fr/publications/les-finances-publiques-locales-resultats-2025-et-perspectives-2026",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:29.330251+00:00",
+  "acces": "inaccessible",
+  "erreur": "ConnectTimeout: HTTPSConnectionPool(host='www.ccomptes.fr', port=443): Max retries exceeded with url: /fr/publications/les-finances-publiques-locales-resultats-2025-et-perspectives-2026 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ccomptes.fr', port=443) at 0x2776844ce00>, 'Connection to www.ccomptes.fr timed out. (connect timeout=40)'))"
+}

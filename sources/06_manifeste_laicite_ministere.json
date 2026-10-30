@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.laicite.gouv.fr/nous-connaitre",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:39:58.363098+00:00",
+  "http_status": 403,
+  "final_url": "https://www.laicite.gouv.fr/nous-connaitre",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "UTF-8",
+  "raw_path": "data\\raw\\06\\laicite_ministere.html",
+  "bytes": 5526,
+  "sha256": "a9ad91bb543c954b56d6291ce0cc02d352037b452b92e23af0d6c6a991e3a3e2",
+  "acces": "inaccessible",
+  "conversion": "html2text"
+}

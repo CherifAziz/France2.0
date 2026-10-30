@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "etat_territorial2022",
+    "source_url": "https://www.ccomptes.fr/sites/default/files/2023-10/20220531-S2022-0494-Effectifs-Etat-territorial.pdf",
+    "date_lecture": "2026-10-28",
+    "ouverture_reussie": "turn104view1",
+    "source_localisation": "PDF p. 3-6",
+    "statut": "FAIT",
+    "archive": "Original non téléchargé ; timeout terminal documenté dans manifeste",
+    "restitution": "La synthèse décrit un recul de plus de 11000 ETPT ; sa note 1 indique 11763 ETPT entre 2012 et 2020. Elle signale transferts de missions, recours aux contrats courts et absence d'allocation suffisamment fondée sur les besoins. Les extrêmes du texte de p. 6 et de son tableau ne sont pas raccordés ; ils ne sont pas reconstruits ici."
+  },
+  {
+    "source_id": "gains_numeriques2025",
+    "source_url": "https://www.ccomptes.fr/sites/default/files/2025-01/20250121-S2024-1570_Mieux-suivre-et-valoriser-les-gains-de-productivite-de-lEtat-issus-du-num--rique_0.pdf",
+    "date_lecture": "2026-10-28",
+    "ouverture_reussie": "turn104view0 et turn109view0",
+    "source_localisation": "PDF p. 46-49 ; imprimées 42-45 ; tableau 4",
+    "statut": "FAIT",
+    "archive": "Original non téléchargé ; timeout terminal documenté dans manifeste",
+    "restitution": "Tableau 4 : emplois par catégories 126586 en 2008 et 92348 en 2022. Cas SPF :3382→3164 ETP fin 2021/fin 2023 ; délai 134→24,6 jours fin 2021/juin 2024, publications 4,88→3,87 millions en 2021/2023. ANF prévoyait 470 emplois bruts dont 103 redéployés ; Mareva déclare 94 ETP fin 2023 sans traçabilité de gestion. Le timbre électronique : coût 2,65 M€, retour en deux ans. L'assistant relance succession n'a pas réduit les effectifs. La Cour ne permet pas d'isoler l'effet causal du seul numérique."
+  },
+  {
+    "source_id": "laicite_gouvernement2021",
+    "source_url": "https://www.info.gouv.fr/communique/12316-creation-du-comite-interministeriel-de-la-laicite",
+    "date_lecture": "2026-10-28",
+    "ouverture_reussie": "turn108view1",
+    "source_localisation": "Communiqué central, paragraphes 3-6 ; publié 04/06/2021, modifié 10/05/2022",
+    "statut": "FAIT",
+    "archive": "Terminal 403 ; cette restitution n'est pas leHTML original",
+    "restitution": "Matignon indique que le mandat de l'Observatoire est échu début avril 2021, annonce le comité interministériel et la reprise des missions relatives aux administrations, avec secrétariat au ministère de l'intérieur."
+  },
+  {
+    "source_id": "laicite_ministere",
+    "source_url": "https://www.laicite.gouv.fr/nous-connaitre",
+    "date_lecture": "2026-10-28",
+    "ouverture_reussie": "turn108view2",
+    "source_localisation": "Section Le Comité interministériel de la laïcité",
+    "statut": "FAIT",
+    "archive": "Terminal 403 ; cette restitution n'est pas leHTML original",
+    "restitution": "Le ministère confirme la création par décret 2021-716 du 4 juin 2021 et la première réunion du 15 juillet 2021. Le décret lui-même n'a pas été ouvert ; son article 4 demeure un EXTRAIT de recherche."
+  }
+]
