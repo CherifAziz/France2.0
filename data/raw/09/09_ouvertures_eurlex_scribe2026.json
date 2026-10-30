@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "eur-lex.europa.eu (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02024R1689-20260727)\n【turn246615view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02024R1689-20260727\",\"lineno\":null}); Redirected to URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20260727; Total lines: 3\nL0: # JavaScript is disabled\nL1: \nL2: In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then reload the page.\n\n--------------------------------------------------------------------------------\nChecking your browser - reCAPTCHA (https://pmc.ncbi.nlm.nih.gov/articles/PMC12768499/)\n【turn246615view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://pmc.ncbi.nlm.nih.gov/articles/PMC12768499/\",\"lineno\":null}); Total lines: 3\nL0: Checking your browser before accessing pmc.ncbi.nlm.nih.gov ...\nL1: \nL2: Click 【0†here】 if you are not automatically redirected after 5 seconds.\n"
+    }
+  ],
+  "isError": false
+}

@@ -1,0 +1,9 @@
+{
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41497288%20AND%20SRC:MED&format=json&resultType=core",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:34:57.582677+00:00",
+  "http_status": 200,
+  "sha256": "f52a8fa5d7548e8f04794885017175d24f609313eaf628c0ecfe68aae6015874",
+  "bytes": 10560,
+  "acces": "integral"
+}
