@@ -55,11 +55,19 @@ Les six chantiers de recherche 05–10 sont documentés, contre-vérifiés et as
 - **Contre-vérification** : **98 contrôles indépendants** (05 : 20 ; 06–07 : 20 ; 08–09 : 38 ; 10 : 20). Aucun chiffre contredit par sa source ; trois corrections de forme reportées en 08/09 ; une anomalie de signe dans le jaune opérateurs documentée ; trois limites d'accès (CNEN, texte opposable AI Act, livre). 78 corps HTTP du cache rapprochés de leur empreinte via `sources/lot3_manifestes_cache.json`.
 - **Livrable** : `livrables/dossier_recherche_lot3.html`, synthèse transversale `00_synthese_lot3.md`, six notes, contre-vérification et 92 fichiers liés. Rendu bureau/mobile, 110 liens locaux, ancres et figure vérifiés ; preuve dans `livrables/dossier_recherche_lot3.controle.json`. Les dossiers des lots 1 et 2 sont inchangés ; celui du lot 2 se reconstruit octet pour octet.
 
+## Catalogue des réformes (phase 3, 30 octobre 2026)
+
+- **30 fiches A–M** avec indicateur de validation, dans `recherche/fiches/`, et note de synthèse `recherche/11_catalogue_reformes.md`. Chaque fait cité provient d'une note contre-vérifiée ; un contrôle automatique retrouve tous les nombres des rubriques A–C dans les notes ou les données du lot 1. Chaque taux de réduction est une hypothèse rattachée à un précédent observé.
+- **Registre de 8 viviers disjoints** (`data/reformes/registre_viviers.csv`) : DGFiP, autres administratifs et techniques de l'État, administration scolaire, filières administratives FPT et FPH, organismes de protection sociale, France Travail, et un vivier de dépenses sans effectif. Total : 1 151 911 ETP administratifs. Départs mobilisables : retraites des fonctionnaires civils par versant (2,6 à 3,3 %/an).
+- **Hypothèses nationales** (`modele/hypotheses.json`) : coûts d'entrée et moyens hors pension tirés des PAP 156/218 et pondérés A/B/C ; proxys documentés pour la FPT, la FPH et le hors-FP ; GVT 1 %, conservation APU 0,65, convention de mi-année.
+- **Moteur** : ajout d'une option de coût récurrent proportionnel à la réduction réalisée (rétrocession de type RGPP), avec un test. Les 24 tests du moteur passent ; 4 des 5 tests d'archivage aussi. Le cinquième (`test_fetch`) échoue pour une raison d'environnement : `html2text` est dans `.cache/python_deps`, illisible depuis cette session.
+- **Résultats préliminaires** (avant sensibilités) : postes en moins en 2036 de **11 106 / 56 142 / 120 250 / 194 476** (prudent / intermédiaire / ambitieux / radical), économie nette 2036 de **0,6 / 2,5 / 5,3 / 8,4 Md€**. Aucun scénario n'approche 500 000 postes ; même 35 % de chaque vivier administratif ne donnerait que 403 169 postes. En radical, les départs à la retraite bloquent 22 000 ETP dans le vivier de l'État.
+
 ## Prochaine séquence
 
-Les recherches 05–10 sont terminées. Phase suivante : le catalogue de **25 fiches A–M**, à partir des pistes de 04a–04d et des règles établies en 05–10 (référence explicite, gain net, temps ≠ poste, coût d'entrée, non-cumul des annonces, pilotes à 24–36 mois).
+Phase 4 : test formel des seuils de 500 000, 800 000, 1 million et 1,5 million de postes ; classeur `modele/modele_financier.xlsx` modifiable ; sensibilités (coût par ETP, taux de départ, GVT, conversion du temps libéré par l'IA, conservation APU, investissements). Phase 5 : contre-expertise d'au moins 40 chiffres décisifs du catalogue et des scénarios.
 
-Compléter les variables encore manquantes du chantier03 (NACE/ISCO, heures, démographie, délégations, missions et résultats de service). Les PPA santé/éducation et plusieurs corrections public/privé sont maintenant documentées, mais ne constituent pas un ajustement complet aux besoins. Construire ensuite le registre disjoint des viviers/départs/coûts, les quatre scénarios et les sensibilités. Répéter une contre-vérification d'au moins40 chiffres décisifs lors de la phase5, cette fois sur les réformes et économies finales.
+Compléter les variables encore manquantes du chantier03 (NACE/ISCO, heures, démographie, délégations, missions et résultats de service). Les PPA santé/éducation et plusieurs corrections public/privé sont maintenant documentées, mais ne constituent pas un ajustement complet aux besoins.
 
 ## Sauvegarde
 

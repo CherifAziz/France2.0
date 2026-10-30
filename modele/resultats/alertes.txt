@@ -1,0 +1,2 @@
+[radical] R11 : 8,865.710 ETP de non-remplacement demandés mais non réalisés en 2036 (V_FPE_AUTRES, radical)
+[radical] R12 : 13,501.258 ETP de non-remplacement demandés mais non réalisés en 2036 (V_FPE_AUTRES, radical)

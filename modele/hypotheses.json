@@ -1,0 +1,46 @@
+{
+  "_lisez_moi": "Hypothèses nationales du moteur, établies le 30/10/2026 à partir des chantiers 01-01c. Chaque valeur est sourcée ou calculée ; la justification est dans recherche/11_catalogue_reformes.md, section 2. Euros 2026 constants.",
+  "annee_debut": 2027,
+  "annee_fin": 2036,
+  "fichiers": {
+    "viviers": "data/reformes/registre_viviers.csv",
+    "reformes": "data/reformes/catalogue_reformes.csv"
+  },
+  "couts_k_eur": {
+    "FPE": {
+      "cout_entree_hors_pension": 44.05,
+      "cout_moyen_hors_pension": 48.99,
+      "_source": "[ESTIMATION] Moyenne des coûts HCAS d'entrée et globaux des PAP 2026 des programmes 156 et 218 par catégorie A/B/C, pondérée par les corps administratifs et techniques de la FPE fin 2024 (A 79 668, B 157 099, C 142 142). data/france/01c_couts_documentes.csv, data/france/02_metiers.csv."
+    },
+    "FPE_DGFIP": {
+      "cout_entree_hors_pension": 40.55,
+      "cout_moyen_hors_pension": 45.41,
+      "_source": "[ESTIMATION] Coûts HCAS du seul PAP 2026 du programme 156 (DGFiP), même pondération A/B/C."
+    },
+    "FPT": {
+      "cout_entree_hors_pension": 33.67,
+      "cout_moyen_hors_pension": 37.45,
+      "_source": "[HYPOTHÈSE] Coûts FPE multipliés par le rapport des salaires bruts moyens par EQTP FPT/FPE 2024 (2 857,75 / 3 738,28 = 0,7645). Aucun coût d'entrée territorial publié n'a été trouvé."
+    },
+    "FPH": {
+      "cout_entree_hors_pension": 33.67,
+      "cout_moyen_hors_pension": 37.45,
+      "_source": "[HYPOTHÈSE] Même proxy que la FPT : le salaire moyen FPH inclut les médecins et surestimerait le coût des administratifs hospitaliers."
+    },
+    "HORS_FP": {
+      "cout_entree_hors_pension": 44.05,
+      "cout_moyen_hors_pension": 48.99,
+      "_source": "[HYPOTHÈSE] Organismes de protection sociale et France Travail, agents de droit privé : aucun coût d'entrée publié trouvé ; proxy FPE. Confiance faible."
+    }
+  },
+  "gvt_individuel_reel": 0.01,
+  "_gvt_source": "[HYPOTHÈSE] Taux individuel réel national NON TROUVÉ (01c). 1 %/an, plafonné au coût moyen ; sensibilité 0-2 % en phase 5.",
+  "taux_conservation_consolide": 0.65,
+  "_conservation_source": "[ESTIMATION] Part du coût hors pension conservée en lecture APU statique. Charges employeur hors pension : 13,7 à 17,6 % du coût d'entrée (PAP 156 : coût HCAS moins rémunération d'activité). Retenue pension 11,1 % (01c) et CSG-CRDS sur la rémunération reviennent aussi aux APU : environ 32 % au total, IR non chiffré. Retenu : 1 - 0,35.",
+  "facteur_transfert_cout": 1.0,
+  "_transfert_source": "[HYPOTHÈSE] Une activité transférée au privé coûte autant que sa production publique : l'essai Behaghel-Crépon-Gurgand (2014) ne montre pas de supériorité de l'offre privée (note 04a).",
+  "indemnite_depart_k_eur": 0,
+  "_indemnite_source": "Aucune réforme du catalogue ne recourt à la suppression indemnisée de postes de fonctionnaires ; valeur sans effet.",
+  "fraction_economie_premiere_annee": 0.5,
+  "_fraction_source": "Convention de mi-année, comme le calendrier illustratif de la note 10."
+}
