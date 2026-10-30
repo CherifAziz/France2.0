@@ -13,3 +13,18 @@ livrables/dossier_recherche_lot2.* -text whitespace=cr-at-eol
 recherche/04[a-d]_*.md text eol=lf
 recherche/04_synthese_fonctions.md text eol=lf
 recherche/00_verification*lot2.md text eol=lf
+# Lot 3 : mêmes garanties pour les évaluations et leurs données.
+data/reformes/0[5-9]_* -text whitespace=cr-at-eol
+data/reformes/10_* -text whitespace=cr-at-eol
+data/risques/*lot3* -text whitespace=cr-at-eol
+sources/0[5-9]_* -text whitespace=cr-at-eol
+sources/10_* -text whitespace=cr-at-eol
+sources/registre_0[5-9].csv -text whitespace=cr-at-eol
+sources/registre_10.csv -text whitespace=cr-at-eol
+sources/lot3_* -text whitespace=cr-at-eol
+figures/0[5-9]_* -text -whitespace
+figures/10_* -text -whitespace
+livrables/dossier_recherche_lot3.* -text whitespace=cr-at-eol
+recherche/0[5-9]_*.md text eol=lf
+recherche/10_*.md text eol=lf
+recherche/00_*lot3.md text eol=lf
