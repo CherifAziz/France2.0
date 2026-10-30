@@ -74,6 +74,8 @@ hors pension. C'est une convention, à remplacer par un coût des postes réelle
 visés si le catalogue le documente. Les indemnités sont un coût ponctuel :
 `ETP supprimés dans l'année × indemnité_k€ / 1 000`.
 
+Un coût récurrent suit par défaut le calendrier de déploiement. Avec `cout_recurrent_proportionnel = 1`, il suit la réduction effectivement réalisée, comme une rétrocession d'une part de l'économie aux agents restants : sans poste supprimé, pas de rétrocession.
+
 Un redéploiement conserve la paie publique : il n'apporte aucune économie salariale
 dans ce modèle. Une éventuelle embauche évitée ailleurs doit être démontrée et
 introduite séparément sans double comptage.

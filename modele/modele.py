@@ -131,6 +131,7 @@ def prepare(hyp, viviers, reformes, sc):
         plans[vid].append({
             "row": r, "rate": rate, "parts": parts, "start": start, "duration": duration,
             "order": number(r, "ordre", minimum=0), "money": money,
+            "recurrent_proportional": number(r, "cout_recurrent_proportionnel", default=0, minimum=0, maximum=1, integer=True) == 1,
             "inv_start": inv_start, "inv_duration": inv_duration,
             "transfer_source_share": transfer_source_share,
             "transfer_retention": transfer_retention, "recruitment_ratio": recruitment_ratio,
@@ -215,7 +216,8 @@ def run_scenario(hyp, viviers, reformes, sc):
                 benefit_ramp = effective_done / p["target"] if p["target"] > EPS else (ramp if p["rate"] == 0 else 0.0)
                 m = p["money"]
                 operating = m["eco_fonct_meur"] * benefit_ramp
-                recurrent = m["cout_recurrent_meur"] * ramp
+                # Un coût proportionnel (rétrocession aux agents) suit la réduction réalisée, pas le calendrier.
+                recurrent = m["cout_recurrent_meur"] * (benefit_ramp if p["recurrent_proportional"] else ramp)
                 revenue = m["effet_recettes_meur"] * benefit_ramp
                 investment = m["invest_meur"] / p["inv_duration"] if p["inv_start"] <= y < p["inv_start"] + p["inv_duration"] else 0.0
                 compensation = flow[1] * indemnity / 1000.0

@@ -199,6 +199,17 @@ class ModelTests(unittest.TestCase):
         self.assertEqual(annual[2036]["eco_fonctionnement_meur"], 0)
         self.assertEqual(annual[2036]["eco_nette_meur"], -1)
 
+    def test_proportional_recurrent_cost_follows_actual_reduction(self):
+        hyp, viviers = inputs()
+        viviers["V"]["taux_departs_annuel"] = 0
+        r = reform(rate=1)
+        r.update({"cout_recurrent_meur_prudent": 1, "cout_recurrent_proportionnel": 1})
+        _, annual, _ = self.run_case([r], hyp, viviers)
+        self.assertEqual(annual[2036]["cout_recurrent_meur"], 0)
+        _, annual, _ = self.run_case([reform(rate=0.2) | {"cout_recurrent_meur_prudent": 1, "cout_recurrent_proportionnel": 1}])
+        self.assertAlmostEqual(annual[2027]["cout_recurrent_meur"], 0.5)
+        self.assertAlmostEqual(annual[2036]["cout_recurrent_meur"], 1)
+
     def test_invalid_and_missing_inputs_are_rejected(self):
         bad_rows = []
         r = reform(); r["part_non_remplacement"] = 0; bad_rows.append(r)
