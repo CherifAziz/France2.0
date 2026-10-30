@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-31",
+  "chapitres": [
+    {
+      "fichier": "rapport/01_resume_executif.md",
+      "sha256": "9a91e54a4adf6e7aa488afb595677095b8cd02051388120c21e60716047e5766"
+    },
+    {
+      "fichier": "rapport/02_methodologie.md",
+      "sha256": "73b223ce9d007c073a3dc923ee394a3a5a56a4ab772ad2d7256ea1e98b357c80"
+    },
+    {
+      "fichier": "rapport/03_emploi_public.md",
+      "sha256": "73cd7b61c9b34df59710b83c179695c9204f23497d9b0de3b4af2071e8afbd34"
+    },
+    {
+      "fichier": "rapport/04_comparaison_internationale.md",
+      "sha256": "a1c1ff958e95f9726514c072fb4f685e727904c9577f40dcb00574976e048ae2"
+    },
+    {
+      "fichier": "rapport/05_metiers_fonctions.md",
+      "sha256": "1752a2921f830c4848ea7245c9c00a9ff845395ce9a1afec155ecf3054cd1615"
+    },
+    {
+      "fichier": "rapport/06_depenses_efficacite.md",
+      "sha256": "03e6773e145f50d8ab24e62b0799e37c6802c666903d2f5064e973ff6ea8b093"
+    },
+    {
+      "fichier": "rapport/07_doublons.md",
+      "sha256": "98dc515f123679ab51c06eda163a73018013adfcd18172dea1bcfbc9d22dea2b"
+    },
+    {
+      "fichier": "rapport/08_simplification.md",
+      "sha256": "eb6e04a3e3d4fedcea451adc30bdd284d111733b58a7b9072c9dee35e54b1d6b"
+    },
+    {
+      "fichier": "rapport/09_intelligence_artificielle.md",
+      "sha256": "75caac6cec73ebd1969996a90989aabc38caa19137854a8b24abf91bb2ab49ce"
+    },
+    {
+      "fichier": "rapport/10_propositions_existantes.md",
+      "sha256": "ea8f6956b432d7957c7cd4d6df9c6d53fd606487e3cdbc6ad38e88ceba86029e"
+    },
+    {
+      "fichier": "rapport/11_catalogue.md",
+      "sha256": "0111dc5d336c1116553f0d7bbe6b9f702553c0b1a441a782e92efab860631f95"
+    },
+    {
+      "fichier": "rapport/12_scenarios.md",
+      "sha256": "eb9712770198aaaabeccbd40659722114d953168ca7720798c4344dee5bca4ab"
+    },
+    {
+      "fichier": "rapport/13_modele_financier.md",
+      "sha256": "2998ba9942aa1aff530e40bd8470a99f8e1ec90ed546488e6db680c94ba1f93f"
+    },
+    {
+      "fichier": "rapport/14_risques_sensibilites.md",
+      "sha256": "87e78de2b94fe2b4ae154c3e84b667286e7e33206b241c597e6fcc48c115d761"
+    },
+    {
+      "fichier": "rapport/15_conclusion.md",
+      "sha256": "414d449e2e86ad5f00cdf279aee322e199814c88197425f9a02040738f10d69c"
+    },
+    {
+      "fichier": "rapport/16_bibliographie.md",
+      "sha256": "39e0f83ca147749dba7df804a3fa58c56711426c7e46c582168c7102e016632d"
+    },
+    {
+      "fichier": "rapport/17_annexes.md",
+      "sha256": "e1019e74fd251a8eee14c170d6224e645ef54d008c1893ba9f1c2f97c7b2a1de"
+    }
+  ],
+  "synthese_sha256": "f679e47979a64f83aa4bd3e7443208cf9a857c91776f80bf9a5d99f2e98dfd84"
+}

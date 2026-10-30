@@ -77,9 +77,17 @@ Les six chantiers de recherche 05–10 sont documentés, contre-vérifiés et as
 - **Moteur** : R17 prudent refaite exactement par une simulation séparée ; synthèses, capacités et verdicts de seuils reproduits.
 - **Équipe B** (`scripts/13_equipe_b.py`) : 24 fiches sur 30 sont à confiance faible et portent 66 % des postes du scénario intermédiaire. Pondéré par une probabilité de réussite (0,3 / 0,6), l'intermédiaire passe à 22 863 postes et 1,06 Md€ nets en 2036. Fourchette défendable : **5 000 à 23 000 postes, 0,3 à 1,1 Md€ par an**. Les seuils de 500 000 postes et plus restent incompatibles.
 
+## Rapport final (phase 6, 31 octobre 2026)
+
+- **Rapport en 17 parties** (`rapport/01` à `17`), assemblé en `livrables/rapport_complet.{html,pdf,docx,md}` : **97 pages A4**, 64 tableaux, 4 figures, 30 fiches A–M au chapitre 11, bibliographie fusionnée de 313 références au chapitre 16, annexes et commandes de reproduction au chapitre 17.
+- **Synthèse pour non-spécialiste** : `livrables/synthese.{html,pdf,docx}`, 8 pages A4.
+- **Livrables complémentaires** : `livrables/tableaux_livrables.xlsx` (réformes et économies, matrice des risques, seuils, sensibilités, équipe B, base comparative), `data/reformes/14_matrice_risques.csv` (9 risques transversaux, 30 par réforme), `livrables/bibliographie.csv`, modèle modifiable `modele/modele_financier.xlsx`.
+- **Réponse** : fourchette défendable de 5 000 à 23 000 postes en moins en 2036, pour 0,3 à 1,1 Md€ par an ; jusqu'à 56 000 postes et 2,5 Md€ si toutes les réformes réussissent ; 500 000 postes et plus incompatibles avec les départs administratifs.
+- **Assemblage** : `scripts/build_rapport.py` n'utilise plus pandoc (absent) : Markdown → HTML autonome, PDF via Playwright, DOCX via python-docx. Liens locaux, ancres et images vérifiés.
+
 ## Prochaine séquence
 
-Phase 6 : rapport en 17 parties, synthèse de 10 pages, base comparative, tableau des réformes, matrice des risques et bibliographie fusionnée des registres, avec exports. Compléter si possible les variables manquantes du chantier 03 (NACE/ISCO, heures, démographie, missions et résultats de service).
+Le cahier des charges est couvert. Améliorations possibles : réunir les variables internationales manquantes (NACE/ISCO, heures, démographie, résultats de service) ; mesurer les tâches réelles sur quelques services pilotes ; remplacer les proxys de coût territorial et hospitalier par des coûts d'entrée publiés ; relecture humaine experte du rapport.
 
 ## Sauvegarde
 

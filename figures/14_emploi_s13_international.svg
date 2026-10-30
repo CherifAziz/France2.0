@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 566" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+<rect width="820" height="566" fill="#ffffff"/>
+<text x="16" y="26" font-size="16" font-weight="600" fill="#17232b">Emploi des administrations publiques en % de l'emploi total, 2023</text>
+<text x="16" y="46" fill="#53616b">OCDE, Panorama des administrations publiques 2025 (StatLink) ; champ S13, pas une mesure de l'emploi administratif</text>
+<text x="192" y="78" text-anchor="end" fill="#17232b">Suède</text>
+<rect x="200" y="67" width="478.3" height="15" fill="#245574"/>
+<text x="683.3" y="79" fill="#53616b">28,1 %</text>
+<text x="192" y="100" text-anchor="end" fill="#17232b">Danemark</text>
+<rect x="200" y="89" width="463.2" height="15" fill="#245574"/>
+<text x="668.2" y="101" fill="#53616b">27,3 %</text>
+<text x="192" y="122" text-anchor="end" fill="#17232b">Finlande</text>
+<rect x="200" y="111" width="428.9" height="15" fill="#245574"/>
+<text x="633.9" y="123" fill="#53616b">25,2 %</text>
+<text x="192" y="144" text-anchor="end" fill="#17232b">Estonie</text>
+<rect x="200" y="133" width="397.7" height="15" fill="#245574"/>
+<text x="602.7" y="145" fill="#53616b">23,4 %</text>
+<text x="192" y="166" text-anchor="end" fill="#17232b">France</text>
+<rect x="200" y="155" width="352.4" height="15" fill="#c0392b"/>
+<text x="557.4" y="167" fill="#53616b">20,7 %</text>
+<text x="192" y="188" text-anchor="end" fill="#17232b">Canada</text>
+<rect x="200" y="177" width="342.6" height="15" fill="#245574"/>
+<text x="547.6" y="189" fill="#53616b">20,2 %</text>
+<text x="192" y="210" text-anchor="end" fill="#17232b">Irlande</text>
+<rect x="200" y="199" width="342.4" height="15" fill="#245574"/>
+<text x="547.4" y="211" fill="#53616b">20,1 %</text>
+<text x="192" y="232" text-anchor="end" fill="#17232b">Moyenne OCDE</text>
+<rect x="200" y="221" width="312.9" height="15" fill="#7f8c8d"/>
+<text x="517.9" y="233" fill="#53616b">18,4 %</text>
+<text x="192" y="254" text-anchor="end" fill="#17232b">Belgique</text>
+<rect x="200" y="243" width="311.4" height="15" fill="#245574"/>
+<text x="516.4" y="255" fill="#53616b">18,3 %</text>
+<text x="192" y="276" text-anchor="end" fill="#17232b">Tchéquie</text>
+<rect x="200" y="265" width="302.1" height="15" fill="#245574"/>
+<text x="507.1" y="277" fill="#53616b">17,8 %</text>
+<text x="192" y="298" text-anchor="end" fill="#17232b">Royaume-Uni</text>
+<rect x="200" y="287" width="290.3" height="15" fill="#245574"/>
+<text x="495.3" y="299" fill="#53616b">17,1 %</text>
+<text x="192" y="320" text-anchor="end" fill="#17232b">Autriche</text>
+<rect x="200" y="309" width="283.8" height="15" fill="#245574"/>
+<text x="488.8" y="321" fill="#53616b">16,7 %</text>
+<text x="192" y="342" text-anchor="end" fill="#17232b">Pologne</text>
+<rect x="200" y="331" width="283.3" height="15" fill="#245574"/>
+<text x="488.3" y="343" fill="#53616b">16,7 %</text>
+<text x="192" y="364" text-anchor="end" fill="#17232b">Australie</text>
+<rect x="200" y="353" width="265.8" height="15" fill="#245574"/>
+<text x="470.8" y="365" fill="#53616b">15,6 %</text>
+<text x="192" y="386" text-anchor="end" fill="#17232b">Espagne</text>
+<rect x="200" y="375" width="259.2" height="15" fill="#245574"/>
+<text x="464.2" y="387" fill="#53616b">15,3 %</text>
+<text x="192" y="408" text-anchor="end" fill="#17232b">États-Unis</text>
+<rect x="200" y="397" width="247.4" height="15" fill="#245574"/>
+<text x="452.4" y="409" fill="#53616b">14,6 %</text>
+<text x="192" y="430" text-anchor="end" fill="#17232b">Italie</text>
+<rect x="200" y="419" width="232.1" height="15" fill="#245574"/>
+<text x="437.1" y="431" fill="#53616b">13,7 %</text>
+<text x="192" y="452" text-anchor="end" fill="#17232b">Pays-Bas</text>
+<rect x="200" y="441" width="209.7" height="15" fill="#245574"/>
+<text x="414.7" y="453" fill="#53616b">12,3 %</text>
+<text x="192" y="474" text-anchor="end" fill="#17232b">Allemagne</text>
+<rect x="200" y="463" width="196.0" height="15" fill="#245574"/>
+<text x="401.0" y="475" fill="#53616b">11,5 %</text>
+<text x="192" y="496" text-anchor="end" fill="#17232b">Corée</text>
+<rect x="200" y="485" width="146.1" height="15" fill="#245574"/>
+<text x="351.1" y="497" fill="#53616b">8,6 %</text>
+<text x="192" y="518" text-anchor="end" fill="#17232b">Japon</text>
+<rect x="200" y="507" width="83.9" height="15" fill="#245574"/>
+<text x="288.9" y="519" fill="#53616b">4,9 %</text>
+</svg>

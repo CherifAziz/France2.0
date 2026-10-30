@@ -63,7 +63,7 @@ Chaque objection est relancée dans le moteur quand elle se chiffre (`scripts/13
 
 ## 4. Conclusion de la contre-expertise
 
-- **Fourchette défendable.** En 2036, entre **5 000 et 23 000 postes en moins**, pour **0,3 à 1,1 Md€ d'économie nette annuelle**, soit le scénario prudent et l'espérance pondérée du scénario intermédiaire.
+- **Fourchette défendable.** En 2036, entre **5 000 et 23 000 postes en moins**, pour **0,3 à 1,1 Md€ d'économie nette annuelle**, soit les espérances pondérées des scénarios prudent et intermédiaire.
 - **Haut de fourchette plausible mais non démontré.** Le scénario intermédiaire non pondéré (56 142 postes, 2,5 Md€) suppose que toutes les réformes réussissent.
 - **Scénarios ambitieux et radical : hypothèses de travail.** Ils servent à tester les limites ; aucune preuve observée ne les étaye.
 - **Seuils inchangés.** 50 000 et 100 000 restent conditionnels ; 200 000 non démontré ; 500 000, 800 000, 1 million et 1,5 million incompatibles dans le périmètre administratif.
