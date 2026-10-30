@@ -1,6 +1,6 @@
 # Doublons, structures et précédents français
 
-Recherche arrêtée au **28 octobre 2026**. Cette note couvre les quinze domaines du cahier des charges et prépare des décisions évaluables. Les acquisitions territoriales, achats, RH et immobilier du [chantier 04d](04 d_territoires_fonctions_support.md) sont réutilisées avec leurs réserves ; leurs montants ne sont pas ajoutés à une nouvelle enveloppe. Aucun paramètre national d'emplois ou d'économies n'est calibré ici.
+Recherche arrêtée au **28 octobre 2026**. Cette note couvre les quinze domaines du cahier des charges et prépare des décisions évaluables. Les acquisitions territoriales, achats, RH et immobilier du [chantier 04d](04d_territoires_fonctions_support.md) sont réutilisées avec leurs réserves ; leurs montants ne sont pas ajoutés à une nouvelle enveloppe. Aucun paramètre national d'emplois ou d'économies n'est calibré ici.
 
 ## 1. Synthèse des constats
 

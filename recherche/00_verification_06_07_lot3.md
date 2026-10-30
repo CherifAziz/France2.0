@@ -10,7 +10,7 @@ Cette indépendance concerne le **contrôle documentaire**, pas la production d'
 
 Versions des notes contrôlées lors de cette reproduction :
 
-- 06 : SHA256 `25633f1f2fa58a8f0d5c80639d3cf1c0188ebd5fc23a94e742673953bf792bf3`.
+- 06 : SHA256 `1de94827c327c50e24705eac48c8ddc513b60c097396fd88c3b458a81d036962`.
 - 07 : SHA256 `9e16071b739813ea47b61845baa03a4832ad1c9fdc49490af60742a85e351ba5`.
 
 ## Résultats décisifs
@@ -65,7 +65,7 @@ Le CSV fournit en plus les unités, périodes, URL exactes, localisations, objec
 - **CNEN :** conserver le manque et la distinction entre coûts de politique, coûts de formalité et économies administratives. La source de coût n'a pas été lue.
 - **Droit :** le statut de promulgation est vérifié sur la source parlementaire primaire ; ce contrôle ne remplace pas la lecture du droit consolidé ou des décrets d'application.
 - **Prévisions :** aucun montant PLF, portefeuille UE ou potentiel de simplification n'est requalifié en exécution ni en économie nette française.
-- **Présentation :** Le premier paragraphe de06 cible `04 d_territoires_fonctions_support.md`, alors que le fichier est `04d_territoires_fonctions_support.md`. Défaut de lien signalé au parent ; aucune modification de la note auditée.
+- **Présentation :** Le lien initial vers 04 d a été corrigé au moment de cette reproduction.
 
 Les contrôles automatiques sécurisent la transcription et les calculs ; ils ne démontrent pas à eux seuls l'interprétation de la source. Le présent rapport explicite les principales qualifications lues.
 
