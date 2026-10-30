@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 258" font-family="Segoe UI, Arial, sans-serif" font-size="13">
+<rect width="960" height="258" fill="#ffffff"/>
+<text x="20" y="28" font-size="17" font-weight="600" fill="#17232b">Scénario radical — postes en moins en 2036</text>
+<text x="20" y="50" fill="#53616b">Valeur centrale : 194 476 postes. Barre claire : variante basse ; barre foncée : variante haute.</text>
+<text x="278" y="92" text-anchor="end" fill="#17232b">Taux de réduction des fiches</text>
+<rect x="387.8" y="78" width="267.8" height="18" fill="#9cc3dc"/>
+<text x="383.8" y="92" text-anchor="end" font-size="11" fill="#53616b">× 0,5 : 114 425</text>
+<rect x="655.5" y="78" width="176.7" height="18" fill="#245574"/>
+<text x="836.2" y="92" text-anchor="start" font-size="11" fill="#53616b">× 1,5 : 247 300</text>
+<text x="278" y="138" text-anchor="end" fill="#17232b">Conversion du temps libéré par l'IA</text>
+<rect x="546.8" y="124" width="108.8" height="18" fill="#9cc3dc"/>
+<text x="542.8" y="138" text-anchor="end" font-size="11" fill="#53616b">aucune : 161 961</text>
+<rect x="655.5" y="124" width="108.8" height="18" fill="#245574"/>
+<text x="768.3" y="138" text-anchor="start" font-size="11" fill="#53616b">× 2 : 226 991</text>
+<text x="278" y="184" text-anchor="end" fill="#17232b">Départs mobilisables</text>
+<rect x="626.2" y="170" width="29.3" height="18" fill="#9cc3dc"/>
+<text x="622.2" y="184" text-anchor="end" font-size="11" fill="#53616b">retraites × 0,8 : 185 706</text>
+<rect x="655.5" y="170" width="74.8" height="18" fill="#245574"/>
+<text x="734.3" y="184" text-anchor="start" font-size="11" fill="#53616b">toutes sorties (× 1,61) : 216 843</text>
+<line x1="655.5" y1="70" x2="655.5" y2="208" stroke="#17232b" stroke-width="1.5"/>
+</svg>

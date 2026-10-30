@@ -63,9 +63,16 @@ Les six chantiers de recherche 05–10 sont documentés, contre-vérifiés et as
 - **Moteur** : ajout d'une option de coût récurrent proportionnel à la réduction réalisée (rétrocession de type RGPP), avec un test. Les 24 tests du moteur passent ; 4 des 5 tests d'archivage aussi. Le cinquième (`test_fetch`) échoue pour une raison d'environnement : `html2text` est dans `.cache/python_deps`, illisible depuis cette session.
 - **Résultats préliminaires** (avant sensibilités) : postes en moins en 2036 de **11 106 / 56 142 / 120 250 / 194 476** (prudent / intermédiaire / ambitieux / radical), économie nette 2036 de **0,6 / 2,5 / 5,3 / 8,4 Md€**. Aucun scénario n'approche 500 000 postes ; même 35 % de chaque vivier administratif ne donnerait que 403 169 postes. En radical, les départs à la retraite bloquent 22 000 ETP dans le vivier de l'État.
 
+## Scénarios, seuils et sensibilités (phase 4, 30 octobre 2026)
+
+- Note `recherche/12_scenarios_seuils.md`, sensibilités `data/reformes/12_sensibilites.csv` (7 paramètres × 2 variantes × 4 scénarios), seuils `data/reformes/12_seuils.csv`, deux graphiques en tornado et classeur `modele/modele_financier.xlsx` à formules (hypothèses en cellules jaunes).
+- **Seuils** : 50 000 et 100 000 postes conditionnels ; 200 000 non démontré (283 427 seulement sous hypothèses favorables cumulées) ; **500 000, 800 000, 1 million et 1,5 million incompatibles** dans le périmètre administratif. Même sans remplacer aucun départ, les viviers administratifs ne libèrent que 157 142 postes en cinq ans et 292 596 en dix ans (243 487 et 434 949 en comptant toutes les sorties de fonctionnaires).
+- **Sensibilités** : les taux de réduction des fiches et les investissements dominent ; l'économie nette cumulée 2027-2036 du scénario intermédiaire va de 5,2 à 19,9 Md€ selon les taux.
+- **Classeur** : recalculé avec `pycel`, il reproduit exactement les postes du moteur dans trois scénarios (écart de 1,3 % en radical) et l'économie nette à 0,7-2,4 % près ; mêmes verdicts de seuils. Les noms de plages sont remplacés par des références absolues pour rester lisibles par tous les tableurs.
+
 ## Prochaine séquence
 
-Phase 4 : test formel des seuils de 500 000, 800 000, 1 million et 1,5 million de postes ; classeur `modele/modele_financier.xlsx` modifiable ; sensibilités (coût par ETP, taux de départ, GVT, conversion du temps libéré par l'IA, conservation APU, investissements). Phase 5 : contre-expertise d'au moins 40 chiffres décisifs du catalogue et des scénarios.
+Phase 5 : contre-expertise d'au moins 40 chiffres décisifs du catalogue et des scénarios, relus dans leurs sources primaires sans les scripts auteurs, et revue critique des hypothèses de taux (équipe B). Phase 6 : rapport en 17 parties, synthèse de 10 pages, matrice des risques, bibliographie fusionnée.
 
 Compléter les variables encore manquantes du chantier03 (NACE/ISCO, heures, démographie, délégations, missions et résultats de service). Les PPA santé/éducation et plusieurs corrections public/privé sont maintenant documentées, mais ne constituent pas un ajustement complet aux besoins.
 

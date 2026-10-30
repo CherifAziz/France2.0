@@ -1,0 +1,61 @@
+variante,sens,libelle,scenario,postes_2036,net_2036,cumul_net_10,cumul_consolide_10,invest,alertes
+Centrale,,,prudent,11106.4,617.9,3464.1,2385.0,857.1,0
+Centrale,,,intermediaire,56141.6,2517.1,12626.6,7402.6,3952.8,0
+Centrale,,,ambitieux,120249.7,5280.1,25701.1,15179.3,7202.5,0
+Centrale,,,radical,194475.8,8429.7,35448.4,20011.5,13504.6,2
+Taux de réduction des fiches,bas,"× 0,5",prudent,5557.7,389.7,1923.9,1383.9,857.1,0
+Taux de réduction des fiches,bas,"× 0,5",intermediaire,28361.0,1376.3,5240.9,2601.9,3952.8,0
+Taux de réduction des fiches,bas,"× 0,5",ambitieux,61715.7,2869.7,11524.0,5818.3,7202.5,0
+Taux de réduction des fiches,bas,"× 0,5",radical,114424.6,5108.5,18380.4,8616.3,13504.6,0
+Taux de réduction des fiches,haut,"× 1,5",prudent,16646.3,845.8,5001.5,3384.3,857.1,0
+Taux de réduction des fiches,haut,"× 1,5",intermediaire,83352.8,3633.8,19861.2,12105.1,3952.8,0
+Taux de réduction des fiches,haut,"× 1,5",ambitieux,159777.0,6955.0,35644.8,21743.6,7202.5,2
+Taux de réduction des fiches,haut,"× 1,5",radical,247300.2,10187.4,41441.6,23907.1,13504.6,7
+Coût par ETP,bas,"× 0,8",prudent,11106.4,526.6,2847.5,1984.2,857.1,0
+Coût par ETP,bas,"× 0,8",intermediaire,56141.6,2055.9,9641.5,5462.3,3952.8,0
+Coût par ETP,bas,"× 0,8",ambitieux,120249.7,4285.1,19688.7,11271.2,7202.5,0
+Coût par ETP,bas,"× 0,8",radical,194475.8,6884.6,26627.3,14277.8,13504.6,2
+Coût par ETP,haut,"× 1,2",prudent,11106.4,709.3,4080.7,2785.8,857.1,0
+Coût par ETP,haut,"× 1,2",intermediaire,56141.6,2978.3,15611.8,9343.0,3952.8,0
+Coût par ETP,haut,"× 1,2",ambitieux,120249.7,6275.2,31713.5,19087.4,7202.5,0
+Coût par ETP,haut,"× 1,2",radical,194475.8,9974.9,44269.5,25745.2,13504.6,2
+Départs mobilisables,bas,"retraites × 0,8",prudent,11106.4,617.9,3464.1,2385.0,857.1,0
+Départs mobilisables,bas,"retraites × 0,8",intermediaire,56141.6,2517.1,12626.6,7402.6,3952.8,0
+Départs mobilisables,bas,"retraites × 0,8",ambitieux,119675.9,5207.4,24292.3,14334.9,7202.5,1
+Départs mobilisables,bas,"retraites × 0,8",radical,185706.2,7960.6,30491.3,16789.4,13504.6,4
+Départs mobilisables,haut,"toutes sorties (× 1,61)",prudent,11106.4,617.9,3464.1,2385.0,857.1,0
+Départs mobilisables,haut,"toutes sorties (× 1,61)",intermediaire,56141.6,2517.1,12626.6,7402.6,3952.8,0
+Départs mobilisables,haut,"toutes sorties (× 1,61)",ambitieux,120249.7,5297.1,26992.9,15873.1,7202.5,0
+Départs mobilisables,haut,"toutes sorties (× 1,61)",radical,216842.7,9229.6,41531.0,23831.4,13504.6,0
+Conversion du temps libéré par l'IA,bas,aucune,prudent,11106.4,617.9,3464.1,2385.0,857.1,0
+Conversion du temps libéré par l'IA,bas,aucune,intermediaire,46758.9,2139.7,10407.7,5960.3,3952.8,0
+Conversion du temps libéré par l'IA,bas,aucune,ambitieux,93383.6,4211.6,20183.6,11540.2,7202.5,0
+Conversion du temps libéré par l'IA,bas,aucune,radical,161960.8,7186.3,29020.1,15833.1,13504.6,1
+Conversion du temps libéré par l'IA,haut,× 2,prudent,11106.4,617.9,3464.1,2385.0,857.1,0
+Conversion du temps libéré par l'IA,haut,× 2,intermediaire,65524.3,2894.5,14845.6,8844.9,3952.8,0
+Conversion du temps libéré par l'IA,haut,× 2,ambitieux,144195.9,6216.6,30742.4,18489.8,7202.5,1
+Conversion du temps libéré par l'IA,haut,× 2,radical,226990.7,9596.8,38713.1,22133.6,13504.6,3
+Investissements,bas,"× 0,5",prudent,11106.4,617.9,3892.6,2813.5,428.5,0
+Investissements,bas,"× 0,5",intermediaire,56141.6,2517.1,14603.0,9379.0,1976.4,0
+Investissements,bas,"× 0,5",ambitieux,120249.7,5280.1,29302.3,18780.6,3601.2,0
+Investissements,bas,"× 0,5",radical,194475.8,8429.7,42200.7,26763.8,6752.3,2
+Investissements,haut,× 2,prudent,11106.4,617.9,2607.0,1527.9,1714.2,0
+Investissements,haut,× 2,intermediaire,56141.6,2517.1,8673.9,3449.8,7905.6,0
+Investissements,haut,× 2,ambitieux,120249.7,5280.1,18498.6,7976.9,14404.9,0
+Investissements,haut,× 2,radical,194475.8,8429.7,21943.8,6506.9,27009.2,2
+GVT individuel réel,bas,0 %,prudent,11106.4,589.5,3354.0,2313.4,857.1,0
+GVT individuel réel,bas,0 %,intermediaire,56141.6,2380.1,12113.2,7068.9,3952.8,0
+GVT individuel réel,bas,0 %,ambitieux,120249.7,5005.8,24701.9,14529.8,7202.5,0
+GVT individuel réel,bas,0 %,radical,194475.8,8029.8,34011.2,19077.3,13504.6,2
+GVT individuel réel,haut,2 %,prudent,11106.4,635.4,3556.0,2444.7,857.1,0
+GVT individuel réel,haut,2 %,intermediaire,56141.6,2607.0,13066.1,7688.3,3952.8,0
+GVT individuel réel,haut,2 %,ambitieux,120249.7,5465.7,26561.3,15738.5,7202.5,0
+GVT individuel réel,haut,2 %,radical,194475.8,8702.4,36684.4,20814.9,13504.6,2
+Conservation APU (lecture consolidée),bas,"0,50",prudent,11106.4,617.9,3464.1,1922.5,857.1,0
+Conservation APU (lecture consolidée),bas,"0,50",intermediaire,56141.6,2517.1,12626.6,5163.8,3952.8,0
+Conservation APU (lecture consolidée),bas,"0,50",ambitieux,120249.7,5280.1,25701.1,10670.0,7202.5,0
+Conservation APU (lecture consolidée),bas,"0,50",radical,194475.8,8429.7,35448.4,13395.7,13504.6,2
+Conservation APU (lecture consolidée),haut,"0,80",prudent,11106.4,617.9,3464.1,2847.5,857.1,0
+Conservation APU (lecture consolidée),haut,"0,80",intermediaire,56141.6,2517.1,12626.6,9641.5,3952.8,0
+Conservation APU (lecture consolidée),haut,"0,80",ambitieux,120249.7,5280.1,25701.1,19688.7,7202.5,0
+Conservation APU (lecture consolidée),haut,"0,80",radical,194475.8,8429.7,35448.4,26627.3,13504.6,2

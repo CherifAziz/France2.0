@@ -1,0 +1,8 @@
+seuil,verdict,justification,catalogue_intermediaire_2036,catalogue_radical_2036,radical_favorable_2036,capacite_retraites_5ans,capacite_retraites_10ans,capacite_toutes_sorties_5ans,capacite_toutes_sorties_10ans,viviers_administratifs_total
+50000,conditionnel,"atteint dès le scénario intermédiaire, sur des taux hypothétiques à confiance faible ou moyenne",56142,194476,283427,157142,292596,243487,434949,1151911
+100000,conditionnel,atteint seulement dans les scénarios ambitieux ou radical,56142,194476,283427,157142,292596,243487,434949,1151911
+200000,non démontré,"atteint seulement en cumulant hypothèses favorables (taux × 1,5, toutes sorties non remplacées)",56142,194476,283427,157142,292596,243487,434949,1151911
+500000,incompatible,supérieur à tous les départs administratifs possibles en dix ans ; exigerait des licenciements ou d'autres métiers,56142,194476,283427,157142,292596,243487,434949,1151911
+800000,incompatible,supérieur à tous les départs administratifs possibles en dix ans ; exigerait des licenciements ou d'autres métiers,56142,194476,283427,157142,292596,243487,434949,1151911
+1000000,incompatible,supérieur à tous les départs administratifs possibles en dix ans ; exigerait des licenciements ou d'autres métiers,56142,194476,283427,157142,292596,243487,434949,1151911
+1500000,incompatible,supérieur à l'effectif administratif total des viviers,56142,194476,283427,157142,292596,243487,434949,1151911
