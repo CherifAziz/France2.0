@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/statistiques-de-la-norme",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:20:53.786680+00:00",
+  "http_status": 403,
+  "final_url": "https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/statistiques-de-la-norme",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "UTF-8",
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\raw\\07\\statistiques_norme2026.html",
+  "bytes": 5840,
+  "sha256": "0b9789215fe30a271e79aae8168c22906e534d65d18bd192f332a031fd657298",
+  "acces": "inaccessible",
+  "conversion": "html2text"
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "statistiques_norme2026",
+    "url": "https://www.legifrance.gouv.fr/contenu/menu/autour-de-la-loi/legislatif-et-reglementaire/statistiques-de-la-norme",
+    "ext": "html",
+    "date_publication": "2026-05-15",
+    "institution": "SGG-DILA",
+    "pages_lues": "Aucune ; HTTP 403"
+  },
+  {
+    "id": "cnen_accueil",
+    "url": "https://www.cnen.dgcl.interieur.gouv.fr/",
+    "ext": "html",
+    "date_publication": "2026",
+    "institution": "CNEN",
+    "pages_lues": "Aucune ; page de maintenance de 654 octets, HTTP 200 ne vaut pas accès au rapport",
+    "acces_override": "inaccessible",
+    "note_acces": "Page de maintenance, pas le contenu documentaire."
+  },
+  {
+    "id": "silence_senat2015",
+    "url": "https://www.senat.fr/rap/r14-629/r14-6291.pdf",
+    "ext": "pdf",
+    "date_publication": "2015-07-15",
+    "institution": "Sénat",
+    "pages_lues": "PDF p. 7-10,25 ; synthèse et champ des procédures"
+  },
+  {
+    "id": "dinum_cour2024",
+    "url": "https://www.ccomptes.fr/sites/default/files/2024-07/20240710-S-2024-0754-Pilotage-transformation-numerique-Etat-par-direction-interministerielle-du-numerique.pdf",
+    "ext": "pdf",
+    "date_publication": "2024-07-10",
+    "institution": "Cour des comptes",
+    "pages_lues": "PDF p. 51-52, tableau 5 ; p. 119 tableau 15 non utilisé, dates non raccordées",
+    "acces_override": "partiel",
+    "note_acces": "Ouverture PDF par outil web réussie turn 109 view 1/turn 110 view 1/turn 110 view 2 ; PDF p. 51-52 effectivement lues ; original non archivé, terminal timeout distinct."
+  },
+  {
+    "id": "dlnuf_reponse2019",
+    "url": "https://questions.assemblee-nationale.fr/q15/15-10191QE.htm",
+    "ext": "html",
+    "date_publication": "2019-05-07",
+    "institution": "Gouvernement/Assemblée nationale",
+    "pages_lues": "Réponse QE 10191 : potentiel 320 M€, décrets janvier 2019"
+  },
+  {
+    "id": "essoc_batiment",
+    "url": "https://www.ecologie.gouv.fr/politiques-publiques/loi-etat-service-dune-societe-confiance-essoc",
+    "ext": "html",
+    "date_publication": "2022-09-05",
+    "institution": "Ministère de la transition écologique",
+    "pages_lues": "Présentation ESSOC I/II et solution d'effet équivalent ; attestation"
+  },
+  {
+    "id": "dlnuf_quotient2024",
+    "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/dites-le-nous-une-fois-letat-simplifie-les-demarches-des-citoyens-en-automatisant-la-transmission-du-quotient-familial-caf-et-msa-vers-les-autres-administrations/",
+    "ext": "html",
+    "date_publication": "2024-05-29",
+    "institution": "DINUM",
+    "pages_lues": "Communiqué quotient familial CAF/MSA : API et déploiement"
+  },
+  {
+    "id": "norme_dila2026",
+    "url": "https://www.dila.gouv.fr/home/article/mise-a-jour-des-statistiques-de-la-norme-sur-legifrance",
+    "ext": "html",
+    "date_publication": "2026-05-18",
+    "institution": "DILA",
+    "pages_lues": "Section Statistiques de la norme, modification 15 mai 2026 ; aucun stock chiffré"
+  },
+  {
+    "id": "norme_reponse2026",
+    "url": "https://www.senat.fr/questions/base/2026/qSEQ260508930.html",
+    "ext": "html",
+    "date_publication": "2026-10-01",
+    "institution": "Premier ministre/Sénat",
+    "pages_lues": "Question 28 mai et réponse 1 octobre ; urgence CNEN 26 %→5 %, statut loi 26 mai et projet collectivités"
+  },
+  {
+    "id": "cnen_rapport2023",
+    "url": "https://www.cnen.dgcl.interieur.gouv.fr/inlinedocs/2cc5e11123c95830ee392a3d114ae908/cnen-rpa-2023.pdf",
+    "ext": "pdf",
+    "date_publication": "non précisée (rapport activité2023)",
+    "institution": "CNEN",
+    "pages_lues": "Aucune ; ouverture web 502 ; aucun coût normatif repris",
+    "acces_override": "inaccessible",
+    "note_acces": "Aucune lecture du document original."
+  },
+  {
+    "id": "loi_simplification2026_senat",
+    "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-simplification-de-la-vie-economique.html",
+    "ext": "html",
+    "date_publication": "non précisée (suivi de la loi du26/05/2026)",
+    "institution": "Sénat",
+    "pages_lues": "Chronologie adoption/promulgation et apports Sénat ; page de suivi et non lecture intégrale de la loi"
+  },
+  {
+    "id": "loi_simplification2026_jorf",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054131304",
+    "ext": "html",
+    "date_publication": "2026-05-26",
+    "institution": "JORF/Légifrance",
+    "pages_lues": "Aucune lecture intégrale revendiquée ; contrôle via Sénat"
+  },
+  {
+    "id": "conseil_ateliers2026",
+    "url": "https://www.conseil-etat.fr/publications-colloques/etudes/les-ateliers-de-la-simplification-du-conseil-d-etat",
+    "ext": "html",
+    "date_publication": "2025-04-24 ; contenu consulté le28/10/2026",
+    "institution": "Conseil d'État",
+    "pages_lues": "Présentation et études 1-6 ; ordonnance 12 mars 2025, projet enseignement 30 juillet 2025 et capacité des juridictions"
+  },
+  {
+    "id": "choc_senat2017",
+    "url": "https://www.senat.fr/salle-de-presse/201702/trois-questions-a-elisabeth-lamure-et-olivier-cadic-auteurs-du-rapport-simplifier-efficacement-pour-liberer-les-entreprises.html",
+    "ext": "html",
+    "date_publication": "2017-02-23",
+    "institution": "Sénat",
+    "pages_lues": "Trois questions aux auteurs : 460 mesures, 5 Md€ potentiels non vérifiables et charges nouvelles"
+  },
+  {
+    "id": "essoc_reponse2022",
+    "url": "https://www.senat.fr/questions/base/2022/qSEQ221003365.html",
+    "ext": "html",
+    "date_publication": "2022-12-29",
+    "institution": "Ministère des comptes publics/Sénat",
+    "pages_lues": "Réponse : régularisations 2019-2021 et contrôles acceptés 2019/2021"
+  },
+  {
+    "id": "ue_omnibus2026",
+    "url": "https://commission.europa.eu/topics/competitiveness/simplification_en",
+    "ext": "html",
+    "date_publication": "non précisée (page évolutive consultée le28/10/2026)",
+    "institution": "Commission européenne",
+    "pages_lues": "What savings can we expect ; Simplification in action ; statuts et gains attendus par secteur"
+  },
+  {
+    "id": "ue_conseil2026",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/02/24/council-signs-off-simplification-of-sustainability-reporting-and-due-diligence-requirements-to-boost-eu-competitiveness/",
+    "ext": "html",
+    "date_publication": "2026-02-24",
+    "institution": "Conseil de l'Union européenne",
+    "pages_lues": "Ouverture web timeout ; texte non utilisé sans contrôle archive"
+  },
+  {
+    "id": "ue_directive2026",
+    "url": "https://eur-lex.europa.eu/eli/dir/2026/470/oj/eng",
+    "ext": "html",
+    "date_publication": "2026-02-24",
+    "institution": "Union européenne/EUR-Lex",
+    "pages_lues": "Page anti-robot ; texte non lu",
+    "acces_override": "inaccessible",
+    "note_acces": "Aucune lecture du document original."
+  },
+  {
+    "id": "ue_scm2025",
+    "url": "https://commission.europa.eu/document/download/9c8d2189-8abd-4f29-84e9-abc843cc68e0_en?filename=BR%20toolbox%20-%20December%202025.pdf",
+    "ext": "pdf",
+    "date_publication": "2025-12",
+    "institution": "Commission européenne",
+    "pages_lues": "Outil 58, PDF p. 528-529, imprimées 527-528, encadrés 2-3 et guide étape par étape"
+  }
+]

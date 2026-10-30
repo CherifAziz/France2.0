@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.senat.fr/rap/r14-629/r14-6291.pdf",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:20:53.787624+00:00",
+  "http_status": 200,
+  "final_url": "https://www.senat.fr/rap/r14-629/r14-6291.pdf",
+  "content_type": "application/pdf",
+  "last_modified": "Fri, 17 Jul 2015 16:26:31 GMT",
+  "etag": "\"75249-51b14a68b5bc0\"",
+  "encoding": null,
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\cache\\07\\silence_senat2015.pdf",
+  "bytes": 479817,
+  "sha256": "02354d9e0be37f0ea961fa99f6c8a123d5ad8c5fc959839aa1ec7fb64af83403",
+  "acces": "integral",
+  "pages": 32,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

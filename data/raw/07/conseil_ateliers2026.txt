@@ -1,0 +1,368 @@
+Afficher les raccourcis 
+
+  * Contenu principal
+  * Recherche : Accès à la recherche
+  * Navigation : Navigation principale
+  * Navigation : Navigation secondaire
+
+
+
+  * [ Plateforme pédagogique ](https://tout-savoir.justice-administrative.fr/ "Plateforme pédagogique - Le lien s'ouvrira dans un nouvel onglet")
+  * [ Nous rejoindre ](/pages/nous-rejoindre)
+  * [ Espace Presse ](/espace-presse)
+  * __
+  * [ ![Vos démarches en FALC](/build/images/icons/easy-to-read-ce.svg) ![Vos démarches en FALC](/build/images/icons/easy-to-read-ce_contrast.svg) ](/facile-a-lire-et-a-comprendre)
+  * __
+
+FR
+    * [Français](/)
+    * [English](/en)
+    * [Deutsch](/de)
+    * [Español](/es)
+    * [Italiano](/it)
+    * [Portugues](/pt)
+    * [Russian](/ru)
+    * [Ukranian](/uk)
+    * [Arabic](/ar)
+    * [Chinese](/zh)
+    * [Japanese](/ja)
+
+
+
+
+Accessibilité
+
+  * Version contrastée 
+  * Version espacée 
+  * [Voir la page Accessibilité](/sur-menu/accessibilite-partiellement-conforme)
+
+
+
+[ ![Conseil d'État - Retour à l'accueil](/build/images/logos/grey/site_ce.svg) ![Conseil d'État - Retour à l'accueil](/build/images/logos/white/site_ce.svg) ](/)
+
+Menu ______
+
+  * Qui sommes-nous ?
+
+Qui sommes-nous ?
+
+[Le Conseil d'État](/qui-sommes-nous/le-conseil-d-etat)
+    * [ Missions ](/qui-sommes-nous/le-conseil-d-etat/missions)
+    * [ Organisation ](/qui-sommes-nous/le-conseil-d-etat/organisation)
+    * [ Histoire et patrimoine ](/qui-sommes-nous/le-conseil-d-etat/histoire-et-patrimoine)
+
+[Les tribunaux et cours](/qui-sommes-nous/les-tribunaux-et-cours)
+    * [ Missions ](/qui-sommes-nous/les-tribunaux-et-cours/missions)
+    * [ Organisation ](/qui-sommes-nous/les-tribunaux-et-cours/organisation)
+
+[Déontologie](/qui-sommes-nous/deontologie)
+
+[Engagements égalité et diversité](/qui-sommes-nous/engagements-egalite-et-diversite)
+
+[Nous rejoindre](/pages/nous-rejoindre)
+
+![](http://www.conseil-etat.fr/var/storage/images/_aliases/sub_menu/7/6/4/0/1660467-16-eng-GB/56e1a6c8907c-propo-5.jpg)
+
+  * Décisions de justice
+
+Décisions de justice
+
+[Juger les litiges entre les citoyens et l'administration](/decisions-de-justice/juger-les-litiges-entre-les-citoyens-et-l-administration)
+
+[Dernières décisions](/decisions-de-justice/dernieres-decisions)
+
+[Jurisprudence](/decisions-de-justice/jurisprudence)
+    * [ Rechercher une décision (ArianeWeb) ](/decisions-de-justice/jurisprudence/rechercher-une-decision-arianeweb)
+    * [ Analyses de jurisprudence ](/decisions-de-justice/jurisprudence/analyses-de-jurisprudence)
+    * [ Les grandes décisions depuis 1873 ](/decisions-de-justice/jurisprudence/les-grandes-decisions-depuis-1873)
+
+[QPC et questions à la CJUE](/decisions-de-justice/qpc-et-questions-a-la-cjue)
+
+[Audiences importantes](/decisions-de-justice/audiences-importantes)
+
+[Données ouvertes (open data)](/decisions-de-justice/donnees-ouvertes-open-data)
+
+![](http://www.conseil-etat.fr/var/storage/images/_aliases/sub_menu/8/6/4/0/1660468-11-eng-GB/fd054018418c-500px3.jpg)
+
+  * Avis consultatifs
+
+Avis consultatifs
+
+[Rendre des avis juridiques au Gouvernement et au Parlement](/avis-consultatifs/rendre-des-avis-juridiques-au-gouvernement-et-au-parlement)
+
+[Derniers avis rendus](/avis-consultatifs/derniers-avis-rendus)
+    * [ au Gouvernement ](/avis-consultatifs/derniers-avis-rendus/au-gouvernement)
+    * [ à l'Assemblée nationale et au Sénat ](/avis-consultatifs/derniers-avis-rendus/a-l-assemblee-nationale-et-au-senat)
+
+[Rechercher un avis (ConsiliaWeb)](/avis-consultatifs/rechercher-un-avis-consiliaweb)
+
+[Analyses des sections consultatives](/avis-consultatifs/analyses-des-sections-consultatives)
+
+![](http://www.conseil-etat.fr/var/storage/images/_aliases/sub_menu/9/6/4/0/1660469-24-eng-GB/3e56ae34480b-500px4.jpg)
+
+  * Publications & colloques
+
+Publications & colloques
+
+[Colloques et conférences](/publications-colloques/colloques-et-conferences)
+
+[Études](/publications-colloques/etudes)
+
+[Décryptages](/publications-colloques/decryptages)
+
+[Rapports d'activité](/publications-colloques/rapports-d-activite)
+
+[Lettre de la justice administrative](/publications-colloques/lettre-de-la-justice-administrative)
+
+[Discours et contributions](/publications-colloques/discours-et-contributions)
+
+[Toutes les publications](/publications-colloques/toutes-les-publications)
+
+![](http://www.conseil-etat.fr/var/storage/images/_aliases/sub_menu/0/7/4/0/1660470-22-eng-GB/29652e609c5e-nv-publ-et-coll-entree-de-rubrique.jpg)
+
+  * Vos démarches
+
+Vos démarches
+
+[Je suis un particulier](/vos-demarches/je-suis-un-particulier)
+    * [ Déposer un recours ](/vos-demarches/je-suis-un-particulier/deposer-un-recours)
+    * [ Suivre mon recours ](/vos-demarches/je-suis-un-particulier/suivre-mon-recours)
+    * [ Demander une aide juridictionnelle ](/vos-demarches/je-suis-un-particulier/demander-une-aide-juridictionnelle)
+    * [ Recourir à la médiation ](/vos-demarches/je-suis-un-particulier/recourir-a-la-mediation)
+    * [ Demander un certificat (non-recours, non-opposition) ](/vos-demarches/je-suis-un-particulier/demander-un-certificat-non-recours-non-opposition)
+    * [ Actions collectives ](/vos-demarches/je-suis-un-particulier/actions-collectives)
+    * [ Faire exécuter une décision de justice ](/vos-demarches/je-suis-un-particulier/faire-executer-une-decision-de-justice)
+
+[Je suis un avocat ou une administration](/vos-demarches/je-suis-un-avocat-ou-une-administration)
+
+[Vos démarches en FALC](/vos-demarches/vos-demarches-en-falc)
+
+[Contacts et informations pratiques](/vos-demarches/contacts-et-informations-pratiques)
+
+![](http://www.conseil-etat.fr/var/storage/images/_aliases/sub_menu/1/7/4/0/1660471-11-eng-GB/ef29ed51df19-nv-visuel-entree-de-rubrique.jpg)
+
+  * [ Plateforme pédagogique ](https://tout-savoir.justice-administrative.fr/ "Plateforme pédagogique - Le lien s'ouvrira dans un nouvel onglet")
+  * [ Nous rejoindre ](/pages/nous-rejoindre)
+  * [ Espace Presse ](/espace-presse)
+  * Accessibilité
+
+Accessibilité
+
+Version contrastée 
+
+Version espacée 
+
+[Voir la page Accessibilité](/sur-menu/accessibilite-partiellement-conforme)
+
+
+
+
+Français English Deutsch Español Italiano Portugues Russian Ukranian Arabic Chinese Japanese
+
+Ouvrir la modale de recherche
+
+Fermer la recherche
+
+Site [ ![](/build/images/logo-ariane.png) ArianeWeb ](/decisions-de-justice/jurisprudence/rechercher-une-decision-arianeweb) [ ![](/build/images/logo-consilia.png) ConsiliaWeb ](/avis-consultatifs/rechercher-un-avis-consiliaweb)
+
+Thème recherché
+
+Rechercher
+
+### Recherches courantes
+
+  * [ déposer un recours ](https://www.conseil-etat.fr/vos-demarches/je-suis-un-particulier/deposer-un-recours)
+  * [ télérecours ](https://www.telerecours.fr/)
+  * [ carte des juridictions ](https://www.conseil-etat.fr/tribunaux-cours/la-carte-des-juridictions-administratives)
+
+
+
+# Les ateliers de la simplification du Conseil d’État
+
+24 avril 2025
+
+  1. [Accueil](/)
+  2. Publications & colloques
+  3. [Études](/publications-colloques/etudes)
+  4. Les ateliers de la simplification du Conseil d’...
+
+
+
+Passer la navigation de l'article pour arriver après
+
+Tous les chapitres 
+
+
+
+
+Passer la navigation de l'article pour arriver avant
+
+Passer le partage de l'article pour arriver après
+
+Augmenter ou réduire la taille de la police
+
+  * Augmenter la taille de la police
+  * Diminuer la taille de la police
+
+
+
+[ ](https://twitter.com/intent/tweet "Partager sur twitter")
+
+[ ](https://www.linkedin.com/shareArticle?mini=true&url=http://www.conseil-etat.fr/publications-colloques/etudes/les-ateliers-de-la-simplification-du-conseil-d-etat "Partager sur LinkedIn")
+
+[ ](https://www.facebook.com/sharer.php "Partager sur Facebook")
+
+×
+
+Passer le partage de l'article pour arriver avant
+
+Avec les « ateliers de la simplification » lancés en 2024, le Conseil d’État s’engage concrètement dans un processus de simplification administrative, en complément des avis consultatifs ou décisions de justice qu’il rend.
+
+Tous les chapitres 
+
+
+
+
+Il ne s'agit pas pour le Conseil d'État de produire une etude de portee generale mais d'ameliorer directement le droit en travaillant, avec les administrations concernees, a la simplification de cas bien identifies, avec des propositions de modifications normatives precises et ciblees. Pour elaborer ces propositions de simplification, le Conseil d'État a retenu une methode de travail specifique :   
+
+  1. Une premiere liste de sujets a ete arretee conjointement avec le secretariat general du Gouvernement, a partir de propositions emanant des sections consultatives et des administrations.
+  2. Dans le cadre d'une demarche coordonnee par la section des etudes, de la prospective et de la cooperation, chaque section consultative prend en charge les sujets relevant de son champ de competence et les instruit, dans un atelier de la simplification, avec les administrations concernees et les autres parties prenantes.
+  3. Chaque atelier de la simplification donne lieu a une etude, validee par l'Assemblee generale du Conseil d'État, assortie de propositions de simplification directement operationnelles.  
+  
+Il appartient ensuite au Gouvernement, s'il le souhaite, de reprendre et de mettre en oeuvre les propositions que le Conseil d'État a formulees dans le cadre de ses ateliers de la simplification.
+
+
+
+# [ÉTUDE #1] Regime des nullites en droit des societes
+
+ 
+
+[![](/var/storage/images/_aliases/reference/4/0/4/9/2249404-5-fre-FR/800a29480993-3.png)](/Media/actualites/documents/2025/avril-2025/simplification-nullite-en-droit-des-societes)
+
+L'atelier consacre a la simplification du regime des nullites en droit des societes (Livre II du Code de commerce) est le premier a avoir abouti. Mis en place en mars 2024, il a propose plusieurs mesures concretes visant a accroitre l'attractivite de la place de Paris, et en particulier le regroupement dans le Code civil des dispositions de droit commun, la suppression du caractere automatique des nullites pour les confier a l'appreciation du juge et la reduction des delais de prescription. Une ordonnance, adoptee le 12 mars 2025, a traduit ces propositions dans le droit
+
+[Lire l'etude](/Media/actualites/documents/2025/avril-2025/simplification-nullite-en-droit-des-societes "Consulter l'étude")
+
+# [ÉTUDE #2] Entreprises en difficulte
+
+ 
+
+[![](/var/storage/images/_aliases/reference/7/9/3/9/2249397-4-fre-FR/2e937fdde620-4.png)](/Media/actualites/documents/2025/avril-2025/simplification-entreprises-en-difficultes)
+
+Le Conseil d'Etat a recherche les voies et moyens d'une simplification du droit du traitement des difficultes des entreprises qu'il estime etre d'acces difficile et de comprehension malaisee. Il suggere de reduire l'eventail des procedures existantes par abrogation, regroupement ou fusion de plusieurs mesures pour en assurer une meilleure articulation. Il preconise egalement de remodeler l'architecture du Livre VI du code de commerce, qui regit la matiere, afin de le reordonner selon un plan plus simple et plus intelligible.
+
+[Lire l'etude](/Media/actualites/documents/2025/avril-2025/simplification-entreprises-en-difficultes "Consulter l'étude")
+
+# [ÉTUDE #3] Bilan de la perennisation des mesures de simplification prises pendant la crise sanitaire
+
+ 
+
+[![](/var/storage/images/_aliases/reference/0/9/3/9/2249390-4-fre-FR/6370b78ec118-2.png)](/Media/actualites/documents/2025/avril-2025/simplification-covid)
+
+Conformement a une recommandation qu'il avait formulee dans son etude annuelle 2023 consacree au dernier kilometre des politiques publiques, le Conseil d'État a procede a un recensement des mesures de simplification prises durant la crise sanitaire liee a l'epidemie de covid-19. Il a releve qu'un grand nombre de ces mesures avait ete perennise et identifie plusieurs dispositions dont la reconduction pourrait etre envisagee, en particulier la visioconference au sein des conseils municipaux ou pour la tenue des jurys de concours et d'examens.
+
+[Lire l'etude](/Media/actualites/documents/2025/avril-2025/simplification-covid "Consulter l'étude")
+
+# [ÉTUDE #4] Encadrement de l'enseignement superieur prive
+
+[![](/var/storage/images/_aliases/reference/5/0/1/8/2308105-1-fre-FR/758ac1b955a7-couverture_simplification-Site-Web-.png)](/Media/actualites/documents/2026/janvier-2026/etude-simplification-enseignement-superieur)
+
+Le Conseil d'État a preconise, au benefice tout d'abord des usagers, mais aussi des etablissements et de l'administration elle-meme des mesures de simplification du cadre juridique actuel relatif a l'encadrement de l'enseignement superieur prive.
+
+Ces preconisations sont relatives, en premier lieu au statut des etablissements, a leur ouverture et a leur fermeture ainsi qu'a leur eventuelle reconnaissance par l'État ou a leur labellisation, en deuxieme lieu a l'evaluation des formations et a la nature des diplomes qui peuvent etre delivres et, en troisieme et dernier lieu a l'information et aux droits des usagers, en ce qui concerne Parcoursup et les boursiers. 
+
+Certaines de ces preconisations ont inspire le projet de loi relatif a la regulation de l'enseignement superieur qui a ete depose a l'Assemblee nationale le 30 juillet 2025. 
+
+[Lire l'etude](/Media/actualites/documents/2026/janvier-2026/etude-simplification-enseignement-superieur "Lire l'étude")
+
+# [ÉTUDE #5] Contentieux environnemental : autorisations des projets strategiques
+
+[![](/var/storage/images/_aliases/reference/7/1/4/6/2326417-1-fre-FR/87bcf466ac60-couverture_simplification-Site-Web-1-.png)](/Media/actualites/documents/2026/avril-2026/atelier-simplification-contentieux-environnemental)
+
+Le Conseil d'État a examine a la demande du Premier ministre les divers regimes contentieux applicables aux autorisations de projets susceptibles d'etre qualifies de strategiques, notamment en matiere environnementale, afin d'identifier les mesures permettant de simplifier ce cadre juridique et d'accelerer le traitement des recours diriges contre de telles autorisations, dans le respect du droit au recours et de l'office du juge.
+
+Il observe que depuis plusieurs annees, le legislateur et le pouvoir reglementaire ont introduit de nombreuses derogations a la procedure contentieuse de droit commun, et souligne que ces differents regimes pourraient faire l'objet d'une harmonisation autour d'un regime derogatoire unique applicable a tous les projets qualifies de strategiques. Il releve que cette qualification devrait resulter de criteres aussi clairs et objectifs que possible.
+
+Les recours en cause releveraient de la competence des cours administratives d'appel, en premier et dernier ressort. Pour que ce dispositif demeure soutenable, les criteres definissant les projets strategiques ne devraient pas conduire a faire entrer dans ce regime un nombre de projets excedant les capacites des juridictions d'appel. S'agissant du contenu de ce regime derogatoire, le Conseil d'État ecarte plusieurs options qui paraissent inefficaces ou impraticables et formule des recommandations sur les solutions qui sont de nature a permettre de simplifier et d'accelerer le contentieux de tels projets (recevabilite et instruction des recours, delais de jugement, office du juge). Il suggere de mettre en oeuvre ce nouveau regime unique pour une duree limitee et d'evaluer ses effets dans l'intervalle.
+
+Le Conseil d'État souligne que la reflexion sur l'acceleration des projets strategiques appelle, au-dela de la question du traitement contentieux, une reflexion d'ensemble sur la necessite, en particulier dans le champ du droit de l'environnement, de moderer l'inflation normative, de simplifier le droit lui-meme, d'alleger et de rendre plus lisibles les procedures administratives qui entrainent a la fois des delais de traitement et un risque contentieux.
+
+[Lire l'etude](/Media/actualites/documents/2026/avril-2026/atelier-simplification-contentieux-environnemental "Lire l'étude")
+
+# [ÉTUDE #6] Personnes vulnerables : controle des incapacites des professionnels et des benevoles
+
+[![](/var/storage/images/_aliases/reference/8/1/7/7/2337718-2-fre-FR/1e872dfedb88-couverture_simplification-Site-Web-4-.png)](/Media/actualites/documents/2026/mai-2026/etude-simplification-personnes-vulnerables2)
+
+Le Conseil d'État propose des mesures de simplification concernant les bases legales du controle des incapacites des professionnels et benevoles en contact avec des personnes vulnerables et les modalites d'acces aux fichiers qui permettent d'exercer ce controle. 
+
+Il suggere des evolutions du cadre juridique afin de renforcer l'efficacite des controles des incapacites, garantir la securite des personnes vulnerables et de leurs familles ainsi que la securite juridique tant des personnes concernees par les controles que  des agents publics ou responsables qui les assurent, en veillant notamment a la protection des donnees personnelles sensibles utilisees. 
+
+[Lire l'etude](/Media/actualites/documents/2026/mai-2026/etude-simplification-personnes-vulnerables2 "Consulter")
+
+×
+
+##  Qui sommes-nous ? Qui sommes-nous ?
+
+  * [ Le Conseil d'État ](/qui-sommes-nous/le-conseil-d-etat)
+  * [ Les tribunaux et cours ](/qui-sommes-nous/les-tribunaux-et-cours)
+  * [ Engagements égalité et diversité ](/qui-sommes-nous/engagements-egalite-et-diversite)
+  * [ Charte de déontologie de la juridiction administrative et avis du collège de déontologie ](/qui-sommes-nous/deontologie/charte-de-deontologie-de-la-juridiction-administrative-et-avis-du-college-de-deontologie)
+  * [ Nous rejoindre ](/pages/nous-rejoindre)
+
+
+
+##  Décisions de justice Décisions de justice
+
+  * [ Dernières décisions ](/decisions-de-justice/dernieres-decisions)
+  * [ Rechercher une décision (ArianeWeb) ](/decisions-de-justice/jurisprudence/rechercher-une-decision-arianeweb)
+
+
+
+##  Avis consultatifs Avis consultatifs
+
+  * [ Derniers avis rendus ](/avis-consultatifs/derniers-avis-rendus)
+  * [ Rechercher un avis (ConsiliaWeb) ](/avis-consultatifs/rechercher-un-avis-consiliaweb)
+
+
+
+##  Publications & colloques Publications & colloques
+
+  * [ Colloques et conférences ](/publications-colloques/colloques-et-conferences)
+  * [ Études ](/publications-colloques/etudes)
+  * [ Rapports d'activité ](/publications-colloques/rapports-d-activite)
+
+
+
+##  Vos démarches Vos démarches
+
+  * [ Je suis un particulier ](/vos-demarches/je-suis-un-particulier)
+  * [ Je suis un avocat ou une administration ](/vos-demarches/je-suis-un-avocat-ou-une-administration)
+  * [ Contacts et informations pratiques ](/vos-demarches/contacts-et-informations-pratiques)
+
+
+
+  * [ Glossaire ](/outils/glossaire)
+  * [ Plan du site ](https://www.conseil-etat.fr/plan_du_site)
+
+
+
+* * *
+
+## Infolettre
+
+Inscrivez-vous à la lettre de la Justice administrative
+
+[ S'inscrire ](https://www.conseil-etat.fr/publications-colloques/lettre-de-la-justice-administrative#anchor2)
+
+## Suivez le Conseil d'Etat
+
+  * [ X ](https://x.com/Conseil_Etat "X - Le lien s'ouvrira dans un nouvel onglet")
+  * [ linkedIn ](https://fr.linkedin.com/company/conseil-d%27etat "linkedIn - Le lien s'ouvrira dans un nouvel onglet")
+  * [ youtube ](https://www.youtube.com/@conseildetat_fr/featured "youtube - Le lien s'ouvrira dans un nouvel onglet")
+  * [ instagram ](https://www.instagram.com/conseildetat_fr/ "instagram - Le lien s'ouvrira dans un nouvel onglet")
+  * [ flickr ](https://www.flickr.com/photos/96655124@N08/collections "flickr - Le lien s'ouvrira dans un nouvel onglet")
+  * [ rss ](https://www.conseil-etat.fr/outils/flux-rss/flux-rss "rss - Le lien s'ouvrira dans un nouvel onglet")
+
+
+
+(C) Conseil d'État 2026 - [Mentions légales](/bas-de-page/mentions-legales) \- [Témoins de connexion (cookies)](/bas-de-page/temoins-de-connexion-cookies) \- [Données personnelles](/bas-de-page/politique-de-confidentialite) \- [ Publications administratives](/bas-de-page/publications-administratives) \- [ Accessibilité : partiellement conforme](/sur-menu/accessibilite-partiellement-conforme)

@@ -1,0 +1,17 @@
+{
+  "source_url": "https://commission.europa.eu/document/download/9c8d2189-8abd-4f29-84e9-abc843cc68e0_en?filename=BR%20toolbox%20-%20December%202025.pdf",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:37:16.174723+00:00",
+  "http_status": 200,
+  "final_url": "https://commission.europa.eu/document/download/9c8d2189-8abd-4f29-84e9-abc843cc68e0_en?filename=BR%20toolbox%20-%20December%202025.pdf",
+  "content_type": "application/pdf",
+  "last_modified": null,
+  "etag": null,
+  "encoding": null,
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\cache\\07\\ue_scm2025.pdf",
+  "bytes": 8679895,
+  "sha256": "ced7548997fd3d6a3043c426422a218c874e468dc7c1438aa3057d0a488407bd",
+  "acces": "integral",
+  "pages": 614,
+  "conversion": "pypdf layout (repli, pdftotext absent)"
+}

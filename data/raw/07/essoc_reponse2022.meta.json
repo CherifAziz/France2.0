@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.senat.fr/questions/base/2022/qSEQ221003365.html",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:37:15.052137+00:00",
+  "http_status": 200,
+  "final_url": "https://www.senat.fr/questions/base/2022/qSEQ221003365.html",
+  "content_type": "text/html",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "ISO-8859-1",
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\raw\\07\\essoc_reponse2022.html",
+  "bytes": 116891,
+  "sha256": "b9e4456ae34efdcb9729f513f1ac79ed05e7fe3b99ec45daea76c4303efc775c",
+  "acces": "integral",
+  "conversion": "html2text"
+}

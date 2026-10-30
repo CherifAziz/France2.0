@@ -1,0 +1,16 @@
+{
+  "source_url": "https://www.ecologie.gouv.fr/politiques-publiques/loi-etat-service-dune-societe-confiance-essoc",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:20:54.606557+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ecologie.gouv.fr/politiques-publiques/loi-etat-service-dune-societe-confiance-essoc",
+  "content_type": "text/html; charset=utf-8",
+  "last_modified": "Mon, 26 Oct 2026 13:24:15 GMT",
+  "etag": "W/\"1793021055\"",
+  "encoding": "utf-8",
+  "raw_path": "C:\\Users\\oussa\\Documents\\France2.0\\data\\raw\\07\\essoc_batiment.html",
+  "bytes": 63821,
+  "sha256": "11e69f104788ea71e901271904047b63f842f972e9e1bde8f7644c0bd088aec9",
+  "acces": "integral",
+  "conversion": "html2text"
+}
