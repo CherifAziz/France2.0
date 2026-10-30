@@ -70,11 +70,16 @@ Les six chantiers de recherche 05–10 sont documentés, contre-vérifiés et as
 - **Sensibilités** : les taux de réduction des fiches et les investissements dominent ; l'économie nette cumulée 2027-2036 du scénario intermédiaire va de 5,2 à 19,9 Md€ selon les taux.
 - **Classeur** : recalculé avec `pycel`, il reproduit exactement les postes du moteur dans trois scénarios (écart de 1,3 % en radical) et l'économie nette à 0,7-2,4 % près ; mêmes verdicts de seuils. Les noms de plages sont remplacés par des références absolues pour rester lisibles par tous les tableurs.
 
+## Contre-expertise (phase 5, 30 octobre 2026)
+
+- Note `recherche/13_contre_expertise.md`. **47 chiffres décisifs** relus dans les classeurs et PDF primaires par `scripts/00_verification_phase5.py`, sans le moteur ni les scripts du catalogue : 27 confirmés, 18 calculs refaits, 2 réserves, **aucun écart**. Un test de mutation confirme que le contrôle détecte une base faussée.
+- **Réserve de champ** : les corps administratifs et techniques de la FPE ne comptent que des fonctionnaires (1 501 736). Le registre précise désormais que les contractuels administratifs sont absents de `V_FPE_AUTRES` et que les viviers de droit privé en sont disjoints.
+- **Moteur** : R17 prudent refaite exactement par une simulation séparée ; synthèses, capacités et verdicts de seuils reproduits.
+- **Équipe B** (`scripts/13_equipe_b.py`) : 24 fiches sur 30 sont à confiance faible et portent 66 % des postes du scénario intermédiaire. Pondéré par une probabilité de réussite (0,3 / 0,6), l'intermédiaire passe à 22 863 postes et 1,06 Md€ nets en 2036. Fourchette défendable : **5 000 à 23 000 postes, 0,3 à 1,1 Md€ par an**. Les seuils de 500 000 postes et plus restent incompatibles.
+
 ## Prochaine séquence
 
-Phase 5 : contre-expertise d'au moins 40 chiffres décisifs du catalogue et des scénarios, relus dans leurs sources primaires sans les scripts auteurs, et revue critique des hypothèses de taux (équipe B). Phase 6 : rapport en 17 parties, synthèse de 10 pages, matrice des risques, bibliographie fusionnée.
-
-Compléter les variables encore manquantes du chantier03 (NACE/ISCO, heures, démographie, délégations, missions et résultats de service). Les PPA santé/éducation et plusieurs corrections public/privé sont maintenant documentées, mais ne constituent pas un ajustement complet aux besoins.
+Phase 6 : rapport en 17 parties, synthèse de 10 pages, base comparative, tableau des réformes, matrice des risques et bibliographie fusionnée des registres, avec exports. Compléter si possible les variables manquantes du chantier 03 (NACE/ISCO, heures, démographie, missions et résultats de service).
 
 ## Sauvegarde
 

@@ -1,0 +1,21 @@
+variante,scenario,postes_2036,net_2036,cumul_net_10,postes_confiance_faible
+Catalogue central,prudent,11106.4,617.9,3464.1,4059.6
+Catalogue central,intermediaire,56141.6,2517.1,12626.6,36941.1
+Catalogue central,ambitieux,120249.7,5280.1,25701.1,86717.4
+Catalogue central,radical,194475.8,8429.7,35448.4,142413.3
+"Pondération par la confiance (faible 0,3 ; moyen 0,6)",prudent,5448.8,318.0,1843.9,1219.3
+"Pondération par la confiance (faible 0,3 ; moyen 0,6)",intermediaire,22862.9,1058.8,5531.5,11231.5
+"Pondération par la confiance (faible 0,3 ; moyen 0,6)",ambitieux,47459.9,2148.4,11307.4,26955.2
+"Pondération par la confiance (faible 0,3 ; moyen 0,6)",radical,86050.5,3785.3,19121.3,52930.5
+"Sans règles descendantes (R12 un sur deux, R15 échelon)",prudent,11106.4,617.9,3464.1,4059.6
+"Sans règles descendantes (R12 un sur deux, R15 échelon)",intermediaire,56141.6,2517.1,12626.6,36941.1
+"Sans règles descendantes (R12 un sur deux, R15 échelon)",ambitieux,114428.2,5147.4,25406.4,80895.8
+"Sans règles descendantes (R12 un sur deux, R15 échelon)",radical,180458.3,7949.7,36122.9,126721.9
+Sans R01 (tendance DGFiP possiblement déjà dans la référence),prudent,10587.4,595.4,3342.1,4060.1
+Sans R01 (tendance DGFiP possiblement déjà dans la référence),intermediaire,55107.3,2472.1,12383.7,36946.0
+Sans R01 (tendance DGFiP possiblement déjà dans la référence),ambitieux,118186.0,5190.4,25216.6,86731.9
+Sans R01 (tendance DGFiP possiblement déjà dans la référence),radical,191387.6,8295.4,34723.6,142442.6
+Seulement les fiches de confiance moyenne,prudent,7046.9,441.6,2679.4,0.0
+Seulement les fiches de confiance moyenne,intermediaire,19445.4,985.7,5645.2,0.0
+Seulement les fiches de confiance moyenne,ambitieux,34373.1,1708.2,9759.7,0.0
+Seulement les fiches de confiance moyenne,radical,56355.2,2712.7,15516.6,0.0
