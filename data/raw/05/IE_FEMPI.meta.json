@@ -1,0 +1,27 @@
+{
+  "id": "IE_FEMPI",
+  "titre": "PublicServicePay, FEMPI restoration",
+  "institution": "Department Public Expenditure Ireland",
+  "date_publication": "2019-02-28",
+  "url": "https://www.gov.ie/en/department-of-public-expenditure-infrastructure-public-service-reform-and-digitalisation/policy-information/public-service-pay/",
+  "cas": "IE_MORATOIRE",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:27:20.983956+00:00",
+  "http_status": 403,
+  "final_url": "https://www.gov.ie/en/department-of-public-expenditure-infrastructure-public-service-reform-and-digitalisation/policy-information/public-service-pay/",
+  "content_type": "text/html",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:24:43 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "919"
+  },
+  "body_bytes": 919,
+  "sha256_body": "0cf3f303bd9439ce75c478719c3b8f19fa2a1d5ed2cef3db0289f2b36797a0bc",
+  "local_path": "data/raw/05/IE_FEMPI.html.gz",
+  "sha256_stored": "52006532dbd35b44980ddec39b17b8fc2de569427ebd527f2cd0aba194c1608f",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/IE_FEMPI.txt",
+  "conversion": "HTMLParser standard library",
+  "expected_pdf": false,
+  "acces": "inaccessible"
+}

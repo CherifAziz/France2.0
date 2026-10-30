@@ -1,0 +1,29 @@
+{
+  "id": "NZ_SCHICK",
+  "titre": "The Spirit of Reform",
+  "institution": "Allen Schick, commissioned State Services Commission",
+  "date_publication": "1996",
+  "url": "https://www.publicservice.govt.nz/assets/DirectoryFile/The-Spirit-of-Reform-Managing-the-New-Zealand-State-Sector-in-a-Time-of-Change.pdf",
+  "cas": "NZ_NPM",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:11.186709+00:00",
+  "http_status": 200,
+  "final_url": "https://www.publicservice.govt.nz/assets/DirectoryFile/The-Spirit-of-Reform-Managing-the-New-Zealand-State-Sector-in-a-Time-of-Change.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Content-Type": "application/pdf",
+    "Content-Length": "341304",
+    "Date": "Wed, 28 Oct 2026 02:18:34 GMT",
+    "Last-Modified": "Fri, 05 Aug 2022 03:28:36 GMT",
+    "ETag": "\"53538-5e5760fb56100\""
+  },
+  "body_bytes": 341304,
+  "sha256_body": "27014b878c8d4f12d181a4c1f27caef20d5a3c89936ad2519ce4f2d075b0c7a4",
+  "local_path": "data/cache/05/NZ_SCHICK.pdf",
+  "sha256_stored": "27014b878c8d4f12d181a4c1f27caef20d5a3c89936ad2519ce4f2d075b0c7a4",
+  "archive_format": "identity PDF",
+  "pages_pdf": 101,
+  "text_path": "data/cache/05/NZ_SCHICK.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "NL_TOESLAGEN",
+  "titre": "Hersteloperatie toeslagen, verantwoordingsonderzoek2024",
+  "institution": "Algemene Rekenkamer",
+  "date_publication": "2025-05-21",
+  "url": "https://www.rekenkamer.nl/actueel/nieuws/2025/05/21/bij-3-ministeries-ernstige-problemen-in-uitvoering-van-rijksbeleid",
+  "cas": "NL_TOESLAGEN",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:06.778722+00:00",
+  "http_status": 200,
+  "final_url": "https://www.rekenkamer.nl/actueel/nieuws/2025/05/21/bij-3-ministeries-ernstige-problemen-in-uitvoering-van-rijksbeleid",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Wed, 28 Oct 2026 02:18:29 GMT"
+  },
+  "body_bytes": 266244,
+  "sha256_body": "f0a91a1a31cf1d8f7c2a7525c1504a50e36f0e9aba82192a94746ec7b7909c63",
+  "local_path": "data/raw/05/NL_TOESLAGEN.html.gz",
+  "sha256_stored": "2abd2a7cb2d84e875dbe7eddf12ee9a1d646972311579b397c109e916d5ff9b0",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/NL_TOESLAGEN.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "CA_REVIEW",
+  "titre": "Federal Spending Reviews: 50 years facts figures lessons",
+  "institution": "Canada School of Public Service",
+  "date_publication": "2025",
+  "url": "https://www.csps-efpc.gc.ca/tools/jobaids/spending-reviews-eng.aspx",
+  "cas": "CA_REVIEW",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:08.566365+00:00",
+  "http_status": 200,
+  "final_url": "https://www.csps-efpc.gc.ca/tools/jobaids/spending-reviews-eng.aspx",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Wed, 28 Oct 2026 02:18:31 GMT",
+    "Content-Length": "543018"
+  },
+  "body_bytes": 543018,
+  "sha256_body": "ef8cb0bd6ac5525d084852e3f3c19f4dbe567793ffe1f40150c161ee81146dfd",
+  "local_path": "data/raw/05/CA_REVIEW.html.gz",
+  "sha256_stored": "a4305304b67e1968c64dcfcf36b05383225fcc2ba83f8afb5c2da2d953b978b0",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/CA_REVIEW.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

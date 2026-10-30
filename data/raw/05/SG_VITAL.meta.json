@@ -1,0 +1,28 @@
+{
+  "id": "SG_VITAL",
+  "titre": "CE new year message2023",
+  "institution": "VITAL Government Singapore",
+  "date_publication": "2023",
+  "url": "https://www.vital.gov.sg/media-library/publications/ce-new-year-message-2023/",
+  "cas": "SG_VITAL",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:19.107152+00:00",
+  "http_status": 404,
+  "final_url": "https://www.vital.gov.sg/media-library/publications/ce-new-year-message-2023/",
+  "content_type": "text/html",
+  "response_headers": {
+    "Content-Type": "text/html",
+    "Content-Length": "334539",
+    "Last-Modified": "Fri, 16 Oct 2026 08:39:15 GMT",
+    "Date": "Wed, 28 Oct 2026 02:18:44 GMT",
+    "ETag": "\"e37ac446a1a3af1dbab6e140855e9601\""
+  },
+  "body_bytes": 334539,
+  "sha256_body": "5aadcdd4e20bacf1086d726e6326a4c74e0abec035e5d588f60298263cf20ce6",
+  "local_path": "data/raw/05/SG_VITAL.html.gz",
+  "sha256_stored": "de55cc8b391d5f06fca411fdf78b58cd52cb884dba87b9fcfbb2cf4515a75e21",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/SG_VITAL.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "inaccessible"
+}

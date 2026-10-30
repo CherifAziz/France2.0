@@ -1,0 +1,27 @@
+{
+  "id": "NZ_ACTUEL",
+  "titre": "Workforce size, PublicService Departments, June2026",
+  "institution": "Public Service Commission New Zealand",
+  "date_publication": "2026",
+  "url": "https://www.publicservice.govt.nz/data/workforce-data/public-sector-composition/workforce-size",
+  "cas": "NZ_RECENT",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:24:38.242278+00:00",
+  "http_status": 200,
+  "final_url": "https://www.publicservice.govt.nz/data/workforce-data/public-sector-composition/workforce-size",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Wed, 28 Oct 2026 02:22:01 GMT",
+    "ETag": "\"03f5d7e4098942510bfa1c581fac3d9c\""
+  },
+  "body_bytes": 62903,
+  "sha256_body": "c6f161b5fa6c57c7006c4f383dd938ca8e920cbfdd5c4d1752cb7594b32b8b1c",
+  "local_path": "data/raw/05/NZ_ACTUEL.html.gz",
+  "sha256_stored": "3b4c26bfcd202c00fc3ef3f1b62e4d749abc870dadb5b9d810a5d4236ddddc4a",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/NZ_ACTUEL.txt",
+  "conversion": "HTMLParser standard library",
+  "expected_pdf": false,
+  "acces": "integral"
+}

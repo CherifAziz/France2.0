@@ -1,0 +1,30 @@
+{
+  "id": "NO_ETUDE_UIB",
+  "titre": "NAV national reform evaluation WP4-2014 repository Bergen",
+  "institution": "Aakvik Monstad Holmaas UNI Research",
+  "date_publication": "2014",
+  "url": "https://bora.uib.no/bora-xmlui/bitstream/handle/1956/9375/WP%204-2014%2C%20Aakvik%2C%20Monstad%20and%20Holmaas.pdf?sequence=1&isAllowed=y",
+  "cas": "NO_NAV",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:27:20.983956+00:00",
+  "http_status": 200,
+  "final_url": "https://nva.sikt.no/registration/01993dc70714-1df1f44b-0dfe-437c-92df-b68d0d779ac6",
+  "content_type": "text/html",
+  "response_headers": {
+    "Content-Type": "text/html",
+    "Content-Length": "3145",
+    "Date": "Wed, 28 Oct 2026 02:24:44 GMT",
+    "ETag": "\"cf5f9cdace2ff49d39c87f633e5e771f\"",
+    "Last-Modified": "Tue, 27 Oct 2026 11:08:48 GMT"
+  },
+  "body_bytes": 3145,
+  "sha256_body": "dbe8e175d52250115d65e28e37d9a068b1be17d9799c97e2368250cb4de45fdc",
+  "local_path": "data/raw/05/NO_ETUDE_UIB.html.gz",
+  "sha256_stored": "788aaa861295a78f6b6512bf89401174b01ee92cde26e9255ade6239af2713dc",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/NO_ETUDE_UIB.txt",
+  "conversion": "HTMLParser standard library",
+  "expected_pdf": true,
+  "acces": "inaccessible",
+  "error": "PDF attendu ; reponse non PDF archivee comme corps HTTP, non utilisable comme rapport."
+}

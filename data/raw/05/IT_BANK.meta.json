@@ -1,0 +1,30 @@
+{
+  "id": "IT_BANK",
+  "titre": "Public sector employment adjustment, QEF560",
+  "institution": "Banca d'Italia",
+  "date_publication": "2020",
+  "url": "https://www.bancaditalia.it/pubblicazioni/qef/2020-0560/QEF_560_20.pdf?language_id=1",
+  "cas": "IT_TURNOVER",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:14.192417+00:00",
+  "http_status": 200,
+  "final_url": "https://www.bancaditalia.it/pubblicazioni/qef/2020-0560/QEF_560_20.pdf?language_id=1",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:18:37 GMT",
+    "Content-Disposition": "filename=\"QEF_560_20.pdf\"",
+    "Last-Modified": "mar, 18 mar 2025 17:53:32 +0000",
+    "ETag": "dot:c30bc0c2-01e4-4ea5-9aa7-0e97321228fd:1742320412000:3552398",
+    "Content-Type": "application/pdf",
+    "Content-Length": "3552398"
+  },
+  "body_bytes": 3552398,
+  "sha256_body": "3e2e1c5d4029ebd2b592f5d7a2a627b464768c7fce89b709dc1c801ba168c12e",
+  "local_path": "data/cache/05/IT_BANK.pdf",
+  "sha256_stored": "3e2e1c5d4029ebd2b592f5d7a2a627b464768c7fce89b709dc1c801ba168c12e",
+  "archive_format": "identity PDF",
+  "pages_pdf": 36,
+  "text_path": "data/cache/05/IT_BANK.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

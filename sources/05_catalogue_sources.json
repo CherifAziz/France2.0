@@ -1,0 +1,425 @@
+[
+  {
+    "id": "DK_STAT",
+    "titre": "Danemark réforme territoriale 2007 nomenclature",
+    "institution": "Statistics Denmark",
+    "date_publication": "",
+    "url": "https://www.dst.dk/en/Statistik/dokumentation/nomenklaturer/nuts?id=cf2674cc-dc3d-4b8d-9cc5-e2e1cac593fe",
+    "cas": "DK_COMMUNES"
+  },
+  {
+    "id": "DK_FUSIONS",
+    "titre": "Évaluation des conséquences économiques de la réforme communale",
+    "institution": "KORA / Kurt Houlberg, Politik",
+    "date_publication": "2016",
+    "url": "https://tidsskrift.dk/politik/article/view/27404",
+    "cas": "DK_COMMUNES"
+  },
+  {
+    "id": "DK_POST",
+    "titre": "Savings potential Digital Post, report 9/2015",
+    "institution": "Rigsrevisionen",
+    "date_publication": "2016-01-27",
+    "url": "https://cdn.rigsrevisionen.dk/rigsrevisionen/Media/7/1/9-2015.pdf",
+    "cas": "DK_POST"
+  },
+  {
+    "id": "EE_RIA",
+    "titre": "Yearbook 2020, X-tee",
+    "institution": "Information System Authority Estonia",
+    "date_publication": "2020",
+    "url": "https://www.ria.ee/sites/default/files/documents/2022-11/2020-yearbook-of-RIA.pdf",
+    "cas": "EE_XROAD"
+  },
+  {
+    "id": "NL_SCM",
+    "titre": "Jaarverslag Financiën 2007",
+    "institution": "Ministerie van Financiën",
+    "date_publication": "2008",
+    "url": "https://www.rijksfinancien.nl/jaarverslag/2007/IXB",
+    "cas": "NL_SCM"
+  },
+  {
+    "id": "NL_TOESLAGEN",
+    "titre": "Hersteloperatie toeslagen, verantwoordingsonderzoek2024",
+    "institution": "Algemene Rekenkamer",
+    "date_publication": "2025-05-21",
+    "url": "https://www.rekenkamer.nl/actueel/nieuws/2025/05/21/bij-3-ministeries-ernstige-problemen-in-uitvoering-van-rijksbeleid",
+    "cas": "NL_TOESLAGEN"
+  },
+  {
+    "id": "UK_NAO",
+    "titre": "Central government staff costs",
+    "institution": "National Audit Office",
+    "date_publication": "2015-06-11",
+    "url": "https://www.nao.org.uk/wp-content/uploads/2015/06/Central-government-staff-costs.pdf",
+    "cas": "UK_CIVIL"
+  },
+  {
+    "id": "UK_ONS",
+    "titre": "Civil service UK FTE NSA thousands C9KQ",
+    "institution": "Office for National Statistics",
+    "date_publication": "2026-09-15",
+    "url": "https://www.ons.gov.uk/generator?format=csv&uri=/employmentandlabourmarket/peopleinwork/publicsectorpersonnel/timeseries/c9kq/pse",
+    "cas": "UK_CIVIL"
+  },
+  {
+    "id": "CA_REVIEW",
+    "titre": "Federal Spending Reviews: 50 years facts figures lessons",
+    "institution": "Canada School of Public Service",
+    "date_publication": "2025",
+    "url": "https://www.csps-efpc.gc.ca/tools/jobaids/spending-reviews-eng.aspx",
+    "cas": "CA_REVIEW"
+  },
+  {
+    "id": "CA_BUDGET95",
+    "titre": "The Budget Plan 1995",
+    "institution": "Department of Finance Canada",
+    "date_publication": "1995-02-27",
+    "url": "https://www.budget.canada.ca/archives/budget95/binb/budget1995-eng.pdf",
+    "cas": "CA_REVIEW"
+  },
+  {
+    "id": "CA_PHOENIX",
+    "titre": "Building and Implementing the Phoenix Pay System",
+    "institution": "Office of the Auditor General Canada",
+    "date_publication": "2018",
+    "url": "https://publications.gc.ca/collections/collection_2018/bvg-oag/FA1-27-2018-1-1-eng.pdf",
+    "cas": "CA_PHOENIX"
+  },
+  {
+    "id": "NZ_REFORMS",
+    "titre": "Age of reform 1984-1998",
+    "institution": "Public Service Commission New Zealand",
+    "date_publication": "",
+    "url": "https://www.publicservice.govt.nz/publications/100-years-of-public-service/age-of-reform-1984-1998",
+    "cas": "NZ_NPM"
+  },
+  {
+    "id": "NZ_TRENDS",
+    "titre": "Public service long-term workforce trends",
+    "institution": "Public Service Commission New Zealand",
+    "date_publication": "",
+    "url": "https://www.publicservice.govt.nz/data/workforce-data/public-sector-composition/long-term-trends",
+    "cas": "NZ_NPM"
+  },
+  {
+    "id": "NZ_SCHICK",
+    "titre": "The Spirit of Reform",
+    "institution": "Allen Schick, commissioned State Services Commission",
+    "date_publication": "1996",
+    "url": "https://www.publicservice.govt.nz/assets/DirectoryFile/The-Spirit-of-Reform-Managing-the-New-Zealand-State-Sector-in-a-Time-of-Change.pdf",
+    "cas": "NZ_NPM"
+  },
+  {
+    "id": "SE_AGENCIES",
+    "titre": "Administration in central government agencies changes in progress RiR2021:3",
+    "institution": "Riksrevisionen",
+    "date_publication": "2021-03-02",
+    "url": "https://www.riksrevisionen.se/download/18.2008b69c18bd0f6ed3f2f2a7/1618300235879/RiR%202021_03_ENG.pdf",
+    "cas": "SE_AGENCIES"
+  },
+  {
+    "id": "IE_PBO",
+    "titre": "Pre-Budget2021 PBO commentary55/2020",
+    "institution": "Parliamentary Budget Office Ireland",
+    "date_publication": "2020-09-30",
+    "url": "https://data.oireachtas.ie/ie/oireachtas/parliamentaryBudgetOffice/2020/2020-09-30_pre-budget-2021-pbo-commentary_en.pdf",
+    "cas": "IE_MORATOIRE"
+  },
+  {
+    "id": "PT_SIMPLEX",
+    "titre": "Bilan2019 des40mesures Simplex2017-18",
+    "institution": "Governo de Portugal",
+    "date_publication": "2019-07-05",
+    "url": "https://portugal.gov.pt/pt/gc21/comunicacao/noticias/o-simplex-tem-efetivamente-impacto-na-vida-das-pessoas",
+    "cas": "PT_SIMPLEX"
+  },
+  {
+    "id": "PT_IMF",
+    "titre": "Portugal Selected Issues, wage bill reform",
+    "institution": "International Monetary Fund",
+    "date_publication": "2017-08-16",
+    "url": "https://www.imf.org/~/media/Files/Publications/CR/2017/cr17279.ashx",
+    "cas": "PT_TROIKA",
+    "preuve_web_local": "sources/05_ouvertures_primaires.json",
+    "acces_web": "partiel",
+    "note_web": "OPEN connecté réussi sur source primaire ; HTTP direct bloqué/timeout conservé ; passage/page précis dans les observations."
+  },
+  {
+    "id": "GR_ESM",
+    "titre": "OECD contribution evaluation Greek economic adjustment",
+    "institution": "OECD / European Stability Mechanism",
+    "date_publication": "2020",
+    "url": "https://www.esm.europa.eu/system/files/document/dp12.pdf",
+    "cas": "GR_ATTRITION"
+  },
+  {
+    "id": "IT_CAMERA",
+    "titre": "Lavoro pubblico limiti turnover",
+    "institution": "Camera dei deputati",
+    "date_publication": "",
+    "url": "https://temi.camera.it/leg19DIL/temi/19_tl18_interventi_in_materia_di_pubblico_impiego",
+    "cas": "IT_TURNOVER"
+  },
+  {
+    "id": "IT_BANK",
+    "titre": "Public sector employment adjustment, QEF560",
+    "institution": "Banca d'Italia",
+    "date_publication": "2020",
+    "url": "https://www.bancaditalia.it/pubblicazioni/qef/2020-0560/QEF_560_20.pdf?language_id=1",
+    "cas": "IT_TURNOVER"
+  },
+  {
+    "id": "DE_NKR",
+    "titre": "Jahresbericht2022 NKR, Bundestag20/5495",
+    "institution": "Nationaler Normenkontrollrat",
+    "date_publication": "2022",
+    "url": "https://dserver.bundestag.de/btd/20/054/2005495.pdf",
+    "cas": "DE_OZG"
+  },
+  {
+    "id": "NO_NAV",
+    "titre": "Prop.1S2014-2015, résultats évaluations NAV",
+    "institution": "Arbeids og sosialdepartementet",
+    "date_publication": "2014",
+    "url": "https://www.regjeringen.no/no/dokumenter/Prop-1-S-20142015/id2005444/?ch=2",
+    "cas": "NO_NAV",
+    "preuve_web_local": "sources/05_ouvertures_primaires.json",
+    "acces_web": "partiel",
+    "note_web": "OPEN connecté réussi sur source primaire ; HTTP direct bloqué/timeout conservé ; passage/page précis dans les observations."
+  },
+  {
+    "id": "SG_CSS",
+    "titre": "Creation Centre for Shared Services",
+    "institution": "Ministry of Finance Singapore",
+    "date_publication": "2005-09-01",
+    "url": "https://www.mof.gov.sg/news-resources/newsroom/government-sets-up-a-centre-for-shared-services/",
+    "cas": "SG_VITAL"
+  },
+  {
+    "id": "SG_VITAL",
+    "titre": "CE new year message2023",
+    "institution": "VITAL Government Singapore",
+    "date_publication": "2023",
+    "url": "https://www.vital.gov.sg/media-library/publications/ce-new-year-message-2023/",
+    "cas": "SG_VITAL"
+  },
+  {
+    "id": "KR_KONEPS",
+    "titre": "The Korean Public Procurement Service",
+    "institution": "OECD",
+    "date_publication": "2016",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/01/the-korean-public-procurement-service_g1g620af/9789264249431-en.pdf",
+    "cas": "KR_KONEPS"
+  },
+  {
+    "id": "JP_COST",
+    "titre": "Government IT cost effectiveness overview",
+    "institution": "Digital Agency Japan",
+    "date_publication": "2026-06-26",
+    "url": "https://www.digital.go.jp/en/policies/development_management/cost-effectiveness",
+    "cas": "JP_IT"
+  },
+  {
+    "id": "JP_RESULT24",
+    "titre": "Progress30percent cost reduction FY2024",
+    "institution": "Digital Agency Japan",
+    "date_publication": "2026-06-26",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/6cea6183-9edf-488d-904b-8b6c5e9c2bef/e7578cbd/20260626cost-saving_progress_2024.pdf",
+    "cas": "JP_IT"
+  },
+  {
+    "id": "US_DOGE",
+    "titre": "DOGE Wall of Receipts GAO26-108615",
+    "institution": "Government Accountability Office",
+    "date_publication": "2026-08-06",
+    "url": "https://files.gao.gov/reports/GAO-26-108615/index.html",
+    "cas": "US_DOGE"
+  },
+  {
+    "id": "US_OPM",
+    "titre": "Recent Federal Workforce Changes OPM GAO26-108916",
+    "institution": "Government Accountability Office",
+    "date_publication": "2026-07-20",
+    "url": "https://www.gao.gov/assets/gao-26-108916.pdf",
+    "cas": "US_DOGE"
+  },
+  {
+    "id": "FS2017",
+    "titre": "Tableau de bord emploi public2017",
+    "institution": "France Stratégie",
+    "date_publication": "2017-12-21",
+    "url": "https://www.strategie.gouv.fr/files/files/Publications/2017%20SP/2017-12-21%20-%20Tableau%20de%20bord%20de%20l%E2%80%99emploi%20public/tdb-emploi-public-20-12-2017.pdf",
+    "cas": "METHODE"
+  },
+  {
+    "id": "FS2017_PDF",
+    "titre": "Tableau emploi public2017 domaine actuel",
+    "institution": "France Stratégie",
+    "date_publication": "2017-12-21",
+    "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2017%20SP/2017-12-21%20-%20Tableau%20de%20bord%20de%20l%E2%80%99emploi%20public/tdb-emploi-public-20-12-2017.pdf",
+    "cas": "METHODE"
+  },
+  {
+    "id": "DK_DID",
+    "titre": "Size Democracy Economic Costs, AJPS58(4)790-803, copie universitaire",
+    "institution": "Blom-Hansen Houlberg Serritzlew",
+    "date_publication": "2014",
+    "url": "https://joeornstein.github.io/pols-4641/readings/Blom-Hansen%2C%20Houlberg%2C%20Serritzlew%20-%202014%20-%20Size%2C%20Democracy%2C%20and%20the%20Economic%20Costs%20of%20Running%20the%20Political%20System.pdf",
+    "cas": "DK_COMMUNES"
+  },
+  {
+    "id": "PT_IMF_PDF",
+    "titre": "Portugal Selected Issues, wagebill",
+    "institution": "International Monetary Fund",
+    "date_publication": "2017-08-16",
+    "url": "https://www.imf.org/external/pubs/ft/scr/2017/cr17279.pdf",
+    "cas": "PT_TROIKA"
+  },
+  {
+    "id": "IE_COMMISSION",
+    "titre": "Report Public Service Pay Commission Aug2018, copie du document primaire",
+    "institution": "Public Service Pay Commission Ireland",
+    "date_publication": "2018-08",
+    "url": "https://www.pna.ie/images/1909182.pdf",
+    "cas": "IE_MORATOIRE"
+  },
+  {
+    "id": "NO_ETUDE",
+    "titre": "Evaluating National Labour Welfare Reform NAV WorkingPaper4-2014",
+    "institution": "Aakvik Monstad Holmaas, UNI Rokkan Centre",
+    "date_publication": "2014",
+    "url": "https://norceresearch.brage.unit.no/norceresearch-xmlui/bitstream/handle/1956/9375/WP%204-2014%2C%20Aakvik%2C%20Monstad%20and%20Holmaas.pdf?isAllowed=y&sequence=1",
+    "cas": "NO_NAV"
+  },
+  {
+    "id": "SG_VITAL_HOME",
+    "titre": "VITAL central agency corporate shared services",
+    "institution": "Government Singapore",
+    "date_publication": "2026-10-16",
+    "url": "https://www.vital.gov.sg/",
+    "cas": "SG_VITAL"
+  },
+  {
+    "id": "NZ_ACTUEL",
+    "titre": "Workforce size, PublicService Departments, June2026",
+    "institution": "Public Service Commission New Zealand",
+    "date_publication": "2026",
+    "url": "https://www.publicservice.govt.nz/data/workforce-data/public-sector-composition/workforce-size",
+    "cas": "NZ_RECENT"
+  },
+  {
+    "id": "US_CBO",
+    "titre": "Sequestration2025 AnUpdate",
+    "institution": "Congressional Budget Office",
+    "date_publication": "2025",
+    "url": "https://www.cbo.gov/publication/61679",
+    "cas": "US_DOGE",
+    "preuve_web_local": "sources/05_ouvertures_primaires.json",
+    "acces_web": "partiel",
+    "note_web": "OPEN connecté réussi sur source primaire ; HTTP direct bloqué/timeout conservé ; passage/page précis dans les observations."
+  },
+  {
+    "id": "CA_PHOENIX_OAG",
+    "titre": "Building and Implementing Phoenix officialPDF original",
+    "institution": "Office of the Auditor General Canada",
+    "date_publication": "2018",
+    "url": "https://www.oag-bvg.gc.ca/internet/docs/parl_oag_201805_01_e.pdf",
+    "cas": "CA_PHOENIX"
+  },
+  {
+    "id": "CA_PHOENIX_PARL",
+    "titre": "Building and Implementing Phoenix, PublicAccountsCommittee report53",
+    "institution": "House of Commons Canada",
+    "date_publication": "2018-11",
+    "url": "https://www.ourcommons.ca/Content/Committee/421/PACP/Reports/RP10186708/pacprp53/pacprp53-e.pdf",
+    "cas": "CA_PHOENIX"
+  },
+  {
+    "id": "CA_PHOENIX25",
+    "titre": "Phoenix expenditures2024-25",
+    "institution": "Treasury Board Secretariat Canada",
+    "date_publication": "2025",
+    "url": "https://www.canada.ca/en/treasury-board-secretariat/corporate/reports/treasury-board-canada-secretariat-2024-25-departmental-results-report/phoenix-pay-system-expenditures.html",
+    "cas": "CA_PHOENIX",
+    "preuve_web_local": "sources/05_ouvertures_primaires.json",
+    "acces_web": "partiel",
+    "note_web": "OPEN connecté réussi sur source primaire ; HTTP direct bloqué/timeout conservé ; passage/page précis dans les observations."
+  },
+  {
+    "id": "CA_MODERN26",
+    "titre": "Modernizing the Pay System audit",
+    "institution": "Auditor General Canada",
+    "date_publication": "2026-03-23",
+    "url": "https://www.canada.ca/en/auditor-general/our-work/audit-reports/auditor-general-report-2026-modernizing-pay-system.html",
+    "cas": "CA_PHOENIX",
+    "preuve_web_local": "sources/05_ouvertures_primaires.json",
+    "acces_web": "partiel",
+    "note_web": "OPEN connecté réussi sur source primaire ; HTTP direct bloqué/timeout conservé ; passage/page précis dans les observations."
+  },
+  {
+    "id": "CA_AUDIT25",
+    "titre": "Commentary2024-25 financialaudits",
+    "institution": "Auditor General Canada",
+    "date_publication": "2025",
+    "url": "https://www.oag-bvg.gc.ca/internet/docs/oag-bvg_e_44706.pdf",
+    "cas": "CA_PHOENIX"
+  },
+  {
+    "id": "IE_FEMPI",
+    "titre": "PublicServicePay, FEMPI restoration",
+    "institution": "Department Public Expenditure Ireland",
+    "date_publication": "2019-02-28",
+    "url": "https://www.gov.ie/en/department-of-public-expenditure-infrastructure-public-service-reform-and-digitalisation/policy-information/public-service-pay/",
+    "cas": "IE_MORATOIRE"
+  },
+  {
+    "id": "NO_ETUDE_UIB",
+    "titre": "NAV national reform evaluation WP4-2014 repository Bergen",
+    "institution": "Aakvik Monstad Holmaas UNI Research",
+    "date_publication": "2014",
+    "url": "https://bora.uib.no/bora-xmlui/bitstream/handle/1956/9375/WP%204-2014%2C%20Aakvik%2C%20Monstad%20and%20Holmaas.pdf?sequence=1&isAllowed=y",
+    "cas": "NO_NAV"
+  },
+  {
+    "id": "CA_MODERN26_PDF",
+    "titre": "Modernizing the Pay System report2026 PDF",
+    "institution": "Auditor General Canada",
+    "date_publication": "2026-03-23",
+    "url": "https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-modernizing-pay-system.pdf",
+    "cas": "CA_PHOENIX"
+  },
+  {
+    "id": "US_CBO_PDF",
+    "titre": "Sequestration2025 AnUpdate PDF",
+    "institution": "Congressional Budget Office",
+    "date_publication": "2025-08",
+    "url": "https://www.cbo.gov/system/files/2025-08/61618-sequestration.pdf",
+    "cas": "US_DOGE"
+  },
+  {
+    "id": "NL_TOESLAGEN_PDF",
+    "titre": "Audit finances2024 section3.2 tableau8",
+    "institution": "Algemene Rekenkamer",
+    "date_publication": "2025-05-21",
+    "url": "https://www.rekenkamer.nl/site/binaries/site-content/collections/documents/2025/05/21/vo-2024-fin/IX%2BFinancien%2BWR.pdf",
+    "cas": "NL_TOESLAGEN"
+  },
+  {
+    "id": "SE_CENTRE",
+    "titre": "Statensservicecenter history2025",
+    "institution": "Statens servicecenter",
+    "date_publication": "2026",
+    "url": "https://www.statenssc.se/om-statens-servicecenter/var-historia",
+    "cas": "SE_AGENCIES"
+  },
+  {
+    "id": "DE_METHODE",
+    "titre": "Definition and evolution Erfuellungsaufwand",
+    "institution": "Statistisches Bundesamt",
+    "date_publication": "2026",
+    "url": "https://www.destatis.de/DE/Themen/Staat/Buerokratiekosten/Erfuellungsaufwand/erfuellungsaufwand.html",
+    "cas": "DE_OZG"
+  }
+]

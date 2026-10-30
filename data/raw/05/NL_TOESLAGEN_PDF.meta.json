@@ -1,0 +1,30 @@
+{
+  "id": "NL_TOESLAGEN_PDF",
+  "titre": "Audit finances2024 section3.2 tableau8",
+  "institution": "Algemene Rekenkamer",
+  "date_publication": "2025-05-21",
+  "url": "https://www.rekenkamer.nl/site/binaries/site-content/collections/documents/2025/05/21/vo-2024-fin/IX%2BFinancien%2BWR.pdf",
+  "cas": "NL_TOESLAGEN",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:34:38.226241+00:00",
+  "http_status": 200,
+  "final_url": "https://www.rekenkamer.nl/site/binaries/site-content/collections/documents/2025/05/21/vo-2024-fin/IX%2BFinancien%2BWR.pdf",
+  "content_type": "application/pdf;charset=UTF-8",
+  "response_headers": {
+    "Last-Modified": "Tue, 20 May 2025 07:02:33 GMT",
+    "Content-Type": "application/pdf;charset=UTF-8",
+    "Content-Length": "2607119",
+    "ETag": "\"1780911655541\"",
+    "Date": "Wed, 28 Oct 2026 02:32:00 GMT"
+  },
+  "body_bytes": 2607119,
+  "sha256_body": "ac9555db90111d3c8d9e599c1e77b9619f1df43f5aec1663e499319d64f2e194",
+  "local_path": "data/cache/05/NL_TOESLAGEN_PDF.pdf",
+  "sha256_stored": "ac9555db90111d3c8d9e599c1e77b9619f1df43f5aec1663e499319d64f2e194",
+  "archive_format": "identity PDF",
+  "pages_pdf": 116,
+  "text_path": "data/cache/05/NL_TOESLAGEN_PDF.txt",
+  "conversion": "pypdf with physical page markers",
+  "expected_pdf": true,
+  "acces": "integral"
+}

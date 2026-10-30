@@ -1,0 +1,28 @@
+{
+  "id": "US_CBO_PDF",
+  "titre": "Sequestration2025 AnUpdate PDF",
+  "institution": "Congressional Budget Office",
+  "date_publication": "2025-08",
+  "url": "https://www.cbo.gov/system/files/2025-08/61618-sequestration.pdf",
+  "cas": "US_DOGE",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:30:32.362267+00:00",
+  "http_status": 403,
+  "final_url": "https://www.cbo.gov/system/files/2025-08/61618-sequestration.pdf",
+  "content_type": "text/html;charset=utf-8",
+  "response_headers": {
+    "Content-Length": "767",
+    "Content-Type": "text/html;charset=utf-8",
+    "Date": "Wed, 28 Oct 2026 02:27:54 GMT"
+  },
+  "body_bytes": 767,
+  "sha256_body": "718faf87a293acf267b9573e6c620cb5d50c47bc096b01c57bfb0ef5b136338a",
+  "local_path": "data/raw/05/US_CBO_PDF.html.gz",
+  "sha256_stored": "ee4909deebd7a0fc56c5ca80d321b6331f44f9a1891ca58050cd7d513ca42033",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/US_CBO_PDF.txt",
+  "conversion": "HTMLParser standard library",
+  "expected_pdf": true,
+  "acces": "inaccessible",
+  "error": "PDF attendu ; reponse non PDF archivee comme corps HTTP, non utilisable comme rapport."
+}

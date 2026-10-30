@@ -1,0 +1,13 @@
+{
+  "id": "CA_PHOENIX25",
+  "titre": "Phoenix expenditures2024-25",
+  "institution": "Treasury Board Secretariat Canada",
+  "date_publication": "2025",
+  "url": "https://www.canada.ca/en/treasury-board-secretariat/corporate/reports/treasury-board-canada-secretariat-2024-25-departmental-results-report/phoenix-pay-system-expenditures.html",
+  "cas": "CA_PHOENIX",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:27:20.982956+00:00",
+  "error": "ReadTimeout: HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=45)",
+  "acces": "inaccessible",
+  "response_headers": {}
+}

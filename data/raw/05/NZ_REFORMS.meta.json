@@ -1,0 +1,26 @@
+{
+  "id": "NZ_REFORMS",
+  "titre": "Age of reform 1984-1998",
+  "institution": "Public Service Commission New Zealand",
+  "date_publication": "",
+  "url": "https://www.publicservice.govt.nz/publications/100-years-of-public-service/age-of-reform-1984-1998",
+  "cas": "NZ_NPM",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:09.128658+00:00",
+  "http_status": 200,
+  "final_url": "https://www.publicservice.govt.nz/publications/100-years-of-public-service/age-of-reform-1984-1998",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Wed, 28 Oct 2026 02:18:32 GMT",
+    "ETag": "\"a0fea1e620b5382231b10ed1988ef565\""
+  },
+  "body_bytes": 53875,
+  "sha256_body": "f69956eda4c2676e70a534f36a754fa61d16cf57bce77e69d1bfa3dcbe245594",
+  "local_path": "data/raw/05/NZ_REFORMS.html.gz",
+  "sha256_stored": "1ba7a55a218b9a0a2c16bb895de967621dd00c3c20f8e172a712a50e438ba5a5",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/NZ_REFORMS.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

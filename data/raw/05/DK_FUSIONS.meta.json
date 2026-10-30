@@ -1,0 +1,25 @@
+{
+  "id": "DK_FUSIONS",
+  "titre": "Évaluation des conséquences économiques de la réforme communale",
+  "institution": "KORA / Kurt Houlberg, Politik",
+  "date_publication": "2016",
+  "url": "https://tidsskrift.dk/politik/article/view/27404",
+  "cas": "DK_COMMUNES",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:06.775673+00:00",
+  "http_status": 200,
+  "final_url": "https://tidsskrift.dk/politik/article/view/27404",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:18:29 GMT",
+    "Content-Type": "text/html; charset=utf-8"
+  },
+  "body_bytes": 37309,
+  "sha256_body": "32804467e452ec7698a563bbd9afc5c6a68da1977302f79940fdcfa2268c8db2",
+  "local_path": "data/raw/05/DK_FUSIONS.html.gz",
+  "sha256_stored": "e228763ca798f91a0bd0aac219714d118c859a4d62b81fa1ec5e6520019c723b",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/DK_FUSIONS.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

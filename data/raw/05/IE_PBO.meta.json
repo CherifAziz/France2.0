@@ -1,0 +1,29 @@
+{
+  "id": "IE_PBO",
+  "titre": "Pre-Budget2021 PBO commentary55/2020",
+  "institution": "Parliamentary Budget Office Ireland",
+  "date_publication": "2020-09-30",
+  "url": "https://data.oireachtas.ie/ie/oireachtas/parliamentaryBudgetOffice/2020/2020-09-30_pre-budget-2021-pbo-commentary_en.pdf",
+  "cas": "IE_MORATOIRE",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:12.606682+00:00",
+  "http_status": 200,
+  "final_url": "https://data.oireachtas.ie/ie/oireachtas/parliamentaryBudgetOffice/2020/2020-09-30_pre-budget-2021-pbo-commentary_en.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Content-Type": "application/pdf",
+    "Content-Length": "2838454",
+    "Date": "Wed, 28 Oct 2026 02:18:34 GMT",
+    "Last-Modified": "Wed, 30 Sep 2020 13:56:51 GMT",
+    "ETag": "\"9c56ac53e3b88d3ca3b1c945da38d0a8\""
+  },
+  "body_bytes": 2838454,
+  "sha256_body": "55250753cee9cdf9988a4b765f26e959fca17c0e34a863ba663d4feceab613f7",
+  "local_path": "data/cache/05/IE_PBO.pdf",
+  "sha256_stored": "55250753cee9cdf9988a4b765f26e959fca17c0e34a863ba663d4feceab613f7",
+  "archive_format": "identity PDF",
+  "pages_pdf": 71,
+  "text_path": "data/cache/05/IE_PBO.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

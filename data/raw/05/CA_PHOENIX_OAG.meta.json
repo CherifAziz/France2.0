@@ -1,0 +1,28 @@
+{
+  "id": "CA_PHOENIX_OAG",
+  "titre": "Building and Implementing Phoenix officialPDF original",
+  "institution": "Office of the Auditor General Canada",
+  "date_publication": "2018",
+  "url": "https://www.oag-bvg.gc.ca/internet/docs/parl_oag_201805_01_e.pdf",
+  "cas": "CA_PHOENIX",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:24:39.490240+00:00",
+  "http_status": 200,
+  "final_url": "https://www.oag-bvg.gc.ca/internet/docs/parl_oag_201805_01_e.pdf",
+  "content_type": "text/html",
+  "response_headers": {
+    "content-type": "text/html",
+    "date": "Wed, 28 Oct 2026 02:21:59 GMT",
+    "content-length": "3818"
+  },
+  "body_bytes": 3818,
+  "sha256_body": "d6dd795a7c51004fb951b6a1ff62aefdb032dbe8a6550a6a9cebca994da452c3",
+  "local_path": "data/raw/05/CA_PHOENIX_OAG.html.gz",
+  "sha256_stored": "761482ad841483eb9a7d9303c8f538bca19f77e0373e0e4bd834e9125d36685a",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/CA_PHOENIX_OAG.txt",
+  "conversion": "HTMLParser standard library",
+  "expected_pdf": true,
+  "acces": "inaccessible",
+  "error": "PDF attendu ; reponse non PDF archivee comme corps HTTP, non utilisable comme rapport."
+}

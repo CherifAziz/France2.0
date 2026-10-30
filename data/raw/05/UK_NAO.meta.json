@@ -1,0 +1,29 @@
+{
+  "id": "UK_NAO",
+  "titre": "Central government staff costs",
+  "institution": "National Audit Office",
+  "date_publication": "2015-06-11",
+  "url": "https://www.nao.org.uk/wp-content/uploads/2015/06/Central-government-staff-costs.pdf",
+  "cas": "UK_CIVIL",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:07.651814+00:00",
+  "http_status": 200,
+  "final_url": "https://www.nao.org.uk/wp-content/uploads/2015/06/Central-government-staff-costs.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Content-Type": "application/pdf",
+    "Content-Length": "559560",
+    "Date": "Wed, 28 Oct 2026 02:18:29 GMT",
+    "Last-Modified": "Thu, 18 Aug 2022 14:02:45 GMT",
+    "ETag": "\"62fe4685-889c8\""
+  },
+  "body_bytes": 559560,
+  "sha256_body": "9da22e7d91e06ec750506e9e499c5f7d54037cb186cb4f27e71aceca06800ac9",
+  "local_path": "data/cache/05/UK_NAO.pdf",
+  "sha256_stored": "9da22e7d91e06ec750506e9e499c5f7d54037cb186cb4f27e71aceca06800ac9",
+  "archive_format": "identity PDF",
+  "pages_pdf": 49,
+  "text_path": "data/cache/05/UK_NAO.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

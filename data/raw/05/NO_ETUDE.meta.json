@@ -1,0 +1,13 @@
+{
+  "id": "NO_ETUDE",
+  "titre": "Evaluating National Labour Welfare Reform NAV WorkingPaper4-2014",
+  "institution": "Aakvik Monstad Holmaas, UNI Rokkan Centre",
+  "date_publication": "2014",
+  "url": "https://norceresearch.brage.unit.no/norceresearch-xmlui/bitstream/handle/1956/9375/WP%204-2014%2C%20Aakvik%2C%20Monstad%20and%20Holmaas.pdf?isAllowed=y&sequence=1",
+  "cas": "NO_NAV",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:24:37.009902+00:00",
+  "error": "ConnectionError: HTTPSConnectionPool(host='norceresearch.brage.unit.no', port=443): Max retries exceeded with url: /norceresearch-xmlui/bitstream/handle/1956/9375/WP%204-2014%2C%20Aakvik%2C%20Monstad%20and%20Holmaas.pdf?isAllowed=y&sequence=1 (Caused by NameResolutionError(\"HTTPSConnection(host='norceresearch.brage.unit.no', port=443): Failed to resolve 'norceresearch.brage.unit.no' ([Errno 11001] getaddrinfo failed)\"))",
+  "acces": "inaccessible",
+  "response_headers": {}
+}

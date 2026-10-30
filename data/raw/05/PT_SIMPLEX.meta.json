@@ -1,0 +1,27 @@
+{
+  "id": "PT_SIMPLEX",
+  "titre": "Bilan2019 des40mesures Simplex2017-18",
+  "institution": "Governo de Portugal",
+  "date_publication": "2019-07-05",
+  "url": "https://portugal.gov.pt/pt/gc21/comunicacao/noticias/o-simplex-tem-efetivamente-impacto-na-vida-das-pessoas",
+  "cas": "PT_SIMPLEX",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:12.954967+00:00",
+  "http_status": 200,
+  "final_url": "https://portugal.gov.pt/pt/gc21/comunicacao/noticias/o-simplex-tem-efetivamente-impacto-na-vida-das-pessoas",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Content-Length": "211299",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Sat, 24 Oct 2026 18:28:36 GMT",
+    "Etag": "\"16ldn5s6b8v4ie7\""
+  },
+  "body_bytes": 211299,
+  "sha256_body": "1d528d7a72be21256c234fe7e8be9b1fe45ba9e476ff7d4525e83a184cbd9b12",
+  "local_path": "data/raw/05/PT_SIMPLEX.html.gz",
+  "sha256_stored": "90dbeca0bdc1ac64da2fb3b088ccf6e36da6de7ffccae6422ea504a59ca959ac",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/PT_SIMPLEX.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

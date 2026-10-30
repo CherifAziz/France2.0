@@ -1,0 +1,27 @@
+{
+  "id": "GR_ESM",
+  "titre": "OECD contribution evaluation Greek economic adjustment",
+  "institution": "OECD / European Stability Mechanism",
+  "date_publication": "2020",
+  "url": "https://www.esm.europa.eu/system/files/document/dp12.pdf",
+  "cas": "GR_ATTRITION",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:13.879508+00:00",
+  "http_status": 200,
+  "final_url": "https://www.esm.europa.eu/system/files/document/dp12.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Content-Type": "application/pdf",
+    "Date": "Wed, 28 Oct 2026 02:18:36 GMT",
+    "Last-Modified": "Tue, 09 Jul 2024 09:38:45 GMT"
+  },
+  "body_bytes": 3147795,
+  "sha256_body": "187f8998641e42ec38a36dd0fc4ae3cc4a4f1eb13a8ce26845bd6d6f5d782bf7",
+  "local_path": "data/cache/05/GR_ESM.pdf",
+  "sha256_stored": "187f8998641e42ec38a36dd0fc4ae3cc4a4f1eb13a8ce26845bd6d6f5d782bf7",
+  "archive_format": "identity PDF",
+  "pages_pdf": 87,
+  "text_path": "data/cache/05/GR_ESM.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "DK_DID",
+  "titre": "Size Democracy Economic Costs, AJPS58(4)790-803, copie universitaire",
+  "institution": "Blom-Hansen Houlberg Serritzlew",
+  "date_publication": "2014",
+  "url": "https://joeornstein.github.io/pols-4641/readings/Blom-Hansen%2C%20Houlberg%2C%20Serritzlew%20-%202014%20-%20Size%2C%20Democracy%2C%20and%20the%20Economic%20Costs%20of%20Running%20the%20Political%20System.pdf",
+  "cas": "DK_COMMUNES",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:24:37.007901+00:00",
+  "http_status": 200,
+  "final_url": "https://joeornstein.github.io/pols-4641/readings/Blom-Hansen%2C%20Houlberg%2C%20Serritzlew%20-%202014%20-%20Size%2C%20Democracy%2C%20and%20the%20Economic%20Costs%20of%20Running%20the%20Political%20System.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Content-Length": "2329960",
+    "Content-Type": "application/pdf",
+    "Last-Modified": "Thu, 22 Oct 2026 17:31:47 GMT",
+    "ETag": "\"6ada4883-238d68\"",
+    "Date": "Wed, 28 Oct 2026 02:21:59 GMT"
+  },
+  "body_bytes": 2329960,
+  "sha256_body": "568a343bc08c258a0559c818f12b33afd6ced7a1c465cf03386ec28cde1ed1cf",
+  "local_path": "data/cache/05/DK_DID.pdf",
+  "sha256_stored": "568a343bc08c258a0559c818f12b33afd6ced7a1c465cf03386ec28cde1ed1cf",
+  "archive_format": "identity PDF",
+  "pages_pdf": 15,
+  "text_path": "data/cache/05/DK_DID.txt",
+  "conversion": "pypdf with physical page markers",
+  "expected_pdf": true,
+  "acces": "integral"
+}

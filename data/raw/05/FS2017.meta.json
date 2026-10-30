@@ -1,0 +1,13 @@
+{
+  "id": "FS2017",
+  "titre": "Tableau de bord emploi public2017",
+  "institution": "France Stratégie",
+  "date_publication": "2017-12-21",
+  "url": "https://www.strategie.gouv.fr/files/files/Publications/2017%20SP/2017-12-21%20-%20Tableau%20de%20bord%20de%20l%E2%80%99emploi%20public/tdb-emploi-public-20-12-2017.pdf",
+  "cas": "METHODE",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:27.244914+00:00",
+  "error": "SSLError: HTTPSConnectionPool(host='www.strategie.gouv.fr', port=443): Max retries exceeded with url: /files/files/Publications/2017%20SP/2017-12-21%20-%20Tableau%20de%20bord%20de%20l%E2%80%99emploi%20public/tdb-emploi-public-20-12-2017.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))",
+  "acces": "inaccessible",
+  "response_headers": {}
+}

@@ -1,0 +1,26 @@
+{
+  "id": "NL_SCM",
+  "titre": "Jaarverslag Financiën 2007",
+  "institution": "Ministerie van Financiën",
+  "date_publication": "2008",
+  "url": "https://www.rijksfinancien.nl/jaarverslag/2007/IXB",
+  "cas": "NL_SCM",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:06.777725+00:00",
+  "http_status": 200,
+  "final_url": "https://www.rijksfinancien.nl/jaarverslag/2007/IXB",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:18:29 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "518998"
+  },
+  "body_bytes": 518998,
+  "sha256_body": "24f8cec950b2c8bbdc0a7b6d27af904c9f12b709c1feeb24cc62f7de49035395",
+  "local_path": "data/raw/05/NL_SCM.html.gz",
+  "sha256_stored": "712f88ff079c69c57ceb2aa71ab08f7feae96b880a6992bf1d8eabe9694748ba",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/NL_SCM.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

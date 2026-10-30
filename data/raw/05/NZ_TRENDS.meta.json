@@ -1,0 +1,26 @@
+{
+  "id": "NZ_TRENDS",
+  "titre": "Public service long-term workforce trends",
+  "institution": "Public Service Commission New Zealand",
+  "date_publication": "",
+  "url": "https://www.publicservice.govt.nz/data/workforce-data/public-sector-composition/long-term-trends",
+  "cas": "NZ_NPM",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:10.415456+00:00",
+  "http_status": 200,
+  "final_url": "https://www.publicservice.govt.nz/data/workforce-data/public-sector-composition/long-term-trends",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Wed, 28 Oct 2026 02:18:33 GMT",
+    "ETag": "\"17e8937bed34bf7efceaab4256fc28f1\""
+  },
+  "body_bytes": 46718,
+  "sha256_body": "d3a974a446a53e54c6e6a7bd88a1812169e27ae9d3057b8f661a7662292a4c4c",
+  "local_path": "data/raw/05/NZ_TRENDS.html.gz",
+  "sha256_stored": "87673270ec6497e24a56fd839565a3b797e37abab5d81b7cb0953c7c37ed6067",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/NZ_TRENDS.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "DE_NKR",
+  "titre": "Jahresbericht2022 NKR, Bundestag20/5495",
+  "institution": "Nationaler Normenkontrollrat",
+  "date_publication": "2022",
+  "url": "https://dserver.bundestag.de/btd/20/054/2005495.pdf",
+  "cas": "DE_OZG",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:16.608260+00:00",
+  "http_status": 200,
+  "final_url": "https://dserver.bundestag.de/btd/20/054/2005495.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "date": "Wed, 28 Oct 2026 02:18:39 GMT",
+    "content-type": "application/pdf",
+    "content-length": "16618575",
+    "last-modified": "Mon, 13 Feb 2023 07:36:38 GMT",
+    "etag": "\"63e9e886-fd944f\""
+  },
+  "body_bytes": 16618575,
+  "sha256_body": "dc07b61e86abb9b430a0ab1682bec7080d1a6f90cfbe997a10af19512dd52282",
+  "local_path": "data/cache/05/DE_NKR.pdf",
+  "sha256_stored": "dc07b61e86abb9b430a0ab1682bec7080d1a6f90cfbe997a10af19512dd52282",
+  "archive_format": "identity PDF",
+  "pages_pdf": 76,
+  "text_path": "data/cache/05/DE_NKR.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

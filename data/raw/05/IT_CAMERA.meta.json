@@ -1,0 +1,25 @@
+{
+  "id": "IT_CAMERA",
+  "titre": "Lavoro pubblico limiti turnover",
+  "institution": "Camera dei deputati",
+  "date_publication": "",
+  "url": "https://temi.camera.it/leg19DIL/temi/19_tl18_interventi_in_materia_di_pubblico_impiego",
+  "cas": "IT_TURNOVER",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:14.050589+00:00",
+  "http_status": 200,
+  "final_url": "https://temi.camera.it/leg19DIL/temi/19_tl18_interventi_in_materia_di_pubblico_impiego",
+  "content_type": "text/html;charset=UTF-8",
+  "response_headers": {
+    "date": "Wed, 28 Oct 2026 02:18:37 GMT",
+    "content-type": "text/html;charset=UTF-8"
+  },
+  "body_bytes": 98441,
+  "sha256_body": "89473193cc7319d6f4c19845b75a1d153b98560ae2cf5ee6dae6bdc00f021d9d",
+  "local_path": "data/raw/05/IT_CAMERA.html.gz",
+  "sha256_stored": "dbddb15821ac921d43068c99879f2ed55cde71a7e16e5e0b911368cc1f11bdd1",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/IT_CAMERA.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "DK_POST",
+  "titre": "Savings potential Digital Post, report 9/2015",
+  "institution": "Rigsrevisionen",
+  "date_publication": "2016-01-27",
+  "url": "https://cdn.rigsrevisionen.dk/rigsrevisionen/Media/7/1/9-2015.pdf",
+  "cas": "DK_POST",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:06.776672+00:00",
+  "http_status": 200,
+  "final_url": "https://cdn.rigsrevisionen.dk/rigsrevisionen/Media/7/1/9-2015.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Content-Type": "application/pdf",
+    "Content-Length": "204782",
+    "ETag": "\"1dc4f28c36a136e\"",
+    "Last-Modified": "Thu, 06 Nov 2025 14:22:21 GMT",
+    "Date": "Wed, 28 Oct 2026 02:18:29 GMT"
+  },
+  "body_bytes": 204782,
+  "sha256_body": "7efc1a75b828484b38e6288ff98b7d8a3fac2051712a6e24a73679c15c23c686",
+  "local_path": "data/cache/05/DK_POST.pdf",
+  "sha256_stored": "7efc1a75b828484b38e6288ff98b7d8a3fac2051712a6e24a73679c15c23c686",
+  "archive_format": "identity PDF",
+  "pages_pdf": 4,
+  "text_path": "data/cache/05/DK_POST.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

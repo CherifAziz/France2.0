@@ -1,0 +1,28 @@
+{
+  "id": "US_OPM",
+  "titre": "Recent Federal Workforce Changes OPM GAO26-108916",
+  "institution": "Government Accountability Office",
+  "date_publication": "2026-07-20",
+  "url": "https://www.gao.gov/assets/gao-26-108916.pdf",
+  "cas": "US_DOGE",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:26.718020+00:00",
+  "http_status": 200,
+  "final_url": "https://www.gao.gov/assets/gao-26-108916.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Content-Type": "application/pdf",
+    "Content-Length": "495976",
+    "Last-Modified": "Mon, 20 Jul 2026 11:22:21 GMT",
+    "Date": "Wed, 28 Oct 2026 02:18:49 GMT"
+  },
+  "body_bytes": 495976,
+  "sha256_body": "1f522a0ecd73c376313ade18c2f2e12511f62a903dcd883ba0e6d8de8411096b",
+  "local_path": "data/cache/05/US_OPM.pdf",
+  "sha256_stored": "1f522a0ecd73c376313ade18c2f2e12511f62a903dcd883ba0e6d8de8411096b",
+  "archive_format": "identity PDF",
+  "pages_pdf": 2,
+  "text_path": "data/cache/05/US_OPM.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

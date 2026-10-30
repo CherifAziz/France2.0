@@ -1,0 +1,28 @@
+{
+  "id": "SE_AGENCIES",
+  "titre": "Administration in central government agencies changes in progress RiR2021:3",
+  "institution": "Riksrevisionen",
+  "date_publication": "2021-03-02",
+  "url": "https://www.riksrevisionen.se/download/18.2008b69c18bd0f6ed3f2f2a7/1618300235879/RiR%202021_03_ENG.pdf",
+  "cas": "SE_AGENCIES",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:12.443552+00:00",
+  "http_status": 200,
+  "final_url": "https://www.riksrevisionen.se/download/18.2008b69c18bd0f6ed3f2f2a7/1618300235879/RiR%202021_03_ENG.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:18:34 GMT",
+    "Last-Modified": "Tue, 13 Apr 2021 07:50:35 GMT",
+    "Content-Type": "application/pdf",
+    "Content-Length": "71796"
+  },
+  "body_bytes": 71796,
+  "sha256_body": "1953e01b7c7dd206d6061466beeb3e7efef3e98edb8e0c1a806d3c4227b0aae4",
+  "local_path": "data/cache/05/SE_AGENCIES.pdf",
+  "sha256_stored": "1953e01b7c7dd206d6061466beeb3e7efef3e98edb8e0c1a806d3c4227b0aae4",
+  "archive_format": "identity PDF",
+  "pages_pdf": 3,
+  "text_path": "data/cache/05/SE_AGENCIES.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

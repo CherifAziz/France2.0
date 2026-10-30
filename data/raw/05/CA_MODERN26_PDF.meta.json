@@ -1,0 +1,28 @@
+{
+  "id": "CA_MODERN26_PDF",
+  "titre": "Modernizing the Pay System report2026 PDF",
+  "institution": "Auditor General Canada",
+  "date_publication": "2026-03-23",
+  "url": "https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-modernizing-pay-system.pdf",
+  "cas": "CA_PHOENIX",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:30:32.362267+00:00",
+  "http_status": 200,
+  "final_url": "https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-modernizing-pay-system.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Content-Type": "application/pdf",
+    "Last-Modified": "Fri, 20 Mar 2026 20:51:26 GMT",
+    "Date": "Wed, 28 Oct 2026 02:27:54 GMT"
+  },
+  "body_bytes": 1249188,
+  "sha256_body": "dadafc82a06ce2268c0786e01cda03889dfddc6c6b56d0c0edd17c170c165576",
+  "local_path": "data/cache/05/CA_MODERN26_PDF.pdf",
+  "sha256_stored": "dadafc82a06ce2268c0786e01cda03889dfddc6c6b56d0c0edd17c170c165576",
+  "archive_format": "identity PDF",
+  "pages_pdf": 29,
+  "text_path": "data/cache/05/CA_MODERN26_PDF.txt",
+  "conversion": "pypdf with physical page markers",
+  "expected_pdf": true,
+  "acces": "integral"
+}

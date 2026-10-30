@@ -1,0 +1,30 @@
+{
+  "id": "KR_KONEPS",
+  "titre": "The Korean Public Procurement Service",
+  "institution": "OECD",
+  "date_publication": "2016",
+  "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/01/the-korean-public-procurement-service_g1g620af/9789264249431-en.pdf",
+  "cas": "KR_KONEPS",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:19.969936+00:00",
+  "http_status": 200,
+  "final_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/01/the-korean-public-procurement-service_g1g620af/9789264249431-en.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:18:42 GMT",
+    "Content-Type": "application/pdf",
+    "Content-Length": "3713929",
+    "Last-Modified": "Mon, 19 May 2025 07:46:12 GMT",
+    "ETag": "\"0x8DD96A93A5A0F31\"",
+    "content-disposition": "inline"
+  },
+  "body_bytes": 3713929,
+  "sha256_body": "4bb787dc8dfe86f8ad64170564d24d48dc97d79745110f39953d301a73485c10",
+  "local_path": "data/cache/05/KR_KONEPS.pdf",
+  "sha256_stored": "4bb787dc8dfe86f8ad64170564d24d48dc97d79745110f39953d301a73485c10",
+  "archive_format": "identity PDF",
+  "pages_pdf": 115,
+  "text_path": "data/cache/05/KR_KONEPS.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

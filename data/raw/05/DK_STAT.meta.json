@@ -1,0 +1,26 @@
+{
+  "id": "DK_STAT",
+  "titre": "Danemark réforme territoriale 2007 nomenclature",
+  "institution": "Statistics Denmark",
+  "date_publication": "",
+  "url": "https://www.dst.dk/en/Statistik/dokumentation/nomenklaturer/nuts?id=cf2674cc-dc3d-4b8d-9cc5-e2e1cac593fe",
+  "cas": "DK_COMMUNES",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:06.775673+00:00",
+  "http_status": 200,
+  "final_url": "https://www.dst.dk/en/Statistik/dokumentation/nomenklaturer/nuts?id=cf2674cc-dc3d-4b8d-9cc5-e2e1cac593fe",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Wed, 28 Oct 2026 02:18:29 GMT",
+    "Content-Length": "45524"
+  },
+  "body_bytes": 45524,
+  "sha256_body": "7a2f56e22f35a056f539103e625a2f91be7bf2c04ce81de10c17dfce347dfd9f",
+  "local_path": "data/raw/05/DK_STAT.html.gz",
+  "sha256_stored": "93985dce0f5bbb726a607a3c08c4139f76ecfc49363e037b95235032edc0bd30",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/DK_STAT.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

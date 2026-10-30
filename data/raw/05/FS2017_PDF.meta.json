@@ -1,0 +1,30 @@
+{
+  "id": "FS2017_PDF",
+  "titre": "Tableau emploi public2017 domaine actuel",
+  "institution": "France Stratégie",
+  "date_publication": "2017-12-21",
+  "url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2017%20SP/2017-12-21%20-%20Tableau%20de%20bord%20de%20l%E2%80%99emploi%20public/tdb-emploi-public-20-12-2017.pdf",
+  "cas": "METHODE",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:24:37.006892+00:00",
+  "http_status": 200,
+  "final_url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2017%20SP/2017-12-21%20-%20Tableau%20de%20bord%20de%20l%E2%80%99emploi%20public/tdb-emploi-public-20-12-2017.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:21:59 GMT",
+    "Content-Type": "application/pdf",
+    "Content-Length": "984419",
+    "Last-Modified": "Mon, 26 Aug 2024 19:18:51 GMT",
+    "ETag": "W/\"f0563-6209afebb3cc0\""
+  },
+  "body_bytes": 984419,
+  "sha256_body": "f9e6149015830444d7380a8dd15f90bfadc48121a407d8a056bdb3a13284306b",
+  "local_path": "data/cache/05/FS2017_PDF.pdf",
+  "sha256_stored": "f9e6149015830444d7380a8dd15f90bfadc48121a407d8a056bdb3a13284306b",
+  "archive_format": "identity PDF",
+  "pages_pdf": 64,
+  "text_path": "data/cache/05/FS2017_PDF.txt",
+  "conversion": "pypdf with physical page markers",
+  "expected_pdf": true,
+  "acces": "integral"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "US_CBO",
+  "titre": "Sequestration2025 AnUpdate",
+  "institution": "Congressional Budget Office",
+  "date_publication": "2025",
+  "url": "https://www.cbo.gov/publication/61679",
+  "cas": "US_DOGE",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:24:39.186396+00:00",
+  "http_status": 403,
+  "final_url": "https://www.cbo.gov/publication/61679",
+  "content_type": "text/html;charset=utf-8",
+  "response_headers": {
+    "Content-Length": "767",
+    "Content-Type": "text/html;charset=utf-8",
+    "Date": "Wed, 28 Oct 2026 02:22:01 GMT"
+  },
+  "body_bytes": 767,
+  "sha256_body": "640b1dabaea8079658b25a151ae0042d175a3409ea342a83f4c729fbbd9c411b",
+  "local_path": "data/raw/05/US_CBO.html.gz",
+  "sha256_stored": "1163b2f5c354df5bf6109721bb5c53402b978fba38d973eb59056429298f8b7b",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/US_CBO.txt",
+  "conversion": "HTMLParser standard library",
+  "expected_pdf": false,
+  "acces": "inaccessible"
+}

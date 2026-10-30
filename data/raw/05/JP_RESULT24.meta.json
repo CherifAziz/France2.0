@@ -1,0 +1,29 @@
+{
+  "id": "JP_RESULT24",
+  "titre": "Progress30percent cost reduction FY2024",
+  "institution": "Digital Agency Japan",
+  "date_publication": "2026-06-26",
+  "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/6cea6183-9edf-488d-904b-8b6c5e9c2bef/e7578cbd/20260626cost-saving_progress_2024.pdf",
+  "cas": "JP_IT",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:22.110937+00:00",
+  "http_status": 200,
+  "final_url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/6cea6183-9edf-488d-904b-8b6c5e9c2bef/e7578cbd/20260626cost-saving_progress_2024.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Content-Type": "application/pdf",
+    "Content-Length": "1227075",
+    "Date": "Wed, 28 Oct 2026 02:18:45 GMT",
+    "Last-Modified": "Wed, 24 Jun 2026 07:34:49 GMT",
+    "ETag": "\"12b943-654fae91bf280\""
+  },
+  "body_bytes": 1227075,
+  "sha256_body": "43ed7fbd1493c3062826dd87037c44ba1b3162c6059afb53780e4e28a0bd4c55",
+  "local_path": "data/cache/05/JP_RESULT24.pdf",
+  "sha256_stored": "43ed7fbd1493c3062826dd87037c44ba1b3162c6059afb53780e4e28a0bd4c55",
+  "archive_format": "identity PDF",
+  "pages_pdf": 9,
+  "text_path": "data/cache/05/JP_RESULT24.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

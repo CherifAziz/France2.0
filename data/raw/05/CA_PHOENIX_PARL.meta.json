@@ -1,0 +1,30 @@
+{
+  "id": "CA_PHOENIX_PARL",
+  "titre": "Building and Implementing Phoenix, PublicAccountsCommittee report53",
+  "institution": "House of Commons Canada",
+  "date_publication": "2018-11",
+  "url": "https://www.ourcommons.ca/Content/Committee/421/PACP/Reports/RP10186708/pacprp53/pacprp53-e.pdf",
+  "cas": "CA_PHOENIX",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:24:40.170949+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ourcommons.ca/Content/Committee/421/PACP/Reports/RP10186708/pacprp53/pacprp53-e.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:22:02 GMT",
+    "Content-Type": "application/pdf",
+    "Content-Length": "3583276",
+    "ETag": "\"1d5dadf24c03bac\"",
+    "Last-Modified": "Mon, 03 Feb 2020 22:13:21 GMT"
+  },
+  "body_bytes": 3583276,
+  "sha256_body": "1df90559b31e3cd51ea93cccf61ddff1c4fa29f75540b4d12fc8deda0498ac32",
+  "local_path": "data/cache/05/CA_PHOENIX_PARL.pdf",
+  "sha256_stored": "1df90559b31e3cd51ea93cccf61ddff1c4fa29f75540b4d12fc8deda0498ac32",
+  "archive_format": "identity PDF",
+  "pages_pdf": 34,
+  "text_path": "data/cache/05/CA_PHOENIX_PARL.txt",
+  "conversion": "pypdf with physical page markers",
+  "expected_pdf": true,
+  "acces": "integral"
+}

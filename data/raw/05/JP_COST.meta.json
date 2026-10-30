@@ -1,0 +1,28 @@
+{
+  "id": "JP_COST",
+  "titre": "Government IT cost effectiveness overview",
+  "institution": "Digital Agency Japan",
+  "date_publication": "2026-06-26",
+  "url": "https://www.digital.go.jp/en/policies/development_management/cost-effectiveness",
+  "cas": "JP_IT",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:22.052068+00:00",
+  "http_status": 200,
+  "final_url": "https://www.digital.go.jp/en/policies/development_management/cost-effectiveness",
+  "content_type": "text/html; charset=UTF-8",
+  "response_headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Content-Length": "52446",
+    "Date": "Wed, 28 Oct 2026 02:18:45 GMT",
+    "Last-Modified": "Wed, 28 Oct 2026 02:18:45 GMT",
+    "ETag": "\"1793153925\""
+  },
+  "body_bytes": 52446,
+  "sha256_body": "7ea32788fe66f19382449d6372664186ffa208d8413c37527dd6690074c2b2a7",
+  "local_path": "data/raw/05/JP_COST.html.gz",
+  "sha256_stored": "cf0c47eb64a83b45a30f57854a03807fe05b084fea937d5913be296d16eba7ba",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/JP_COST.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "PT_IMF_PDF",
+  "titre": "Portugal Selected Issues, wagebill",
+  "institution": "International Monetary Fund",
+  "date_publication": "2017-08-16",
+  "url": "https://www.imf.org/external/pubs/ft/scr/2017/cr17279.pdf",
+  "cas": "PT_TROIKA",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:24:37.007901+00:00",
+  "http_status": 200,
+  "final_url": "https://www.imf.org/en/errors/404?URL=https://www.imf.org/external/pubs/ft/scr/2017/cr17279.pdf",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "ETag": "W/\"7ssnnddlib3xom\"",
+    "Date": "Wed, 28 Oct 2026 02:22:00 GMT"
+  },
+  "body_bytes": 183970,
+  "sha256_body": "aac70c942c6a40ac01b8918608001d624221f7bdd15f025902dababa3f9d12a3",
+  "local_path": "data/raw/05/PT_IMF_PDF.html.gz",
+  "sha256_stored": "9bf8bc14ef00c583aeb2af2cf8d389604d9001c47bfa705c8afacfdb9c362c2c",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/PT_IMF_PDF.txt",
+  "conversion": "HTMLParser standard library",
+  "expected_pdf": true,
+  "acces": "inaccessible",
+  "error": "PDF attendu ; reponse non PDF archivee comme corps HTTP, non utilisable comme rapport."
+}

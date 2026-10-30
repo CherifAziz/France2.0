@@ -1,0 +1,27 @@
+{
+  "id": "DE_METHODE",
+  "titre": "Definition and evolution Erfuellungsaufwand",
+  "institution": "Statistisches Bundesamt",
+  "date_publication": "2026",
+  "url": "https://www.destatis.de/DE/Themen/Staat/Buerokratiekosten/Erfuellungsaufwand/erfuellungsaufwand.html",
+  "cas": "DE_OZG",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:34:38.227253+00:00",
+  "http_status": 200,
+  "final_url": "https://www.destatis.de/DE/Themen/Staat/Buerokratiekosten/Erfuellungsaufwand/erfuellungsaufwand.html",
+  "content_type": "text/html;charset=utf-8",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:32:00 GMT",
+    "Content-Type": "text/html;charset=utf-8",
+    "Last-Modified": "Wed, 28 Oct 2026 02:32:00 GMT"
+  },
+  "body_bytes": 89702,
+  "sha256_body": "b77d106cd9cc8fd831af48565f04fae578d178baf77ad912676757a0c86bd8c1",
+  "local_path": "data/raw/05/DE_METHODE.html.gz",
+  "sha256_stored": "278d3873edda0f5bdbc7a8848414a6bab6825814856871e3e3af2c4e57a0c592",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/DE_METHODE.txt",
+  "conversion": "HTMLParser standard library",
+  "expected_pdf": false,
+  "acces": "integral"
+}

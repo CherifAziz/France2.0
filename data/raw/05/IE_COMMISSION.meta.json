@@ -1,0 +1,29 @@
+{
+  "id": "IE_COMMISSION",
+  "titre": "Report Public Service Pay Commission Aug2018, copie du document primaire",
+  "institution": "Public Service Pay Commission Ireland",
+  "date_publication": "2018-08",
+  "url": "https://www.pna.ie/images/1909182.pdf",
+  "cas": "IE_MORATOIRE",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:24:37.008901+00:00",
+  "http_status": 200,
+  "final_url": "https://www.pna.ie/images/1909182.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:21:59 GMT",
+    "Last-Modified": "Fri, 26 Jul 2024 08:48:07 GMT",
+    "Content-Length": "1354356",
+    "Content-Type": "application/pdf"
+  },
+  "body_bytes": 1354356,
+  "sha256_body": "79ec5a7394c769246c19a157565fd82addfdc58afc79730ef99afb2017dee469",
+  "local_path": "data/cache/05/IE_COMMISSION.pdf",
+  "sha256_stored": "79ec5a7394c769246c19a157565fd82addfdc58afc79730ef99afb2017dee469",
+  "archive_format": "identity PDF",
+  "pages_pdf": 142,
+  "text_path": "data/cache/05/IE_COMMISSION.txt",
+  "conversion": "pypdf with physical page markers",
+  "expected_pdf": true,
+  "acces": "integral"
+}

@@ -1,0 +1,13 @@
+variable,definition,annee,statut,source_url,source_localisation
+statut,FAIT=lu dans source ; EXTRAIT=étude sous-jacente non lue ; ESTIMATION=calcul source/équipe explicitement identifié ; HYPOTHÈSE=paramètre supposé.,2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+comparateur,"= valeur affichée ; ≈ nombre approximatif ; > borne inférieure publiée, jamais égalité précise.",2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+mode_extraction,TRANSCRIPTION_MANUELLE signalée dans fichier source05_transcriptions.json ; CSV_AUTOMATIQUE pour ONS.,2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+preuve_sha256,"SHA256 du corpsHTTP primaire archivé ; si HTTP direct bloqué et OPEN primaire réussi, SHA256 du fichier preuve connecté explicitement nommé.",2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+annee,Date/période de l’observation ; ne pas confondre avec date de publication ou de consultation.,2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+nature_mesure,"Sépare objectif, prévision, dépense exécutée, crédit réduit, temps valorisé, transfert, effectif et effet causal estimé.",2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+unite,Monnaies nationales et prix source conservés ; pas de somme transfrontalière ni conversion en euros contemporains non justifiée.,2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+economie_brute_valeur,"Seulement trois mesures financières partielles observées, avec objet différent précisé dans economie_brute_type ; non additionnables.",2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+economie_nette_valeur,Vide=non identifiée sur un périmètre complet coûts de transition/récurrence/transfert/qualité ; jamais zéro.,2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+effectifs_avant_apres,Deux points fournis quand disponibles ; dates/unités/champ explicites. NZhistorique et paiePhénix ont des catégories différentes : pas de taux calculé.,2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+potentiel_france,"Les expériences n’identifient pas seules un nombre d’ETP ou une somme réalisable enFrance. Colonnes vides, pas de chiffrage importé.",2026,CONVENTION_EQUIPE,,Protocole00 et scripts05
+pages_lignes,"PDF=pagephysique àpartirde1 ; pageimprimée ajoutée seulement si vérifiée. HTML=section ; preuveOPEN=passage/pageexacte, pas snippet de recherche.",2026,CONVENTION_EQUIPE,,Protocole00 et scripts05

@@ -1,0 +1,26 @@
+{
+  "id": "PT_IMF",
+  "titre": "Portugal Selected Issues, wage bill reform",
+  "institution": "International Monetary Fund",
+  "date_publication": "2017-08-16",
+  "url": "https://www.imf.org/~/media/Files/Publications/CR/2017/cr17279.ashx",
+  "cas": "PT_TROIKA",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:13.342831+00:00",
+  "http_status": 403,
+  "final_url": "https://www.imf.org/~/media/Files/Publications/CR/2017/cr17279.ashx",
+  "content_type": "text/html",
+  "response_headers": {
+    "Content-Type": "text/html",
+    "Content-Length": "446",
+    "Date": "Wed, 28 Oct 2026 02:18:35 GMT"
+  },
+  "body_bytes": 446,
+  "sha256_body": "b1f97b584210d772f2d23491310a6eca8e5694f0f2ee3406c938602c77018c61",
+  "local_path": "data/raw/05/PT_IMF.html.gz",
+  "sha256_stored": "0e1b709e8abaa0f6dc741fc327f5de6073a3bad38f78269a46b86a72f065c5af",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/PT_IMF.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "inaccessible"
+}

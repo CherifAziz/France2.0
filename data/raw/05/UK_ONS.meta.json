@@ -1,0 +1,27 @@
+{
+  "id": "UK_ONS",
+  "titre": "Civil service UK FTE NSA thousands C9KQ",
+  "institution": "Office for National Statistics",
+  "date_publication": "2026-09-15",
+  "url": "https://www.ons.gov.uk/generator?format=csv&uri=/employmentandlabourmarket/peopleinwork/publicsectorpersonnel/timeseries/c9kq/pse",
+  "cas": "UK_CIVIL",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:07.929657+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ons.gov.uk/generator?format=csv&uri=/employmentandlabourmarket/peopleinwork/publicsectorpersonnel/timeseries/c9kq/pse",
+  "content_type": "application/octet-stream;charset=utf-8",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:18:30 GMT",
+    "Content-Type": "application/octet-stream;charset=utf-8",
+    "content-disposition": "attachment; filename=\"Public Sector Employment by Sector; Civil Service; UK; FTE; NSA; Thousands-281026.csv\"",
+    "etag": "W/\"a65af1ee2b960ef85a9de1bdeeff3be80b451e88--gzip\""
+  },
+  "body_bytes": 2353,
+  "sha256_body": "f3635909b24734d403b3021efb61124787fc2ab3f948a91b5fa8a22f8c2c0ae6",
+  "local_path": "data/raw/05/UK_ONS.csv.gz",
+  "sha256_stored": "032fdee752143ea7dd11f2581a8cc725e6ee214f264822b69246294a4e0dd6aa",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/UK_ONS.txt",
+  "conversion": "utf-8",
+  "acces": "integral"
+}

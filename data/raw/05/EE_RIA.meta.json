@@ -1,0 +1,29 @@
+{
+  "id": "EE_RIA",
+  "titre": "Yearbook 2020, X-tee",
+  "institution": "Information System Authority Estonia",
+  "date_publication": "2020",
+  "url": "https://www.ria.ee/sites/default/files/documents/2022-11/2020-yearbook-of-RIA.pdf",
+  "cas": "EE_XROAD",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:06.777725+00:00",
+  "http_status": 200,
+  "final_url": "https://www.ria.ee/sites/default/files/documents/2022-11/2020-yearbook-of-RIA.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:18:29 GMT",
+    "Content-Type": "application/pdf",
+    "Content-Length": "4233772",
+    "last-modified": "Sun, 20 Nov 2022 19:19:03 GMT",
+    "etag": "\"409a2c-5edebcfcd77c0\""
+  },
+  "body_bytes": 4233772,
+  "sha256_body": "05eccb0e85932ee783e524570d321f16e428c488b271acfc1742f008bfec2615",
+  "local_path": "data/cache/05/EE_RIA.pdf",
+  "sha256_stored": "05eccb0e85932ee783e524570d321f16e428c488b271acfc1742f008bfec2615",
+  "archive_format": "identity PDF",
+  "pages_pdf": 48,
+  "text_path": "data/cache/05/EE_RIA.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

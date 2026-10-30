@@ -1,0 +1,28 @@
+{
+  "id": "CA_PHOENIX",
+  "titre": "Building and Implementing the Phoenix Pay System",
+  "institution": "Office of the Auditor General Canada",
+  "date_publication": "2018",
+  "url": "https://publications.gc.ca/collections/collection_2018/bvg-oag/FA1-27-2018-1-1-eng.pdf",
+  "cas": "CA_PHOENIX",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:24:37.006892+00:00",
+  "http_status": 200,
+  "final_url": "https://publications.gc.ca/site/archivee-archived.html?url=https%3A%2F%2Fpublications.gc.ca%2Fcollections%2Fcollection_2018%2Fbvg-oag%2FFA1-27-2018-1-1-eng.pdf",
+  "content_type": "text/html; charset=utf-8",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:21:59 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "18545"
+  },
+  "body_bytes": 18545,
+  "sha256_body": "86426607275ecab1166b72de2907314397c5132ca1b5ecec802a97be9295a056",
+  "local_path": "data/raw/05/CA_PHOENIX.html.gz",
+  "sha256_stored": "0d96d9117f4740ddce333780f977107c8deb79c9574108e0b7dd1655b26f594a",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/CA_PHOENIX.txt",
+  "conversion": "HTMLParser standard library",
+  "expected_pdf": true,
+  "acces": "inaccessible",
+  "error": "PDF attendu ; reponse non PDF archivee comme corps HTTP, non utilisable comme rapport."
+}

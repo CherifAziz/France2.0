@@ -1,0 +1,28 @@
+{
+  "id": "SG_CSS",
+  "titre": "Creation Centre for Shared Services",
+  "institution": "Ministry of Finance Singapore",
+  "date_publication": "2005-09-01",
+  "url": "https://www.mof.gov.sg/news-resources/newsroom/government-sets-up-a-centre-for-shared-services/",
+  "cas": "SG_VITAL",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:18.700450+00:00",
+  "http_status": 200,
+  "final_url": "https://www.mof.gov.sg/news-resources/newsroom/government-sets-up-a-centre-for-shared-services/",
+  "content_type": "text/html",
+  "response_headers": {
+    "Content-Type": "text/html",
+    "Content-Length": "407619",
+    "Date": "Wed, 28 Oct 2026 02:18:42 GMT",
+    "Last-Modified": "Tue, 27 Oct 2026 09:59:35 GMT",
+    "Etag": "\"e284508d6cc4918d7c88e0382d7d68a8\""
+  },
+  "body_bytes": 407619,
+  "sha256_body": "e703984a543d6732a9134082b942313c08da2638e51739d70a070441b43fb799",
+  "local_path": "data/raw/05/SG_CSS.html.gz",
+  "sha256_stored": "0f7675953ae71adc8aef91804a57d9fc13102d4eb96ee8ae42d07f665f4a883a",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/SG_CSS.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

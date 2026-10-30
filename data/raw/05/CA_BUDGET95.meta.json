@@ -1,0 +1,29 @@
+{
+  "id": "CA_BUDGET95",
+  "titre": "The Budget Plan 1995",
+  "institution": "Department of Finance Canada",
+  "date_publication": "1995-02-27",
+  "url": "https://www.budget.canada.ca/archives/budget95/binb/budget1995-eng.pdf",
+  "cas": "CA_REVIEW",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:08.577173+00:00",
+  "http_status": 200,
+  "final_url": "https://www.budget.canada.ca/archives/budget95/binb/budget1995-eng.pdf",
+  "content_type": "application/pdf",
+  "response_headers": {
+    "Date": "Wed, 28 Oct 2026 02:18:31 GMT",
+    "Content-Type": "application/pdf",
+    "Content-Length": "425200",
+    "Last-Modified": "Wed, 13 Dec 2023 20:26:06 GMT",
+    "ETag": "\"0x8DBFC19BC25E11F\""
+  },
+  "body_bytes": 425200,
+  "sha256_body": "f1c4c0f35b4b3a8b45d1b9ff5c5035d331809400d36ea0422ff6fdc81fa13db9",
+  "local_path": "data/cache/05/CA_BUDGET95.pdf",
+  "sha256_stored": "f1c4c0f35b4b3a8b45d1b9ff5c5035d331809400d36ea0422ff6fdc81fa13db9",
+  "archive_format": "identity PDF",
+  "pages_pdf": 197,
+  "text_path": "data/cache/05/CA_BUDGET95.txt",
+  "conversion": "pypdf with physical page markers",
+  "acces": "integral"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "US_DOGE",
+  "titre": "DOGE Wall of Receipts GAO26-108615",
+  "institution": "Government Accountability Office",
+  "date_publication": "2026-08-06",
+  "url": "https://files.gao.gov/reports/GAO-26-108615/index.html",
+  "cas": "US_DOGE",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:21:25.413773+00:00",
+  "http_status": 200,
+  "final_url": "https://files.gao.gov/reports/GAO-26-108615/index.html",
+  "content_type": "text/html",
+  "response_headers": {
+    "Content-Type": "text/html",
+    "Content-Length": "357481",
+    "Date": "Tue, 27 Oct 2026 17:12:19 GMT",
+    "Last-Modified": "Thu, 03 Sep 2026 16:00:07 GMT",
+    "ETag": "\"14e35a8fef90f1e5ac4f0e763c6b5f33\""
+  },
+  "body_bytes": 357481,
+  "sha256_body": "006d1441275c8a1ef26060c971491c7a0b6be0344f25d193371aa9c9cecd71ee",
+  "local_path": "data/raw/05/US_DOGE.html.gz",
+  "sha256_stored": "394646db5f17744fbeaddf2a5f89f7dc8c89d985e3fa0fce9726d04c15858d92",
+  "archive_format": "gzip lossless response.content, accept-encoding identity",
+  "text_path": "data/raw/05/US_DOGE.txt",
+  "conversion": "HTMLParser standard library",
+  "acces": "integral"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "CA_MODERN26",
+  "titre": "Modernizing the Pay System audit",
+  "institution": "Auditor General Canada",
+  "date_publication": "2026-03-23",
+  "url": "https://www.canada.ca/en/auditor-general/our-work/audit-reports/auditor-general-report-2026-modernizing-pay-system.html",
+  "cas": "CA_PHOENIX",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:27:20.982956+00:00",
+  "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "acces": "inaccessible",
+  "response_headers": {}
+}
