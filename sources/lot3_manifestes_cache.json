@@ -1,0 +1,704 @@
+[
+  {
+    "source_url": "https://www.budget.canada.ca/archives/budget95/binb/budget1995-eng.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "f1c4c0f35b4b3a8b45d1b9ff5c5035d331809400d36ea0422ff6fdc81fa13db9",
+    "bytes": 425200,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/CA_BUDGET95.pdf"
+  },
+  {
+    "source_url": "https://www.canada.ca/content/dam/oag-bvg/audit-reports/documents/ag-202603-modernizing-pay-system.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "dadafc82a06ce2268c0786e01cda03889dfddc6c6b56d0c0edd17c170c165576",
+    "bytes": 1249188,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/CA_MODERN26_PDF.pdf"
+  },
+  {
+    "source_url": "https://www.ourcommons.ca/Content/Committee/421/PACP/Reports/RP10186708/pacprp53/pacprp53-e.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "1df90559b31e3cd51ea93cccf61ddff1c4fa29f75540b4d12fc8deda0498ac32",
+    "bytes": 3583276,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/CA_PHOENIX_PARL.pdf"
+  },
+  {
+    "source_url": "https://dserver.bundestag.de/btd/20/054/2005495.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "dc07b61e86abb9b430a0ab1682bec7080d1a6f90cfbe997a10af19512dd52282",
+    "bytes": 16618575,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/DE_NKR.pdf"
+  },
+  {
+    "source_url": "https://joeornstein.github.io/pols-4641/readings/Blom-Hansen%2C%20Houlberg%2C%20Serritzlew%20-%202014%20-%20Size%2C%20Democracy%2C%20and%20the%20Economic%20Costs%20of%20Running%20the%20Political%20System.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "568a343bc08c258a0559c818f12b33afd6ced7a1c465cf03386ec28cde1ed1cf",
+    "bytes": 2329960,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/DK_DID.pdf"
+  },
+  {
+    "source_url": "https://cdn.rigsrevisionen.dk/rigsrevisionen/Media/7/1/9-2015.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "7efc1a75b828484b38e6288ff98b7d8a3fac2051712a6e24a73679c15c23c686",
+    "bytes": 204782,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/DK_POST.pdf"
+  },
+  {
+    "source_url": "https://www.ria.ee/sites/default/files/documents/2022-11/2020-yearbook-of-RIA.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "05eccb0e85932ee783e524570d321f16e428c488b271acfc1742f008bfec2615",
+    "bytes": 4233772,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/EE_RIA.pdf"
+  },
+  {
+    "source_url": "https://www.strategie-plan.gouv.fr/files/files/Publications/2017%20SP/2017-12-21%20-%20Tableau%20de%20bord%20de%20l%E2%80%99emploi%20public/tdb-emploi-public-20-12-2017.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "f9e6149015830444d7380a8dd15f90bfadc48121a407d8a056bdb3a13284306b",
+    "bytes": 984419,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/FS2017_PDF.pdf"
+  },
+  {
+    "source_url": "https://www.esm.europa.eu/system/files/document/dp12.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "187f8998641e42ec38a36dd0fc4ae3cc4a4f1eb13a8ce26845bd6d6f5d782bf7",
+    "bytes": 3147795,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/GR_ESM.pdf"
+  },
+  {
+    "source_url": "https://www.pna.ie/images/1909182.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "79ec5a7394c769246c19a157565fd82addfdc58afc79730ef99afb2017dee469",
+    "bytes": 1354356,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/IE_COMMISSION.pdf"
+  },
+  {
+    "source_url": "https://data.oireachtas.ie/ie/oireachtas/parliamentaryBudgetOffice/2020/2020-09-30_pre-budget-2021-pbo-commentary_en.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "55250753cee9cdf9988a4b765f26e959fca17c0e34a863ba663d4feceab613f7",
+    "bytes": 2838454,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/IE_PBO.pdf"
+  },
+  {
+    "source_url": "https://www.bancaditalia.it/pubblicazioni/qef/2020-0560/QEF_560_20.pdf?language_id=1",
+    "date_consultation": "2026-10-28",
+    "sha256": "3e2e1c5d4029ebd2b592f5d7a2a627b464768c7fce89b709dc1c801ba168c12e",
+    "bytes": 3552398,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/IT_BANK.pdf"
+  },
+  {
+    "source_url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/6cea6183-9edf-488d-904b-8b6c5e9c2bef/e7578cbd/20260626cost-saving_progress_2024.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "43ed7fbd1493c3062826dd87037c44ba1b3162c6059afb53780e4e28a0bd4c55",
+    "bytes": 1227075,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/JP_RESULT24.pdf"
+  },
+  {
+    "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/01/the-korean-public-procurement-service_g1g620af/9789264249431-en.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "4bb787dc8dfe86f8ad64170564d24d48dc97d79745110f39953d301a73485c10",
+    "bytes": 3713929,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/KR_KONEPS.pdf"
+  },
+  {
+    "source_url": "https://www.rekenkamer.nl/site/binaries/site-content/collections/documents/2025/05/21/vo-2024-fin/IX%2BFinancien%2BWR.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "ac9555db90111d3c8d9e599c1e77b9619f1df43f5aec1663e499319d64f2e194",
+    "bytes": 2607119,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf;charset=UTF-8",
+    "raw_path": "data/cache/05/NL_TOESLAGEN_PDF.pdf"
+  },
+  {
+    "source_url": "https://www.publicservice.govt.nz/assets/DirectoryFile/The-Spirit-of-Reform-Managing-the-New-Zealand-State-Sector-in-a-Time-of-Change.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "27014b878c8d4f12d181a4c1f27caef20d5a3c89936ad2519ce4f2d075b0c7a4",
+    "bytes": 341304,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/NZ_SCHICK.pdf"
+  },
+  {
+    "source_url": "https://www.riksrevisionen.se/download/18.2008b69c18bd0f6ed3f2f2a7/1618300235879/RiR%202021_03_ENG.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "1953e01b7c7dd206d6061466beeb3e7efef3e98edb8e0c1a806d3c4227b0aae4",
+    "bytes": 71796,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/SE_AGENCIES.pdf"
+  },
+  {
+    "source_url": "https://www.nao.org.uk/wp-content/uploads/2015/06/Central-government-staff-costs.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "9da22e7d91e06ec750506e9e499c5f7d54037cb186cb4f27e71aceca06800ac9",
+    "bytes": 559560,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/UK_NAO.pdf"
+  },
+  {
+    "source_url": "https://www.gao.gov/assets/gao-26-108916.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "1f522a0ecd73c376313ade18c2f2e12511f62a903dcd883ba0e6d8de8411096b",
+    "bytes": 495976,
+    "conversion": "pypdf with physical page markers",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/05/US_OPM.pdf"
+  },
+  {
+    "source_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "date_consultation": "2026-10-28",
+    "sha256": "311b2208decf877f0565c4be2b3bc66c3c2f68ee048f3cba2df20ae754b11f8a",
+    "bytes": 93018,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/08/08_ai_act_calendrier.html"
+  },
+  {
+    "source_url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+    "date_consultation": "2026-10-28",
+    "sha256": "ddcf87f1b46237a0926ed1a47dba5a528498cf8290be82e7d505c5f579957b5e",
+    "bytes": 49258,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/08/08_ai_omnibus_entree_force.html"
+  },
+  {
+    "source_url": "https://www.dila.gouv.fr/actualites/toutes-les-actualites/dila/article/aria-france-services-l-intelligence-artificielle-au-service-de-l-accompagnement-des-usagers",
+    "date_consultation": "2026-10-28",
+    "sha256": "83abf2c027cda9f4e61dab642d4997c474ad0ce6ee1bd16e7f1de2b152ce8ff8",
+    "bytes": 67096,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/08/08_aria2026.html"
+  },
+  {
+    "source_url": "https://beta.gouv.fr/startups/mon-assistant-ia.html",
+    "date_consultation": "2026-10-28",
+    "sha256": "b1212ba85ef4092dd21bbc0351c146a3984807131b6d97549f34df125c804c2d",
+    "bytes": 36746,
+    "conversion": "html2text",
+    "content_type": "text/html",
+    "raw_path": "data/cache/08/08_assistant_beta2026.html"
+  },
+  {
+    "source_url": "https://www.modernisation.gouv.fr/publications/lassistant-ia-bilan-de-lexperimentation-menee-aupres-des-agents",
+    "date_consultation": "2026-10-28",
+    "sha256": "8dff424e658521ee30415981211b257e16cb7080f6dc22707119b8493942124a",
+    "bytes": 77350,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/08/08_assistant_bilan2026.html"
+  },
+  {
+    "source_url": "https://www.modernisation.gouv.fr/files/2026-06/Synthese-evaluation-experimentation-Assistant-IA.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "a2a2bd4a34f8b75869dbebfe9c1a8528880c37f44540b7eeeaa5fe020d8976ec",
+    "bytes": 1151263,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/08/08_assistant_evaluation2026.pdf"
+  },
+  {
+    "source_url": "https://qpc360.conseil-constitutionnel.fr/commentaire-decision-2018-765-dc",
+    "date_consultation": "2026-10-28",
+    "sha256": "f3fc0cb0f9d68f3339eb67c7bd1c9ed48df63a2c254a827cad397e8186b563bd",
+    "bytes": 177104,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/08/08_cc2018_commentaire.html"
+  },
+  {
+    "source_url": "https://www.cnil.fr/fr/profilage-et-decision-entierement-automatisee",
+    "date_consultation": "2026-10-28",
+    "sha256": "8bfd572e85c14edd6e54c7f9234b08f796cbe48a9bf4780e7b3132bbe5833640",
+    "bytes": 110765,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/08/08_cnil_automatisation.html"
+  },
+  {
+    "source_url": "https://www.defenseurdesdroits.fr/sites/default/files/2024-11/DDD_rapport_algorithmes-systemes-d-IA-et-services-publics_2024_20241025.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "effe5ae1885667d722fddb92a639028bcb29f0a57c750001b7beea37aad3c89c",
+    "bytes": 1260394,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/08/08_ddd2024.pdf"
+  },
+  {
+    "source_url": "https://www.senat.fr/rap/r20-047/r20-047_mono.html",
+    "date_consultation": "2026-10-28",
+    "sha256": "48623179ac8dfb904134ffcbb287b3b337b8f9312336c76e89cef5fbd103de57",
+    "bytes": 244148,
+    "conversion": "html2text",
+    "content_type": "text/html",
+    "raw_path": "data/cache/08/08_echecs_si_senat2020.html"
+  },
+  {
+    "source_url": "https://www.ifrap.org/etat-et-collectivites/lintelligence-artificielle-generative-dans-ladministration-une-piste-deconomies",
+    "date_consultation": "2026-10-28",
+    "sha256": "c3e7c504b3a0606d0516f89946068e5d956fca5a5ac65cf5e9dc1c2fd530cd56",
+    "bytes": 60292,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/08/08_ifrap2025_position.html"
+  },
+  {
+    "source_url": "https://www.igas.gouv.fr/le-deploiement-de-lintelligence-artificielle-dans-les-administrations-publiques-analyse-comparee-enjeux-et-conditions-de-reussite",
+    "date_consultation": "2026-10-28",
+    "sha256": "9375e79c87062f3e86e3758af01cad4aa132fa52bfb50c1733d20869baae178b",
+    "bytes": 52344,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/08/08_igas_page.html"
+  },
+  {
+    "source_url": "https://www.igf.finances.gouv.fr/igf/accueil/nos-activites-1/rapports-de-mission/le-deploiement-de-lintelligence.html",
+    "date_consultation": "2026-10-28",
+    "sha256": "35db2de5ec73081a7101cc28f43800fe3b891557ecc33fb32a9ecc7f3c232eb1",
+    "bytes": 47061,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/08/08_igf_page.html"
+  },
+  {
+    "source_url": "https://www.insee.fr/fr/statistiques/8739245",
+    "date_consultation": "2026-10-28",
+    "sha256": "e766a437bfeb57f9efc45c27ab1e5069af79cb5b7a395a4a7c155ce40f25251a",
+    "bytes": 196603,
+    "conversion": "html2text",
+    "content_type": "text/html;charset=UTF-8",
+    "raw_path": "data/cache/08/08_insee_illectronisme2025.html"
+  },
+  {
+    "source_url": "https://www.numerique.gouv.fr/documents/277/DP-Notre-IA_160626.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "a3a3accefc6bffdb4d521fdd9dd1e6cb0bd188ff32a884a26c29147328b4413a",
+    "bytes": 481995,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/08/08_notreia_dp2026.pdf"
+  },
+  {
+    "source_url": "https://www.numerique.gouv.fr/sinformer/espace-presse/intelligence-artificielle-ia-utile-humaine-souveraine-services-publics/",
+    "date_consultation": "2026-10-28",
+    "sha256": "0bc54942914d5b06adc4ea47e100a145de162879c1ed3aac5142665ebb64a39c",
+    "bytes": 28483,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/08/08_plan_notreia2026.html"
+  },
+  {
+    "source_url": "https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3",
+    "date_consultation": "2026-10-28",
+    "sha256": "e82a109c9d314bd993d7c994ef8451f721bb2abc2eec66b13fe736629c1b67db",
+    "bytes": 116274,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/08/08_rgpd22_cnil_texte.html"
+  },
+  {
+    "source_url": "https://igas.gouv.fr/sites/igas/files/2026-07/Rapport%20D%C3%A9ploiement%20IA%20(2026).pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "e2b9ca9e58d0d0628e18bc5d3559d274aff7e4b28cb9357cce451ba81f5f3e0d",
+    "bytes": 10364290,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/08/igas_ia2026.pdf"
+  },
+  {
+    "source_url": "https://danielle.li/assets/docs/GenerativeAIatWork.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "b59b45b650ad75640735e4a44bc58dae8aa1133f7886c820fb4e815f08a4df9f",
+    "bytes": 2053024,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_brynjolfsson2025.pdf"
+  },
+  {
+    "source_url": "https://assets.publishing.service.gov.uk/media/68adbe409e1cebdd2c96a19d/dbt-microsoft-365-copilot-evaluation.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "249b2e039d69b5bf3ab74da61fd2bca3179e0d74f613b385c1a28887de8eee95",
+    "bytes": 1028828,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_dbt2025.pdf"
+  },
+  {
+    "source_url": "https://www.hbs.edu/ris/Publication%20Files/dell-acqua-et-al-2026-navigating-the-jagged-technological-frontier_5c589c8c-fbb5-458f-b285-c944746cd717.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "433c4d57cb9a4e60869594b1b8e701d71b57d092abb053ce88be42ae1aed00ce",
+    "bytes": 3170127,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf;charset=utf-8",
+    "raw_path": "data/cache/09/09_dell2026.pdf"
+  },
+  {
+    "source_url": "https://www.digital.gov.au/sites/default/files/documents/2024-10/Copilot%20Microsoft%20365%20summary%20of%20evaluation%20findings.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "44bc4473d2b056fc6dbbc9d392011d55bd30130674f1ea130965b9936281a3ec",
+    "bytes": 506144,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_dta2024.pdf"
+  },
+  {
+    "source_url": "https://www.postofficehorizoninquiry.org.uk/sites/default/files/2025-07/Post%20Office%20Horizon%20IT%20Inquiry%20Final%20Report%20Volume%201%20-%20Accessible%20Version.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "ef34507dc9810521505c4a8a5e1b7e88e64e019d19f05c74aa0872849adaf9b3",
+    "bytes": 1275313,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_horizon2025_rapport.pdf"
+  },
+  {
+    "source_url": "https://www.postofficehorizoninquiry.org.uk/reports-and-statements",
+    "date_consultation": "2026-10-28",
+    "sha256": "b810462c3d21d239941dfba0761d13f79b49c3c6b7b80514ae3576b2d44a1549",
+    "bytes": 69161,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/09/09_horizon_officiel.html"
+  },
+  {
+    "source_url": "https://www.postofficehorizoninquiry.org.uk/volume-1-post-office-horizon-it-inquirys-final-report-accessible-version",
+    "date_consultation": "2026-10-28",
+    "sha256": "14f9a6c975e547de302eab4dc5e950ff41b922cfcd99bbe24cb9844b4762c3bc",
+    "bytes": 27682,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/09/09_horizon_volume1.html"
+  },
+  {
+    "source_url": "https://www.nber.org/system/files/working_papers/w33777/w33777.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "eb5765a77d38f7e0d66e906252ecb721aaa888f6ba3540913e3cb31edcb91807",
+    "bytes": 2078444,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_humlum_current.pdf"
+  },
+  {
+    "source_url": "https://www.judiciary.uk/guidance-and-resources/artificial-intelligence-ai-judicial-guidance-october-2025/",
+    "date_consultation": "2026-10-28",
+    "sha256": "71dbbf203c2c681adc1fa24edf085bcbb93a230936e42511ac7d204472927d07",
+    "bytes": 72021,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/09/09_justice_guidance2025.html"
+  },
+  {
+    "source_url": "https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "b6d4a8e7d8aeed20cc9a4545e485fdc5496b5cc48470338d2d7662b1953e5765",
+    "bytes": 5509970,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_metr2025.pdf"
+  },
+  {
+    "source_url": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "date_consultation": "2026-10-28",
+    "sha256": "986058cf653731f0dfa91c719731c365d481e57c33f66ad42838569bd96c49c6",
+    "bytes": 64606,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/09/09_metr2026_update.html"
+  },
+  {
+    "source_url": "https://www.courts.michigan.gov/4a1c19/siteassets/case-documents/opinions-orders/msc-term-opinions-%28manually-curated%29/21-22/bauserman-op.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "88d3e7a7b07671c837bb109e8b3c90df57da71129ffae37f52001924da2f17a5",
+    "bytes": 707306,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_midas_arret2022.pdf"
+  },
+  {
+    "source_url": "https://www.nao.org.uk/wp-content/uploads/2024/03/use-of-artificial-intelligence-in-government.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "75c97cace3bcb707054a73f6c49afe9e853d2a33efaa46c23df63768796182d6",
+    "bytes": 659886,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_nao2024.pdf"
+  },
+  {
+    "source_url": "https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "3102ba08edbba0adbcd04c759e5f2adf0aa39a9c01b0afd5d0a80a1598b9300b",
+    "bytes": 532948,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_noy2023.pdf"
+  },
+  {
+    "source_url": "https://shakkednoy.com/",
+    "date_consultation": "2026-10-28",
+    "sha256": "714d983605dbfc2f1f299d5f3fd50a38e6a64a2e820714273c0a6e84044bc445",
+    "bytes": 9011,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/09/09_noy_author_page.html"
+  },
+  {
+    "source_url": "https://shakkednoy.com/Noy%20Zhang%20NBER%20SI.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "b1626b7cfcc82374cc55df5a6e51c336577677559b871b491d603db6657d4a7e",
+    "bytes": 478675,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_noy_final_author.pdf"
+  },
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/37440646/",
+    "date_consultation": "2026-10-28",
+    "sha256": "0dbd76fe1340c348dafffad00b3776e2ef91fe45d5d6361efc9adfed98305516",
+    "bytes": 21396,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/09/09_noy_science_abstract.html"
+  },
+  {
+    "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/governing-with-artificial-intelligence_398fa287/795de142-en.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "d208d9eed5b435750edc07cb8c6146220b97a7e65e63c78869ab44c24a429808",
+    "bytes": 5581859,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_ocde2025.pdf"
+  },
+  {
+    "source_url": "https://www.ilo.org/sites/default/files/2025-05/WP140_web.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "9077761c72aabaa3c7ee70999ec5aa46a6afcf943b5fb01baa971f601d363ee9",
+    "bytes": 4211233,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_oit2025.pdf"
+  },
+  {
+    "source_url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+    "date_consultation": "2026-10-28",
+    "sha256": "0386360095bb88541de79b27f34a19940253d6176b3c921c1a5a42672f4ad3fe",
+    "bytes": 57504,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/09/09_oit2025_page.html"
+  },
+  {
+    "source_url": "https://link.springer.com/article/10.1007/s11292-024-09644-7",
+    "date_consultation": "2026-10-28",
+    "sha256": "ba67fd20501651420a065204c528a0c654790275ecddad7a542b23c7e455d615",
+    "bytes": 400843,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/09/09_police_rct2024.html"
+  },
+  {
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s11292-024-09644-7.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "2e3307f37e4a5877dc58462c9fd2d9596885aba6aefeff7abfc30fc33c519ffe",
+    "bytes": 695617,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_police_rct2024_pdf.pdf"
+  },
+  {
+    "source_url": "https://www.pm.gov.au/media/final-report-royal-commission-robodebt-scheme",
+    "date_consultation": "2026-10-28",
+    "sha256": "e26d164fcc8c619150bfb59fd5e47496fe2344a0d77e47218c145b7005fea39a",
+    "bytes": 31433,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/09/09_robodebt_pm2023.html"
+  },
+  {
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12265753/fullTextXML",
+    "date_consultation": "2026-10-28",
+    "sha256": "722800c72fe190cdbc09d79d249e29533d9cb42156dde9c507cfef3d0a949487",
+    "bytes": 133660,
+    "conversion": "décodage texte",
+    "content_type": "application/xml",
+    "raw_path": "data/cache/09/09_scribes2025_xml.xml"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12265753/",
+    "date_consultation": "2026-10-28",
+    "sha256": "1bc93b4135054b3e6d7dbfa12b7523e8bfe814ca7206a5cd1f1182c6603ebae7",
+    "bytes": 21411,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/09/09_scribes_rct2025.html"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12768499/",
+    "date_consultation": "2026-10-28",
+    "sha256": "f869c85f195a24ecc7f09044c4c4e80e18fe2695290c969c877191dc1efe4fac",
+    "bytes": 21411,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/09/09_scribes_rct2026.html"
+  },
+  {
+    "source_url": "https://www.autoriteitpersoonsgegevens.nl/uploads/imported/boetebesluit_belastingdienst.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "e4dbac4c18cae939c31902211fe0d5bf42b6dc5c403090a1f77700d875c12473",
+    "bytes": 693163,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_toeslagen_ap2021.pdf"
+  },
+  {
+    "source_url": "https://zoek.officielebekendmakingen.nl/kst-35510-2.html",
+    "date_consultation": "2026-10-28",
+    "sha256": "c6ac22d65ba4adda14fa6d2d21a91824976a300377e3fad0f2ba455fbdea4add",
+    "bytes": 671866,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/09/09_toeslagen_parlement2020.html"
+  },
+  {
+    "source_url": "https://www.turing.ac.uk/sites/default/files/2024-03/ai_for_bureaucratic_productivity.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "6d032a11b79c4975c4be5ae53e7403d8eaac2831522987e46c8be2bb655d3080",
+    "bytes": 4534460,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/09/09_turing2024.pdf"
+  },
+  {
+    "source_url": "https://www.gov.uk/government/publications/microsoft-365-copilot-experiment-cross-government-findings-report/microsoft-365-copilot-experiment-cross-government-findings-report-html",
+    "date_consultation": "2026-10-28",
+    "sha256": "ec2a0e5f6ce878e425d41b49e1929817f5f766b9cdd918b9acf8179e75942511",
+    "bytes": 135294,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/09/09_uk_cross2025.html"
+  },
+  {
+    "source_url": "https://www.economie.gouv.fr/actualites/video-presentation-du-projet-de-budget-pour-2027",
+    "date_consultation": "2026-10-28",
+    "sha256": "af2a548161f68e85ac3b7429f4230a3e454b7f28ac6beff92238807145307ece",
+    "bytes": 70238,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "data/cache/10/bercy_plf2027_presentation.html"
+  },
+  {
+    "source_url": "https://www.budget2027.fr/",
+    "date_consultation": "2026-10-28",
+    "sha256": "3fa12a84c2f584516387933c5b0eb489253d4b46e55bf645b3da366c60f1aa35",
+    "bytes": 113850,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/10/budget2027.html"
+  },
+  {
+    "source_url": "https://www.budget2027.fr/",
+    "date_consultation": "2026-10-28",
+    "sha256": "3fa12a84c2f584516387933c5b0eb489253d4b46e55bf645b3da366c60f1aa35",
+    "bytes": 113850,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/10/budget2027_actualisation.html"
+  },
+  {
+    "source_url": "https://presse.economie.gouv.fr/download?n=1076%20-%20DP%20-%20Budget%202027-pdf&id=184723",
+    "date_consultation": "2026-10-28",
+    "sha256": "ecd4b99d8ce98b355c1c51470fa08271c569b49def87321e31e980e281b0516b",
+    "bytes": 2327277,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/octet-stream",
+    "raw_path": "data/cache/10/dp_budget2027.pdf"
+  },
+  {
+    "source_url": "https://presse.economie.gouv.fr/dp-budget-2027/",
+    "date_consultation": "2026-10-28",
+    "sha256": "e21b2fe1979cfb02a81704724184ad3334ccc78bf838f4a43e65cc2acb56ed56",
+    "bytes": 56269,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/10/dp_budget2027_page.html"
+  },
+  {
+    "source_url": "https://www.fayard.fr/livre/le-casse-du-siecle-9782213733135/",
+    "date_consultation": "2026-10-28",
+    "sha256": "8608deab366e9f2a35f5df6b940807135754ba96fc597507d38c3e1490f48363",
+    "bytes": 479101,
+    "conversion": "html2text",
+    "content_type": "text/html",
+    "raw_path": "data/cache/10/fayard_casse.html"
+  },
+  {
+    "source_url": "https://www.liseuse-hachette.fr/ean/9782213732329",
+    "date_consultation": "2026-10-28",
+    "sha256": "c89ec384088534c947b10234280caced6286bf5203511ed90df06ffec526920f",
+    "bytes": 2094,
+    "conversion": "html2text",
+    "content_type": "text/html",
+    "raw_path": "data/cache/10/hachette_feuilletage.html"
+  },
+  {
+    "source_url": "https://www.institutmontaigne.org/ressources/pdfs/publications/quinquennat-macron-le-gd-decryptage-action-fonction-publique.pdf",
+    "date_consultation": "2026-10-28",
+    "sha256": "9dd5a8869747dfd038093659f5676eefa99936f7b4444821304e26f744e1fb0c",
+    "bytes": 646398,
+    "conversion": "pypdf layout (repli, pdftotext absent)",
+    "content_type": "application/pdf",
+    "raw_path": "data/cache/10/montaigne_bilan2021.pdf"
+  },
+  {
+    "source_url": "https://www.institutmontaigne.org/presidentielle-2017/propositions/emmanuel-macron-administration-et-institutions-supprimer-120-000-emplois-dans-la-fonction-publique-sur-5-ans",
+    "date_consultation": "2026-10-28",
+    "sha256": "08530fbe1d6ecb930e06ac5fb70dce111c269ff709f51ca69d9a0f4876a7b753",
+    "bytes": 40936,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/10/montaigne_macron_chiffrage2017.html"
+  },
+  {
+    "source_url": "https://www.institutmontaigne.org/presidentielle-2017/themes/administration-et-institutions/",
+    "date_consultation": "2026-10-28",
+    "sha256": "89e8e5b0756e35e645398a403c7bc8d4e163699d85edb51cffa60a28fa34f6cb",
+    "bytes": 61647,
+    "conversion": "html2text",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "data/cache/10/montaigne_presidentielle2017.html"
+  },
+  {
+    "source_url": "https://www.senat.fr/dossier-legislatif/pjlf2026.html",
+    "date_consultation": "2026-10-28",
+    "sha256": "9883fe1c56d196e1bbd3621a928f79276e3c03dc065044d2e19ab61499ca7833",
+    "bytes": 132449,
+    "conversion": "html2text",
+    "content_type": "text/html",
+    "raw_path": "data/cache/10/senat_lfi2026.html"
+  }
+]

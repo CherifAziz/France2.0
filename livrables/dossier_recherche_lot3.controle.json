@@ -1,0 +1,26 @@
+{
+  "mobileOverflow": false,
+  "title": "Évaluer les réformes et vérifier les économies annoncées — dossier de recherche",
+  "sections": 9,
+  "tables": 10,
+  "images": [
+    {
+      "src": "../figures/10_calendrier_illustratif.png",
+      "ok": true
+    }
+  ],
+  "duplicates": [],
+  "horizontalOverflow": false,
+  "missingAnchors": [],
+  "localLinks": 110,
+  "badFiles": [],
+  "errors": [],
+  "remoteRequests": [],
+  "date": "2026-10-30",
+  "fichier": "livrables/dossier_recherche_lot3.html",
+  "sha256_html": "8a81c2fb86e6ff22c110fe91276163ff0e196b4727655397ee09a2e1b8e89ac0",
+  "moteur": "Navigateur intégré Claude (Chromium), serveur HTTP local 127.0.0.1",
+  "vue_bureau": "1360x1000",
+  "vue_mobile": "390x844",
+  "remarque": "La figure du calendrier apparaît deux fois (note 10 et synthèse du lot) ; un lien cassé de la note 06 vers 04d a été corrigé avant ce contrôle. Le rendu a été contrôlé avant un dernier réassemblage limité à des corrections de texte (une cellule de tableau de la contre-vérification et le suivi), sans changement de structure."
+}

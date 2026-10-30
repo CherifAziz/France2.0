@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-30",
+  "total": 98,
+  "resultats": {
+    "CALCUL_CONFIRME": 5,
+    "CALCUL_CONFIRME_HYPOTHESE": 1,
+    "CONFIRME": 53,
+    "CONFIRME_AVEC_ANOMALIE_SOURCE": 1,
+    "CONFIRME_AVEC_RESERVE": 1,
+    "CONFIRME_AVEC_RESERVE_EXISTANTE": 1,
+    "CONFIRME_AVEC_RESERVE_SOURCE": 1,
+    "CONFIRME_COHERENCE_06": 3,
+    "CONFIRME_COMME_DECLARATION": 1,
+    "CONFIRME_LOCALISATION_APPROX": 1,
+    "CONFIRME_PROJET": 6,
+    "CONFIRME_RESERVE_FORMULATION": 1,
+    "CONFORME": 12,
+    "CONFORME_BORNE": 3,
+    "CONFORME_RESERVE_ARRONDI": 5,
+    "LIMITE_CONFIRMEE": 2,
+    "NON_VERIFIABLE_SOURCE_INACCESSIBLE": 1
+  },
+  "limites_acces": [
+    "V0607-14",
+    "V0809-19",
+    "V10-20"
+  ],
+  "sources_controles": [
+    {
+      "fichier": "data/risques/verification_05_lot3.csv",
+      "lignes": 20,
+      "sha256": "2c52a84e86319d1025d21774d2533d18a22de54f287308c614bb4a609e0bbf1e"
+    },
+    {
+      "fichier": "data/risques/verification_06_07_lot3.csv",
+      "lignes": 20,
+      "sha256": "19d9932a50b96149797ad691b1f1e468c2f8da52f0b37864495c0347c5821187"
+    },
+    {
+      "fichier": "data/risques/verification_08_09_lot3.csv",
+      "lignes": 38,
+      "sha256": "534c5f11f9b063d9b414108443246c31147b10e7b2ac5dd3c557033a5c9fb0fe"
+    },
+    {
+      "fichier": "data/risques/verification_10_lot3.csv",
+      "lignes": 20,
+      "sha256": "7f3f2d603a502bc73fd3c7d367ef350e1f013c1ab282343e4c50b37503d1cd15"
+    }
+  ],
+  "cache_rapproche": 78
+}

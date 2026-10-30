@@ -40,6 +40,16 @@ NOTES_LOT2=[
     ("04d","Territoires et fonctions support","04d_territoires_fonctions_support.md"),
     ("verification2","Contre-vérification du lot","00_verification_lot2.md"),
 ]
+NOTES_LOT3=[
+    ("05s","Résultats des évaluations","00_synthese_lot3.md"),
+    ("05","Réformes étrangères","05_reformes_etrangeres.md"),
+    ("06","Structures et précédents français","06_doublons_structures.md"),
+    ("07","Simplification","07_simplification_reglementaire.md"),
+    ("08","IA en France","08_ia_france.md"),
+    ("09","Preuves internationales sur l’IA","09_ia_preuves_internationales.md"),
+    ("10","Audit des propositions chiffrées","10_audit_propositions.md"),
+    ("verification3","Contre-vérification","00_verification_lot3.md"),
+]
 CSS="""
 :root { color-scheme:light; --ink:#17232b; --muted:#53616b; --accent:#245574; --line:#dce2e6; }
 * { box-sizing:border-box; }
@@ -84,9 +94,9 @@ footer { color:var(--muted); border-top:1px solid var(--line); padding:20px 28px
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--lot",type=int,choices=[1,2],default=1)
+    parser.add_argument("--lot",type=int,choices=[1,2,3],default=1)
     args=parser.parse_args()
-    notes=NOTES if args.lot==1 else NOTES_LOT2
+    notes={1:NOTES,2:NOTES_LOT2,3:NOTES_LOT3}[args.lot]
     out=ROOT/"livrables"
     out.mkdir(exist_ok=True)
     rendered=[]
@@ -104,15 +114,22 @@ def main():
         body=re.sub(r'href="(?!https?://|#|/)([^\"]+\.md(?:#[^\"]*)?)"',r'href="../recherche/\1"',body)
         rendered.append(f'<section id="n{key}">{body}<p class="note-source"><a href="../recherche/{filename}">Source Markdown de cette note</a></p></section>')
         provenance.append({"fichier":path.relative_to(ROOT).as_posix(),"sha256":hashlib.sha256(path.read_bytes()).hexdigest()})
-    files=sorted(p for d in ["data/france","data/international","data/risques","sources"] for p in (ROOT/d).glob("*") if p.suffix in (".csv",".json",".md"))
+    directories=["data/france","data/international","data/risques","sources"]+(["data/reformes"] if args.lot==3 else [])
+    files=sorted(p for d in directories for p in (ROOT/d).glob("*") if p.suffix in (".csv",".json",".md"))
     if args.lot==2:
         files=[p for p in files if re.match(r"04[a-d]_|04_manifestes_cache\.|registre_04[a-d]\.",p.name) or (p.parent==ROOT/"data/risques" and "lot2" in p.name)]
+    elif args.lot==3:
+        # 08_10_prefetch_non_analyse.json appartient au lot 1 malgré son préfixe.
+        files=[p for p in files if (re.match(r"(?:0[5-9]|10)_|registre_(?:0[5-9]|10)\.",p.name) or "lot3" in p.name) and not p.name.startswith("08_10_prefetch")]
     downloads="\n".join(f'<li><a href="../{p.relative_to(ROOT).as_posix()}">{html.escape(p.relative_to(ROOT).as_posix())}</a></li>' for p in files)
     nav="\n".join(f'<a href="#n{k}">{html.escape(l)}</a>' for k,l,_ in notes)+"<a href=\"#fichiers\">Données et registres</a>"
-    title="Emploi public et comparaison internationale" if args.lot==1 else "Comparer les fonctions, définir les réformes"
+    title={1:"Emploi public et comparaison internationale",2:"Comparer les fonctions, définir les réformes",3:"Évaluer les réformes et vérifier les économies annoncées"}[args.lot]
     intro=("Premier dossier de données, de sources et de méthodes. Il réunit la cartographie française, les départs, les coûts documentés, les métiers et les premières séries harmonisées." if args.lot==1 else
-           "Deuxième dossier de recherche : fiscalité, service public de l'emploi, éducation, sécurité, justice, santé, protection sociale et fonctions support. Il distingue écarts bruts, corrections de périmètre, besoins et potentiel réformable.")
+           "Deuxième dossier de recherche : fiscalité, service public de l'emploi, éducation, sécurité, justice, santé, protection sociale et fonctions support. Il distingue écarts bruts, corrections de périmètre, besoins et potentiel réformable." if args.lot==2 else
+           "Troisième dossier de recherche : expériences étrangères, précédents français, simplification, IA et audit des propositions chiffrées. Il confronte les objectifs aux résultats, aux coûts et aux effets sur le service.")
     previous="" if args.lot==1 else '<p><a href="dossier_recherche_lot1.html">Consulter le premier dossier : cartographie française et bases internationales</a></p>'
+    if args.lot==3:
+        previous+='<p><a href="dossier_recherche_lot2.html">Consulter le deuxième dossier : comparaisons par fonction</a></p>'
     content='''<!doctype html>
 <html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>'''+title+''' — dossier de recherche</title><style>'''+CSS+'''</style></head>
@@ -129,8 +146,8 @@ def main():
 </body></html>'''
     target=out/f"dossier_recherche_lot{args.lot}.html"
     target.write_text(content,encoding="utf-8")
-    manifest={"date":"2026-10-28","lot":args.lot,"notes":provenance,"sha256_html":hashlib.sha256(target.read_bytes()).hexdigest()}
-    if args.lot==2:
+    manifest={"date":{1:"2026-10-28",2:"2026-10-28",3:"2026-10-30"}[args.lot],"lot":args.lot,"notes":provenance,"sha256_html":hashlib.sha256(target.read_bytes()).hexdigest()}
+    if args.lot in [2,3]:
         manifest["donnees_liees"]=[{"fichier":p.relative_to(ROOT).as_posix(),"sha256":hashlib.sha256(p.read_bytes()).hexdigest()} for p in files]
         images=set(re.findall(r'<img[^>]+src="([^\"]+)"',"\n".join(rendered)))
         manifest["images"]=[{"fichier":(out/ref).resolve().relative_to(ROOT).as_posix(),"sha256":hashlib.sha256((out/ref).read_bytes()).hexdigest()} for ref in sorted(images) if not re.match(r"https?:",ref)]
