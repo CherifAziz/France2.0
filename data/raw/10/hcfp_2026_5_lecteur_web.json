@@ -1,0 +1,9 @@
+{
+  "source_url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054939509",
+  "date_consultation": "2026-10-28",
+  "acces": "inaccessible",
+  "origine": "Tentative d'ouverture directe par l'outil web : 403, aucun texte de l'avis lu par cet accès",
+  "contenu_lecteur": [
+    "Internal Error ()\n【turn497632view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054939509\",\"lineno\":null}); \nFailed to fetch https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054939509: (403) Forbidden"
+  ]
+}

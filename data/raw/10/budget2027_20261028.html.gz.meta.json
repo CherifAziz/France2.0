@@ -1,0 +1,19 @@
+{
+  "source_url": "https://www.budget2027.fr/",
+  "date_consultation": "2026-10-28",
+  "retrieved_at_utc": "2026-10-28T02:18:51.630683+00:00",
+  "http_status": 200,
+  "final_url": "https://www.budget2027.fr/",
+  "content_type": "text/html; charset=UTF-8",
+  "last_modified": null,
+  "etag": null,
+  "encoding": "UTF-8",
+  "raw_path": "data/raw/10/budget2027_20261028.html.gz",
+  "bytes": 56756,
+  "sha256": "682e57a5f90ceb87fdcf198e2116ba5e51dcca4270f7339a953f2da5f80e998b",
+  "acces": "integral",
+  "conversion": "html2text",
+  "sha256_http_body": "3fa12a84c2f584516387933c5b0eb489253d4b46e55bf645b3da366c60f1aa35",
+  "compression": "gzip sans perte, mtime0",
+  "original_bytes": 113850
+}
